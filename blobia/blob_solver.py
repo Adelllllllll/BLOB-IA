@@ -1,6 +1,5 @@
 import heapq
 from collections import defaultdict
-import random
 
 def normalize_line(line):
     parts = line.upper().split()
@@ -20,10 +19,19 @@ def blob_path_solver(
     topk=10,
     return_all_explored=False  # <---- Option pour visu
 ):
-    # Pondérations adaptées, restent progressives mais impactent bien les extrêmes
-    alpha = max(0.01, 1.5 - 0.16*curseur)
-    beta  = 0.05 + 1.7 * ((curseur-1)/9)**2.1   # exponentiel très fort
-    gamma = max(0.01, 1.0 - 0.11*curseur)
+    
+    if curseur == 1:
+            alpha = 3.5   # pondère fortement la longueur (très court !)
+            beta  = 0.01  # affluence négligée
+            gamma = 3.0   # grosse pénalité de changement de ligne
+    elif curseur == 10:
+            alpha = 0.01  # longueur peu importante
+            beta  = 6.0   # pondère massivement l'affluence (score totalement dominé par l'affluence)
+            gamma = 0.05  # changement de ligne quasiment pas pénalisé
+    else:
+            alpha = max(0.01, 1.5 - 0.16*curseur)
+            beta  = 0.05 + 1.7 * ((curseur-1)/9)**2.1
+            gamma = max(0.01, 1.0 - 0.11*curseur)
 
     front = []
     heapq.heapify(front)
