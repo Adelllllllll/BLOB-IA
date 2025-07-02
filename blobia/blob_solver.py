@@ -21,9 +21,9 @@ def blob_path_solver(
     return_all_explored=False  # <---- Option pour visu
 ):
     # Pondérations adaptées, restent progressives mais impactent bien les extrêmes
-    alpha = max(0.1, 1.0 - 0.09 * (curseur - 1)) if curseur < 10 else 0.01
-    beta = 0.1 + 0.12 * (curseur - 1) if curseur > 1 else 0.01
-    gamma = 1.0 - 0.09 * (curseur-1)
+    alpha = max(0.01, 1.5 - 0.16*curseur)
+    beta  = 0.05 + 1.7 * ((curseur-1)/9)**2.1   # exponentiel très fort
+    gamma = max(0.01, 1.0 - 0.11*curseur)
 
     front = []
     heapq.heapify(front)

@@ -1,21 +1,21 @@
 ligne,station,ordre,correspondance,station_norm,station_key,main_line,affluence_score
-RER A 1,Cergy le Haut,1,,cergy le haut,cergy le haut,RER A,0.31381059609000017
-RER A 1,Cergy Saint-Christophe,2,,cergy saint christophe,cergy saint christophe,RER A,0.34867844010000015
-RER A 1,Cergy Préfecture,3,,cergy prefecture,cergy prefecture,RER A,0.38742048900000015
-RER A 1,Neuville Université,4,,neuville universite,neuville universite,RER A,0.43046721000000016
-RER A 1,Conflans Fin d’Oise,5,,conflans fin d'oise,conflans fin d'oise,RER A,0.47829690000000014
-RER A 1,Achères Ville,6,,acheres ville,acheres ville,RER A,0.5314410000000002
-RER A 1,Maisons Laffitte,7,,maisons laffitte,maisons laffitte,RER A,0.5904900000000002
-RER A 1,Sartrouville,8,,sartrouville,sartrouville,RER A,0.6561000000000001
-RER A 1,Houilles Carrières sur Seine,9,,houilles carrieres sur seine,houilles carrieres sur seine,RER A,0.7290000000000001
-RER A 1,Nanterre – Préfecture,10,,nanterre prefecture,nanterre prefecture,RER A,0.81
-RER A 1,La Défense Grande Arche,11,METRO 1,la defense grande arche,la defense,RER A,0.9
-RER A 1,Charles de Gaulle – Étoile,12,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,RER A,0.82
-RER A 1,Auber,13,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.738
+RER A 1,Cergy le Haut,1,,cergy le haut,cergy le haut,RER A,0.20920706406000006
+RER A 1,Cergy Saint-Christophe,2,,cergy saint christophe,cergy saint christophe,RER A,0.23245229340000007
+RER A 1,Cergy Préfecture,3,,cergy prefecture,cergy prefecture,RER A,0.25828032600000006
+RER A 1,Neuville Université,4,,neuville universite,neuville universite,RER A,0.28697814000000005
+RER A 1,Conflans Fin d’Oise,5,,conflans fin d'oise,conflans fin d'oise,RER A,0.31886460000000005
+RER A 1,Achères Ville,6,,acheres ville,acheres ville,RER A,0.35429400000000005
+RER A 1,Maisons Laffitte,7,,maisons laffitte,maisons laffitte,RER A,0.39366000000000007
+RER A 1,Sartrouville,8,,sartrouville,sartrouville,RER A,0.43740000000000007
+RER A 1,Houilles Carrières sur Seine,9,,houilles carrieres sur seine,houilles carrieres sur seine,RER A,0.48600000000000004
+RER A 1,Nanterre – Préfecture,10,,nanterre prefecture,nanterre prefecture,RER A,0.54
+RER A 1,La Défense Grande Arche,11,METRO 1,la defense grande arche,grande arche de la defense,RER A,0.6
+RER A 1,Charles de Gaulle – Étoile,12,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,RER A,0.7
+RER A 1,Auber,13,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.63
 RER A 1,Châtelet – Les Halles,14,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles,chatelet,RER A,0.95
 RER A 1,Paris-Gare de Lyon,15,"METRO 1, METRO 14, RER D",paris gare de lyon,gare de lyon,RER A,0.98
 RER A 1,Nation,16,"METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,RER A,0.82
-RER A 1,Vincennes,17,,vincennes,vincennes,RER A,0.6
+RER A 1,Vincennes,17,,vincennes,bois de vincennes,RER A,0.6
 RER A 1,Fontenay sous Bois,18,,fontenay sous bois,val de fontenay,RER A,0.6
 RER A 1,Nogent sur Marne,19,,nogent sur marne,nogent sur marne,RER A,0.6
 RER A 1,Joinville le Pont,20,,joinville le pont,joinville le pont,RER A,0.6
@@ -25,19 +25,19 @@ RER A 1,Champigny,23,,champigny,champigny,RER A,0.43740000000000007
 RER A 1,La varenne Chennevières,24,,la varenne chennevieres,la varenne chennevieres,RER A,0.39366000000000007
 RER A 1,Sucy Bonneuil,25,,sucy bonneuil,sucy bonneuil,RER A,0.35429400000000005
 RER A 1,Boissy Saint Léger,26,,boissy saint leger,boissy saint leger,RER A,0.31886460000000005
-RER A 2,Poissy,1,,poissy,poissy,RER A,0.47829690000000014
-RER A 2,Achères Grand Cormier,2,,acheres grand cormier,acheres grand cormier,RER A,0.5314410000000002
-RER A 2,Maisons Laffitte,3,,maisons laffitte,maisons laffitte,RER A,0.5904900000000002
-RER A 2,Sartrouville,4,,sartrouville,sartrouville,RER A,0.6561000000000001
-RER A 2,Houilles Carrières sur Seine,5,,houilles carrieres sur seine,houilles carrieres sur seine,RER A,0.7290000000000001
-RER A 2,Nanterre – Préfecture,6,,nanterre prefecture,nanterre prefecture,RER A,0.81
-RER A 2,La Défense Grande Arche,7,METRO 1,la defense grande arche,la defense,RER A,0.9
-RER A 2,Charles de Gaulle – Étoile,8,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,RER A,0.82
-RER A 2,Auber,9,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.738
+RER A 2,Poissy,1,,poissy,poissy,RER A,0.31886460000000005
+RER A 2,Achères Grand Cormier,2,,acheres grand cormier,acheres grand cormier,RER A,0.35429400000000005
+RER A 2,Maisons Laffitte,3,,maisons laffitte,maisons laffitte,RER A,0.39366000000000007
+RER A 2,Sartrouville,4,,sartrouville,sartrouville,RER A,0.43740000000000007
+RER A 2,Houilles Carrières sur Seine,5,,houilles carrieres sur seine,houilles carrieres sur seine,RER A,0.48600000000000004
+RER A 2,Nanterre – Préfecture,6,,nanterre prefecture,nanterre prefecture,RER A,0.54
+RER A 2,La Défense Grande Arche,7,METRO 1,la defense grande arche,grande arche de la defense,RER A,0.6
+RER A 2,Charles de Gaulle – Étoile,8,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,RER A,0.7
+RER A 2,Auber,9,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.63
 RER A 2,Châtelet – Les Halles,10,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles,chatelet,RER A,0.95
 RER A 2,Paris-Gare de Lyon,11,"METRO 1, METRO 14, RER D",paris gare de lyon,gare de lyon,RER A,0.98
 RER A 2,Nation,12,"METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,RER A,0.82
-RER A 2,Vincennes,13,,vincennes,vincennes,RER A,0.6
+RER A 2,Vincennes,13,,vincennes,bois de vincennes,RER A,0.6
 RER A 2,Fontenay sous Bois,14,,fontenay sous bois,val de fontenay,RER A,0.6
 RER A 2,Nogent sur Marne,15,,nogent sur marne,nogent sur marne,RER A,0.6
 RER A 2,Joinville le Pont,16,,joinville le pont,joinville le pont,RER A,0.6
@@ -47,21 +47,21 @@ RER A 2,Champigny,19,,champigny,champigny,RER A,0.43740000000000007
 RER A 2,La varenne Chennevières,20,,la varenne chennevieres,la varenne chennevieres,RER A,0.39366000000000007
 RER A 2,Sucy Bonneuil,21,,sucy bonneuil,sucy bonneuil,RER A,0.35429400000000005
 RER A 2,Boissy Saint Léger,22,,boissy saint leger,boissy saint leger,RER A,0.31886460000000005
-RER A 3,Saint Germain en Laye,1,,saint germain en laye,saint germain en laye,RER A,0.38742048900000015
-RER A 3,Le Vésinet – Le Pecq,2,,le vesinet le pecq,le vesinet le pecq,RER A,0.43046721000000016
-RER A 3,Le Vésinet – Centre,3,,le vesinet centre,le vesinet centre,RER A,0.47829690000000014
-RER A 3,Chatou-Croissy,4,,chatou croissy,chatou croissy,RER A,0.5314410000000002
-RER A 3,Rueil Malmaison,5,,rueil malmaison,rueil malmaison,RER A,0.5904900000000002
-RER A 3,Nanterre Ville,6,,nanterre ville,nanterre ville,RER A,0.6561000000000001
-RER A 3,Nanterre Université,7,,nanterre universite,nanterre universite,RER A,0.7290000000000001
-RER A 3,Nanterre – Préfecture,8,,nanterre prefecture,nanterre prefecture,RER A,0.81
-RER A 3,La Défense Grande Arche,9,METRO 1,la defense grande arche,la defense,RER A,0.9
-RER A 3,Charles de Gaulle – Étoile,10,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,RER A,0.82
-RER A 3,Auber,11,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.738
+RER A 3,Saint Germain en Laye,1,,saint germain en laye,saint germain en laye,RER A,0.25828032600000006
+RER A 3,Le Vésinet – Le Pecq,2,,le vesinet le pecq,le vesinet le pecq,RER A,0.28697814000000005
+RER A 3,Le Vésinet – Centre,3,,le vesinet centre,le vesinet centre,RER A,0.31886460000000005
+RER A 3,Chatou-Croissy,4,,chatou croissy,chatou croissy,RER A,0.35429400000000005
+RER A 3,Rueil Malmaison,5,,rueil malmaison,rueil malmaison,RER A,0.39366000000000007
+RER A 3,Nanterre Ville,6,,nanterre ville,nanterre ville,RER A,0.43740000000000007
+RER A 3,Nanterre Université,7,,nanterre universite,nanterre universite,RER A,0.48600000000000004
+RER A 3,Nanterre – Préfecture,8,,nanterre prefecture,nanterre prefecture,RER A,0.54
+RER A 3,La Défense Grande Arche,9,METRO 1,la defense grande arche,grande arche de la defense,RER A,0.6
+RER A 3,Charles de Gaulle – Étoile,10,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,RER A,0.7
+RER A 3,Auber,11,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.63
 RER A 3,Châtelet – Les Halles,12,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles,chatelet,RER A,0.95
 RER A 3,Paris-Gare de Lyon,13,"METRO 1, METRO 14, RER D",paris gare de lyon,gare de lyon,RER A,0.98
 RER A 3,Nation,14,"METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,RER A,0.82
-RER A 3,Vincennes,15,,vincennes,vincennes,RER A,0.6
+RER A 3,Vincennes,15,,vincennes,bois de vincennes,RER A,0.6
 RER A 3,Fontenay sous Bois,16,,fontenay sous bois,val de fontenay,RER A,0.6
 RER A 3,Nogent sur Marne,17,,nogent sur marne,nogent sur marne,RER A,0.6
 RER A 3,Joinville le Pont,18,,joinville le pont,joinville le pont,RER A,0.6
@@ -71,23 +71,23 @@ RER A 3,Champigny,21,,champigny,champigny,RER A,0.43740000000000007
 RER A 3,La varenne Chennevières,22,,la varenne chennevieres,la varenne chennevieres,RER A,0.39366000000000007
 RER A 3,Sucy Bonneuil,23,,sucy bonneuil,sucy bonneuil,RER A,0.35429400000000005
 RER A 3,Boissy Saint Léger,24,,boissy saint leger,boissy saint leger,RER A,0.31886460000000005
-RER A 4,Cergy le Haut,1,,cergy le haut,cergy le haut,RER A,0.31381059609000017
-RER A 4,Cergy Saint-Christophe,2,,cergy saint christophe,cergy saint christophe,RER A,0.34867844010000015
-RER A 4,Cergy Préfecture,3,,cergy prefecture,cergy prefecture,RER A,0.38742048900000015
-RER A 4,Neuville Université,4,,neuville universite,neuville universite,RER A,0.43046721000000016
-RER A 4,Conflans Fin d’Oise,5,,conflans fin d'oise,conflans fin d'oise,RER A,0.47829690000000014
-RER A 4,Achères Ville,6,,acheres ville,acheres ville,RER A,0.5314410000000002
-RER A 4,Maisons Laffitte,7,,maisons laffitte,maisons laffitte,RER A,0.5904900000000002
-RER A 4,Sartrouville,8,,sartrouville,sartrouville,RER A,0.6561000000000001
-RER A 4,Houilles Carrières sur Seine,9,,houilles carrieres sur seine,houilles carrieres sur seine,RER A,0.7290000000000001
-RER A 4,Nanterre – Préfecture,10,,nanterre prefecture,nanterre prefecture,RER A,0.81
-RER A 4,La Défense Grande Arche,11,METRO 1,la defense grande arche,la defense,RER A,0.9
-RER A 4,Charles de Gaulle – Étoile,12,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,RER A,0.82
-RER A 4,Auber,13,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.738
+RER A 4,Cergy le Haut,1,,cergy le haut,cergy le haut,RER A,0.20920706406000006
+RER A 4,Cergy Saint-Christophe,2,,cergy saint christophe,cergy saint christophe,RER A,0.23245229340000007
+RER A 4,Cergy Préfecture,3,,cergy prefecture,cergy prefecture,RER A,0.25828032600000006
+RER A 4,Neuville Université,4,,neuville universite,neuville universite,RER A,0.28697814000000005
+RER A 4,Conflans Fin d’Oise,5,,conflans fin d'oise,conflans fin d'oise,RER A,0.31886460000000005
+RER A 4,Achères Ville,6,,acheres ville,acheres ville,RER A,0.35429400000000005
+RER A 4,Maisons Laffitte,7,,maisons laffitte,maisons laffitte,RER A,0.39366000000000007
+RER A 4,Sartrouville,8,,sartrouville,sartrouville,RER A,0.43740000000000007
+RER A 4,Houilles Carrières sur Seine,9,,houilles carrieres sur seine,houilles carrieres sur seine,RER A,0.48600000000000004
+RER A 4,Nanterre – Préfecture,10,,nanterre prefecture,nanterre prefecture,RER A,0.54
+RER A 4,La Défense Grande Arche,11,METRO 1,la defense grande arche,grande arche de la defense,RER A,0.6
+RER A 4,Charles de Gaulle – Étoile,12,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,RER A,0.7
+RER A 4,Auber,13,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.63
 RER A 4,Châtelet – Les Halles,14,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles,chatelet,RER A,0.95
 RER A 4,Paris-Gare de Lyon,15,"METRO 1, METRO 14, RER D",paris gare de lyon,gare de lyon,RER A,0.98
 RER A 4,Nation,16,"METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,RER A,0.82
-RER A 4,Vincennes,17,,vincennes,vincennes,RER A,0.6
+RER A 4,Vincennes,17,,vincennes,bois de vincennes,RER A,0.6
 RER A 4,Val de Fontenay,18,RER E,val de fontenay,val de fontenay,RER A,0.6
 RER A 4,Neuilly Plaisance,19,,neuilly plaisance,neuilly plaisance,RER A,0.6
 RER A 4,Bry sur Marne,20,,bry sur marne,bry sur marne,RER A,0.54
@@ -99,19 +99,19 @@ RER A 4,Torcy,25,,torcy,torcy,RER A,0.31886460000000005
 RER A 4,Bussy Saint-Georges,26,,bussy saint georges,bussy saint georges,RER A,0.28697814000000005
 RER A 4,Serris-Montévrain – Val d’Europe,27,,serris montevrain val d'europe,serris montevrain val d'europe,RER A,0.25828032600000006
 RER A 4,Marne la Vallée Chessy – Parc Disneyland,28,,marne la vallee chessy parc disneyland,marne la vallee chessy parc disneyland,RER A,0.23245229340000007
-RER A 5,Poissy,1,,poissy,poissy,RER A,0.47829690000000014
-RER A 5,Achères Grand Cormier,2,,acheres grand cormier,acheres grand cormier,RER A,0.5314410000000002
-RER A 5,Maisons Laffitte,3,,maisons laffitte,maisons laffitte,RER A,0.5904900000000002
-RER A 5,Sartrouville,4,,sartrouville,sartrouville,RER A,0.6561000000000001
-RER A 5,Houilles Carrières sur Seine,5,,houilles carrieres sur seine,houilles carrieres sur seine,RER A,0.7290000000000001
-RER A 5,Nanterre – Préfecture,6,,nanterre prefecture,nanterre prefecture,RER A,0.81
-RER A 5,La Défense Grande Arche,7,METRO 1,la defense grande arche,la defense,RER A,0.9
-RER A 5,Charles de Gaulle – Étoile,8,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,RER A,0.82
-RER A 5,Auber,9,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.738
+RER A 5,Poissy,1,,poissy,poissy,RER A,0.31886460000000005
+RER A 5,Achères Grand Cormier,2,,acheres grand cormier,acheres grand cormier,RER A,0.35429400000000005
+RER A 5,Maisons Laffitte,3,,maisons laffitte,maisons laffitte,RER A,0.39366000000000007
+RER A 5,Sartrouville,4,,sartrouville,sartrouville,RER A,0.43740000000000007
+RER A 5,Houilles Carrières sur Seine,5,,houilles carrieres sur seine,houilles carrieres sur seine,RER A,0.48600000000000004
+RER A 5,Nanterre – Préfecture,6,,nanterre prefecture,nanterre prefecture,RER A,0.54
+RER A 5,La Défense Grande Arche,7,METRO 1,la defense grande arche,grande arche de la defense,RER A,0.6
+RER A 5,Charles de Gaulle – Étoile,8,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,RER A,0.7
+RER A 5,Auber,9,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.63
 RER A 5,Châtelet – Les Halles,10,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles,chatelet,RER A,0.95
 RER A 5,Paris-Gare de Lyon,11,"METRO 1, METRO 14, RER D",paris gare de lyon,gare de lyon,RER A,0.98
 RER A 5,Nation,12,"METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,RER A,0.82
-RER A 5,Vincennes,13,,vincennes,vincennes,RER A,0.6
+RER A 5,Vincennes,13,,vincennes,bois de vincennes,RER A,0.6
 RER A 5,Val de Fontenay,14,RER E,val de fontenay,val de fontenay,RER A,0.6
 RER A 5,Neuilly Plaisance,15,,neuilly plaisance,neuilly plaisance,RER A,0.6
 RER A 5,Bry sur Marne,16,,bry sur marne,bry sur marne,RER A,0.54
@@ -123,21 +123,21 @@ RER A 5,Torcy,21,,torcy,torcy,RER A,0.31886460000000005
 RER A 5,Bussy Saint-Georges,22,,bussy saint georges,bussy saint georges,RER A,0.28697814000000005
 RER A 5,Serris-Montévrain – Val d’Europe,23,,serris montevrain val d'europe,serris montevrain val d'europe,RER A,0.25828032600000006
 RER A 5,Marne la Vallée Chessy – Parc Disneyland,24,,marne la vallee chessy parc disneyland,marne la vallee chessy parc disneyland,RER A,0.23245229340000007
-RER A 6,Saint Germain en Laye,1,,saint germain en laye,saint germain en laye,RER A,0.38742048900000015
-RER A 6,Le Vésinet – Le Pecq,2,,le vesinet le pecq,le vesinet le pecq,RER A,0.43046721000000016
-RER A 6,Le Vésinet – Centre,3,,le vesinet centre,le vesinet centre,RER A,0.47829690000000014
-RER A 6,Chatou-Croissy,4,,chatou croissy,chatou croissy,RER A,0.5314410000000002
-RER A 6,Rueil Malmaison,5,,rueil malmaison,rueil malmaison,RER A,0.5904900000000002
-RER A 6,Nanterre Ville,6,,nanterre ville,nanterre ville,RER A,0.6561000000000001
-RER A 6,Nanterre Université,7,,nanterre universite,nanterre universite,RER A,0.7290000000000001
-RER A 6,Nanterre – Préfecture,8,,nanterre prefecture,nanterre prefecture,RER A,0.81
-RER A 6,La Défense Grande Arche,9,METRO 1,la defense grande arche,la defense,RER A,0.9
-RER A 6,Charles de Gaulle – Étoile,10,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,RER A,0.82
-RER A 6,Auber,11,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.738
+RER A 6,Saint Germain en Laye,1,,saint germain en laye,saint germain en laye,RER A,0.25828032600000006
+RER A 6,Le Vésinet – Le Pecq,2,,le vesinet le pecq,le vesinet le pecq,RER A,0.28697814000000005
+RER A 6,Le Vésinet – Centre,3,,le vesinet centre,le vesinet centre,RER A,0.31886460000000005
+RER A 6,Chatou-Croissy,4,,chatou croissy,chatou croissy,RER A,0.35429400000000005
+RER A 6,Rueil Malmaison,5,,rueil malmaison,rueil malmaison,RER A,0.39366000000000007
+RER A 6,Nanterre Ville,6,,nanterre ville,nanterre ville,RER A,0.43740000000000007
+RER A 6,Nanterre Université,7,,nanterre universite,nanterre universite,RER A,0.48600000000000004
+RER A 6,Nanterre – Préfecture,8,,nanterre prefecture,nanterre prefecture,RER A,0.54
+RER A 6,La Défense Grande Arche,9,METRO 1,la defense grande arche,grande arche de la defense,RER A,0.6
+RER A 6,Charles de Gaulle – Étoile,10,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,RER A,0.7
+RER A 6,Auber,11,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber,auber,RER A,0.63
 RER A 6,Châtelet – Les Halles,12,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles,chatelet,RER A,0.95
 RER A 6,Paris-Gare de Lyon,13,"METRO 1, METRO 14, RER D",paris gare de lyon,gare de lyon,RER A,0.98
 RER A 6,Nation,14,"METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,RER A,0.82
-RER A 6,Vincennes,15,,vincennes,vincennes,RER A,0.6
+RER A 6,Vincennes,15,,vincennes,bois de vincennes,RER A,0.6
 RER A 6,Val de Fontenay,16,RER E,val de fontenay,val de fontenay,RER A,0.6
 RER A 6,Neuilly Plaisance,17,,neuilly plaisance,neuilly plaisance,RER A,0.6
 RER A 6,Bry sur Marne,18,,bry sur marne,bry sur marne,RER A,0.54
@@ -299,10 +299,10 @@ RER C 1,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.2985255
 RER C 1,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.26867295
 RER C 1,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.24180565500000004
 RER C 1,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.21762508950000004
-RER C 1,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.19586258055000003
+RER C 1,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.19586258055000003
 RER C 1,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.17627632249500003
-RER C 1,Invalides,23,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 1,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 1,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 1,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 1,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 1,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 1,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -337,10 +337,10 @@ RER C 2,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.2985255
 RER C 2,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.26867295
 RER C 2,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.24180565500000004
 RER C 2,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.21762508950000004
-RER C 2,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.19586258055000003
+RER C 2,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.19586258055000003
 RER C 2,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.17627632249500003
-RER C 2,Invalides,23,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 2,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 2,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 2,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 2,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 2,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 2,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -387,10 +387,10 @@ RER C 3,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.2985255
 RER C 3,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.26867295
 RER C 3,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.24180565500000004
 RER C 3,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.21762508950000004
-RER C 3,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.19586258055000003
+RER C 3,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.19586258055000003
 RER C 3,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.17627632249500003
-RER C 3,Invalides,23,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 3,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 3,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 3,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 3,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 3,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 3,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -424,10 +424,10 @@ RER C 4,Issy,6,,issy,issy,RER C,0.35720999999999997
 RER C 4,Issy Val de Seine,7,,issy val de seine,clamart,RER C,0.3969
 RER C 4,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,RER C,0.44099999999999995
 RER C 4,Javel,9,METRO 10,javel,javel,RER C,0.48999999999999994
-RER C 4,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.44099999999999995
+RER C 4,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.44099999999999995
 RER C 4,Pont de l’Alma,11,METRO 9,pont de l'alma,pont de l'alma,RER C,0.3969
-RER C 4,Invalides,12,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 4,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 4,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 4,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 4,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 4,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 4,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -451,10 +451,10 @@ RER C 5,Issy,6,,issy,issy,RER C,0.35720999999999997
 RER C 5,Issy Val de Seine,7,,issy val de seine,clamart,RER C,0.3969
 RER C 5,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,RER C,0.44099999999999995
 RER C 5,Javel,9,METRO 10,javel,javel,RER C,0.48999999999999994
-RER C 5,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.44099999999999995
+RER C 5,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.44099999999999995
 RER C 5,Pont de l’Alma,11,METRO 9,pont de l'alma,pont de l'alma,RER C,0.3969
-RER C 5,Invalides,12,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 5,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 5,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 5,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 5,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 5,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 5,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -490,10 +490,10 @@ RER C 6,Issy,6,,issy,issy,RER C,0.35720999999999997
 RER C 6,Issy Val de Seine,7,,issy val de seine,clamart,RER C,0.3969
 RER C 6,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,RER C,0.44099999999999995
 RER C 6,Javel,9,METRO 10,javel,javel,RER C,0.48999999999999994
-RER C 6,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.44099999999999995
+RER C 6,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.44099999999999995
 RER C 6,Pont de l’Alma,11,METRO 9,pont de l'alma,pont de l'alma,RER C,0.3969
-RER C 6,Invalides,12,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 6,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 6,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 6,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 6,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 6,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 6,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -528,10 +528,10 @@ RER C 7,Issy,7,,issy,issy,RER C,0.35720999999999997
 RER C 7,Issy Val de Seine,8,,issy val de seine,clamart,RER C,0.3969
 RER C 7,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,RER C,0.44099999999999995
 RER C 7,Javel,10,METRO 10,javel,javel,RER C,0.48999999999999994
-RER C 7,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.44099999999999995
+RER C 7,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.44099999999999995
 RER C 7,Pont de l’Alma,12,METRO 9,pont de l'alma,pont de l'alma,RER C,0.3969
-RER C 7,Invalides,13,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 7,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 7,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 7,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 7,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 7,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 7,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -556,10 +556,10 @@ RER C 8,Issy,7,,issy,issy,RER C,0.35720999999999997
 RER C 8,Issy Val de Seine,8,,issy val de seine,clamart,RER C,0.3969
 RER C 8,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,RER C,0.44099999999999995
 RER C 8,Javel,10,METRO 10,javel,javel,RER C,0.48999999999999994
-RER C 8,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.44099999999999995
+RER C 8,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.44099999999999995
 RER C 8,Pont de l’Alma,12,METRO 9,pont de l'alma,pont de l'alma,RER C,0.3969
-RER C 8,Invalides,13,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 8,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 8,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 8,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 8,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 8,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 8,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -596,10 +596,10 @@ RER C 9,Issy,7,,issy,issy,RER C,0.35720999999999997
 RER C 9,Issy Val de Seine,8,,issy val de seine,clamart,RER C,0.3969
 RER C 9,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,RER C,0.44099999999999995
 RER C 9,Javel,10,METRO 10,javel,javel,RER C,0.48999999999999994
-RER C 9,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,champ de mars,RER C,0.44099999999999995
+RER C 9,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.44099999999999995
 RER C 9,Pont de l’Alma,12,METRO 9,pont de l'alma,pont de l'alma,RER C,0.3969
-RER C 9,Invalides,13,"METRO 8, METRO 13",invalides,invalides,RER C,0.7
-RER C 9,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,RER C,0.63
+RER C 9,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
+RER C 9,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 9,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.48999999999999994
 RER C 9,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,RER C,0.45499999999999996
 RER C 9,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,RER C,0.7
@@ -802,18 +802,18 @@ RER E 2,Bondy,6,,bondy,bondy,RER E,0.324
 RER E 2,Gagny,7,,gagny,gagny,RER E,0.36
 RER E 2,Le Raincy – Villemomble – Montfermeil,8,,le raincy villemomble montfermeil,le raincy villemomble montfermeil,RER E,0.324
 RER E 2,Chelles – Gournay,9,,chelles gournay,chelles gournay,RER E,0.2916
-METRO 1,La Défense – Grande Arche,1,,la defense grande arche,la defense,METRO 1,0.9
-METRO 1,Esplanade de La Défense,2,,esplanade de la defense,esplanade de la defense,METRO 1,0.81
-METRO 1,Pont de Neuilly,3,,pont de neuilly,pont de neuilly,METRO 1,0.7290000000000001
-METRO 1,Les Sablons,4,,les sablons,les sablons,METRO 1,0.6561000000000001
-METRO 1,Porte Maillot,5,"RER C, METRO 1",porte maillot,porte maillot,METRO 1,0.5904900000000002
-METRO 1,Charles de Gaulle – Étoile,6,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,METRO 1,0.82
-METRO 1,George V,7,,george v,george v,METRO 1,0.738
+METRO 1,La Défense – Grande Arche,1,,la defense grande arche,grande arche de la defense,METRO 1,0.6
+METRO 1,Esplanade de La Défense,2,,esplanade de la defense,esplanade de la defense,METRO 1,0.54
+METRO 1,Pont de Neuilly,3,,pont de neuilly,pont de neuilly,METRO 1,0.48600000000000004
+METRO 1,Les Sablons,4,,les sablons,les sablons,METRO 1,0.43740000000000007
+METRO 1,Porte Maillot,5,"RER C, METRO 1",porte maillot,porte maillot,METRO 1,0.39366000000000007
+METRO 1,Charles de Gaulle – Étoile,6,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,METRO 1,0.7
+METRO 1,George V,7,,george v,george v,METRO 1,0.63
 METRO 1,Franklin D. Roosevelt,8,"METRO 9, METRO 1",franklin d. roosevelt,franklin d. roosevelt,METRO 1,0.6
 METRO 1,Champs-Élysées – Clemenceau,9,,champs elysees clemenceau,champs elysees clemenceau,METRO 1,0.54
-METRO 1,Concorde,10,"METRO 8, METRO 12, METRO 1",concorde,concorde,METRO 1,0.6
+METRO 1,Concorde,10,"METRO 8, METRO 12, METRO 1",concorde,place de la concorde,METRO 1,0.6
 METRO 1,Tuileries,11,,tuileries,tuileries,METRO 1,0.54
-METRO 1,Palais Royal – Musée du Louvre,12,"METRO 7, METRO 14, RER A",palais royal musee du louvre,palais royal musee du louvre,METRO 1,0.6
+METRO 1,Palais Royal – Musée du Louvre,12,"METRO 7, METRO 14, RER A",palais royal musee du louvre,palais royal,METRO 1,0.6
 METRO 1,Louvre – Rivoli,13,,louvre rivoli,louvre rivoli,METRO 1,0.54
 METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,METRO 1,0.95
 METRO 1,Hôtel de Ville,15,"METRO 1, METRO 11",hotel de ville,hotel de ville,METRO 1,0.75
@@ -824,13 +824,13 @@ METRO 1,Nation,19,"RER A, METRO 2, METRO 6, METRO 9, METRO 1",nation,nation,METR
 METRO 1,Porte de Vincennes,20,,porte de vincennes,porte de vincennes,METRO 1,0.738
 METRO 1,Saint-Mandé,21,,saint mande,saint mande,METRO 1,0.6642
 METRO 1,Bérault,22,,berault,berault,METRO 1,0.59778
-METRO 1,Château de Vincennes,23,,chateau de vincennes,vincennes,METRO 1,0.6
-METRO 2,Porte Dauphine,1,,porte dauphine,porte dauphine,METRO 2,0.6642
-METRO 2,Victor Hugo,2,,victor hugo,victor hugo,METRO 2,0.738
-METRO 2,Charles de Gaulle – Étoile,3,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,METRO 2,0.82
-METRO 2,Ternes,4,,ternes,ternes,METRO 2,0.738
-METRO 2,Courcelles,5,,courcelles,courcelles,METRO 2,0.6642
-METRO 2,Monceau,6,,monceau,monceau,METRO 2,0.59778
+METRO 1,Château de Vincennes,23,,chateau de vincennes,bois de vincennes,METRO 1,0.6
+METRO 2,Porte Dauphine,1,,porte dauphine,porte dauphine,METRO 2,0.3969
+METRO 2,Victor Hugo,2,,victor hugo,victor hugo,METRO 2,0.44099999999999995
+METRO 2,Charles de Gaulle – Étoile,3,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,METRO 2,0.48999999999999994
+METRO 2,Ternes,4,,ternes,ternes,METRO 2,0.44099999999999995
+METRO 2,Courcelles,5,,courcelles,courcelles,METRO 2,0.3969
+METRO 2,Monceau,6,,monceau,monceau,METRO 2,0.35720999999999997
 METRO 2,Villiers,7,,villiers,villiers,METRO 2,0.42
 METRO 2,Rome,8,,rome,rome,METRO 2,0.378
 METRO 2,Place de Clichy,9,"METRO 13, METRO 2",place de clichy,place de clichy,METRO 2,0.42
@@ -922,8 +922,8 @@ METRO 5,Gare d'Austerlitz,18,"METRO 5, RER C",gare d'austerlitz,gare d'austerlit
 METRO 5,Saint-Marcel,19,,saint marcel,saint marcel,METRO 5,0.42
 METRO 5,Campo-Formio,20,,campo formio,campo formio,METRO 5,0.42
 METRO 5,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie,place d'italie,METRO 5,0.65
-METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,charles de gaulle etoile,METRO 6,0.82
-METRO 6,Kléber,2,,kleber,kleber,METRO 6,0.738
+METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,METRO 6,0.48999999999999994
+METRO 6,Kléber,2,,kleber,kleber,METRO 6,0.44099999999999995
 METRO 6,Trocadéro,3,"METRO 9, METRO 6",trocadero,trocadero,METRO 6,0.42
 METRO 6,Passy,4,,passy,passy,METRO 6,0.378
 METRO 6,Bir-Hakeim,5,METRO 6,bir hakeim,bir hakeim,METRO 6,0.3402
@@ -966,7 +966,7 @@ METRO 7 1,Le Peletier,14,,le peletier,le peletier,METRO 7,0.61965
 METRO 7 1,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,METRO 7,0.51
 METRO 7 1,Opéra,16,"METRO 3, METRO 8, RER A",opera,opera,METRO 7,0.73
 METRO 7 1,Pyramides,17,METRO 14,pyramides,pyramides,METRO 7,0.51
-METRO 7 1,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal musee du louvre,METRO 7,0.51
+METRO 7 1,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,METRO 7,0.51
 METRO 7 1,Pont Neuf,19,,pont neuf,pont neuf,METRO 7,0.459
 METRO 7 1,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,METRO 7,0.95
 METRO 7 1,Pont Marie,21,,pont marie,pont marie,METRO 7,0.855
@@ -1000,7 +1000,7 @@ METRO 7 2,Le Peletier,14,,le peletier,le peletier,METRO 7,0.61965
 METRO 7 2,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,METRO 7,0.51
 METRO 7 2,Opéra,16,"METRO 3, METRO 8, RER A",opera,opera,METRO 7,0.73
 METRO 7 2,Pyramides,17,METRO 14,pyramides,pyramides,METRO 7,0.51
-METRO 7 2,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal musee du louvre,METRO 7,0.51
+METRO 7 2,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,METRO 7,0.51
 METRO 7 2,Pont Neuf,19,,pont neuf,pont neuf,METRO 7,0.459
 METRO 7 2,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,METRO 7,0.95
 METRO 7 2,Pont Marie,21,,pont marie,pont marie,METRO 7,0.855
@@ -1033,7 +1033,7 @@ METRO 8,Charles Michels,9,,charles michels,charles michels,METRO 8,0.44999999999
 METRO 8,La Motte-Picquet – Grenelle,10,"METRO 6, METRO 10, METRO 8",la motte picquet grenelle,la motte picquet grenelle,METRO 8,0.44999999999999996
 METRO 8,École Militaire,11,,ecole militaire,ecole militaire,METRO 8,0.48750000000000004
 METRO 8,La Tour-Maubourg,12,,la tour maubourg,la tour maubourg,METRO 8,0.44999999999999996
-METRO 8,Invalides,13,"METRO 8, METRO 13",invalides,invalides,METRO 8,0.7
+METRO 8,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,METRO 8,0.48750000000000004
 METRO 8,Saint-François-Xavier,14,,saint francois xavier,saint francois xavier,METRO 8,0.44999999999999996
 METRO 8,Ségur,15,,segur,segur,METRO 8,0.40499999999999997
 METRO 8,Duroc,16,"METRO 10, METRO 13",duroc,duroc,METRO 8,0.44999999999999996
@@ -1054,7 +1054,7 @@ METRO 8,Place d’Italie,30,"METRO 5, METRO 6",place d'italie,place d'italie,MET
 METRO 8,Tolbiac,31,,tolbiac,tolbiac,METRO 8,0.44999999999999996
 METRO 8,Maison Blanche,32,,maison blanche,maison blanche,METRO 8,0.48750000000000004
 METRO 8,Porte d’Italie,33,,porte d'italie,porte d'italie,METRO 8,0.44999999999999996
-METRO 9,Pont de Sèvres,1,,pont de sevres,pont de sevres,METRO 9,0.3454366500000001
+METRO 9,Pont de Sèvres,1,,pont de sevres,sevres,METRO 9,0.3454366500000001
 METRO 9,Billancourt,2,,billancourt,billancourt,METRO 9,0.3838185000000001
 METRO 9,Marcel Sembat,3,,marcel sembat,marcel sembat,METRO 9,0.4264650000000001
 METRO 9,Porte de Saint-Cloud,4,,porte de saint cloud,porte de saint cloud,METRO 9,0.4738500000000001
@@ -1099,7 +1099,7 @@ METRO 10,Avenue Émile Zola,7,,avenue emile zola,avenue emile zola,METRO 10,0.31
 METRO 10,Charles Michels,8,,charles michels,charles michels,METRO 10,0.3
 METRO 10,École Militaire,9,,ecole militaire,ecole militaire,METRO 10,0.325
 METRO 10,La Tour-Maubourg,10,,la tour maubourg,la tour maubourg,METRO 10,0.3
-METRO 10,Invalides,11,"METRO 8, METRO 13",invalides,invalides,METRO 10,0.7
+METRO 10,Invalides,11,"METRO 8, METRO 13",invalides,hotel des invalides,METRO 10,0.325
 METRO 10,Solférino,12,,solferino,solferino,METRO 10,0.3
 METRO 10,Mabillon,13,,mabillon,mabillon,METRO 10,0.3
 METRO 10,Odéon,14,"METRO 4, METRO 10",odeon,odeon,METRO 10,0.325
@@ -1157,7 +1157,7 @@ METRO 12,Notre-Dame-de-Lorette,11,,notre dame de lorette,notre dame de lorette,M
 METRO 12,Trinité – d'Estienne d'Orves,12,,trinite d'estienne d'orves,trinite d'estienne d'orves,METRO 12,0.28431
 METRO 12,Saint-Lazare,13,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,METRO 12,0.96
 METRO 12,Madeleine,14,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,METRO 12,0.39
-METRO 12,Concorde,15,"METRO 1, METRO 8, METRO 12",concorde,concorde,METRO 12,0.39
+METRO 12,Concorde,15,"METRO 1, METRO 8, METRO 12",concorde,place de la concorde,METRO 12,0.39
 METRO 12,Assemblée Nationale,16,,assemblee nationale,assemblee nationale,METRO 12,0.35100000000000003
 METRO 12,Solférino,17,,solferino,solferino,METRO 12,0.39
 METRO 12,Rue du Bac,18,,rue du bac,rue du bac,METRO 12,0.35100000000000003
