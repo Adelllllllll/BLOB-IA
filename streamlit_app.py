@@ -46,14 +46,11 @@ def extract_trajet_info(txt):
     - supprime toute ligne brute ou polluante
     Retourne aussi le score !
     """
-    # Supprime la ligne brute globale
     txt = re.sub(
         r"Score du chemin *: *[\d\.]+ +Nombre d’arrêt[s]? *: *[\d\?]+ +Affluence moyenne *: *[\d\.]+ +Affluence max *: *[\d\.]+ +Stations affluence max *:.*(\n)?",
         "", txt
     )
-    # Retire le titre s'il existe
     txt = txt.replace("=== Itinéraire optimal ===", "").strip()
-    # Trouve toutes les vraies lignes d'itinéraire (METRO XX: ... ou RER XX: ...)
     lines = []
     for l in txt.split('\n'):
         l = l.strip()
@@ -101,7 +98,6 @@ page = st.sidebar.radio(
 if page == "Calcul d'itinéraire":
     st.title("🚇 Calcul d'itinéraire BLOB-IA")
 
-    # Sidebar : chargement choix
     stations_df = load_stations(STATIONS_PATH)
     monuments_df = load_monuments(MONUMENTS_PATH)
     station_affichage_to_key = dict(zip(stations_df["station"], stations_df["station_key"]))
@@ -128,21 +124,34 @@ if page == "Calcul d'itinéraire":
             with st.spinner("Chargement du réseau et des données…"):
                 G = load_graph(GRAPH_PATH)
                 afflu_map = load_affluence(AFFLUENCE_PATH, jour, heure)
+
             station_depart_key = station_affichage_to_key[station_depart_affichage]
             stations_nodes = [n for n, d in G.nodes(data=True) if d.get("station_key", "") == station_depart_key]
             if not stations_nodes:
                 st.error(f"Station de départ « {station_depart_affichage} » (clé: {station_depart_key}) introuvable dans le réseau.")
                 st.stop()
+
+            # --- NOUVELLE LOGIQUE “station la plus proche par ligne” ---
             arr_candidates = find_stations_near_monument(
                 monument_arrivee,
                 rayon_m=900,
                 monuments_csv=MONUMENTS_PATH,
                 stations_csv=GRAPH_NODES_PATH
             )
-            arr_station_keys = [st_key for st_key, _ in arr_candidates]
+
+            afflu_df = pd.read_csv(AFFLUENCE_PATH)  # Pour lier station -> ligne
+            line_to_station = dict()  # {ligne: (station_key, distance)}
+            for st, dist in arr_candidates:
+                for _, row in afflu_df[afflu_df["station_key"].apply(lambda x: normalize_name(str(x)) == normalize_name(st))].iterrows():
+                    line = str(row["ligne"])
+                    if (line not in line_to_station) or (dist < line_to_station[line][1]):
+                        line_to_station[line] = (normalize_name(st), dist)
+            arr_station_keys = [s for s, _ in line_to_station.values()]
             if not arr_station_keys:
                 st.error(f"Aucun accès métro/RER détecté pour le monument « {monument_arrivee} ».")
                 st.stop()
+            # ----------------------------------------------------------
+
             result = find_best_route(
                 G=G,
                 affluence_mapping=afflu_map,
@@ -156,7 +165,6 @@ if page == "Calcul d'itinéraire":
                 for i, trajet in enumerate(result):
                     if isinstance(trajet, dict):
                         itineraire_raw = trajet.get('itineraire', format_route(trajet))
-                        # On simule ici le format brut pour réutiliser la même extraction
                         itineraire_html, nb_arrets, aff_moy, aff_max, st_aff_max, score = extract_trajet_info(itineraire_raw + "\n" +
                             f"Nombre d’arrêts : {trajet.get('arrets', '?')}\n" +
                             f"Affluence moyenne : {trajet.get('affluence_moyenne', '?')}\n" +
