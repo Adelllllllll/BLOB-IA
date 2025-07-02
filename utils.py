@@ -1,111 +1,86 @@
-correspondances_physiques_groupes = [
-    # Châtelet / Les Halles
+correspondances_physiques_groupes = correspondances_physiques_groupes = [
+    # Groupes existants (inchangés)
     ["Châtelet", "Châtelet Les Halles", "Les Halles"],
-
-    # Saint-Michel / Notre-Dame
     ["Saint-Michel", "Saint-Michel Notre-Dame", "Notre Dame", "Saint Michel Notre Dame"],
-
-    # Gare de Lyon
     ["Gare de Lyon", "Paris Gare de Lyon"],
-
-    # Gare d'Austerlitz
     ["Gare d'Austerlitz", "Paris Austerlitz"],
-
-    # Montparnasse
     ["Montparnasse Bienvenüe", "Paris Montparnasse"],
-
-    # Saint-Lazare
     ["Saint-Lazare", "Paris Saint-Lazare"],
-
-    # Gare de l'Est
     ["Gare de l'Est", "Paris Est"],
-
-    # Gare du Nord / Magenta
     ["Gare du Nord", "Paris Nord", "Magenta"],
-
-    # Nation
     ["Nation", "Paris Nation"],
-
-    # Invalides
     ["Invalides", "Esplanade des Invalides", "Pont Alexandre III Invalides"],
-
-    # Charles de Gaulle – Étoile
     ["Charles de Gaulle – Étoile", "Charles de Gaulle Etoile", "Etoile"],
-
-    # La Défense
     ["La Défense", "La Défense Grande Arche", "Grande Arche de La Défense", "La Défense (Grande Arche)"],
-
-    # Bibliothèque François Mitterrand
     ["Bibliothèque François Mitterrand", "Bibliotheque Francois Mitterrand", "Bibl. François Mitterrand"],
-
-    # Denfert-Rochereau
     ["Denfert-Rochereau", "Paris Denfert-Rochereau"],
-
-    # Bercy
     ["Bercy", "Paris Bercy"],
-
-    # Porte Maillot (métro, RER, Palais des Congrès)
     ["Porte Maillot", "Neuilly Porte Maillot", "Porte Maillot Palais des Congrès"],
-
-    # Porte de Clichy
     ["Porte de Clichy", "Paris Porte de Clichy"],
-
-    # Stade de France
     ["Stade de France", "Stade de France – Saint-Denis", "Saint-Denis"],
-
-    # Champ de Mars
     ["Champ de Mars", "Champ de Mars Tour Eiffel", "Tour Eiffel"],
-
-    # Aéroport Charles de Gaulle
     ["Aéroport Charles de Gaulle 1", "CDG 1"],
     ["Aéroport Charles de Gaulle 2 TGV", "CDG 2 TGV", "Aéroport Charles de Gaulle 2"],
-
-    # Marne-la-Vallée Chessy
-    ["Marne-la-Vallée Chessy", "Marne la Vallée Chessy", "Chessy Marne-la-Vallée"],
-
-    # Val de Fontenay
+    ["Marne-la-Vallée Chessy", "Marne la Vallée Chessy", "Chessy Marne-la-Vallée", "Disneyland Paris"],
     ["Val de Fontenay", "Fontenay-sous-Bois"],
-
-    # Bourg-la-Reine
     ["Bourg-la-Reine", "Bourg la Reine"],
-
-    # Juvisy
     ["Juvisy", "Juvisy sur Orge"],
-
-    # Massy Palaiseau
     ["Massy Palaiseau", "Massy-Palaiseau"],
-
-    # Versailles
     ["Versailles Chantiers", "Versailles-Chantiers"],
     ["Versailles Rive Gauche", "Versailles Château Rive Gauche"],
-    ["Versailles Château Rive Gauche", "Versailles Rive Gauche"],
-
-    # Sceaux
+    ["Versailles Château Rive Gauche", "Versailles Rive Gauche", "Versailles Château", "Château de Versailles"],
     ["Sceaux", "Parc de Sceaux"],
-
-    # Clamart / Issy
     ["Clamart", "Issy-Val de Seine"],
-
-    # Vincennes
     ["Vincennes", "Château de Vincennes", "Chateau de Vincennes"],
-
-    # Notre-Dame-des-Champs
     ["Notre-Dame-des-Champs", "Notre Dame des Champs"],
-
-    # Pont de Sèvres
     ["Pont de Sèvres", "Pont de Sevres"],
-
-    # Aéroport d'Orly
     ["Aéroport d'Orly", "Aéroport Orly"],
-
-    # Massy
     ["Massy", "Massy Palaiseau", "Massy-Palaiseau"],
-
-    # Bibliothèque F. Mitterrand abréviation
     ["Bibliothèque François Mitterrand", "Bibl. François Mitterrand"],
 
-    # Ajoute ici d’autres groupes si tu en rencontres d’autres dans tes données !
+    # -------- Ajouts pour monuments du dataset --------
+    # Tour Eiffel
+    ["Tour Eiffel", "Eiffel Tower", "Champ de Mars Tour Eiffel", "Champ de Mars", "Tour-Eiffel"],
+    # Arc de Triomphe
+    ["Arc de Triomphe", "Charles de Gaulle – Étoile", "Charles de Gaulle Etoile", "Place de l'Étoile"],
+    # Louvre
+    ["Louvre", "Musée du Louvre", "Pyramide du Louvre", "Louvre Museum"],
+    # Musée d'Orsay
+    ["Musée d'Orsay", "Gare d'Orsay", "Orsay Museum"],
+    # Sacré-Cœur
+    ["Sacré-Cœur", "Basilique du Sacré-Cœur", "Montmartre", "Basilique de Montmartre"],
+    # Notre-Dame de Paris
+    ["Notre-Dame de Paris", "Cathédrale Notre-Dame", "Notre Dame"],
+    # Panthéon
+    ["Panthéon", "Le Panthéon", "Panthéon Paris"],
+    # Opéra Garnier
+    ["Opéra Garnier", "Palais Garnier", "Opéra de Paris"],
+    # Jardin du Luxembourg
+    ["Jardin du Luxembourg", "Luxembourg", "Parc du Luxembourg"],
+    # Jardin des Plantes
+    ["Jardin des Plantes", "Muséum national d'Histoire naturelle", "MNHN", "Jardin des Plantes Paris"],
+    # Place de la Concorde
+    ["Place de la Concorde", "Concorde"],
+    # Hôtel des Invalides
+    ["Hôtel des Invalides", "Invalides", "Musée de l'Armée", "Dôme des Invalides"],
+    # Place Vendôme
+    ["Place Vendôme", "Vendôme"],
+    # Palais Royal
+    ["Palais Royal", "Palais-Royal Musée du Louvre", "Palais Royal - Musée du Louvre"],
+    # Centre Pompidou
+    ["Centre Pompidou", "Beaubourg", "Musée National d'Art Moderne"],
+    # Grande Arche de la Défense
+    ["Grande Arche de la Défense", "La Défense", "La Défense Grande Arche"],
+
+    # -------- Exemples d'autres gares/hubs --------
+    ["Saint-Germain-en-Laye", "Saint-Germain-en-Laye Château", "Saint Germain en Laye"],
+    ["Rueil-Malmaison", "Rueil Malmaison"],
+    ["Sèvres", "Pont de Sèvres", "Sevres"],
+    ["Fontainebleau", "Fontainebleau Avon"],
+    ["Bois de Vincennes", "Vincennes", "Château de Vincennes"],
+
 ]
+
 
 # Profils d'affluence par jour (adapté à la réalité des transports)
 PROFILE_JOUR = {

@@ -108,24 +108,7 @@ def build_graph():
         pickle.dump(G, f)    
     print("Graphe sauvegardé en pickle : graph_blobia.gpickle")
 
-    # -- Visualisation rapide --
-    edges_with_distance = [
-        (u, v) for u, v, d in G.edges(data=True)
-        if G.nodes[u].get('latitude') is not None and G.nodes[u].get('longitude') is not None
-        and G.nodes[v].get('latitude') is not None and G.nodes[v].get('longitude') is not None
-    ]
-    G_sub = G.edge_subgraph(edges_with_distance).copy()
-    pos = {
-        node: (G_sub.nodes[node]['longitude'], G_sub.nodes[node]['latitude'])
-        for node in G_sub.nodes
-    }
 
-    plt.figure(figsize=(12, 12))
-    nx.draw(G_sub, pos, node_size=10, node_color='red', edge_color='gray', with_labels=False)
-    plt.title("Visualisation rapide du réseau métro/RER IDF (Blob IA)")
-    plt.xlabel("Longitude")
-    plt.ylabel("Latitude")
-    plt.show()
 
 if __name__ == "__main__":
     build_nodes()

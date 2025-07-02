@@ -61,7 +61,7 @@ def visualize_graph():
     labels = {node: data['name'] for node, data in G.nodes(data=True)}
     nx.draw_networkx_labels(G, pos, labels=labels, font_size=7, font_color='black')
 
-    plt.title("Réseau métro/RER Île-de-France - Visualisation améliorée")
+    plt.title("Réseau métro/RER Île-de-France")
     plt.xlabel("Longitude")
     plt.ylabel("Latitude")
     plt.legend(title="Lignes", loc='upper right', fontsize=8)

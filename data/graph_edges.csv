@@ -24,30 +24,30 @@ houilles carrieres sur seine_RER A 1,nanterre prefecture_RER A 1,adjacence,RER A
 houilles carrieres sur seine_RER A 1,houilles carrieres sur seine_RER A 2,correspondance,,0.0
 houilles carrieres sur seine_RER A 1,houilles carrieres sur seine_RER A 4,correspondance,,0.0
 houilles carrieres sur seine_RER A 1,houilles carrieres sur seine_RER A 5,correspondance,,0.0
-nanterre prefecture_RER A 1,la defense_RER A 1,adjacence,RER A 1,1086.8776425273693
+nanterre prefecture_RER A 1,grande arche de la defense_RER A 1,adjacence,RER A 1,1086.8776425273693
 nanterre prefecture_RER A 1,nanterre prefecture_RER A 2,correspondance,,0.0
 nanterre prefecture_RER A 1,nanterre prefecture_RER A 3,correspondance,,0.0
 nanterre prefecture_RER A 1,nanterre prefecture_RER A 4,correspondance,,0.0
 nanterre prefecture_RER A 1,nanterre prefecture_RER A 5,correspondance,,0.0
 nanterre prefecture_RER A 1,nanterre prefecture_RER A 6,correspondance,,0.0
-la defense_RER A 1,la defense_RER A 1,correspondance,,0.0
-la defense_RER A 1,charles de gaulle etoile_RER A 1,adjacence,RER A 1,4596.3257976871555
-la defense_RER A 1,la defense_RER A 2,correspondance,,0.0
-la defense_RER A 1,la defense_RER A 3,correspondance,,0.0
-la defense_RER A 1,la defense_RER A 4,correspondance,,0.0
-la defense_RER A 1,la defense_RER A 5,correspondance,,0.0
-la defense_RER A 1,la defense_RER A 6,correspondance,,0.0
-la defense_RER A 1,la defense_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_RER A 1,correspondance,,0.0
-charles de gaulle etoile_RER A 1,auber_RER A 1,adjacence,RER A 1,2537.467905461203
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_RER A 2,correspondance,,0.0
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_RER A 3,correspondance,,0.0
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_RER A 4,correspondance,,0.0
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_RER A 5,correspondance,,0.0
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_RER A 6,correspondance,,0.0
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_METRO 2,correspondance,,0.0
-charles de gaulle etoile_RER A 1,charles de gaulle etoile_METRO 6,correspondance,,0.0
+grande arche de la defense_RER A 1,grande arche de la defense_RER A 1,correspondance,,0.0
+grande arche de la defense_RER A 1,arc de triomphe_RER A 1,adjacence,RER A 1,4596.3257976871555
+grande arche de la defense_RER A 1,grande arche de la defense_RER A 2,correspondance,,0.0
+grande arche de la defense_RER A 1,grande arche de la defense_RER A 3,correspondance,,0.0
+grande arche de la defense_RER A 1,grande arche de la defense_RER A 4,correspondance,,0.0
+grande arche de la defense_RER A 1,grande arche de la defense_RER A 5,correspondance,,0.0
+grande arche de la defense_RER A 1,grande arche de la defense_RER A 6,correspondance,,0.0
+grande arche de la defense_RER A 1,grande arche de la defense_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 1,arc de triomphe_RER A 1,correspondance,,0.0
+arc de triomphe_RER A 1,auber_RER A 1,adjacence,RER A 1,2537.467905461203
+arc de triomphe_RER A 1,arc de triomphe_RER A 2,correspondance,,0.0
+arc de triomphe_RER A 1,arc de triomphe_RER A 3,correspondance,,0.0
+arc de triomphe_RER A 1,arc de triomphe_RER A 4,correspondance,,0.0
+arc de triomphe_RER A 1,arc de triomphe_RER A 5,correspondance,,0.0
+arc de triomphe_RER A 1,arc de triomphe_RER A 6,correspondance,,0.0
+arc de triomphe_RER A 1,arc de triomphe_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 1,arc de triomphe_METRO 2,correspondance,,0.0
+arc de triomphe_RER A 1,arc de triomphe_METRO 6,correspondance,,0.0
 auber_RER A 1,chatelet_RER A 1,adjacence,RER A 1,1854.7740148880805
 auber_RER A 1,auber_RER A 2,correspondance,,0.0
 auber_RER A 1,auber_RER A 3,correspondance,,0.0
@@ -80,7 +80,7 @@ gare de lyon_RER A 1,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 1,gare de lyon_RER A 6,correspondance,,0.0
 gare de lyon_RER A 1,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 1,nation_RER A 1,correspondance,,0.0
-nation_RER A 1,vincennes_RER A 1,adjacence,RER A 1,3312.7176008271235
+nation_RER A 1,bois de vincennes_RER A 1,adjacence,RER A 1,3312.7176008271235
 nation_RER A 1,nation_RER A 2,correspondance,,0.0
 nation_RER A 1,nation_RER A 3,correspondance,,0.0
 nation_RER A 1,nation_RER A 4,correspondance,,0.0
@@ -90,14 +90,14 @@ nation_RER A 1,nation_METRO 1,correspondance,,0.0
 nation_RER A 1,nation_METRO 2,correspondance,,0.0
 nation_RER A 1,nation_METRO 6,correspondance,,0.0
 nation_RER A 1,nation_METRO 9,correspondance,,0.0
-vincennes_RER A 1,vincennes_RER A 1,correspondance,,0.0
-vincennes_RER A 1,val de fontenay_RER A 1,adjacence,RER A 1,2314.077378926344
-vincennes_RER A 1,vincennes_RER A 2,correspondance,,0.0
-vincennes_RER A 1,vincennes_RER A 3,correspondance,,0.0
-vincennes_RER A 1,vincennes_RER A 4,correspondance,,0.0
-vincennes_RER A 1,vincennes_RER A 5,correspondance,,0.0
-vincennes_RER A 1,vincennes_RER A 6,correspondance,,0.0
-vincennes_RER A 1,vincennes_METRO 1,correspondance,,0.0
+bois de vincennes_RER A 1,bois de vincennes_RER A 1,correspondance,,0.0
+bois de vincennes_RER A 1,val de fontenay_RER A 1,adjacence,RER A 1,2314.077378926344
+bois de vincennes_RER A 1,bois de vincennes_RER A 2,correspondance,,0.0
+bois de vincennes_RER A 1,bois de vincennes_RER A 3,correspondance,,0.0
+bois de vincennes_RER A 1,bois de vincennes_RER A 4,correspondance,,0.0
+bois de vincennes_RER A 1,bois de vincennes_RER A 5,correspondance,,0.0
+bois de vincennes_RER A 1,bois de vincennes_RER A 6,correspondance,,0.0
+bois de vincennes_RER A 1,bois de vincennes_METRO 1,correspondance,,0.0
 val de fontenay_RER A 1,val de fontenay_RER A 1,correspondance,,0.0
 val de fontenay_RER A 1,nogent sur marne_RER A 1,adjacence,RER A 1,2565.98090049678
 val de fontenay_RER A 1,val de fontenay_RER A 2,correspondance,,0.0
@@ -156,27 +156,27 @@ sartrouville_RER A 2,sartrouville_RER A 5,correspondance,,0.0
 houilles carrieres sur seine_RER A 2,nanterre prefecture_RER A 2,adjacence,RER A 2,3899.672401034526
 houilles carrieres sur seine_RER A 2,houilles carrieres sur seine_RER A 4,correspondance,,0.0
 houilles carrieres sur seine_RER A 2,houilles carrieres sur seine_RER A 5,correspondance,,0.0
-nanterre prefecture_RER A 2,la defense_RER A 2,adjacence,RER A 2,1086.8776425273693
+nanterre prefecture_RER A 2,grande arche de la defense_RER A 2,adjacence,RER A 2,1086.8776425273693
 nanterre prefecture_RER A 2,nanterre prefecture_RER A 3,correspondance,,0.0
 nanterre prefecture_RER A 2,nanterre prefecture_RER A 4,correspondance,,0.0
 nanterre prefecture_RER A 2,nanterre prefecture_RER A 5,correspondance,,0.0
 nanterre prefecture_RER A 2,nanterre prefecture_RER A 6,correspondance,,0.0
-la defense_RER A 2,la defense_RER A 2,correspondance,,0.0
-la defense_RER A 2,charles de gaulle etoile_RER A 2,adjacence,RER A 2,4583.026131654688
-la defense_RER A 2,la defense_RER A 3,correspondance,,0.0
-la defense_RER A 2,la defense_RER A 4,correspondance,,0.0
-la defense_RER A 2,la defense_RER A 5,correspondance,,0.0
-la defense_RER A 2,la defense_RER A 6,correspondance,,0.0
-la defense_RER A 2,la defense_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 2,charles de gaulle etoile_RER A 2,correspondance,,0.0
-charles de gaulle etoile_RER A 2,auber_RER A 2,adjacence,RER A 2,2520.701287401322
-charles de gaulle etoile_RER A 2,charles de gaulle etoile_RER A 3,correspondance,,0.0
-charles de gaulle etoile_RER A 2,charles de gaulle etoile_RER A 4,correspondance,,0.0
-charles de gaulle etoile_RER A 2,charles de gaulle etoile_RER A 5,correspondance,,0.0
-charles de gaulle etoile_RER A 2,charles de gaulle etoile_RER A 6,correspondance,,0.0
-charles de gaulle etoile_RER A 2,charles de gaulle etoile_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 2,charles de gaulle etoile_METRO 2,correspondance,,0.0
-charles de gaulle etoile_RER A 2,charles de gaulle etoile_METRO 6,correspondance,,0.0
+grande arche de la defense_RER A 2,grande arche de la defense_RER A 2,correspondance,,0.0
+grande arche de la defense_RER A 2,arc de triomphe_RER A 2,adjacence,RER A 2,4583.026131654688
+grande arche de la defense_RER A 2,grande arche de la defense_RER A 3,correspondance,,0.0
+grande arche de la defense_RER A 2,grande arche de la defense_RER A 4,correspondance,,0.0
+grande arche de la defense_RER A 2,grande arche de la defense_RER A 5,correspondance,,0.0
+grande arche de la defense_RER A 2,grande arche de la defense_RER A 6,correspondance,,0.0
+grande arche de la defense_RER A 2,grande arche de la defense_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 2,arc de triomphe_RER A 2,correspondance,,0.0
+arc de triomphe_RER A 2,auber_RER A 2,adjacence,RER A 2,2520.701287401322
+arc de triomphe_RER A 2,arc de triomphe_RER A 3,correspondance,,0.0
+arc de triomphe_RER A 2,arc de triomphe_RER A 4,correspondance,,0.0
+arc de triomphe_RER A 2,arc de triomphe_RER A 5,correspondance,,0.0
+arc de triomphe_RER A 2,arc de triomphe_RER A 6,correspondance,,0.0
+arc de triomphe_RER A 2,arc de triomphe_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 2,arc de triomphe_METRO 2,correspondance,,0.0
+arc de triomphe_RER A 2,arc de triomphe_METRO 6,correspondance,,0.0
 auber_RER A 2,chatelet_RER A 2,adjacence,RER A 2,2091.6293168086404
 auber_RER A 2,auber_RER A 3,correspondance,,0.0
 auber_RER A 2,auber_RER A 4,correspondance,,0.0
@@ -206,7 +206,7 @@ gare de lyon_RER A 2,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 2,gare de lyon_RER A 6,correspondance,,0.0
 gare de lyon_RER A 2,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 2,nation_RER A 2,correspondance,,0.0
-nation_RER A 2,vincennes_RER A 2,adjacence,RER A 2,3308.4363095384883
+nation_RER A 2,bois de vincennes_RER A 2,adjacence,RER A 2,3308.4363095384883
 nation_RER A 2,nation_RER A 3,correspondance,,0.0
 nation_RER A 2,nation_RER A 4,correspondance,,0.0
 nation_RER A 2,nation_RER A 5,correspondance,,0.0
@@ -215,13 +215,13 @@ nation_RER A 2,nation_METRO 1,correspondance,,0.0
 nation_RER A 2,nation_METRO 2,correspondance,,0.0
 nation_RER A 2,nation_METRO 6,correspondance,,0.0
 nation_RER A 2,nation_METRO 9,correspondance,,0.0
-vincennes_RER A 2,vincennes_RER A 2,correspondance,,0.0
-vincennes_RER A 2,val de fontenay_RER A 2,adjacence,RER A 2,4234.319876685779
-vincennes_RER A 2,vincennes_RER A 3,correspondance,,0.0
-vincennes_RER A 2,vincennes_RER A 4,correspondance,,0.0
-vincennes_RER A 2,vincennes_RER A 5,correspondance,,0.0
-vincennes_RER A 2,vincennes_RER A 6,correspondance,,0.0
-vincennes_RER A 2,vincennes_METRO 1,correspondance,,0.0
+bois de vincennes_RER A 2,bois de vincennes_RER A 2,correspondance,,0.0
+bois de vincennes_RER A 2,val de fontenay_RER A 2,adjacence,RER A 2,4234.319876685779
+bois de vincennes_RER A 2,bois de vincennes_RER A 3,correspondance,,0.0
+bois de vincennes_RER A 2,bois de vincennes_RER A 4,correspondance,,0.0
+bois de vincennes_RER A 2,bois de vincennes_RER A 5,correspondance,,0.0
+bois de vincennes_RER A 2,bois de vincennes_RER A 6,correspondance,,0.0
+bois de vincennes_RER A 2,bois de vincennes_METRO 1,correspondance,,0.0
 val de fontenay_RER A 2,val de fontenay_RER A 2,correspondance,,0.0
 val de fontenay_RER A 2,nogent sur marne_RER A 2,adjacence,RER A 2,2532.120406550197
 val de fontenay_RER A 2,val de fontenay_RER A 3,correspondance,,0.0
@@ -274,24 +274,24 @@ nanterre ville_RER A 3,nanterre ville_RER A 6,correspondance,,0.0
 nanterre universite_RER A 3,nanterre universite_RER A 3,correspondance,,0.0
 nanterre universite_RER A 3,nanterre prefecture_RER A 3,adjacence,RER A 3,954.5301152865057
 nanterre universite_RER A 3,nanterre universite_RER A 6,correspondance,,0.0
-nanterre prefecture_RER A 3,la defense_RER A 3,adjacence,RER A 3,1214.8329702053115
+nanterre prefecture_RER A 3,grande arche de la defense_RER A 3,adjacence,RER A 3,1214.8329702053115
 nanterre prefecture_RER A 3,nanterre prefecture_RER A 4,correspondance,,0.0
 nanterre prefecture_RER A 3,nanterre prefecture_RER A 5,correspondance,,0.0
 nanterre prefecture_RER A 3,nanterre prefecture_RER A 6,correspondance,,0.0
-la defense_RER A 3,la defense_RER A 3,correspondance,,0.0
-la defense_RER A 3,charles de gaulle etoile_RER A 3,adjacence,RER A 3,4708.576107793898
-la defense_RER A 3,la defense_RER A 4,correspondance,,0.0
-la defense_RER A 3,la defense_RER A 5,correspondance,,0.0
-la defense_RER A 3,la defense_RER A 6,correspondance,,0.0
-la defense_RER A 3,la defense_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 3,charles de gaulle etoile_RER A 3,correspondance,,0.0
-charles de gaulle etoile_RER A 3,auber_RER A 3,adjacence,RER A 3,2537.467905461203
-charles de gaulle etoile_RER A 3,charles de gaulle etoile_RER A 4,correspondance,,0.0
-charles de gaulle etoile_RER A 3,charles de gaulle etoile_RER A 5,correspondance,,0.0
-charles de gaulle etoile_RER A 3,charles de gaulle etoile_RER A 6,correspondance,,0.0
-charles de gaulle etoile_RER A 3,charles de gaulle etoile_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 3,charles de gaulle etoile_METRO 2,correspondance,,0.0
-charles de gaulle etoile_RER A 3,charles de gaulle etoile_METRO 6,correspondance,,0.0
+grande arche de la defense_RER A 3,grande arche de la defense_RER A 3,correspondance,,0.0
+grande arche de la defense_RER A 3,arc de triomphe_RER A 3,adjacence,RER A 3,4708.576107793898
+grande arche de la defense_RER A 3,grande arche de la defense_RER A 4,correspondance,,0.0
+grande arche de la defense_RER A 3,grande arche de la defense_RER A 5,correspondance,,0.0
+grande arche de la defense_RER A 3,grande arche de la defense_RER A 6,correspondance,,0.0
+grande arche de la defense_RER A 3,grande arche de la defense_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 3,arc de triomphe_RER A 3,correspondance,,0.0
+arc de triomphe_RER A 3,auber_RER A 3,adjacence,RER A 3,2537.467905461203
+arc de triomphe_RER A 3,arc de triomphe_RER A 4,correspondance,,0.0
+arc de triomphe_RER A 3,arc de triomphe_RER A 5,correspondance,,0.0
+arc de triomphe_RER A 3,arc de triomphe_RER A 6,correspondance,,0.0
+arc de triomphe_RER A 3,arc de triomphe_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 3,arc de triomphe_METRO 2,correspondance,,0.0
+arc de triomphe_RER A 3,arc de triomphe_METRO 6,correspondance,,0.0
 auber_RER A 3,chatelet_RER A 3,adjacence,RER A 3,1845.3232190352157
 auber_RER A 3,auber_RER A 4,correspondance,,0.0
 auber_RER A 3,auber_RER A 5,correspondance,,0.0
@@ -318,7 +318,7 @@ gare de lyon_RER A 3,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 3,gare de lyon_RER A 6,correspondance,,0.0
 gare de lyon_RER A 3,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 3,nation_RER A 3,correspondance,,0.0
-nation_RER A 3,vincennes_RER A 3,adjacence,RER A 3,3312.7176008271235
+nation_RER A 3,bois de vincennes_RER A 3,adjacence,RER A 3,3312.7176008271235
 nation_RER A 3,nation_RER A 4,correspondance,,0.0
 nation_RER A 3,nation_RER A 5,correspondance,,0.0
 nation_RER A 3,nation_RER A 6,correspondance,,0.0
@@ -326,12 +326,12 @@ nation_RER A 3,nation_METRO 1,correspondance,,0.0
 nation_RER A 3,nation_METRO 2,correspondance,,0.0
 nation_RER A 3,nation_METRO 6,correspondance,,0.0
 nation_RER A 3,nation_METRO 9,correspondance,,0.0
-vincennes_RER A 3,vincennes_RER A 3,correspondance,,0.0
-vincennes_RER A 3,val de fontenay_RER A 3,adjacence,RER A 3,2314.077378926344
-vincennes_RER A 3,vincennes_RER A 4,correspondance,,0.0
-vincennes_RER A 3,vincennes_RER A 5,correspondance,,0.0
-vincennes_RER A 3,vincennes_RER A 6,correspondance,,0.0
-vincennes_RER A 3,vincennes_METRO 1,correspondance,,0.0
+bois de vincennes_RER A 3,bois de vincennes_RER A 3,correspondance,,0.0
+bois de vincennes_RER A 3,val de fontenay_RER A 3,adjacence,RER A 3,2314.077378926344
+bois de vincennes_RER A 3,bois de vincennes_RER A 4,correspondance,,0.0
+bois de vincennes_RER A 3,bois de vincennes_RER A 5,correspondance,,0.0
+bois de vincennes_RER A 3,bois de vincennes_RER A 6,correspondance,,0.0
+bois de vincennes_RER A 3,bois de vincennes_METRO 1,correspondance,,0.0
 val de fontenay_RER A 3,val de fontenay_RER A 3,correspondance,,0.0
 val de fontenay_RER A 3,nogent sur marne_RER A 3,adjacence,RER A 3,2565.98090049678
 val de fontenay_RER A 3,val de fontenay_RER A 4,correspondance,,0.0
@@ -372,21 +372,21 @@ sartrouville_RER A 4,houilles carrieres sur seine_RER A 4,adjacence,RER A 4,2831
 sartrouville_RER A 4,sartrouville_RER A 5,correspondance,,0.0
 houilles carrieres sur seine_RER A 4,nanterre prefecture_RER A 4,adjacence,RER A 4,3899.672401034526
 houilles carrieres sur seine_RER A 4,houilles carrieres sur seine_RER A 5,correspondance,,0.0
-nanterre prefecture_RER A 4,la defense_RER A 4,adjacence,RER A 4,1086.8776425273693
+nanterre prefecture_RER A 4,grande arche de la defense_RER A 4,adjacence,RER A 4,1086.8776425273693
 nanterre prefecture_RER A 4,nanterre prefecture_RER A 5,correspondance,,0.0
 nanterre prefecture_RER A 4,nanterre prefecture_RER A 6,correspondance,,0.0
-la defense_RER A 4,la defense_RER A 4,correspondance,,0.0
-la defense_RER A 4,charles de gaulle etoile_RER A 4,adjacence,RER A 4,4596.3257976871555
-la defense_RER A 4,la defense_RER A 5,correspondance,,0.0
-la defense_RER A 4,la defense_RER A 6,correspondance,,0.0
-la defense_RER A 4,la defense_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 4,charles de gaulle etoile_RER A 4,correspondance,,0.0
-charles de gaulle etoile_RER A 4,auber_RER A 4,adjacence,RER A 4,2537.467905461203
-charles de gaulle etoile_RER A 4,charles de gaulle etoile_RER A 5,correspondance,,0.0
-charles de gaulle etoile_RER A 4,charles de gaulle etoile_RER A 6,correspondance,,0.0
-charles de gaulle etoile_RER A 4,charles de gaulle etoile_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 4,charles de gaulle etoile_METRO 2,correspondance,,0.0
-charles de gaulle etoile_RER A 4,charles de gaulle etoile_METRO 6,correspondance,,0.0
+grande arche de la defense_RER A 4,grande arche de la defense_RER A 4,correspondance,,0.0
+grande arche de la defense_RER A 4,arc de triomphe_RER A 4,adjacence,RER A 4,4596.3257976871555
+grande arche de la defense_RER A 4,grande arche de la defense_RER A 5,correspondance,,0.0
+grande arche de la defense_RER A 4,grande arche de la defense_RER A 6,correspondance,,0.0
+grande arche de la defense_RER A 4,grande arche de la defense_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 4,arc de triomphe_RER A 4,correspondance,,0.0
+arc de triomphe_RER A 4,auber_RER A 4,adjacence,RER A 4,2537.467905461203
+arc de triomphe_RER A 4,arc de triomphe_RER A 5,correspondance,,0.0
+arc de triomphe_RER A 4,arc de triomphe_RER A 6,correspondance,,0.0
+arc de triomphe_RER A 4,arc de triomphe_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 4,arc de triomphe_METRO 2,correspondance,,0.0
+arc de triomphe_RER A 4,arc de triomphe_METRO 6,correspondance,,0.0
 auber_RER A 4,chatelet_RER A 4,adjacence,RER A 4,1854.7740148880805
 auber_RER A 4,auber_RER A 5,correspondance,,0.0
 auber_RER A 4,auber_RER A 6,correspondance,,0.0
@@ -410,18 +410,18 @@ gare de lyon_RER A 4,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 4,gare de lyon_RER A 6,correspondance,,0.0
 gare de lyon_RER A 4,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 4,nation_RER A 4,correspondance,,0.0
-nation_RER A 4,vincennes_RER A 4,adjacence,RER A 4,2688.85886328238
+nation_RER A 4,bois de vincennes_RER A 4,adjacence,RER A 4,2688.85886328238
 nation_RER A 4,nation_RER A 5,correspondance,,0.0
 nation_RER A 4,nation_RER A 6,correspondance,,0.0
 nation_RER A 4,nation_METRO 1,correspondance,,0.0
 nation_RER A 4,nation_METRO 2,correspondance,,0.0
 nation_RER A 4,nation_METRO 6,correspondance,,0.0
 nation_RER A 4,nation_METRO 9,correspondance,,0.0
-vincennes_RER A 4,vincennes_RER A 4,correspondance,,0.0
-vincennes_RER A 4,val de fontenay_RER A 4,adjacence,RER A 4,1694.3068438764728
-vincennes_RER A 4,vincennes_RER A 5,correspondance,,0.0
-vincennes_RER A 4,vincennes_RER A 6,correspondance,,0.0
-vincennes_RER A 4,vincennes_METRO 1,correspondance,,0.0
+bois de vincennes_RER A 4,bois de vincennes_RER A 4,correspondance,,0.0
+bois de vincennes_RER A 4,val de fontenay_RER A 4,adjacence,RER A 4,1694.3068438764728
+bois de vincennes_RER A 4,bois de vincennes_RER A 5,correspondance,,0.0
+bois de vincennes_RER A 4,bois de vincennes_RER A 6,correspondance,,0.0
+bois de vincennes_RER A 4,bois de vincennes_METRO 1,correspondance,,0.0
 val de fontenay_RER A 4,val de fontenay_RER A 4,correspondance,,0.0
 val de fontenay_RER A 4,neuilly plaisance_RER A 4,adjacence,RER A 4,1851.4914547489482
 val de fontenay_RER A 4,val de fontenay_RER A 5,correspondance,,0.0
@@ -466,18 +466,18 @@ acheres grand cormier_RER A 5,maisons laffitte_RER A 5,adjacence,RER A 5,3929.13
 maisons laffitte_RER A 5,sartrouville_RER A 5,adjacence,RER A 5,1236.031465953239
 sartrouville_RER A 5,houilles carrieres sur seine_RER A 5,adjacence,RER A 5,2831.233583616031
 houilles carrieres sur seine_RER A 5,nanterre prefecture_RER A 5,adjacence,RER A 5,3899.672401034526
-nanterre prefecture_RER A 5,la defense_RER A 5,adjacence,RER A 5,1086.8776425273693
+nanterre prefecture_RER A 5,grande arche de la defense_RER A 5,adjacence,RER A 5,1086.8776425273693
 nanterre prefecture_RER A 5,nanterre prefecture_RER A 6,correspondance,,0.0
-la defense_RER A 5,la defense_RER A 5,correspondance,,0.0
-la defense_RER A 5,charles de gaulle etoile_RER A 5,adjacence,RER A 5,4583.026131654688
-la defense_RER A 5,la defense_RER A 6,correspondance,,0.0
-la defense_RER A 5,la defense_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 5,charles de gaulle etoile_RER A 5,correspondance,,0.0
-charles de gaulle etoile_RER A 5,auber_RER A 5,adjacence,RER A 5,2520.701287401322
-charles de gaulle etoile_RER A 5,charles de gaulle etoile_RER A 6,correspondance,,0.0
-charles de gaulle etoile_RER A 5,charles de gaulle etoile_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 5,charles de gaulle etoile_METRO 2,correspondance,,0.0
-charles de gaulle etoile_RER A 5,charles de gaulle etoile_METRO 6,correspondance,,0.0
+grande arche de la defense_RER A 5,grande arche de la defense_RER A 5,correspondance,,0.0
+grande arche de la defense_RER A 5,arc de triomphe_RER A 5,adjacence,RER A 5,4583.026131654688
+grande arche de la defense_RER A 5,grande arche de la defense_RER A 6,correspondance,,0.0
+grande arche de la defense_RER A 5,grande arche de la defense_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 5,arc de triomphe_RER A 5,correspondance,,0.0
+arc de triomphe_RER A 5,auber_RER A 5,adjacence,RER A 5,2520.701287401322
+arc de triomphe_RER A 5,arc de triomphe_RER A 6,correspondance,,0.0
+arc de triomphe_RER A 5,arc de triomphe_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 5,arc de triomphe_METRO 2,correspondance,,0.0
+arc de triomphe_RER A 5,arc de triomphe_METRO 6,correspondance,,0.0
 auber_RER A 5,chatelet_RER A 5,adjacence,RER A 5,2091.6293168086404
 auber_RER A 5,auber_RER A 6,correspondance,,0.0
 chatelet_RER A 5,chatelet_RER A 5,correspondance,,0.0
@@ -498,16 +498,16 @@ gare de lyon_RER A 5,nation_RER A 5,adjacence,RER A 5,1639.5993055649506
 gare de lyon_RER A 5,gare de lyon_RER A 6,correspondance,,0.0
 gare de lyon_RER A 5,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 5,nation_RER A 5,correspondance,,0.0
-nation_RER A 5,vincennes_RER A 5,adjacence,RER A 5,3308.4363095384883
+nation_RER A 5,bois de vincennes_RER A 5,adjacence,RER A 5,3308.4363095384883
 nation_RER A 5,nation_RER A 6,correspondance,,0.0
 nation_RER A 5,nation_METRO 1,correspondance,,0.0
 nation_RER A 5,nation_METRO 2,correspondance,,0.0
 nation_RER A 5,nation_METRO 6,correspondance,,0.0
 nation_RER A 5,nation_METRO 9,correspondance,,0.0
-vincennes_RER A 5,vincennes_RER A 5,correspondance,,0.0
-vincennes_RER A 5,val de fontenay_RER A 5,adjacence,RER A 5,4196.857435754775
-vincennes_RER A 5,vincennes_RER A 6,correspondance,,0.0
-vincennes_RER A 5,vincennes_METRO 1,correspondance,,0.0
+bois de vincennes_RER A 5,bois de vincennes_RER A 5,correspondance,,0.0
+bois de vincennes_RER A 5,val de fontenay_RER A 5,adjacence,RER A 5,4196.857435754775
+bois de vincennes_RER A 5,bois de vincennes_RER A 6,correspondance,,0.0
+bois de vincennes_RER A 5,bois de vincennes_METRO 1,correspondance,,0.0
 val de fontenay_RER A 5,val de fontenay_RER A 5,correspondance,,0.0
 val de fontenay_RER A 5,neuilly plaisance_RER A 5,adjacence,RER A 5,3864.459864771475
 val de fontenay_RER A 5,val de fontenay_RER A 6,correspondance,,0.0
@@ -545,15 +545,15 @@ rueil malmaison_RER A 6,nanterre ville_RER A 6,adjacence,RER A 6,1870.0226382794
 nanterre ville_RER A 6,nanterre universite_RER A 6,adjacence,RER A 6,1485.7824250400308
 nanterre universite_RER A 6,nanterre universite_RER A 6,correspondance,,0.0
 nanterre universite_RER A 6,nanterre prefecture_RER A 6,adjacence,RER A 6,954.5301152865057
-nanterre prefecture_RER A 6,la defense_RER A 6,adjacence,RER A 6,1214.8329702053115
-la defense_RER A 6,la defense_RER A 6,correspondance,,0.0
-la defense_RER A 6,charles de gaulle etoile_RER A 6,adjacence,RER A 6,4708.576107793898
-la defense_RER A 6,la defense_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 6,charles de gaulle etoile_RER A 6,correspondance,,0.0
-charles de gaulle etoile_RER A 6,auber_RER A 6,adjacence,RER A 6,2537.467905461203
-charles de gaulle etoile_RER A 6,charles de gaulle etoile_METRO 1,correspondance,,0.0
-charles de gaulle etoile_RER A 6,charles de gaulle etoile_METRO 2,correspondance,,0.0
-charles de gaulle etoile_RER A 6,charles de gaulle etoile_METRO 6,correspondance,,0.0
+nanterre prefecture_RER A 6,grande arche de la defense_RER A 6,adjacence,RER A 6,1214.8329702053115
+grande arche de la defense_RER A 6,grande arche de la defense_RER A 6,correspondance,,0.0
+grande arche de la defense_RER A 6,arc de triomphe_RER A 6,adjacence,RER A 6,4708.576107793898
+grande arche de la defense_RER A 6,grande arche de la defense_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 6,arc de triomphe_RER A 6,correspondance,,0.0
+arc de triomphe_RER A 6,auber_RER A 6,adjacence,RER A 6,2537.467905461203
+arc de triomphe_RER A 6,arc de triomphe_METRO 1,correspondance,,0.0
+arc de triomphe_RER A 6,arc de triomphe_METRO 2,correspondance,,0.0
+arc de triomphe_RER A 6,arc de triomphe_METRO 6,correspondance,,0.0
 auber_RER A 6,chatelet_RER A 6,adjacence,RER A 6,1845.3232190352157
 chatelet_RER A 6,chatelet_RER A 6,correspondance,,0.0
 chatelet_RER A 6,gare de lyon_RER A 6,adjacence,RER A 6,2307.158396462238
@@ -571,14 +571,14 @@ gare de lyon_RER A 6,gare de lyon_RER A 6,correspondance,,0.0
 gare de lyon_RER A 6,nation_RER A 6,adjacence,RER A 6,1692.0533491910478
 gare de lyon_RER A 6,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 6,nation_RER A 6,correspondance,,0.0
-nation_RER A 6,vincennes_RER A 6,adjacence,RER A 6,2688.85886328238
+nation_RER A 6,bois de vincennes_RER A 6,adjacence,RER A 6,2688.85886328238
 nation_RER A 6,nation_METRO 1,correspondance,,0.0
 nation_RER A 6,nation_METRO 2,correspondance,,0.0
 nation_RER A 6,nation_METRO 6,correspondance,,0.0
 nation_RER A 6,nation_METRO 9,correspondance,,0.0
-vincennes_RER A 6,vincennes_RER A 6,correspondance,,0.0
-vincennes_RER A 6,val de fontenay_RER A 6,adjacence,RER A 6,1694.3068438764728
-vincennes_RER A 6,vincennes_METRO 1,correspondance,,0.0
+bois de vincennes_RER A 6,bois de vincennes_RER A 6,correspondance,,0.0
+bois de vincennes_RER A 6,val de fontenay_RER A 6,adjacence,RER A 6,1694.3068438764728
+bois de vincennes_RER A 6,bois de vincennes_METRO 1,correspondance,,0.0
 val de fontenay_RER A 6,val de fontenay_RER A 6,correspondance,,0.0
 val de fontenay_RER A 6,neuilly plaisance_RER A 6,adjacence,RER A 6,1851.4914547489482
 val de fontenay_RER A 6,val de fontenay_RER D 1,correspondance,,0.0
@@ -1125,19 +1125,19 @@ avenue henri martin_RER C 1,avenue henri martin_RER C 3,correspondance,,0.0
 boulainvilliers_RER C 1,avenue du president kennedy maison de radio france_RER C 1,adjacence,RER C 1,
 boulainvilliers_RER C 1,boulainvilliers_RER C 2,correspondance,,0.0
 boulainvilliers_RER C 1,boulainvilliers_RER C 3,correspondance,,0.0
-avenue du president kennedy maison de radio france_RER C 1,champ de mars_RER C 1,adjacence,RER C 1,
+avenue du president kennedy maison de radio france_RER C 1,tour eiffel_RER C 1,adjacence,RER C 1,
 avenue du president kennedy maison de radio france_RER C 1,avenue du president kennedy maison de radio france_RER C 2,correspondance,,0.0
 avenue du president kennedy maison de radio france_RER C 1,avenue du president kennedy maison de radio france_RER C 3,correspondance,,0.0
-champ de mars_RER C 1,pont de l'alma_RER C 1,adjacence,RER C 1,1072.3599533421702
-champ de mars_RER C 1,champ de mars_RER C 2,correspondance,,0.0
-champ de mars_RER C 1,champ de mars_RER C 3,correspondance,,0.0
-champ de mars_RER C 1,champ de mars_RER C 4,correspondance,,0.0
-champ de mars_RER C 1,champ de mars_RER C 5,correspondance,,0.0
-champ de mars_RER C 1,champ de mars_RER C 6,correspondance,,0.0
-champ de mars_RER C 1,champ de mars_RER C 7,correspondance,,0.0
-champ de mars_RER C 1,champ de mars_RER C 8,correspondance,,0.0
-champ de mars_RER C 1,champ de mars_RER C 9,correspondance,,0.0
-pont de l'alma_RER C 1,invalides_RER C 1,adjacence,RER C 1,992.5843823711826
+tour eiffel_RER C 1,pont de l'alma_RER C 1,adjacence,RER C 1,1072.3599533421702
+tour eiffel_RER C 1,tour eiffel_RER C 2,correspondance,,0.0
+tour eiffel_RER C 1,tour eiffel_RER C 3,correspondance,,0.0
+tour eiffel_RER C 1,tour eiffel_RER C 4,correspondance,,0.0
+tour eiffel_RER C 1,tour eiffel_RER C 5,correspondance,,0.0
+tour eiffel_RER C 1,tour eiffel_RER C 6,correspondance,,0.0
+tour eiffel_RER C 1,tour eiffel_RER C 7,correspondance,,0.0
+tour eiffel_RER C 1,tour eiffel_RER C 8,correspondance,,0.0
+tour eiffel_RER C 1,tour eiffel_RER C 9,correspondance,,0.0
+pont de l'alma_RER C 1,hotel des invalides_RER C 1,adjacence,RER C 1,992.5843823711826
 pont de l'alma_RER C 1,pont de l'alma_RER C 2,correspondance,,0.0
 pont de l'alma_RER C 1,pont de l'alma_RER C 3,correspondance,,0.0
 pont de l'alma_RER C 1,pont de l'alma_RER C 4,correspondance,,0.0
@@ -1146,18 +1146,18 @@ pont de l'alma_RER C 1,pont de l'alma_RER C 6,correspondance,,0.0
 pont de l'alma_RER C 1,pont de l'alma_RER C 7,correspondance,,0.0
 pont de l'alma_RER C 1,pont de l'alma_RER C 8,correspondance,,0.0
 pont de l'alma_RER C 1,pont de l'alma_RER C 9,correspondance,,0.0
-invalides_RER C 1,invalides_RER C 1,correspondance,,0.0
-invalides_RER C 1,musee d'orsay_RER C 1,adjacence,RER C 1,870.9107434210854
-invalides_RER C 1,invalides_RER C 2,correspondance,,0.0
-invalides_RER C 1,invalides_RER C 3,correspondance,,0.0
-invalides_RER C 1,invalides_RER C 4,correspondance,,0.0
-invalides_RER C 1,invalides_RER C 5,correspondance,,0.0
-invalides_RER C 1,invalides_RER C 6,correspondance,,0.0
-invalides_RER C 1,invalides_RER C 7,correspondance,,0.0
-invalides_RER C 1,invalides_RER C 8,correspondance,,0.0
-invalides_RER C 1,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 1,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 1,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_RER C 1,correspondance,,0.0
+hotel des invalides_RER C 1,musee d'orsay_RER C 1,adjacence,RER C 1,870.9107434210854
+hotel des invalides_RER C 1,hotel des invalides_RER C 2,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_RER C 3,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_RER C 4,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_RER C 5,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_RER C 6,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_RER C 7,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_RER C 8,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 1,saint michel_RER C 1,adjacence,RER C 1,1556.7945577524047
 musee d'orsay_RER C 1,musee d'orsay_RER C 2,correspondance,,0.0
 musee d'orsay_RER C 1,musee d'orsay_RER C 3,correspondance,,0.0
@@ -1353,17 +1353,17 @@ avenue henri martin_RER C 2,boulainvilliers_RER C 2,adjacence,RER C 2,963.764725
 avenue henri martin_RER C 2,avenue henri martin_RER C 3,correspondance,,0.0
 boulainvilliers_RER C 2,avenue du president kennedy maison de radio france_RER C 2,adjacence,RER C 2,
 boulainvilliers_RER C 2,boulainvilliers_RER C 3,correspondance,,0.0
-avenue du president kennedy maison de radio france_RER C 2,champ de mars_RER C 2,adjacence,RER C 2,
+avenue du president kennedy maison de radio france_RER C 2,tour eiffel_RER C 2,adjacence,RER C 2,
 avenue du president kennedy maison de radio france_RER C 2,avenue du president kennedy maison de radio france_RER C 3,correspondance,,0.0
-champ de mars_RER C 2,pont de l'alma_RER C 2,adjacence,RER C 2,1072.3599533421702
-champ de mars_RER C 2,champ de mars_RER C 3,correspondance,,0.0
-champ de mars_RER C 2,champ de mars_RER C 4,correspondance,,0.0
-champ de mars_RER C 2,champ de mars_RER C 5,correspondance,,0.0
-champ de mars_RER C 2,champ de mars_RER C 6,correspondance,,0.0
-champ de mars_RER C 2,champ de mars_RER C 7,correspondance,,0.0
-champ de mars_RER C 2,champ de mars_RER C 8,correspondance,,0.0
-champ de mars_RER C 2,champ de mars_RER C 9,correspondance,,0.0
-pont de l'alma_RER C 2,invalides_RER C 2,adjacence,RER C 2,992.5843823711826
+tour eiffel_RER C 2,pont de l'alma_RER C 2,adjacence,RER C 2,1072.3599533421702
+tour eiffel_RER C 2,tour eiffel_RER C 3,correspondance,,0.0
+tour eiffel_RER C 2,tour eiffel_RER C 4,correspondance,,0.0
+tour eiffel_RER C 2,tour eiffel_RER C 5,correspondance,,0.0
+tour eiffel_RER C 2,tour eiffel_RER C 6,correspondance,,0.0
+tour eiffel_RER C 2,tour eiffel_RER C 7,correspondance,,0.0
+tour eiffel_RER C 2,tour eiffel_RER C 8,correspondance,,0.0
+tour eiffel_RER C 2,tour eiffel_RER C 9,correspondance,,0.0
+pont de l'alma_RER C 2,hotel des invalides_RER C 2,adjacence,RER C 2,992.5843823711826
 pont de l'alma_RER C 2,pont de l'alma_RER C 3,correspondance,,0.0
 pont de l'alma_RER C 2,pont de l'alma_RER C 4,correspondance,,0.0
 pont de l'alma_RER C 2,pont de l'alma_RER C 5,correspondance,,0.0
@@ -1371,17 +1371,17 @@ pont de l'alma_RER C 2,pont de l'alma_RER C 6,correspondance,,0.0
 pont de l'alma_RER C 2,pont de l'alma_RER C 7,correspondance,,0.0
 pont de l'alma_RER C 2,pont de l'alma_RER C 8,correspondance,,0.0
 pont de l'alma_RER C 2,pont de l'alma_RER C 9,correspondance,,0.0
-invalides_RER C 2,invalides_RER C 2,correspondance,,0.0
-invalides_RER C 2,musee d'orsay_RER C 2,adjacence,RER C 2,870.9107434210854
-invalides_RER C 2,invalides_RER C 3,correspondance,,0.0
-invalides_RER C 2,invalides_RER C 4,correspondance,,0.0
-invalides_RER C 2,invalides_RER C 5,correspondance,,0.0
-invalides_RER C 2,invalides_RER C 6,correspondance,,0.0
-invalides_RER C 2,invalides_RER C 7,correspondance,,0.0
-invalides_RER C 2,invalides_RER C 8,correspondance,,0.0
-invalides_RER C 2,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 2,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 2,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_RER C 2,correspondance,,0.0
+hotel des invalides_RER C 2,musee d'orsay_RER C 2,adjacence,RER C 2,870.9107434210854
+hotel des invalides_RER C 2,hotel des invalides_RER C 3,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_RER C 4,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_RER C 5,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_RER C 6,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_RER C 7,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_RER C 8,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 2,saint michel_RER C 2,adjacence,RER C 2,1452.1846984634644
 musee d'orsay_RER C 2,musee d'orsay_RER C 3,correspondance,,0.0
 musee d'orsay_RER C 2,musee d'orsay_RER C 4,correspondance,,0.0
@@ -1583,31 +1583,31 @@ neuilly porte maillot palais des congres_RER C 3,avenue foch_RER C 3,adjacence,R
 avenue foch_RER C 3,avenue henri martin_RER C 3,adjacence,RER C 3,523.1956516749536
 avenue henri martin_RER C 3,boulainvilliers_RER C 3,adjacence,RER C 3,963.7647253542589
 boulainvilliers_RER C 3,avenue du president kennedy maison de radio france_RER C 3,adjacence,RER C 3,
-avenue du president kennedy maison de radio france_RER C 3,champ de mars_RER C 3,adjacence,RER C 3,
-champ de mars_RER C 3,pont de l'alma_RER C 3,adjacence,RER C 3,1072.3599533421702
-champ de mars_RER C 3,champ de mars_RER C 4,correspondance,,0.0
-champ de mars_RER C 3,champ de mars_RER C 5,correspondance,,0.0
-champ de mars_RER C 3,champ de mars_RER C 6,correspondance,,0.0
-champ de mars_RER C 3,champ de mars_RER C 7,correspondance,,0.0
-champ de mars_RER C 3,champ de mars_RER C 8,correspondance,,0.0
-champ de mars_RER C 3,champ de mars_RER C 9,correspondance,,0.0
-pont de l'alma_RER C 3,invalides_RER C 3,adjacence,RER C 3,992.5843823711826
+avenue du president kennedy maison de radio france_RER C 3,tour eiffel_RER C 3,adjacence,RER C 3,
+tour eiffel_RER C 3,pont de l'alma_RER C 3,adjacence,RER C 3,1072.3599533421702
+tour eiffel_RER C 3,tour eiffel_RER C 4,correspondance,,0.0
+tour eiffel_RER C 3,tour eiffel_RER C 5,correspondance,,0.0
+tour eiffel_RER C 3,tour eiffel_RER C 6,correspondance,,0.0
+tour eiffel_RER C 3,tour eiffel_RER C 7,correspondance,,0.0
+tour eiffel_RER C 3,tour eiffel_RER C 8,correspondance,,0.0
+tour eiffel_RER C 3,tour eiffel_RER C 9,correspondance,,0.0
+pont de l'alma_RER C 3,hotel des invalides_RER C 3,adjacence,RER C 3,992.5843823711826
 pont de l'alma_RER C 3,pont de l'alma_RER C 4,correspondance,,0.0
 pont de l'alma_RER C 3,pont de l'alma_RER C 5,correspondance,,0.0
 pont de l'alma_RER C 3,pont de l'alma_RER C 6,correspondance,,0.0
 pont de l'alma_RER C 3,pont de l'alma_RER C 7,correspondance,,0.0
 pont de l'alma_RER C 3,pont de l'alma_RER C 8,correspondance,,0.0
 pont de l'alma_RER C 3,pont de l'alma_RER C 9,correspondance,,0.0
-invalides_RER C 3,invalides_RER C 3,correspondance,,0.0
-invalides_RER C 3,musee d'orsay_RER C 3,adjacence,RER C 3,870.9107434210854
-invalides_RER C 3,invalides_RER C 4,correspondance,,0.0
-invalides_RER C 3,invalides_RER C 5,correspondance,,0.0
-invalides_RER C 3,invalides_RER C 6,correspondance,,0.0
-invalides_RER C 3,invalides_RER C 7,correspondance,,0.0
-invalides_RER C 3,invalides_RER C 8,correspondance,,0.0
-invalides_RER C 3,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 3,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 3,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_RER C 3,correspondance,,0.0
+hotel des invalides_RER C 3,musee d'orsay_RER C 3,adjacence,RER C 3,870.9107434210854
+hotel des invalides_RER C 3,hotel des invalides_RER C 4,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_RER C 5,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_RER C 6,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_RER C 7,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_RER C 8,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 3,saint michel_RER C 3,adjacence,RER C 3,1452.1846984634644
 musee d'orsay_RER C 3,musee d'orsay_RER C 4,correspondance,,0.0
 musee d'orsay_RER C 3,musee d'orsay_RER C 5,correspondance,,0.0
@@ -1754,7 +1754,7 @@ dourdan_RER C 3,dourdan_RER C 6,correspondance,,0.0
 dourdan_RER C 3,dourdan_RER C 9,correspondance,,0.0
 dourdan la foret_RER C 3,dourdan la foret_RER C 6,correspondance,,0.0
 dourdan la foret_RER C 3,dourdan la foret_RER C 9,correspondance,,0.0
-versailles chateau rive gauche_RER C 4,porchefontaine_RER C 4,adjacence,RER C 4,
+versailles chateau rive gauche_RER C 4,porchefontaine_RER C 4,adjacence,RER C 4,1762.6902660399205
 versailles chateau rive gauche_RER C 4,versailles chateau rive gauche_RER C 5,correspondance,,0.0
 versailles chateau rive gauche_RER C 4,versailles chateau rive gauche_RER C 6,correspondance,,0.0
 porchefontaine_RER C 4,viroflay rive gauche_RER C 4,adjacence,RER C 4,1472.3636735062578
@@ -1798,7 +1798,7 @@ pont du garigliano hopital europeen georges pompidou_RER C 4,pont du garigliano 
 pont du garigliano hopital europeen georges pompidou_RER C 4,pont du garigliano hopital europeen georges pompidou_RER C 7,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 4,pont du garigliano hopital europeen georges pompidou_RER C 8,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 4,pont du garigliano hopital europeen georges pompidou_RER C 9,correspondance,,0.0
-javel_RER C 4,champ de mars_RER C 4,adjacence,RER C 4,1347.391190618779
+javel_RER C 4,tour eiffel_RER C 4,adjacence,RER C 4,1347.391190618779
 javel_RER C 4,javel_RER C 5,correspondance,,0.0
 javel_RER C 4,javel_RER C 6,correspondance,,0.0
 javel_RER C 4,javel_RER C 7,correspondance,,0.0
@@ -1807,27 +1807,27 @@ javel_RER C 4,javel_RER C 9,correspondance,,0.0
 javel_RER C 4,javel_METRO 8,correspondance,,0.0
 javel_RER C 4,javel_METRO 9,correspondance,,0.0
 javel_RER C 4,javel_METRO 10,correspondance,,0.0
-champ de mars_RER C 4,pont de l'alma_RER C 4,adjacence,RER C 4,1072.3599533421702
-champ de mars_RER C 4,champ de mars_RER C 5,correspondance,,0.0
-champ de mars_RER C 4,champ de mars_RER C 6,correspondance,,0.0
-champ de mars_RER C 4,champ de mars_RER C 7,correspondance,,0.0
-champ de mars_RER C 4,champ de mars_RER C 8,correspondance,,0.0
-champ de mars_RER C 4,champ de mars_RER C 9,correspondance,,0.0
-pont de l'alma_RER C 4,invalides_RER C 4,adjacence,RER C 4,992.5843823711826
+tour eiffel_RER C 4,pont de l'alma_RER C 4,adjacence,RER C 4,1072.3599533421702
+tour eiffel_RER C 4,tour eiffel_RER C 5,correspondance,,0.0
+tour eiffel_RER C 4,tour eiffel_RER C 6,correspondance,,0.0
+tour eiffel_RER C 4,tour eiffel_RER C 7,correspondance,,0.0
+tour eiffel_RER C 4,tour eiffel_RER C 8,correspondance,,0.0
+tour eiffel_RER C 4,tour eiffel_RER C 9,correspondance,,0.0
+pont de l'alma_RER C 4,hotel des invalides_RER C 4,adjacence,RER C 4,992.5843823711826
 pont de l'alma_RER C 4,pont de l'alma_RER C 5,correspondance,,0.0
 pont de l'alma_RER C 4,pont de l'alma_RER C 6,correspondance,,0.0
 pont de l'alma_RER C 4,pont de l'alma_RER C 7,correspondance,,0.0
 pont de l'alma_RER C 4,pont de l'alma_RER C 8,correspondance,,0.0
 pont de l'alma_RER C 4,pont de l'alma_RER C 9,correspondance,,0.0
-invalides_RER C 4,invalides_RER C 4,correspondance,,0.0
-invalides_RER C 4,musee d'orsay_RER C 4,adjacence,RER C 4,870.9107434210854
-invalides_RER C 4,invalides_RER C 5,correspondance,,0.0
-invalides_RER C 4,invalides_RER C 6,correspondance,,0.0
-invalides_RER C 4,invalides_RER C 7,correspondance,,0.0
-invalides_RER C 4,invalides_RER C 8,correspondance,,0.0
-invalides_RER C 4,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 4,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 4,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_RER C 4,correspondance,,0.0
+hotel des invalides_RER C 4,musee d'orsay_RER C 4,adjacence,RER C 4,870.9107434210854
+hotel des invalides_RER C 4,hotel des invalides_RER C 5,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_RER C 6,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_RER C 7,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_RER C 8,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 4,saint michel_RER C 4,adjacence,RER C 4,1562.8954654716078
 musee d'orsay_RER C 4,musee d'orsay_RER C 5,correspondance,,0.0
 musee d'orsay_RER C 4,musee d'orsay_RER C 6,correspondance,,0.0
@@ -1927,7 +1927,7 @@ massy_RER C 4,massy_RER C 6,correspondance,,0.0
 massy_RER C 4,massy_RER C 7,correspondance,,0.0
 massy_RER C 4,massy_RER C 8,correspondance,,0.0
 massy_RER C 4,massy_RER C 9,correspondance,,0.0
-versailles chateau rive gauche_RER C 5,porchefontaine_RER C 5,adjacence,RER C 5,
+versailles chateau rive gauche_RER C 5,porchefontaine_RER C 5,adjacence,RER C 5,1762.6902660399205
 versailles chateau rive gauche_RER C 5,versailles chateau rive gauche_RER C 6,correspondance,,0.0
 porchefontaine_RER C 5,viroflay rive gauche_RER C 5,adjacence,RER C 5,1472.3636735062578
 porchefontaine_RER C 5,porchefontaine_RER C 6,correspondance,,0.0
@@ -1963,7 +1963,7 @@ pont du garigliano hopital europeen georges pompidou_RER C 5,pont du garigliano 
 pont du garigliano hopital europeen georges pompidou_RER C 5,pont du garigliano hopital europeen georges pompidou_RER C 7,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 5,pont du garigliano hopital europeen georges pompidou_RER C 8,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 5,pont du garigliano hopital europeen georges pompidou_RER C 9,correspondance,,0.0
-javel_RER C 5,champ de mars_RER C 5,adjacence,RER C 5,1347.391190618779
+javel_RER C 5,tour eiffel_RER C 5,adjacence,RER C 5,1347.391190618779
 javel_RER C 5,javel_RER C 6,correspondance,,0.0
 javel_RER C 5,javel_RER C 7,correspondance,,0.0
 javel_RER C 5,javel_RER C 8,correspondance,,0.0
@@ -1971,24 +1971,24 @@ javel_RER C 5,javel_RER C 9,correspondance,,0.0
 javel_RER C 5,javel_METRO 8,correspondance,,0.0
 javel_RER C 5,javel_METRO 9,correspondance,,0.0
 javel_RER C 5,javel_METRO 10,correspondance,,0.0
-champ de mars_RER C 5,pont de l'alma_RER C 5,adjacence,RER C 5,1072.3599533421702
-champ de mars_RER C 5,champ de mars_RER C 6,correspondance,,0.0
-champ de mars_RER C 5,champ de mars_RER C 7,correspondance,,0.0
-champ de mars_RER C 5,champ de mars_RER C 8,correspondance,,0.0
-champ de mars_RER C 5,champ de mars_RER C 9,correspondance,,0.0
-pont de l'alma_RER C 5,invalides_RER C 5,adjacence,RER C 5,992.5843823711826
+tour eiffel_RER C 5,pont de l'alma_RER C 5,adjacence,RER C 5,1072.3599533421702
+tour eiffel_RER C 5,tour eiffel_RER C 6,correspondance,,0.0
+tour eiffel_RER C 5,tour eiffel_RER C 7,correspondance,,0.0
+tour eiffel_RER C 5,tour eiffel_RER C 8,correspondance,,0.0
+tour eiffel_RER C 5,tour eiffel_RER C 9,correspondance,,0.0
+pont de l'alma_RER C 5,hotel des invalides_RER C 5,adjacence,RER C 5,992.5843823711826
 pont de l'alma_RER C 5,pont de l'alma_RER C 6,correspondance,,0.0
 pont de l'alma_RER C 5,pont de l'alma_RER C 7,correspondance,,0.0
 pont de l'alma_RER C 5,pont de l'alma_RER C 8,correspondance,,0.0
 pont de l'alma_RER C 5,pont de l'alma_RER C 9,correspondance,,0.0
-invalides_RER C 5,invalides_RER C 5,correspondance,,0.0
-invalides_RER C 5,musee d'orsay_RER C 5,adjacence,RER C 5,870.9107434210854
-invalides_RER C 5,invalides_RER C 6,correspondance,,0.0
-invalides_RER C 5,invalides_RER C 7,correspondance,,0.0
-invalides_RER C 5,invalides_RER C 8,correspondance,,0.0
-invalides_RER C 5,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 5,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 5,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 5,hotel des invalides_RER C 5,correspondance,,0.0
+hotel des invalides_RER C 5,musee d'orsay_RER C 5,adjacence,RER C 5,870.9107434210854
+hotel des invalides_RER C 5,hotel des invalides_RER C 6,correspondance,,0.0
+hotel des invalides_RER C 5,hotel des invalides_RER C 7,correspondance,,0.0
+hotel des invalides_RER C 5,hotel des invalides_RER C 8,correspondance,,0.0
+hotel des invalides_RER C 5,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 5,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 5,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 5,saint michel_RER C 5,adjacence,RER C 5,1556.7945577524047
 musee d'orsay_RER C 5,musee d'orsay_RER C 6,correspondance,,0.0
 musee d'orsay_RER C 5,musee d'orsay_RER C 7,correspondance,,0.0
@@ -2100,7 +2100,7 @@ etrechy_RER C 5,etrechy_RER C 8,correspondance,,0.0
 etampes_RER C 5,saint martin d'etampes_RER C 5,adjacence,RER C 5,1499.2324358851527
 etampes_RER C 5,etampes_RER C 8,correspondance,,0.0
 saint martin d'etampes_RER C 5,saint martin d'etampes_RER C 8,correspondance,,0.0
-versailles chateau rive gauche_RER C 6,porchefontaine_RER C 6,adjacence,RER C 6,
+versailles chateau rive gauche_RER C 6,porchefontaine_RER C 6,adjacence,RER C 6,1762.6902660399205
 porchefontaine_RER C 6,viroflay rive gauche_RER C 6,adjacence,RER C 6,1472.3636735062578
 viroflay rive gauche_RER C 6,viroflay rive gauche_RER C 6,correspondance,,0.0
 viroflay rive gauche_RER C 6,chaville velizy_RER C 6,adjacence,RER C 6,946.1812685074015
@@ -2128,28 +2128,28 @@ pont du garigliano hopital europeen georges pompidou_RER C 6,javel_RER C 6,adjac
 pont du garigliano hopital europeen georges pompidou_RER C 6,pont du garigliano hopital europeen georges pompidou_RER C 7,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 6,pont du garigliano hopital europeen georges pompidou_RER C 8,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 6,pont du garigliano hopital europeen georges pompidou_RER C 9,correspondance,,0.0
-javel_RER C 6,champ de mars_RER C 6,adjacence,RER C 6,1347.391190618779
+javel_RER C 6,tour eiffel_RER C 6,adjacence,RER C 6,1347.391190618779
 javel_RER C 6,javel_RER C 7,correspondance,,0.0
 javel_RER C 6,javel_RER C 8,correspondance,,0.0
 javel_RER C 6,javel_RER C 9,correspondance,,0.0
 javel_RER C 6,javel_METRO 8,correspondance,,0.0
 javel_RER C 6,javel_METRO 9,correspondance,,0.0
 javel_RER C 6,javel_METRO 10,correspondance,,0.0
-champ de mars_RER C 6,pont de l'alma_RER C 6,adjacence,RER C 6,1072.3599533421702
-champ de mars_RER C 6,champ de mars_RER C 7,correspondance,,0.0
-champ de mars_RER C 6,champ de mars_RER C 8,correspondance,,0.0
-champ de mars_RER C 6,champ de mars_RER C 9,correspondance,,0.0
-pont de l'alma_RER C 6,invalides_RER C 6,adjacence,RER C 6,992.5843823711826
+tour eiffel_RER C 6,pont de l'alma_RER C 6,adjacence,RER C 6,1072.3599533421702
+tour eiffel_RER C 6,tour eiffel_RER C 7,correspondance,,0.0
+tour eiffel_RER C 6,tour eiffel_RER C 8,correspondance,,0.0
+tour eiffel_RER C 6,tour eiffel_RER C 9,correspondance,,0.0
+pont de l'alma_RER C 6,hotel des invalides_RER C 6,adjacence,RER C 6,992.5843823711826
 pont de l'alma_RER C 6,pont de l'alma_RER C 7,correspondance,,0.0
 pont de l'alma_RER C 6,pont de l'alma_RER C 8,correspondance,,0.0
 pont de l'alma_RER C 6,pont de l'alma_RER C 9,correspondance,,0.0
-invalides_RER C 6,invalides_RER C 6,correspondance,,0.0
-invalides_RER C 6,musee d'orsay_RER C 6,adjacence,RER C 6,870.9107434210854
-invalides_RER C 6,invalides_RER C 7,correspondance,,0.0
-invalides_RER C 6,invalides_RER C 8,correspondance,,0.0
-invalides_RER C 6,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 6,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 6,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 6,hotel des invalides_RER C 6,correspondance,,0.0
+hotel des invalides_RER C 6,musee d'orsay_RER C 6,adjacence,RER C 6,870.9107434210854
+hotel des invalides_RER C 6,hotel des invalides_RER C 7,correspondance,,0.0
+hotel des invalides_RER C 6,hotel des invalides_RER C 8,correspondance,,0.0
+hotel des invalides_RER C 6,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 6,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 6,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 6,saint michel_RER C 6,adjacence,RER C 6,1556.7945577524047
 musee d'orsay_RER C 6,musee d'orsay_RER C 7,correspondance,,0.0
 musee d'orsay_RER C 6,musee d'orsay_RER C 8,correspondance,,0.0
@@ -2270,24 +2270,24 @@ clamart_RER C 7,clamart_RER C 9,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 7,javel_RER C 7,adjacence,RER C 7,
 pont du garigliano hopital europeen georges pompidou_RER C 7,pont du garigliano hopital europeen georges pompidou_RER C 8,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 7,pont du garigliano hopital europeen georges pompidou_RER C 9,correspondance,,0.0
-javel_RER C 7,champ de mars_RER C 7,adjacence,RER C 7,1347.391190618779
+javel_RER C 7,tour eiffel_RER C 7,adjacence,RER C 7,1347.391190618779
 javel_RER C 7,javel_RER C 8,correspondance,,0.0
 javel_RER C 7,javel_RER C 9,correspondance,,0.0
 javel_RER C 7,javel_METRO 8,correspondance,,0.0
 javel_RER C 7,javel_METRO 9,correspondance,,0.0
 javel_RER C 7,javel_METRO 10,correspondance,,0.0
-champ de mars_RER C 7,pont de l'alma_RER C 7,adjacence,RER C 7,1072.3599533421702
-champ de mars_RER C 7,champ de mars_RER C 8,correspondance,,0.0
-champ de mars_RER C 7,champ de mars_RER C 9,correspondance,,0.0
-pont de l'alma_RER C 7,invalides_RER C 7,adjacence,RER C 7,992.5843823711826
+tour eiffel_RER C 7,pont de l'alma_RER C 7,adjacence,RER C 7,1072.3599533421702
+tour eiffel_RER C 7,tour eiffel_RER C 8,correspondance,,0.0
+tour eiffel_RER C 7,tour eiffel_RER C 9,correspondance,,0.0
+pont de l'alma_RER C 7,hotel des invalides_RER C 7,adjacence,RER C 7,992.5843823711826
 pont de l'alma_RER C 7,pont de l'alma_RER C 8,correspondance,,0.0
 pont de l'alma_RER C 7,pont de l'alma_RER C 9,correspondance,,0.0
-invalides_RER C 7,invalides_RER C 7,correspondance,,0.0
-invalides_RER C 7,musee d'orsay_RER C 7,adjacence,RER C 7,870.9107434210854
-invalides_RER C 7,invalides_RER C 8,correspondance,,0.0
-invalides_RER C 7,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 7,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 7,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 7,hotel des invalides_RER C 7,correspondance,,0.0
+hotel des invalides_RER C 7,musee d'orsay_RER C 7,adjacence,RER C 7,870.9107434210854
+hotel des invalides_RER C 7,hotel des invalides_RER C 8,correspondance,,0.0
+hotel des invalides_RER C 7,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 7,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 7,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 7,saint michel_RER C 7,adjacence,RER C 7,1452.1846984634644
 musee d'orsay_RER C 7,musee d'orsay_RER C 8,correspondance,,0.0
 musee d'orsay_RER C 7,musee d'orsay_RER C 9,correspondance,,0.0
@@ -2363,20 +2363,20 @@ clamart_RER C 8,pont du garigliano hopital europeen georges pompidou_RER C 8,adj
 clamart_RER C 8,clamart_RER C 9,correspondance,,0.0
 pont du garigliano hopital europeen georges pompidou_RER C 8,javel_RER C 8,adjacence,RER C 8,
 pont du garigliano hopital europeen georges pompidou_RER C 8,pont du garigliano hopital europeen georges pompidou_RER C 9,correspondance,,0.0
-javel_RER C 8,champ de mars_RER C 8,adjacence,RER C 8,1347.391190618779
+javel_RER C 8,tour eiffel_RER C 8,adjacence,RER C 8,1347.391190618779
 javel_RER C 8,javel_RER C 9,correspondance,,0.0
 javel_RER C 8,javel_METRO 8,correspondance,,0.0
 javel_RER C 8,javel_METRO 9,correspondance,,0.0
 javel_RER C 8,javel_METRO 10,correspondance,,0.0
-champ de mars_RER C 8,pont de l'alma_RER C 8,adjacence,RER C 8,1072.3599533421702
-champ de mars_RER C 8,champ de mars_RER C 9,correspondance,,0.0
-pont de l'alma_RER C 8,invalides_RER C 8,adjacence,RER C 8,992.5843823711826
+tour eiffel_RER C 8,pont de l'alma_RER C 8,adjacence,RER C 8,1072.3599533421702
+tour eiffel_RER C 8,tour eiffel_RER C 9,correspondance,,0.0
+pont de l'alma_RER C 8,hotel des invalides_RER C 8,adjacence,RER C 8,992.5843823711826
 pont de l'alma_RER C 8,pont de l'alma_RER C 9,correspondance,,0.0
-invalides_RER C 8,invalides_RER C 8,correspondance,,0.0
-invalides_RER C 8,musee d'orsay_RER C 8,adjacence,RER C 8,870.9107434210854
-invalides_RER C 8,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 8,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 8,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 8,hotel des invalides_RER C 8,correspondance,,0.0
+hotel des invalides_RER C 8,musee d'orsay_RER C 8,adjacence,RER C 8,870.9107434210854
+hotel des invalides_RER C 8,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 8,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 8,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 8,saint michel_RER C 8,adjacence,RER C 8,1556.7945577524047
 musee d'orsay_RER C 8,musee d'orsay_RER C 9,correspondance,,0.0
 saint michel_RER C 8,saint michel_RER C 8,correspondance,,0.0
@@ -2442,16 +2442,16 @@ issy_RER C 9,clamart_RER C 9,adjacence,RER C 9,1344.500126643206
 clamart_RER C 9,clamart_RER C 9,correspondance,,0.0
 clamart_RER C 9,pont du garigliano hopital europeen georges pompidou_RER C 9,adjacence,RER C 9,
 pont du garigliano hopital europeen georges pompidou_RER C 9,javel_RER C 9,adjacence,RER C 9,
-javel_RER C 9,champ de mars_RER C 9,adjacence,RER C 9,1347.391190618779
+javel_RER C 9,tour eiffel_RER C 9,adjacence,RER C 9,1347.391190618779
 javel_RER C 9,javel_METRO 8,correspondance,,0.0
 javel_RER C 9,javel_METRO 9,correspondance,,0.0
 javel_RER C 9,javel_METRO 10,correspondance,,0.0
-champ de mars_RER C 9,pont de l'alma_RER C 9,adjacence,RER C 9,1072.3599533421702
-pont de l'alma_RER C 9,invalides_RER C 9,adjacence,RER C 9,992.5843823711826
-invalides_RER C 9,invalides_RER C 9,correspondance,,0.0
-invalides_RER C 9,musee d'orsay_RER C 9,adjacence,RER C 9,870.9107434210854
-invalides_RER C 9,invalides_METRO 8,correspondance,,0.0
-invalides_RER C 9,invalides_METRO 10,correspondance,,0.0
+tour eiffel_RER C 9,pont de l'alma_RER C 9,adjacence,RER C 9,1072.3599533421702
+pont de l'alma_RER C 9,hotel des invalides_RER C 9,adjacence,RER C 9,992.5843823711826
+hotel des invalides_RER C 9,hotel des invalides_RER C 9,correspondance,,0.0
+hotel des invalides_RER C 9,musee d'orsay_RER C 9,adjacence,RER C 9,870.9107434210854
+hotel des invalides_RER C 9,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_RER C 9,hotel des invalides_METRO 10,correspondance,,0.0
 musee d'orsay_RER C 9,saint michel_RER C 9,adjacence,RER C 9,1556.7945577524047
 saint michel_RER C 9,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 9,gare d'austerlitz_RER C 9,adjacence,RER C 9,2001.8545587568335
@@ -2974,31 +2974,31 @@ bondy_RER E 2,bondy_RER E 2,correspondance,,0.0
 bondy_RER E 2,gagny_RER E 2,adjacence,RER E 2,3374.1391784055095
 gagny_RER E 2,le raincy villemomble montfermeil_RER E 2,adjacence,RER E 2,1065.9662885896648
 le raincy villemomble montfermeil_RER E 2,chelles gournay_RER E 2,adjacence,RER E 2,5401.005488669915
-la defense_METRO 1,la defense_METRO 1,correspondance,,0.0
-la defense_METRO 1,esplanade de la defense_METRO 1,adjacence,METRO 1,911.105361868691
+grande arche de la defense_METRO 1,grande arche de la defense_METRO 1,correspondance,,0.0
+grande arche de la defense_METRO 1,esplanade de la defense_METRO 1,adjacence,METRO 1,911.105361868691
 esplanade de la defense_METRO 1,pont de neuilly_METRO 1,adjacence,METRO 1,873.9979585237246
 pont de neuilly_METRO 1,les sablons_METRO 1,adjacence,METRO 1,952.8465448403184
 les sablons_METRO 1,porte maillot_METRO 1,adjacence,METRO 1,858.9858002483809
 porte maillot_METRO 1,porte maillot_METRO 1,correspondance,,0.0
-porte maillot_METRO 1,charles de gaulle etoile_METRO 1,adjacence,METRO 1,924.9928892657751
-charles de gaulle etoile_METRO 1,charles de gaulle etoile_METRO 1,correspondance,,0.0
-charles de gaulle etoile_METRO 1,george v_METRO 1,adjacence,METRO 1,466.8273675951038
-charles de gaulle etoile_METRO 1,charles de gaulle etoile_METRO 2,correspondance,,0.0
-charles de gaulle etoile_METRO 1,charles de gaulle etoile_METRO 6,correspondance,,0.0
+porte maillot_METRO 1,arc de triomphe_METRO 1,adjacence,METRO 1,924.9928892657751
+arc de triomphe_METRO 1,arc de triomphe_METRO 1,correspondance,,0.0
+arc de triomphe_METRO 1,george v_METRO 1,adjacence,METRO 1,466.8273675951038
+arc de triomphe_METRO 1,arc de triomphe_METRO 2,correspondance,,0.0
+arc de triomphe_METRO 1,arc de triomphe_METRO 6,correspondance,,0.0
 george v_METRO 1,franklin d. roosevelt_METRO 1,adjacence,METRO 1,753.1499418686278
 franklin d. roosevelt_METRO 1,franklin d. roosevelt_METRO 1,correspondance,,0.0
 franklin d. roosevelt_METRO 1,champs elysees clemenceau_METRO 1,adjacence,METRO 1,438.3480222163771
 franklin d. roosevelt_METRO 1,franklin d. roosevelt_METRO 9,correspondance,,0.0
 champs elysees clemenceau_METRO 1,champs elysees clemenceau_METRO 1,correspondance,,0.0
-champs elysees clemenceau_METRO 1,concorde_METRO 1,adjacence,METRO 1,712.6211301931355
-concorde_METRO 1,concorde_METRO 1,correspondance,,0.0
-concorde_METRO 1,tuileries_METRO 1,adjacence,METRO 1,549.036960446263
-concorde_METRO 1,concorde_METRO 12,correspondance,,0.0
-tuileries_METRO 1,palais royal musee du louvre_METRO 1,adjacence,METRO 1,517.171186830922
-palais royal musee du louvre_METRO 1,palais royal musee du louvre_METRO 1,correspondance,,0.0
-palais royal musee du louvre_METRO 1,louvre rivoli_METRO 1,adjacence,METRO 1,383.36783014616867
-palais royal musee du louvre_METRO 1,palais royal musee du louvre_METRO 7 1,correspondance,,0.0
-palais royal musee du louvre_METRO 1,palais royal musee du louvre_METRO 7 2,correspondance,,0.0
+champs elysees clemenceau_METRO 1,place de la concorde_METRO 1,adjacence,METRO 1,712.6211301931355
+place de la concorde_METRO 1,place de la concorde_METRO 1,correspondance,,0.0
+place de la concorde_METRO 1,tuileries_METRO 1,adjacence,METRO 1,549.036960446263
+place de la concorde_METRO 1,place de la concorde_METRO 12,correspondance,,0.0
+tuileries_METRO 1,palais royal_METRO 1,adjacence,METRO 1,517.171186830922
+palais royal_METRO 1,palais royal_METRO 1,correspondance,,0.0
+palais royal_METRO 1,louvre rivoli_METRO 1,adjacence,METRO 1,383.36783014616867
+palais royal_METRO 1,palais royal_METRO 7 1,correspondance,,0.0
+palais royal_METRO 1,palais royal_METRO 7 2,correspondance,,0.0
 louvre rivoli_METRO 1,chatelet_METRO 1,adjacence,METRO 1,618.9402494960322
 chatelet_METRO 1,chatelet_METRO 1,correspondance,,0.0
 chatelet_METRO 1,hotel de ville_METRO 1,adjacence,METRO 1,432.0042423256223
@@ -3024,14 +3024,14 @@ nation_METRO 1,nation_METRO 9,correspondance,,0.0
 porte de vincennes_METRO 1,porte de vincennes_METRO 1,correspondance,,0.0
 porte de vincennes_METRO 1,saint mande_METRO 1,adjacence,METRO 1,676.8412199980534
 saint mande_METRO 1,berault_METRO 1,adjacence,METRO 1,773.9424182234214
-berault_METRO 1,vincennes_METRO 1,adjacence,METRO 1,832.2988111657978
-vincennes_METRO 1,vincennes_METRO 1,correspondance,,0.0
+berault_METRO 1,bois de vincennes_METRO 1,adjacence,METRO 1,832.2988111657978
+bois de vincennes_METRO 1,bois de vincennes_METRO 1,correspondance,,0.0
 porte dauphine_METRO 2,porte dauphine_METRO 2,correspondance,,0.0
 porte dauphine_METRO 2,victor hugo_METRO 2,adjacence,METRO 2,786.6749573217247
-victor hugo_METRO 2,charles de gaulle etoile_METRO 2,adjacence,METRO 2,948.761428799834
-charles de gaulle etoile_METRO 2,charles de gaulle etoile_METRO 2,correspondance,,0.0
-charles de gaulle etoile_METRO 2,ternes_METRO 2,adjacence,METRO 2,411.392788633691
-charles de gaulle etoile_METRO 2,charles de gaulle etoile_METRO 6,correspondance,,0.0
+victor hugo_METRO 2,arc de triomphe_METRO 2,adjacence,METRO 2,948.761428799834
+arc de triomphe_METRO 2,arc de triomphe_METRO 2,correspondance,,0.0
+arc de triomphe_METRO 2,ternes_METRO 2,adjacence,METRO 2,411.392788633691
+arc de triomphe_METRO 2,arc de triomphe_METRO 6,correspondance,,0.0
 ternes_METRO 2,courcelles_METRO 2,adjacence,METRO 2,448.63933798430315
 courcelles_METRO 2,monceau_METRO 2,adjacence,METRO 2,362.311115559885
 monceau_METRO 2,villiers_METRO 2,adjacence,METRO 2,444.51243652635964
@@ -3224,8 +3224,8 @@ place d'italie_METRO 5,place d'italie_METRO 7 1,correspondance,,0.0
 place d'italie_METRO 5,place d'italie_METRO 7 2,correspondance,,0.0
 place d'italie_METRO 5,place d'italie_METRO 8,correspondance,,0.0
 place d'italie_METRO 5,place d'italie_METRO 10,correspondance,,0.0
-charles de gaulle etoile_METRO 6,charles de gaulle etoile_METRO 6,correspondance,,0.0
-charles de gaulle etoile_METRO 6,kleber_METRO 6,adjacence,METRO 6,423.42092882675183
+arc de triomphe_METRO 6,arc de triomphe_METRO 6,correspondance,,0.0
+arc de triomphe_METRO 6,kleber_METRO 6,adjacence,METRO 6,423.42092882675183
 kleber_METRO 6,trocadero_METRO 6,adjacence,METRO 6,1046.199590854116
 trocadero_METRO 6,trocadero_METRO 6,correspondance,,0.0
 trocadero_METRO 6,passy_METRO 6,adjacence,METRO 6,697.4525458326492
@@ -3312,12 +3312,12 @@ opera_METRO 7 1,opera_METRO 7 1,correspondance,,0.0
 opera_METRO 7 1,pyramides_METRO 7 1,adjacence,METRO 7 1,554.5942457947243
 opera_METRO 7 1,opera_METRO 7 2,correspondance,,0.0
 pyramides_METRO 7 1,pyramides_METRO 7 1,correspondance,,0.0
-pyramides_METRO 7 1,palais royal musee du louvre_METRO 7 1,adjacence,METRO 7 1,369.67930896546267
+pyramides_METRO 7 1,palais royal_METRO 7 1,adjacence,METRO 7 1,369.67930896546267
 pyramides_METRO 7 1,pyramides_METRO 7 2,correspondance,,0.0
 pyramides_METRO 7 1,pyramides_METRO 14,correspondance,,0.0
-palais royal musee du louvre_METRO 7 1,palais royal musee du louvre_METRO 7 1,correspondance,,0.0
-palais royal musee du louvre_METRO 7 1,pont neuf_METRO 7 1,adjacence,METRO 7 1,595.9845754824446
-palais royal musee du louvre_METRO 7 1,palais royal musee du louvre_METRO 7 2,correspondance,,0.0
+palais royal_METRO 7 1,palais royal_METRO 7 1,correspondance,,0.0
+palais royal_METRO 7 1,pont neuf_METRO 7 1,adjacence,METRO 7 1,595.9845754824446
+palais royal_METRO 7 1,palais royal_METRO 7 2,correspondance,,0.0
 pont neuf_METRO 7 1,chatelet_METRO 7 1,adjacence,METRO 7 1,438.05968309474787
 pont neuf_METRO 7 1,pont neuf_METRO 7 2,correspondance,,0.0
 chatelet_METRO 7 1,chatelet_METRO 7 1,correspondance,,0.0
@@ -3394,10 +3394,10 @@ chaussee d'antin la fayette_METRO 7 2,chaussee d'antin la fayette_METRO 9,corres
 opera_METRO 7 2,opera_METRO 7 2,correspondance,,0.0
 opera_METRO 7 2,pyramides_METRO 7 2,adjacence,METRO 7 2,554.5942457947243
 pyramides_METRO 7 2,pyramides_METRO 7 2,correspondance,,0.0
-pyramides_METRO 7 2,palais royal musee du louvre_METRO 7 2,adjacence,METRO 7 2,406.1106854614261
+pyramides_METRO 7 2,palais royal_METRO 7 2,adjacence,METRO 7 2,406.1106854614261
 pyramides_METRO 7 2,pyramides_METRO 14,correspondance,,0.0
-palais royal musee du louvre_METRO 7 2,palais royal musee du louvre_METRO 7 2,correspondance,,0.0
-palais royal musee du louvre_METRO 7 2,pont neuf_METRO 7 2,adjacence,METRO 7 2,616.8131809138938
+palais royal_METRO 7 2,palais royal_METRO 7 2,correspondance,,0.0
+palais royal_METRO 7 2,pont neuf_METRO 7 2,adjacence,METRO 7 2,616.8131809138938
 pont neuf_METRO 7 2,chatelet_METRO 7 2,adjacence,METRO 7 2,332.1359299623198
 chatelet_METRO 7 2,chatelet_METRO 7 2,correspondance,,0.0
 chatelet_METRO 7 2,pont marie_METRO 7 2,adjacence,METRO 7 2,1181.4401112123057
@@ -3463,11 +3463,11 @@ la motte picquet grenelle_METRO 8,la motte picquet grenelle_METRO 8,correspondan
 la motte picquet grenelle_METRO 8,ecole militaire_METRO 8,adjacence,METRO 8,821.7420424964201
 ecole militaire_METRO 8,la tour maubourg_METRO 8,adjacence,METRO 8,438.959850805438
 ecole militaire_METRO 8,ecole militaire_METRO 10,correspondance,,0.0
-la tour maubourg_METRO 8,invalides_METRO 8,adjacence,METRO 8,354.9514799642785
+la tour maubourg_METRO 8,hotel des invalides_METRO 8,adjacence,METRO 8,354.9514799642785
 la tour maubourg_METRO 8,la tour maubourg_METRO 10,correspondance,,0.0
-invalides_METRO 8,invalides_METRO 8,correspondance,,0.0
-invalides_METRO 8,saint francois xavier_METRO 8,adjacence,METRO 8,994.7730777498674
-invalides_METRO 8,invalides_METRO 10,correspondance,,0.0
+hotel des invalides_METRO 8,hotel des invalides_METRO 8,correspondance,,0.0
+hotel des invalides_METRO 8,saint francois xavier_METRO 8,adjacence,METRO 8,994.7730777498674
+hotel des invalides_METRO 8,hotel des invalides_METRO 10,correspondance,,0.0
 saint francois xavier_METRO 8,segur_METRO 8,adjacence,METRO 8,707.9213056968399
 saint francois xavier_METRO 8,saint francois xavier_METRO 13 1,correspondance,,0.0
 segur_METRO 8,duroc_METRO 8,adjacence,METRO 8,704.8697846832265
@@ -3503,7 +3503,7 @@ maison blanche_METRO 8,maison blanche_METRO 8,correspondance,,0.0
 maison blanche_METRO 8,porte d'italie_METRO 8,adjacence,METRO 8,248.94880570082233
 maison blanche_METRO 8,maison blanche_METRO 14,correspondance,,0.0
 porte d'italie_METRO 8,porte d'italie_METRO 8,correspondance,,0.0
-pont de sevres_METRO 9,billancourt_METRO 9,adjacence,METRO 9,520.0537067204316
+sevres_METRO 9,billancourt_METRO 9,adjacence,METRO 9,520.0537067204316
 billancourt_METRO 9,marcel sembat_METRO 9,adjacence,METRO 9,497.5303611499426
 marcel sembat_METRO 9,porte de saint cloud_METRO 9,adjacence,METRO 9,1104.8465078634886
 porte de saint cloud_METRO 9,exelmans_METRO 9,adjacence,METRO 9,527.6124827558582
@@ -3565,9 +3565,9 @@ javel_METRO 10,avenue emile zola_METRO 10,adjacence,METRO 10,1246.5921692247275
 avenue emile zola_METRO 10,charles michels_METRO 10,adjacence,METRO 10,664.0191996873392
 charles michels_METRO 10,ecole militaire_METRO 10,adjacence,METRO 10,1762.3586047378833
 ecole militaire_METRO 10,la tour maubourg_METRO 10,adjacence,METRO 10,438.959850805438
-la tour maubourg_METRO 10,invalides_METRO 10,adjacence,METRO 10,354.9514799642785
-invalides_METRO 10,invalides_METRO 10,correspondance,,0.0
-invalides_METRO 10,solferino_METRO 10,adjacence,METRO 10,642.3923972352203
+la tour maubourg_METRO 10,hotel des invalides_METRO 10,adjacence,METRO 10,354.9514799642785
+hotel des invalides_METRO 10,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_METRO 10,solferino_METRO 10,adjacence,METRO 10,642.3923972352203
 solferino_METRO 10,mabillon_METRO 10,adjacence,METRO 10,1091.3188678509919
 solferino_METRO 10,solferino_METRO 12,correspondance,,0.0
 mabillon_METRO 10,odeon_METRO 10,adjacence,METRO 10,320.17427330758414
@@ -3645,10 +3645,10 @@ saint lazare_METRO 12,saint lazare_METRO 13 1,correspondance,,0.0
 saint lazare_METRO 12,saint lazare_METRO 13 2,correspondance,,0.0
 saint lazare_METRO 12,saint lazare_METRO 14,correspondance,,0.0
 madeleine_METRO 12,madeleine_METRO 12,correspondance,,0.0
-madeleine_METRO 12,concorde_METRO 12,adjacence,METRO 12,447.4189608417819
+madeleine_METRO 12,place de la concorde_METRO 12,adjacence,METRO 12,447.4189608417819
 madeleine_METRO 12,madeleine_METRO 14,correspondance,,0.0
-concorde_METRO 12,concorde_METRO 12,correspondance,,0.0
-concorde_METRO 12,assemblee nationale_METRO 12,adjacence,METRO 12,627.9448180823655
+place de la concorde_METRO 12,place de la concorde_METRO 12,correspondance,,0.0
+place de la concorde_METRO 12,assemblee nationale_METRO 12,adjacence,METRO 12,627.9448180823655
 assemblee nationale_METRO 12,solferino_METRO 12,adjacence,METRO 12,300.11936059433884
 solferino_METRO 12,rue du bac_METRO 12,adjacence,METRO 12,415.5256305478727
 rue du bac_METRO 12,sevres babylone_METRO 12,adjacence,METRO 12,463.6071115623265
