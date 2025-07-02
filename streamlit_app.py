@@ -31,21 +31,19 @@ def load_monuments(monuments_path):
     df = pd.read_csv(monuments_path, encoding='cp1252')
     return df[["Monument"]].drop_duplicates().sort_values("Monument")
 
+@st.cache_data(show_spinner="Chargement des coordonnées…")
+def load_graph_nodes(graph_nodes_path):
+    df = pd.read_csv(graph_nodes_path)
+    df["gare_key"] = df["gare_key"].astype(str)
+    return df
+
 def format_affluence(val):
-    """Transforme 0.98 en 98.0 (1 décimale)."""
     try:
         return f"{round(float(val)*100, 1)}"
     except:
         return "?"
 
 def extract_trajet_info(txt):
-    """
-    Nettoie le texte d’un trajet et extrait :
-    - chaque ligne METRO/RER (une seule occurrence de chaque, jamais 'METRO' tout court)
-    - stats (arrêts, affluence, score...)
-    - supprime toute ligne brute ou polluante
-    Retourne aussi le score !
-    """
     txt = re.sub(
         r"Score du chemin *: *[\d\.]+ +Nombre d’arrêt[s]? *: *[\d\?]+ +Affluence moyenne *: *[\d\.]+ +Affluence max *: *[\d\.]+ +Stations affluence max *:.*(\n)?",
         "", txt
@@ -87,6 +85,9 @@ GRAPH_NODES_PATH = os.path.join(DATA_DIR, "graph_nodes.csv")
 
 # ----------- Interface Streamlit -----------
 
+if "selected_trajet_idx" not in st.session_state:
+    st.session_state['selected_trajet_idx'] = -1
+
 st.sidebar.title("🗺️ Sélectionne tes critères")
 page = st.sidebar.radio(
     "Aller vers…",
@@ -100,6 +101,7 @@ if page == "Calcul d'itinéraire":
 
     stations_df = load_stations(STATIONS_PATH)
     monuments_df = load_monuments(MONUMENTS_PATH)
+    graph_nodes_df = load_graph_nodes(GRAPH_NODES_PATH)
     station_affichage_to_key = dict(zip(stations_df["station"], stations_df["station_key"]))
 
     with st.sidebar.form("params_form"):
@@ -120,6 +122,7 @@ if page == "Calcul d'itinéraire":
         submit = st.form_submit_button("Calculer l’itinéraire")
 
     if submit:
+        st.session_state['selected_trajet_idx'] = -1
         try:
             with st.spinner("Chargement du réseau et des données…"):
                 G = load_graph(GRAPH_PATH)
@@ -131,26 +134,33 @@ if page == "Calcul d'itinéraire":
                 st.error(f"Station de départ « {station_depart_affichage} » (clé: {station_depart_key}) introuvable dans le réseau.")
                 st.stop()
 
-            # --- NOUVELLE LOGIQUE “station la plus proche par ligne” ---
+            # -------- LOGIQUE DU MAIN pour l'arrivée --------
             arr_candidates = find_stations_near_monument(
                 monument_arrivee,
                 rayon_m=900,
                 monuments_csv=MONUMENTS_PATH,
                 stations_csv=GRAPH_NODES_PATH
             )
-
-            afflu_df = pd.read_csv(AFFLUENCE_PATH)  # Pour lier station -> ligne
+            afflu_df = pd.read_csv(AFFLUENCE_PATH)
             line_to_station = dict()  # {ligne: (station_key, distance)}
-            for st, dist in arr_candidates:
-                for _, row in afflu_df[afflu_df["station_key"].apply(lambda x: normalize_name(str(x)) == normalize_name(st))].iterrows():
+            for st_key, dist in arr_candidates:
+                for _, row in afflu_df[afflu_df["station_key"].apply(lambda x: normalize_name(str(x)) == normalize_name(st_key))].iterrows():
                     line = str(row["ligne"])
                     if (line not in line_to_station) or (dist < line_to_station[line][1]):
-                        line_to_station[line] = (normalize_name(st), dist)
+                        line_to_station[line] = (normalize_name(st_key), dist)
             arr_station_keys = [s for s, _ in line_to_station.values()]
+            arr_lines = [line for line in line_to_station.keys()]
+
+            arr_node_ids = []
+            for node, data in G.nodes(data=True):
+                skey = normalize_name(data.get("station_key", ""))
+                line = str(data.get("ligne", ""))
+                if skey in arr_station_keys and line in arr_lines:
+                    arr_node_ids.append(node)
+
             if not arr_station_keys:
-                st.error(f"Aucun accès métro/RER détecté pour le monument « {monument_arrivee} ».")
+                st.error(f"Aucune station d’arrivée trouvée près du monument « {monument_arrivee} ».") 
                 st.stop()
-            # ----------------------------------------------------------
 
             result = find_best_route(
                 G=G,
@@ -160,45 +170,75 @@ if page == "Calcul d'itinéraire":
                 curseur=curseur,
                 verbose=False
             )
+
+            # ----------- Affichage des trajets et boutons -----------
+
             if result:
                 st.markdown('<span style="font-size:1.1em;color:#21ba45;font-weight:600;">✅ Résultats trouvés !</span>', unsafe_allow_html=True)
                 for i, trajet in enumerate(result):
+                    # Calcul des variables d'affichage pour chaque trajet
                     if isinstance(trajet, dict):
                         itineraire_raw = trajet.get('itineraire', format_route(trajet))
-                        itineraire_html, nb_arrets, aff_moy, aff_max, st_aff_max, score = extract_trajet_info(itineraire_raw + "\n" +
-                            f"Nombre d’arrêts : {trajet.get('arrets', '?')}\n" +
-                            f"Affluence moyenne : {trajet.get('affluence_moyenne', '?')}\n" +
-                            f"Affluence max : {trajet.get('affluence_max', '?')}\n" +
-                            f"Stations affluence max : {trajet.get('stations_affluence_max', '?')}\n" +
-                            f"Score du chemin : {trajet.get('score', '?')}\n"
+                        itineraire_html, nb_arrets, aff_moy, aff_max, st_aff_max, score = extract_trajet_info(
+                            itineraire_raw + "\n"
+                            + f"Nombre d’arrêts : {trajet.get('arrets', '?')}\n"
+                            + f"Affluence moyenne : {trajet.get('affluence_moyenne', '?')}\n"
+                            + f"Affluence max : {trajet.get('affluence_max', '?')}\n"
+                            + f"Stations affluence max : {trajet.get('stations_affluence_max', '?')}\n"
+                            + f"Score du chemin : {trajet.get('score', '?')}\n"
                         )
                     else:
                         itineraire_html, nb_arrets, aff_moy, aff_max, st_aff_max, score = extract_trajet_info(format_route(trajet))
+                    
+                    with st.container():
+                        st.markdown(
+                            f"""
+                            <div style="background-color:#F0F6FF;padding:22px 28px 10px 28px;margin-bottom:20px;
+                                border-radius:18px;box-shadow:0 2px 8px #0001">
+                                <h3 style="margin-top:0;margin-bottom:10px;">🚇 Trajet #{i+1}{' (sélectionné)' if st.session_state.get('selected_trajet_idx', -1) == i else ''}</h3>
+                                <div style="font-size:1.13em;margin-bottom:14px;">
+                                    <b>{itineraire_html}</b>
+                                </div>
+                                <ul style="margin-top:0;margin-bottom:10px;line-height:1.7;">
+                                    <li><b>Nombre d’arrêts :</b> {nb_arrets}</li>
+                                    <li><b>Affluence moyenne :</b> {aff_moy}</li>
+                                    <li><b>Affluence max :</b> {aff_max}</li>
+                                    <li><b>Stations affluence max :</b> {st_aff_max}</li>
+                                </ul>
+                                <div style="font-size:0.93em;color:#555;margin-top:8px;text-align:left;">
+                                    <b>Score :</b> {score}
+                                </div>
+                            </div>
+                            """, unsafe_allow_html=True
+                        )
+                        btn_key = f"select_trajet_{i}"
+                        if st.button("Sélectionner ce trajet et afficher la carte", key=btn_key):
+                            st.session_state['selected_trajet_idx'] = i
 
-                    st.markdown(
-                        f"""
-                        <div style="background-color:#F0F6FF;padding:22px 28px 10px 28px;margin-bottom:20px;
-                            border-radius:18px;box-shadow:0 2px 8px #0001">
-                            <h3 style="margin-top:0;margin-bottom:10px;">🚇 Trajet #{i+1}</h3>
-                            <div style="font-size:1.13em;margin-bottom:14px;">
-                                <b>{itineraire_html}</b>
-                            </div>
-                            <ul style="margin-top:0;margin-bottom:10px;line-height:1.7;">
-                                <li><b>Nombre d’arrêts :</b> {nb_arrets}</li>
-                                <li><b>Affluence moyenne :</b> {aff_moy}</li>
-                                <li><b>Affluence max :</b> {aff_max}</li>
-                                <li><b>Stations affluence max :</b> {st_aff_max}</li>
-                            </ul>
-                            <div style="font-size:0.93em;color:#555;margin-top:8px;text-align:left;">
-                                <b>Score :</b> {score}
-                            </div>
-                        </div>
-                        """, unsafe_allow_html=True
-                    )
+                        # Affiche la map UNIQUEMENT pour le trajet sélectionné
+                        if st.session_state.get('selected_trajet_idx', -1) == i:
+                            st.markdown("### 🗺️ Carte de l’itinéraire sélectionné")
+                            path = trajet.get("path", [])
+                            coords = []
+                            for stop in path:
+                                station_key = str(stop[0])
+                                matches = graph_nodes_df[graph_nodes_df["gare_key"].apply(lambda x: normalize_name(str(x)) == normalize_name(station_key))]
+                                if not matches.empty:
+                                    lat = matches.iloc[0]["latitude"]
+                                    lon = matches.iloc[0]["longitude"]
+                                    coords.append({"lat": lat, "lon": lon})
+                            if len(coords) >= 2:
+                                st.map(pd.DataFrame(coords))
+                            elif coords:
+                                st.warning("Impossible d'afficher le trajet : il manque des coordonnées pour certains arrêts.")
+                            else:
+                                st.error("Aucune coordonnée trouvée pour l'itinéraire.")
+
             else:
                 st.warning("Aucun trajet n'a pu être trouvé entre ces points pour vos critères.")
         except Exception as e:
-            st.error(f"Erreur lors du calcul : {e}")
+            import traceback
+            st.error(f"Erreur lors du calcul : {e}\n\n{traceback.format_exc()}")
 
 elif page == "À propos":
     st.title("À propos")
