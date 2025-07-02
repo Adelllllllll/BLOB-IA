@@ -1,0 +1,41 @@
+# Fichiers/dossiers Python inutiles
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers temporaires Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Sauvegardes et archives
+*.zip
+*.tar
+*.tar.gz
+*.bak
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels
+.venv/
+env/
+venv/
+ENV/
+
+# Fichiers de logs
+*.log
+
+# Fichiers générés par l'utilisateur (optionnel)
+dir
+
+# Fichiers tests/démo temporaires (optionnel)
+test.ipynb
+résumé 1.txt
+
+# Pour VSCode (optionnel)
+.vscode/
+
+# Pour PyCharm (optionnel)
+.idea/

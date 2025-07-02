@@ -1,0 +1,1239 @@
+ligne,station,ordre,correspondance,station_norm
+RER A 1,Cergy le Haut,1,,cergy le haut
+RER A 1,Cergy Saint-Christophe,2,,cergy saint christophe
+RER A 1,Cergy Préfecture,3,,cergy prefecture
+RER A 1,Neuville Université,4,,neuville universite
+RER A 1,Conflans Fin d’Oise,5,,conflans fin d'oise
+RER A 1,Achères Ville,6,,acheres ville
+RER A 1,Maisons Laffitte,7,,maisons laffitte
+RER A 1,Sartrouville,8,,sartrouville
+RER A 1,Houilles Carrières sur Seine,9,,houilles carrieres sur seine
+RER A 1,Nanterre – Préfecture,10,,nanterre prefecture
+RER A 1,La Défense Grande Arche,11,METRO 1,la defense grande arche
+RER A 1,Charles de Gaulle – Étoile,12,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+RER A 1,Auber,13,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber
+RER A 1,Châtelet – Les Halles,14,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles
+RER A 1,Paris-Gare de Lyon,15,"METRO 1, METRO 14, RER D",paris gare de lyon
+RER A 1,Nation,16,"METRO 1, METRO 2, METRO 6, METRO 9",nation
+RER A 1,Vincennes,17,,vincennes
+RER A 1,Fontenay sous Bois,18,,fontenay sous bois
+RER A 1,Nogent sur Marne,19,,nogent sur marne
+RER A 1,Joinville le Pont,20,,joinville le pont
+RER A 1,Saint-Maur – Créteil,21,,saint maur creteil
+RER A 1,Le Parc de Saint-Maur,22,,le parc de saint maur
+RER A 1,Champigny,23,,champigny
+RER A 1,La varenne Chennevières,24,,la varenne chennevieres
+RER A 1,Sucy Bonneuil,25,,sucy bonneuil
+RER A 1,Boissy Saint Léger,26,,boissy saint leger
+RER A 2,Poissy,1,,poissy
+RER A 2,Achères Grand Cormier,2,,acheres grand cormier
+RER A 2,Maisons Laffitte,3,,maisons laffitte
+RER A 2,Sartrouville,4,,sartrouville
+RER A 2,Houilles Carrières sur Seine,5,,houilles carrieres sur seine
+RER A 2,Nanterre – Préfecture,6,,nanterre prefecture
+RER A 2,La Défense Grande Arche,7,METRO 1,la defense grande arche
+RER A 2,Charles de Gaulle – Étoile,8,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+RER A 2,Auber,9,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber
+RER A 2,Châtelet – Les Halles,10,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles
+RER A 2,Paris-Gare de Lyon,11,"METRO 1, METRO 14, RER D",paris gare de lyon
+RER A 2,Nation,12,"METRO 1, METRO 2, METRO 6, METRO 9",nation
+RER A 2,Vincennes,13,,vincennes
+RER A 2,Fontenay sous Bois,14,,fontenay sous bois
+RER A 2,Nogent sur Marne,15,,nogent sur marne
+RER A 2,Joinville le Pont,16,,joinville le pont
+RER A 2,Saint-Maur – Créteil,17,,saint maur creteil
+RER A 2,Le Parc de Saint-Maur,18,,le parc de saint maur
+RER A 2,Champigny,19,,champigny
+RER A 2,La varenne Chennevières,20,,la varenne chennevieres
+RER A 2,Sucy Bonneuil,21,,sucy bonneuil
+RER A 2,Boissy Saint Léger,22,,boissy saint leger
+RER A 3,Saint Germain en Laye,1,,saint germain en laye
+RER A 3,Le Vésinet – Le Pecq,2,,le vesinet le pecq
+RER A 3,Le Vésinet – Centre,3,,le vesinet centre
+RER A 3,Chatou-Croissy,4,,chatou croissy
+RER A 3,Rueil Malmaison,5,,rueil malmaison
+RER A 3,Nanterre Ville,6,,nanterre ville
+RER A 3,Nanterre Université,7,,nanterre universite
+RER A 3,Nanterre – Préfecture,8,,nanterre prefecture
+RER A 3,La Défense Grande Arche,9,METRO 1,la defense grande arche
+RER A 3,Charles de Gaulle – Étoile,10,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+RER A 3,Auber,11,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber
+RER A 3,Châtelet – Les Halles,12,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles
+RER A 3,Paris-Gare de Lyon,13,"METRO 1, METRO 14, RER D",paris gare de lyon
+RER A 3,Nation,14,"METRO 1, METRO 2, METRO 6, METRO 9",nation
+RER A 3,Vincennes,15,,vincennes
+RER A 3,Fontenay sous Bois,16,,fontenay sous bois
+RER A 3,Nogent sur Marne,17,,nogent sur marne
+RER A 3,Joinville le Pont,18,,joinville le pont
+RER A 3,Saint-Maur – Créteil,19,,saint maur creteil
+RER A 3,Le Parc de Saint-Maur,20,,le parc de saint maur
+RER A 3,Champigny,21,,champigny
+RER A 3,La varenne Chennevières,22,,la varenne chennevieres
+RER A 3,Sucy Bonneuil,23,,sucy bonneuil
+RER A 3,Boissy Saint Léger,24,,boissy saint leger
+RER A 4,Cergy le Haut,1,,cergy le haut
+RER A 4,Cergy Saint-Christophe,2,,cergy saint christophe
+RER A 4,Cergy Préfecture,3,,cergy prefecture
+RER A 4,Neuville Université,4,,neuville universite
+RER A 4,Conflans Fin d’Oise,5,,conflans fin d'oise
+RER A 4,Achères Ville,6,,acheres ville
+RER A 4,Maisons Laffitte,7,,maisons laffitte
+RER A 4,Sartrouville,8,,sartrouville
+RER A 4,Houilles Carrières sur Seine,9,,houilles carrieres sur seine
+RER A 4,Nanterre – Préfecture,10,,nanterre prefecture
+RER A 4,La Défense Grande Arche,11,METRO 1,la defense grande arche
+RER A 4,Charles de Gaulle – Étoile,12,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+RER A 4,Auber,13,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber
+RER A 4,Châtelet – Les Halles,14,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles
+RER A 4,Paris-Gare de Lyon,15,"METRO 1, METRO 14, RER D",paris gare de lyon
+RER A 4,Nation,16,"METRO 1, METRO 2, METRO 6, METRO 9",nation
+RER A 4,Vincennes,17,,vincennes
+RER A 4,Val de Fontenay,18,RER E,val de fontenay
+RER A 4,Neuilly Plaisance,19,,neuilly plaisance
+RER A 4,Bry sur Marne,20,,bry sur marne
+RER A 4,Noisy le Grand Mont d’Est,21,,noisy le grand mont d'est
+RER A 4,Noisy Champs,22,,noisy champs
+RER A 4,Noisiel,23,,noisiel
+RER A 4,Lognes,24,,lognes
+RER A 4,Torcy,25,,torcy
+RER A 4,Bussy Saint-Georges,26,,bussy saint georges
+RER A 4,Serris-Montévrain – Val d’Europe,27,,serris montevrain val d'europe
+RER A 4,Marne la Vallée Chessy – Parc Disneyland,28,,marne la vallee chessy parc disneyland
+RER A 5,Poissy,1,,poissy
+RER A 5,Achères Grand Cormier,2,,acheres grand cormier
+RER A 5,Maisons Laffitte,3,,maisons laffitte
+RER A 5,Sartrouville,4,,sartrouville
+RER A 5,Houilles Carrières sur Seine,5,,houilles carrieres sur seine
+RER A 5,Nanterre – Préfecture,6,,nanterre prefecture
+RER A 5,La Défense Grande Arche,7,METRO 1,la defense grande arche
+RER A 5,Charles de Gaulle – Étoile,8,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+RER A 5,Auber,9,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber
+RER A 5,Châtelet – Les Halles,10,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles
+RER A 5,Paris-Gare de Lyon,11,"METRO 1, METRO 14, RER D",paris gare de lyon
+RER A 5,Nation,12,"METRO 1, METRO 2, METRO 6, METRO 9",nation
+RER A 5,Vincennes,13,,vincennes
+RER A 5,Val de Fontenay,14,RER E,val de fontenay
+RER A 5,Neuilly Plaisance,15,,neuilly plaisance
+RER A 5,Bry sur Marne,16,,bry sur marne
+RER A 5,Noisy le Grand Mont d’Est,17,,noisy le grand mont d'est
+RER A 5,Noisy Champs,18,,noisy champs
+RER A 5,Noisiel,19,,noisiel
+RER A 5,Lognes,20,,lognes
+RER A 5,Torcy,21,,torcy
+RER A 5,Bussy Saint-Georges,22,,bussy saint georges
+RER A 5,Serris-Montévrain – Val d’Europe,23,,serris montevrain val d'europe
+RER A 5,Marne la Vallée Chessy – Parc Disneyland,24,,marne la vallee chessy parc disneyland
+RER A 6,Saint Germain en Laye,1,,saint germain en laye
+RER A 6,Le Vésinet – Le Pecq,2,,le vesinet le pecq
+RER A 6,Le Vésinet – Centre,3,,le vesinet centre
+RER A 6,Chatou-Croissy,4,,chatou croissy
+RER A 6,Rueil Malmaison,5,,rueil malmaison
+RER A 6,Nanterre Ville,6,,nanterre ville
+RER A 6,Nanterre Université,7,,nanterre universite
+RER A 6,Nanterre – Préfecture,8,,nanterre prefecture
+RER A 6,La Défense Grande Arche,9,METRO 1,la defense grande arche
+RER A 6,Charles de Gaulle – Étoile,10,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+RER A 6,Auber,11,"METRO 3, METRO 7, METRO 8, METRO 9, RER E",auber
+RER A 6,Châtelet – Les Halles,12,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER B, RER D",chatelet les halles
+RER A 6,Paris-Gare de Lyon,13,"METRO 1, METRO 14, RER D",paris gare de lyon
+RER A 6,Nation,14,"METRO 1, METRO 2, METRO 6, METRO 9",nation
+RER A 6,Vincennes,15,,vincennes
+RER A 6,Val de Fontenay,16,RER E,val de fontenay
+RER A 6,Neuilly Plaisance,17,,neuilly plaisance
+RER A 6,Bry sur Marne,18,,bry sur marne
+RER A 6,Noisy le Grand Mont d’Est,19,,noisy le grand mont d'est
+RER A 6,Noisy Champs,20,,noisy champs
+RER A 6,Noisiel,21,,noisiel
+RER A 6,Lognes,22,,lognes
+RER A 6,Torcy,23,,torcy
+RER A 6,Bussy Saint-Georges,24,,bussy saint georges
+RER A 6,Serris-Montévrain – Val d’Europe,25,,serris montevrain val d'europe
+RER A 6,Marne la Vallée Chessy – Parc Disneyland,26,,marne la vallee chessy parc disneyland
+RER B 1,Aéroport Charles de Gaulle 2 TGV,1,,aeroport charles de gaulle 2 tgv
+RER B 1,Aéroport Charles de Gaulle 1,2,,aeroport charles de gaulle 1
+RER B 1,Parc des expositions,3,,parc des expositions
+RER B 1,Villepinte,4,,villepinte
+RER B 1,Sevran Beaudottes,5,,sevran beaudottes
+RER B 1,Aulnay sous Bois,6,,aulnay sous bois
+RER B 1,Le Blanc Mesnil,7,,le blanc mesnil
+RER B 1,Drancy,8,,drancy
+RER B 1,Le Bourget,9,,le bourget
+RER B 1,La Courneuve Aubervilliers,10,,la courneuve aubervilliers
+RER B 1,La Plaine – Stade de France – Saint Denis – Aubervilliers,11,,la plaine stade de france saint denis aubervilliers
+RER B 1,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord
+RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles
+RER B 1,Saint-Michel Notre Dame,14,"RER C, METRO 10",saint michel notre dame
+RER B 1,Luxembourg Sénat,15,,luxembourg senat
+RER B 1,Port Royal,16,,port royal
+RER B 1,Denfert Rochereau – Colonel Rol-Tanguy,17,"METRO 4, METRO 6",denfert rochereau colonel rol tanguy
+RER B 1,Cité Universitaire,18,,cite universitaire
+RER B 1,Gentilly,19,,gentilly
+RER B 1,Laplace – Maison des Examens,20,,laplace maison des examens
+RER B 1,Arcueil Cachan,21,,arcueil cachan
+RER B 1,Bagneux,22,,bagneux
+RER B 1,Bourg la Reine,23,,bourg la reine
+RER B 1,Sceaux,24,,sceaux
+RER B 1,Fontenay aux Roses,25,,fontenay aux roses
+RER B 1,Robinson,26,,robinson
+RER B 2,Mitry Claye,1,,mitry claye
+RER B 2,Villeparisis Mitry le Neuf,2,,villeparisis mitry le neuf
+RER B 2,Vert Galant,3,,vert galant
+RER B 2,Sevran Livry,4,,sevran livry
+RER B 2,Aulnay sous Bois,5,,aulnay sous bois
+RER B 2,Le Blanc Mesnil,6,,le blanc mesnil
+RER B 2,Drancy,7,,drancy
+RER B 2,Le Bourget,8,,le bourget
+RER B 2,La Courneuve Aubervilliers,9,,la courneuve aubervilliers
+RER B 2,La Plaine – Stade de France – Saint Denis – Aubervilliers,10,,la plaine stade de france saint denis aubervilliers
+RER B 2,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord
+RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles
+RER B 2,Saint-Michel Notre Dame,13,"RER C, METRO 10",saint michel notre dame
+RER B 2,Luxembourg Sénat,14,,luxembourg senat
+RER B 2,Port Royal,15,,port royal
+RER B 2,Denfert Rochereau – Colonel Rol-Tanguy,16,"METRO 4, METRO 6",denfert rochereau colonel rol tanguy
+RER B 2,Cité Universitaire,17,,cite universitaire
+RER B 2,Gentilly,18,,gentilly
+RER B 2,Laplace – Maison des Examens,19,,laplace maison des examens
+RER B 2,Arcueil Cachan,20,,arcueil cachan
+RER B 2,Bagneux,21,,bagneux
+RER B 2,Bourg la Reine,22,,bourg la reine
+RER B 2,Sceaux,23,,sceaux
+RER B 2,Fontenay aux Roses,24,,fontenay aux roses
+RER B 2,Robinson,25,,robinson
+RER B 3,Aéroport Charles de Gaulle 2 TGV,1,,aeroport charles de gaulle 2 tgv
+RER B 3,Aéroport Charles de Gaulle 1,2,,aeroport charles de gaulle 1
+RER B 3,Parc des expositions,3,,parc des expositions
+RER B 3,Villepinte,4,,villepinte
+RER B 3,Sevran Beaudottes,5,,sevran beaudottes
+RER B 3,Aulnay sous Bois,6,,aulnay sous bois
+RER B 3,Le Blanc Mesnil,7,,le blanc mesnil
+RER B 3,Drancy,8,,drancy
+RER B 3,Le Bourget,9,,le bourget
+RER B 3,La Courneuve Aubervilliers,10,,la courneuve aubervilliers
+RER B 3,La Plaine – Stade de France – Saint Denis – Aubervilliers,11,,la plaine stade de france saint denis aubervilliers
+RER B 3,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord
+RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles
+RER B 3,Saint-Michel Notre Dame,14,"RER C, METRO 10",saint michel notre dame
+RER B 3,Luxembourg Sénat,15,,luxembourg senat
+RER B 3,Port Royal,16,,port royal
+RER B 3,Denfert Rochereau – Colonel Rol-Tanguy,17,"METRO 4, METRO 6",denfert rochereau colonel rol tanguy
+RER B 3,Cité Universitaire,18,,cite universitaire
+RER B 3,Gentilly,19,,gentilly
+RER B 3,Laplace – Maison des Examens,20,,laplace maison des examens
+RER B 3,Arcueil Cachan,21,,arcueil cachan
+RER B 3,Bagneux,22,,bagneux
+RER B 3,Bourg la Reine,23,,bourg la reine
+RER B 3,Parc de Sceaux,24,,parc de sceaux
+RER B 3,La Croix de Berny,25,,la croix de berny
+RER B 3,Antony – Orly,26,,antony orly
+RER B 3,Fontaine Michalon,27,,fontaine michalon
+RER B 3,Les Baconnets,28,,les baconnets
+RER B 3,Massy Verrières,29,RER C,massy verrieres
+RER B 3,Massy Palaiseau,30,RER C,massy palaiseau
+RER B 3,Palaiseau,31,,palaiseau
+RER B 3,Palaiseau Villebon,32,,palaiseau villebon
+RER B 3,Lozère École Polytechnique,33,,lozere ecole polytechnique
+RER B 3,Le Guichet,34,,le guichet
+RER B 3,Orsay Ville,35,,orsay ville
+RER B 3,Bures sur Yvette,36,,bures sur yvette
+RER B 3,La Hacquinière,37,,la hacquiniere
+RER B 3,Gif sur Yvette,38,,gif sur yvette
+RER B 3,Courcelle sur Yvette,39,,courcelle sur yvette
+RER B 3,Saint-Rémy lès Chevreuse,40,,saint remy les chevreuse
+RER B 4,Mitry Claye,1,,mitry claye
+RER B 4,Villeparisis Mitry le Neuf,2,,villeparisis mitry le neuf
+RER B 4,Vert Galant,3,,vert galant
+RER B 4,Sevran Livry,4,,sevran livry
+RER B 4,Aulnay sous Bois,5,,aulnay sous bois
+RER B 4,Le Blanc Mesnil,6,,le blanc mesnil
+RER B 4,Drancy,7,,drancy
+RER B 4,Le Bourget,8,,le bourget
+RER B 4,La Courneuve Aubervilliers,9,,la courneuve aubervilliers
+RER B 4,La Plaine – Stade de France – Saint Denis – Aubervilliers,10,,la plaine stade de france saint denis aubervilliers
+RER B 4,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord
+RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles
+RER B 4,Saint-Michel Notre Dame,13,"RER C, METRO 10",saint michel notre dame
+RER B 4,Luxembourg Sénat,14,,luxembourg senat
+RER B 4,Port Royal,15,,port royal
+RER B 4,Denfert Rochereau – Colonel Rol-Tanguy,16,"METRO 4, METRO 6",denfert rochereau colonel rol tanguy
+RER B 4,Cité Universitaire,17,,cite universitaire
+RER B 4,Gentilly,18,,gentilly
+RER B 4,Laplace – Maison des Examens,19,,laplace maison des examens
+RER B 4,Arcueil Cachan,20,,arcueil cachan
+RER B 4,Bagneux,21,,bagneux
+RER B 4,Bourg la Reine,22,,bourg la reine
+RER B 4,Parc de Sceaux,23,,parc de sceaux
+RER B 4,La Croix de Berny,24,,la croix de berny
+RER B 4,Antony – Orly,25,,antony orly
+RER B 4,Fontaine Michalon,26,,fontaine michalon
+RER B 4,Les Baconnets,27,,les baconnets
+RER B 4,Massy Verrières,28,RER C,massy verrieres
+RER B 4,Massy Palaiseau,29,RER C,massy palaiseau
+RER B 4,Palaiseau,30,,palaiseau
+RER B 4,Palaiseau Villebon,31,,palaiseau villebon
+RER B 4,Lozère École Polytechnique,32,,lozere ecole polytechnique
+RER B 4,Le Guichet,33,,le guichet
+RER B 4,Orsay Ville,34,,orsay ville
+RER B 4,Bures sur Yvette,35,,bures sur yvette
+RER B 4,La Hacquinière,36,,la hacquiniere
+RER B 4,Gif sur Yvette,37,,gif sur yvette
+RER B 4,Courcelle sur Yvette,38,,courcelle sur yvette
+RER B 4,Saint-Rémy lès Chevreuse,39,,saint remy les chevreuse
+RER C 1,Pontoise,1,,pontoise
+RER C 1,Saint-Ouen l’Aumône,2,,saint ouen l'aumone
+RER C 1,Saint-Ouen l’Aumône Liesse,3,,saint ouen l'aumone liesse
+RER C 1,Pierrelaye,4,,pierrelaye
+RER C 1,Montigny Beauchamp,5,,montigny beauchamp
+RER C 1,Franconville Le Plessis-Bouchard,6,,franconville le plessis bouchard
+RER C 1,Cernay,7,,cernay
+RER C 1,Ermont Eaubonne,8,,ermont eaubonne
+RER C 1,Saint-Gratien,9,,saint gratien
+RER C 1,Épinay-sur-Seine,10,,epinay sur seine
+RER C 1,Gennevilliers,11,,gennevilliers
+RER C 1,Les Grésillons,12,,les gresillons
+RER C 1,Saint-Ouen,13,METRO 14,saint ouen
+RER C 1,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris
+RER C 1,Péreire Levallois,15,METRO 3,pereire levallois
+RER C 1,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres
+RER C 1,Avenue Foch,17,METRO 2,avenue foch
+RER C 1,Avenue Henri Martin,18,METRO 9,avenue henri martin
+RER C 1,Boulainvilliers,19,METRO 9,boulainvilliers
+RER C 1,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france
+RER C 1,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel
+RER C 1,Pont de l’Alma,22,METRO 9,pont de l'alma
+RER C 1,Invalides,23,"METRO 8, METRO 13",invalides
+RER C 1,Musée d’Orsay,24,METRO 12,musee d'orsay
+RER C 1,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 1,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz
+RER C 1,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand
+RER C 1,Ivry sur Seine,28,METRO 7,ivry sur seine
+RER C 1,Vitry sur Seine,29,,vitry sur seine
+RER C 1,Les Ardoines,30,,les ardoines
+RER C 1,Choisy le Roi,31,,choisy le roi
+RER C 1,Les Saules,32,,les saules
+RER C 1,Orly Ville,33,,orly ville
+RER C 1,Pont de Rungis – Aéroport d’Orly,34,METRO 14,pont de rungis aeroport d'orly
+RER C 1,Rungis La Fraternelle,35,,rungis la fraternelle
+RER C 1,Chemin d’Antony,36,,chemin d'antony
+RER C 1,Massy Verrières,37,RER B,massy verrieres
+RER C 1,Massy Palaiseau,38,RER B,massy palaiseau
+RER C 2,Pontoise,1,,pontoise
+RER C 2,Saint-Ouen l’Aumône,2,,saint ouen l'aumone
+RER C 2,Saint-Ouen l’Aumône Liesse,3,,saint ouen l'aumone liesse
+RER C 2,Pierrelaye,4,,pierrelaye
+RER C 2,Montigny Beauchamp,5,,montigny beauchamp
+RER C 2,Franconville Le Plessis-Bouchard,6,,franconville le plessis bouchard
+RER C 2,Cernay,7,,cernay
+RER C 2,Ermont Eaubonne,8,,ermont eaubonne
+RER C 2,Saint-Gratien,9,,saint gratien
+RER C 2,Épinay-sur-Seine,10,,epinay sur seine
+RER C 2,Gennevilliers,11,,gennevilliers
+RER C 2,Les Grésillons,12,,les gresillons
+RER C 2,Saint-Ouen,13,METRO 14,saint ouen
+RER C 2,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris
+RER C 2,Péreire Levallois,15,METRO 3,pereire levallois
+RER C 2,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres
+RER C 2,Avenue Foch,17,METRO 2,avenue foch
+RER C 2,Avenue Henri Martin,18,METRO 9,avenue henri martin
+RER C 2,Boulainvilliers,19,METRO 9,boulainvilliers
+RER C 2,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france
+RER C 2,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel
+RER C 2,Pont de l’Alma,22,METRO 9,pont de l'alma
+RER C 2,Invalides,23,"METRO 8, METRO 13",invalides
+RER C 2,Musée d’Orsay,24,METRO 12,musee d'orsay
+RER C 2,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 2,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz
+RER C 2,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand
+RER C 2,Ivry sur Seine,28,METRO 7,ivry sur seine
+RER C 2,Vitry sur Seine,29,,vitry sur seine
+RER C 2,Les Ardoines,30,,les ardoines
+RER C 2,Choisy le Roi,31,,choisy le roi
+RER C 2,Les Saules,32,,les saules
+RER C 2,Orly Ville,33,,orly ville
+RER C 2,Pont de Rungis – Aéroport d’Orly,34,METRO 14,pont de rungis aeroport d'orly
+RER C 2,Rungis La Fraternelle,35,,rungis la fraternelle
+RER C 2,Chemin d’Antony,36,,chemin d'antony
+RER C 2,Massy Verrières,37,RER B,massy verrieres
+RER C 2,Massy Palaiseau,38,RER B,massy palaiseau
+RER C 2,Savigny sur Orge,39,,savigny sur orge
+RER C 2,Épinay sur Orge,40,,epinay sur orge
+RER C 2,Sainte-Geneviève des Bois,41,,sainte genevieve des bois
+RER C 2,Saint-Michel sur Orge,42,,saint michel sur orge
+RER C 2,Brétigny,43,,bretigny
+RER C 2,Marolles en Hurepoix,44,,marolles en hurepoix
+RER C 2,Bouray,45,,bouray
+RER C 2,Lardy,46,,lardy
+RER C 2,Chamarande,47,,chamarande
+RER C 2,Étréchy,48,,etrechy
+RER C 2,Étampes,49,,etampes
+RER C 2,Saint Martin d’Étampes,50,,saint martin d'etampes
+RER C 3,Pontoise,1,,pontoise
+RER C 3,Saint-Ouen l’Aumône,2,,saint ouen l'aumone
+RER C 3,Saint-Ouen l’Aumône Liesse,3,,saint ouen l'aumone liesse
+RER C 3,Pierrelaye,4,,pierrelaye
+RER C 3,Montigny Beauchamp,5,,montigny beauchamp
+RER C 3,Franconville Le Plessis-Bouchard,6,,franconville le plessis bouchard
+RER C 3,Cernay,7,,cernay
+RER C 3,Ermont Eaubonne,8,,ermont eaubonne
+RER C 3,Saint-Gratien,9,,saint gratien
+RER C 3,Épinay-sur-Seine,10,,epinay sur seine
+RER C 3,Gennevilliers,11,,gennevilliers
+RER C 3,Les Grésillons,12,,les gresillons
+RER C 3,Saint-Ouen,13,METRO 14,saint ouen
+RER C 3,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris
+RER C 3,Péreire Levallois,15,METRO 3,pereire levallois
+RER C 3,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres
+RER C 3,Avenue Foch,17,METRO 2,avenue foch
+RER C 3,Avenue Henri Martin,18,METRO 9,avenue henri martin
+RER C 3,Boulainvilliers,19,METRO 9,boulainvilliers
+RER C 3,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france
+RER C 3,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel
+RER C 3,Pont de l’Alma,22,METRO 9,pont de l'alma
+RER C 3,Invalides,23,"METRO 8, METRO 13",invalides
+RER C 3,Musée d’Orsay,24,METRO 12,musee d'orsay
+RER C 3,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 3,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz
+RER C 3,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand
+RER C 3,Ivry sur Seine,28,METRO 7,ivry sur seine
+RER C 3,Vitry sur Seine,29,,vitry sur seine
+RER C 3,Les Ardoines,30,,les ardoines
+RER C 3,Choisy le Roi,31,,choisy le roi
+RER C 3,Les Saules,32,,les saules
+RER C 3,Orly Ville,33,,orly ville
+RER C 3,Pont de Rungis – Aéroport d’Orly,34,METRO 14,pont de rungis aeroport d'orly
+RER C 3,Rungis La Fraternelle,35,,rungis la fraternelle
+RER C 3,Chemin d’Antony,36,,chemin d'antony
+RER C 3,Massy Verrières,37,RER B,massy verrieres
+RER C 3,Massy Palaiseau,38,RER B,massy palaiseau
+RER C 3,Brétigny,39,,bretigny
+RER C 3,La Norville – Saint-Germain lès Arpajon,40,,la norville saint germain les arpajon
+RER C 3,Arpajon,41,,arpajon
+RER C 3,Égly,42,,egly
+RER C 3,Breuillet – Bruyères le Châtel,43,,breuillet bruyeres le chatel
+RER C 3,Breuillet Village,44,,breuillet village
+RER C 3,Saint-Chéron,45,,saint cheron
+RER C 3,Sermaise,46,,sermaise
+RER C 3,Dourdan,47,,dourdan
+RER C 3,Dourdan la Forêt,48,,dourdan la foret
+RER C 4,Versailles Château Rive Gauche,1,,versailles chateau rive gauche
+RER C 4,Porchefontaine,2,,porchefontaine
+RER C 4,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche
+RER C 4,Chaville Vélizy,4,,chaville velizy
+RER C 4,Meudon Val Fleury,5,,meudon val fleury
+RER C 4,Issy,6,,issy
+RER C 4,Issy Val de Seine,7,,issy val de seine
+RER C 4,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou
+RER C 4,Javel,9,METRO 10,javel
+RER C 4,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel
+RER C 4,Pont de l’Alma,11,METRO 9,pont de l'alma
+RER C 4,Invalides,12,"METRO 8, METRO 13",invalides
+RER C 4,Musée d’Orsay,13,METRO 12,musee d'orsay
+RER C 4,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 4,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz
+RER C 4,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand
+RER C 4,Ivry sur Seine,17,METRO 7,ivry sur seine
+RER C 4,Vitry sur Seine,18,,vitry sur seine
+RER C 4,Les Ardoines,19,,les ardoines
+RER C 4,Choisy le Roi,20,,choisy le roi
+RER C 4,Les Saules,21,,les saules
+RER C 4,Orly Ville,22,,orly ville
+RER C 4,Pont de Rungis – Aéroport d’Orly,23,METRO 14,pont de rungis aeroport d'orly
+RER C 4,Rungis La Fraternelle,24,,rungis la fraternelle
+RER C 4,Chemin d’Antony,25,,chemin d'antony
+RER C 4,Massy Verrières,26,RER B,massy verrieres
+RER C 4,Massy Palaiseau,27,RER B,massy palaiseau
+RER C 5,Versailles Château Rive Gauche,1,,versailles chateau rive gauche
+RER C 5,Porchefontaine,2,,porchefontaine
+RER C 5,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche
+RER C 5,Chaville Vélizy,4,,chaville velizy
+RER C 5,Meudon Val Fleury,5,,meudon val fleury
+RER C 5,Issy,6,,issy
+RER C 5,Issy Val de Seine,7,,issy val de seine
+RER C 5,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou
+RER C 5,Javel,9,METRO 10,javel
+RER C 5,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel
+RER C 5,Pont de l’Alma,11,METRO 9,pont de l'alma
+RER C 5,Invalides,12,"METRO 8, METRO 13",invalides
+RER C 5,Musée d’Orsay,13,METRO 12,musee d'orsay
+RER C 5,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 5,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz
+RER C 5,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand
+RER C 5,Ivry sur Seine,17,METRO 7,ivry sur seine
+RER C 5,Vitry sur Seine,18,,vitry sur seine
+RER C 5,Les Ardoines,19,,les ardoines
+RER C 5,Choisy le Roi,20,,choisy le roi
+RER C 5,Les Saules,21,,les saules
+RER C 5,Orly Ville,22,,orly ville
+RER C 5,Pont de Rungis – Aéroport d’Orly,23,METRO 14,pont de rungis aeroport d'orly
+RER C 5,Rungis La Fraternelle,24,,rungis la fraternelle
+RER C 5,Chemin d’Antony,25,,chemin d'antony
+RER C 5,Massy Verrières,26,RER B,massy verrieres
+RER C 5,Massy Palaiseau,27,RER B,massy palaiseau
+RER C 5,Savigny sur Orge,28,,savigny sur orge
+RER C 5,Épinay sur Orge,29,,epinay sur orge
+RER C 5,Sainte-Geneviève des Bois,30,,sainte genevieve des bois
+RER C 5,Saint-Michel sur Orge,31,,saint michel sur orge
+RER C 5,Brétigny,32,,bretigny
+RER C 5,Marolles en Hurepoix,33,,marolles en hurepoix
+RER C 5,Bouray,34,,bouray
+RER C 5,Lardy,35,,lardy
+RER C 5,Chamarande,36,,chamarande
+RER C 5,Étréchy,37,,etrechy
+RER C 5,Étampes,38,,etampes
+RER C 5,Saint Martin d’Étampes,39,,saint martin d'etampes
+RER C 6,Versailles Château Rive Gauche,1,,versailles chateau rive gauche
+RER C 6,Porchefontaine,2,,porchefontaine
+RER C 6,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche
+RER C 6,Chaville Vélizy,4,,chaville velizy
+RER C 6,Meudon Val Fleury,5,,meudon val fleury
+RER C 6,Issy,6,,issy
+RER C 6,Issy Val de Seine,7,,issy val de seine
+RER C 6,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou
+RER C 6,Javel,9,METRO 10,javel
+RER C 6,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel
+RER C 6,Pont de l’Alma,11,METRO 9,pont de l'alma
+RER C 6,Invalides,12,"METRO 8, METRO 13",invalides
+RER C 6,Musée d’Orsay,13,METRO 12,musee d'orsay
+RER C 6,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 6,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz
+RER C 6,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand
+RER C 6,Ivry sur Seine,17,METRO 7,ivry sur seine
+RER C 6,Vitry sur Seine,18,,vitry sur seine
+RER C 6,Les Ardoines,19,,les ardoines
+RER C 6,Choisy le Roi,20,,choisy le roi
+RER C 6,Les Saules,21,,les saules
+RER C 6,Orly Ville,22,,orly ville
+RER C 6,Pont de Rungis – Aéroport d’Orly,23,METRO 14,pont de rungis aeroport d'orly
+RER C 6,Rungis La Fraternelle,24,,rungis la fraternelle
+RER C 6,Chemin d’Antony,25,,chemin d'antony
+RER C 6,Massy Verrières,26,RER B,massy verrieres
+RER C 6,Massy Palaiseau,27,RER B,massy palaiseau
+RER C 6,Brétigny,28,,bretigny
+RER C 6,La Norville – Saint-Germain lès Arpajon,29,,la norville saint germain les arpajon
+RER C 6,Arpajon,30,,arpajon
+RER C 6,Égly,31,,egly
+RER C 6,Breuillet – Bruyères le Châtel,32,,breuillet bruyeres le chatel
+RER C 6,Breuillet Village,33,,breuillet village
+RER C 6,Saint-Chéron,34,,saint cheron
+RER C 6,Sermaise,35,,sermaise
+RER C 6,Dourdan,36,,dourdan
+RER C 6,Dourdan la Forêt,37,,dourdan la foret
+RER C 7,Saint Quentin en Yvelines,1,,saint quentin en yvelines
+RER C 7,Saint-Cyr,2,,saint cyr
+RER C 7,Versailles Chantiers,3,,versailles chantiers
+RER C 7,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche
+RER C 7,Chaville Vélizy,5,,chaville velizy
+RER C 7,Meudon Val Fleury,6,,meudon val fleury
+RER C 7,Issy,7,,issy
+RER C 7,Issy Val de Seine,8,,issy val de seine
+RER C 7,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou
+RER C 7,Javel,10,METRO 10,javel
+RER C 7,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel
+RER C 7,Pont de l’Alma,12,METRO 9,pont de l'alma
+RER C 7,Invalides,13,"METRO 8, METRO 13",invalides
+RER C 7,Musée d’Orsay,14,METRO 12,musee d'orsay
+RER C 7,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 7,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz
+RER C 7,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand
+RER C 7,Ivry sur Seine,18,METRO 7,ivry sur seine
+RER C 7,Vitry sur Seine,19,,vitry sur seine
+RER C 7,Les Ardoines,20,,les ardoines
+RER C 7,Choisy le Roi,21,,choisy le roi
+RER C 7,Les Saules,22,,les saules
+RER C 7,Orly Ville,23,,orly ville
+RER C 7,Pont de Rungis – Aéroport d’Orly,24,METRO 14,pont de rungis aeroport d'orly
+RER C 7,Rungis La Fraternelle,25,,rungis la fraternelle
+RER C 7,Chemin d’Antony,26,,chemin d'antony
+RER C 7,Massy Verrières,27,RER B,massy verrieres
+RER C 7,Massy Palaiseau,28,RER B,massy palaiseau
+RER C 8,Saint Quentin en Yvelines,1,,saint quentin en yvelines
+RER C 8,Saint-Cyr,2,,saint cyr
+RER C 8,Versailles Chantiers,3,,versailles chantiers
+RER C 8,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche
+RER C 8,Chaville Vélizy,5,,chaville velizy
+RER C 8,Meudon Val Fleury,6,,meudon val fleury
+RER C 8,Issy,7,,issy
+RER C 8,Issy Val de Seine,8,,issy val de seine
+RER C 8,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou
+RER C 8,Javel,10,METRO 10,javel
+RER C 8,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel
+RER C 8,Pont de l’Alma,12,METRO 9,pont de l'alma
+RER C 8,Invalides,13,"METRO 8, METRO 13",invalides
+RER C 8,Musée d’Orsay,14,METRO 12,musee d'orsay
+RER C 8,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 8,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz
+RER C 8,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand
+RER C 8,Ivry sur Seine,18,METRO 7,ivry sur seine
+RER C 8,Vitry sur Seine,19,,vitry sur seine
+RER C 8,Les Ardoines,20,,les ardoines
+RER C 8,Choisy le Roi,21,,choisy le roi
+RER C 8,Les Saules,22,,les saules
+RER C 8,Orly Ville,23,,orly ville
+RER C 8,Pont de Rungis – Aéroport d’Orly,24,METRO 14,pont de rungis aeroport d'orly
+RER C 8,Rungis La Fraternelle,25,,rungis la fraternelle
+RER C 8,Chemin d’Antony,26,,chemin d'antony
+RER C 8,Massy Verrières,27,RER B,massy verrieres
+RER C 8,Massy Palaiseau,28,RER B,massy palaiseau
+RER C 8,Savigny sur Orge,29,,savigny sur orge
+RER C 8,Épinay sur Orge,30,,epinay sur orge
+RER C 8,Sainte-Geneviève des Bois,31,,sainte genevieve des bois
+RER C 8,Saint-Michel sur Orge,32,,saint michel sur orge
+RER C 8,Brétigny,33,,bretigny
+RER C 8,Marolles en Hurepoix,34,,marolles en hurepoix
+RER C 8,Bouray,35,,bouray
+RER C 8,Lardy,36,,lardy
+RER C 8,Chamarande,37,,chamarande
+RER C 8,Étréchy,38,,etrechy
+RER C 8,Étampes,39,,etampes
+RER C 8,Saint Martin d’Étampes,40,,saint martin d'etampes
+RER C 9,Saint Quentin en Yvelines,1,,saint quentin en yvelines
+RER C 9,Saint-Cyr,2,,saint cyr
+RER C 9,Versailles Chantiers,3,,versailles chantiers
+RER C 9,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche
+RER C 9,Chaville Vélizy,5,,chaville velizy
+RER C 9,Meudon Val Fleury,6,,meudon val fleury
+RER C 9,Issy,7,,issy
+RER C 9,Issy Val de Seine,8,,issy val de seine
+RER C 9,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou
+RER C 9,Javel,10,METRO 10,javel
+RER C 9,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel
+RER C 9,Pont de l’Alma,12,METRO 9,pont de l'alma
+RER C 9,Invalides,13,"METRO 8, METRO 13",invalides
+RER C 9,Musée d’Orsay,14,METRO 12,musee d'orsay
+RER C 9,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame
+RER C 9,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz
+RER C 9,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand
+RER C 9,Ivry sur Seine,18,METRO 7,ivry sur seine
+RER C 9,Vitry sur Seine,19,,vitry sur seine
+RER C 9,Les Ardoines,20,,les ardoines
+RER C 9,Choisy le Roi,21,,choisy le roi
+RER C 9,Les Saules,22,,les saules
+RER C 9,Orly Ville,23,,orly ville
+RER C 9,Pont de Rungis – Aéroport d’Orly,24,METRO 14,pont de rungis aeroport d'orly
+RER C 9,Rungis La Fraternelle,25,,rungis la fraternelle
+RER C 9,Chemin d’Antony,26,,chemin d'antony
+RER C 9,Massy Verrières,27,RER B,massy verrieres
+RER C 9,Massy Palaiseau,28,RER B,massy palaiseau
+RER C 9,Brétigny,29,,bretigny
+RER C 9,La Norville – Saint-Germain lès Arpajon,30,,la norville saint germain les arpajon
+RER C 9,Arpajon,31,,arpajon
+RER C 9,Égly,32,,egly
+RER C 9,Breuillet – Bruyères le Châtel,33,,breuillet bruyeres le chatel
+RER C 9,Breuillet Village,34,,breuillet village
+RER C 9,Saint-Chéron,35,,saint cheron
+RER C 9,Sermaise,36,,sermaise
+RER C 9,Dourdan,37,,dourdan
+RER C 9,Dourdan la Forêt,38,,dourdan la foret
+RER D 1,Creil,1,,creil
+RER D 1,Ormoy-Villers,2,,ormoy villers
+RER D 1,Montataire,3,,montataire
+RER D 1,Cramoisy,4,,cramoisy
+RER D 1,Pont-Sainte-Maxence,5,,pont sainte maxence
+RER D 1,Rieux,6,,rieux
+RER D 1,Villiers-le-Sec,7,,villiers le sec
+RER D 1,Verneuil-en-Halatte,8,,verneuil en halatte
+RER D 1,Clermont,9,,clermont
+RER D 1,Saint-Leu-d'Esserent,10,,saint leu d'esserent
+RER D 1,Boran-sur-Oise,11,,boran sur oise
+RER D 1,Pontpoint,12,,pontpoint
+RER D 1,Montsoult-Maffliers,13,,montsoult maffliers
+RER D 1,Enghien-les-Bains,14,,enghien les bains
+RER D 1,Montmorency,15,,montmorency
+RER D 1,Eaubonne,16,,eaubonne
+RER D 1,Saint-Gratien,17,,saint gratien
+RER D 1,Le Bourget,18,RER B,le bourget
+RER D 1,Drancy,19,RER B,drancy
+RER D 1,Gagny,20,,gagny
+RER D 1,Noisy-le-Sec,21,,noisy le sec
+RER D 1,Rosny-sous-Bois,22,,rosny sous bois
+RER D 1,Val-de-Fontenay,23,RER A,val de fontenay
+RER D 1,Nogent-sur-Marne,24,METRO 1,nogent sur marne
+RER D 1,Joinville-le-Pont,25,,joinville le pont
+RER D 1,Créteil-Pompadour,26,,creteil pompadour
+RER D 1,Créteil-Pompadour,27,,creteil pompadour
+RER D 1,Maisons-Alfort - Alfortville,28,,maisons alfort alfortville
+RER D 1,Maisons-Alfort,29,RER A,maisons alfort
+RER D 1,Villeneuve-Saint-Georges,30,RER A,villeneuve saint georges
+RER D 1,Vigneux-sur-Seine,31,,vigneux sur seine
+RER D 1,Montgeron,32,,montgeron
+RER D 1,Yerres,33,,yerres
+RER D 1,Combs-la-Ville,34,,combs la ville
+RER D 1,Lieusaint,35,,lieusaint
+RER D 1,Melun,36,,melun
+RER D 2,Creil,1,,creil
+RER D 2,Ormoy-Villers,2,,ormoy villers
+RER D 2,Montataire,3,,montataire
+RER D 2,Cramoisy,4,,cramoisy
+RER D 2,Pont-Sainte-Maxence,5,,pont sainte maxence
+RER D 2,Rieux,6,,rieux
+RER D 2,Villiers-le-Sec,7,,villiers le sec
+RER D 2,Verneuil-en-Halatte,8,,verneuil en halatte
+RER D 2,Clermont,9,,clermont
+RER D 2,Saint-Leu-d'Esserent,10,,saint leu d'esserent
+RER D 2,Boran-sur-Oise,11,,boran sur oise
+RER D 2,Pontpoint,12,,pontpoint
+RER D 2,Montsoult-Maffliers,13,,montsoult maffliers
+RER D 2,Enghien-les-Bains,14,,enghien les bains
+RER D 2,Montmorency,15,,montmorency
+RER D 2,Eaubonne,16,,eaubonne
+RER D 2,Saint-Gratien,17,,saint gratien
+RER D 2,Le Bourget,18,RER B,le bourget
+RER D 2,Drancy,19,RER B,drancy
+RER D 2,Gagny,20,,gagny
+RER D 2,Noisy-le-Sec,21,,noisy le sec
+RER D 2,Rosny-sous-Bois,22,,rosny sous bois
+RER D 2,Val-de-Fontenay,23,RER A,val de fontenay
+RER D 2,Nogent-sur-Marne,24,METRO 1,nogent sur marne
+RER D 2,Joinville-le-Pont,25,,joinville le pont
+RER D 2,Créteil-Pompadour,26,,creteil pompadour
+RER D 2,Créteil-Pompadour,27,,creteil pompadour
+RER D 2,Corbeil-Essonnes,28,,corbeil essonnes
+RER D 2,Ris-Orangis,29,,ris orangis
+RER D 2,Melun,30,,melun
+RER D 3,Creil,1,,creil
+RER D 3,Ormoy-Villers,2,,ormoy villers
+RER D 3,Montataire,3,,montataire
+RER D 3,Cramoisy,4,,cramoisy
+RER D 3,Pont-Sainte-Maxence,5,,pont sainte maxence
+RER D 3,Rieux,6,,rieux
+RER D 3,Villiers-le-Sec,7,,villiers le sec
+RER D 3,Verneuil-en-Halatte,8,,verneuil en halatte
+RER D 3,Clermont,9,,clermont
+RER D 3,Saint-Leu-d'Esserent,10,,saint leu d'esserent
+RER D 3,Boran-sur-Oise,11,,boran sur oise
+RER D 3,Pontpoint,12,,pontpoint
+RER D 3,Montsoult-Maffliers,13,,montsoult maffliers
+RER D 3,Enghien-les-Bains,14,,enghien les bains
+RER D 3,Montmorency,15,,montmorency
+RER D 3,Eaubonne,16,,eaubonne
+RER D 3,Saint-Gratien,17,,saint gratien
+RER D 3,Le Bourget,18,RER B,le bourget
+RER D 3,Drancy,19,RER B,drancy
+RER D 3,Gagny,20,,gagny
+RER D 3,Noisy-le-Sec,21,,noisy le sec
+RER D 3,Rosny-sous-Bois,22,,rosny sous bois
+RER D 3,Val-de-Fontenay,23,RER A,val de fontenay
+RER D 3,Nogent-sur-Marne,24,METRO 1,nogent sur marne
+RER D 3,Joinville-le-Pont,25,,joinville le pont
+RER D 3,Créteil-Pompadour,26,,creteil pompadour
+RER D 3,Créteil-Pompadour,27,,creteil pompadour
+RER D 3,Corbeil-Essonnes,28,,corbeil essonnes
+RER D 3,Évry-Courcouronnes,29,,evry courcouronnes
+RER D 3,Melun,30,,melun
+RER D 4,Creil,1,,creil
+RER D 4,Ormoy-Villers,2,,ormoy villers
+RER D 4,Montataire,3,,montataire
+RER D 4,Cramoisy,4,,cramoisy
+RER D 4,Pont-Sainte-Maxence,5,,pont sainte maxence
+RER D 4,Rieux,6,,rieux
+RER D 4,Villiers-le-Sec,7,,villiers le sec
+RER D 4,Verneuil-en-Halatte,8,,verneuil en halatte
+RER D 4,Clermont,9,,clermont
+RER D 4,Saint-Leu-d'Esserent,10,,saint leu d'esserent
+RER D 4,Boran-sur-Oise,11,,boran sur oise
+RER D 4,Pontpoint,12,,pontpoint
+RER D 4,Montsoult-Maffliers,13,,montsoult maffliers
+RER D 4,Enghien-les-Bains,14,,enghien les bains
+RER D 4,Montmorency,15,,montmorency
+RER D 4,Eaubonne,16,,eaubonne
+RER D 4,Saint-Gratien,17,,saint gratien
+RER D 4,Le Bourget,18,RER B,le bourget
+RER D 4,Drancy,19,RER B,drancy
+RER D 4,Gagny,20,,gagny
+RER D 4,Noisy-le-Sec,21,,noisy le sec
+RER D 4,Rosny-sous-Bois,22,,rosny sous bois
+RER D 4,Val-de-Fontenay,23,RER A,val de fontenay
+RER D 4,Nogent-sur-Marne,24,METRO 1,nogent sur marne
+RER D 4,Joinville-le-Pont,25,,joinville le pont
+RER D 4,Créteil-Pompadour,26,,creteil pompadour
+RER D 4,Créteil-Pompadour,27,,creteil pompadour
+RER D 4,Corbeil-Essonnes,28,,corbeil essonnes
+RER D 4,Ris-Orangis,29,,ris orangis
+RER D 4,Malesherbes,30,,malesherbes
+RER D 5,Creil,1,,creil
+RER D 5,Ormoy-Villers,2,,ormoy villers
+RER D 5,Montataire,3,,montataire
+RER D 5,Cramoisy,4,,cramoisy
+RER D 5,Pont-Sainte-Maxence,5,,pont sainte maxence
+RER D 5,Rieux,6,,rieux
+RER D 5,Villiers-le-Sec,7,,villiers le sec
+RER D 5,Verneuil-en-Halatte,8,,verneuil en halatte
+RER D 5,Clermont,9,,clermont
+RER D 5,Saint-Leu-d'Esserent,10,,saint leu d'esserent
+RER D 5,Boran-sur-Oise,11,,boran sur oise
+RER D 5,Pontpoint,12,,pontpoint
+RER D 5,Montsoult-Maffliers,13,,montsoult maffliers
+RER D 5,Enghien-les-Bains,14,,enghien les bains
+RER D 5,Montmorency,15,,montmorency
+RER D 5,Eaubonne,16,,eaubonne
+RER D 5,Saint-Gratien,17,,saint gratien
+RER D 5,Le Bourget,18,RER B,le bourget
+RER D 5,Drancy,19,RER B,drancy
+RER D 5,Gagny,20,,gagny
+RER D 5,Noisy-le-Sec,21,,noisy le sec
+RER D 5,Rosny-sous-Bois,22,,rosny sous bois
+RER D 5,Val-de-Fontenay,23,RER A,val de fontenay
+RER D 5,Nogent-sur-Marne,24,METRO 1,nogent sur marne
+RER D 5,Joinville-le-Pont,25,,joinville le pont
+RER D 5,Créteil-Pompadour,26,,creteil pompadour
+RER D 5,Créteil-Pompadour,27,,creteil pompadour
+RER D 5,Corbeil-Essonnes,28,,corbeil essonnes
+RER D 5,Évry-Courcouronnes,29,,evry courcouronnes
+RER D 5,Malesherbes,30,,malesherbes
+RER E 1,Haussmann – Saint-Lazare,1,,haussmann saint lazare
+RER E 1,Magenta,2,,magenta
+RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord
+RER E 1,Pantin,4,,pantin
+RER E 1,Noisy-le-Sec,5,RER B,noisy le sec
+RER E 1,Rosny-Bois-Perrier,6,,rosny bois perrier
+RER E 1,Neuilly-Plaisance,7,,neuilly plaisance
+RER E 1,Villiers-sur-Marne,8,,villiers sur marne
+RER E 1,Tremblay-en-France,9,,tremblay en france
+RER E 1,Lagny – Thorigny,10,,lagny thorigny
+RER E 1,Esbly,11,,esbly
+RER E 1,Meaux,12,,meaux
+RER E 1,Tournan,13,,tournan
+RER E 2,Haussmann – Saint-Lazare,1,,haussmann saint lazare
+RER E 2,Magenta,2,,magenta
+RER E 2,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord
+RER E 2,Pantin,4,,pantin
+RER E 2,Noisy-le-Sec,5,RER B,noisy le sec
+RER E 2,Bondy,6,,bondy
+RER E 2,Gagny,7,,gagny
+RER E 2,Le Raincy – Villemomble – Montfermeil,8,,le raincy villemomble montfermeil
+RER E 2,Chelles – Gournay,9,,chelles gournay
+METRO 1,La Défense – Grande Arche,1,,la defense grande arche
+METRO 1,Esplanade de La Défense,2,,esplanade de la defense
+METRO 1,Pont de Neuilly,3,,pont de neuilly
+METRO 1,Les Sablons,4,,les sablons
+METRO 1,Porte Maillot,5,"RER C, METRO 1",porte maillot
+METRO 1,Charles de Gaulle – Étoile,6,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+METRO 1,George V,7,,george v
+METRO 1,Franklin D. Roosevelt,8,"METRO 9, METRO 1",franklin d. roosevelt
+METRO 1,Champs-Élysées – Clemenceau,9,,champs elysees clemenceau
+METRO 1,Concorde,10,"METRO 8, METRO 12, METRO 1",concorde
+METRO 1,Tuileries,11,,tuileries
+METRO 1,Palais Royal – Musée du Louvre,12,"METRO 7, METRO 14, RER A",palais royal musee du louvre
+METRO 1,Louvre – Rivoli,13,,louvre rivoli
+METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet
+METRO 1,Hôtel de Ville,15,"METRO 1, METRO 11",hotel de ville
+METRO 1,Saint-Paul,16,,saint paul
+METRO 1,Bastille,17,"METRO 5, METRO 8, METRO 1",bastille
+METRO 1,Reuilly – Diderot,18,"METRO 8, METRO 1",reuilly diderot
+METRO 1,Nation,19,"RER A, METRO 2, METRO 6, METRO 9, METRO 1",nation
+METRO 1,Porte de Vincennes,20,,porte de vincennes
+METRO 1,Saint-Mandé,21,,saint mande
+METRO 1,Bérault,22,,berault
+METRO 1,Château de Vincennes,23,,chateau de vincennes
+METRO 2,Porte Dauphine,1,,porte dauphine
+METRO 2,Victor Hugo,2,,victor hugo
+METRO 2,Charles de Gaulle – Étoile,3,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+METRO 2,Ternes,4,,ternes
+METRO 2,Courcelles,5,,courcelles
+METRO 2,Monceau,6,,monceau
+METRO 2,Villiers,7,,villiers
+METRO 2,Rome,8,,rome
+METRO 2,Place de Clichy,9,"METRO 13, METRO 2",place de clichy
+METRO 2,Blanche,10,,blanche
+METRO 2,Pigalle,11,"METRO 12, METRO 2",pigalle
+METRO 2,Anvers,12,,anvers
+METRO 2,Barbès – Rochechouart,13,"METRO 4, METRO 2",barbes rochechouart
+METRO 2,La Chapelle,14,,la chapelle
+METRO 2,Stalingrad,15,"METRO 7, METRO 2, METRO 5",stalingrad
+METRO 2,Jaurès,16,"METRO 5, METRO 7BIS, METRO 2",jaures
+METRO 2,Colonel Fabien,17,,colonel fabien
+METRO 2,Belleville,18,"METRO 11, METRO 2",belleville
+METRO 2,Couronnes,19,,couronnes
+METRO 2,Ménilmontant,20,,menilmontant
+METRO 2,Père Lachaise,21,"METRO 3BIS, METRO 2",pere lachaise
+METRO 2,Avron,22,,avron
+METRO 2,Nation,23,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation
+METRO 3,Pont de Levallois – Bécon,1,,pont de levallois becon
+METRO 3,Anatole France,2,,anatole france
+METRO 3,Louise Michel,3,,louise michel
+METRO 3,Porte de Champerret,4,,porte de champerret
+METRO 3,Villiers,5,,villiers
+METRO 3,Europe,6,,europe
+METRO 3,Saint-Lazare,7,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
+METRO 3,Havre – Caumartin,8,"METRO 3, METRO 9",havre caumartin
+METRO 3,Opéra,9,"METRO 3, METRO 7, METRO 8",opera
+METRO 3,Quatre-Septembre,10,,quatre septembre
+METRO 3,Bourse,11,,bourse
+METRO 3,Sentier,12,,sentier
+METRO 3,Réaumur – Sébastopol,13,"METRO 4, METRO 3",reaumur sebastopol
+METRO 3,Arts et Métiers,14,"METRO 3, METRO 11",arts et metiers
+METRO 3,Temple,15,,temple
+METRO 3,Filles du Calvaire,16,,filles du calvaire
+METRO 3,Saint-Sébastien – Froissart,17,,saint sebastien froissart
+METRO 3,Chemin Vert,18,,chemin vert
+METRO 3,Saint-Ambroise,19,,saint ambroise
+METRO 3,Père Lachaise,20,"METRO 2, METRO 3BIS",pere lachaise
+METRO 3,Gambetta,21,,gambetta
+METRO 3,Porte de Bagnolet,22,,porte de bagnolet
+METRO 3,Gallieni,23,,gallieni
+METRO 3BIS,Gambetta,1,,gambetta
+METRO 3BIS,Pelleport,2,,pelleport
+METRO 3BIS,Saint-Fargeau,3,,saint fargeau
+METRO 3BIS,Porte des Lilas,4,"METRO 3, METRO 11",porte des lilas
+METRO 4,Porte de Clignancourt,1,,porte de clignancourt
+METRO 4,Marcadet – Poissonniers,2,,marcadet poissonniers
+METRO 4,Simplon,3,,simplon
+METRO 4,Château Rouge,4,,chateau rouge
+METRO 4,Barbès – Rochechouart,5,"METRO 2, METRO 4",barbes rochechouart
+METRO 4,Gare du Nord,6,"RER B, RER D, METRO 4, METRO 5",gare du nord
+METRO 4,Château d’Eau,7,,chateau d'eau
+METRO 4,Strasbourg – Saint-Denis,8,"METRO 8, METRO 9, METRO 4, METRO 11",strasbourg saint denis
+METRO 4,Réaumur – Sébastopol,9,"METRO 3, METRO 4",reaumur sebastopol
+METRO 4,Étienne Marcel,10,,etienne marcel
+METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles
+METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet
+METRO 4,Cité,13,,cite
+METRO 4,Saint-Michel,14,"RER B, METRO 10, METRO 4",saint michel
+METRO 4,Odéon,15,"METRO 10, METRO 4",odeon
+METRO 4,Saint-Germain-des-Prés,16,,saint germain des pres
+METRO 4,Mabillon,17,,mabillon
+METRO 4,Saint-Sulpice,18,,saint sulpice
+METRO 4,Montparnasse – Bienvenüe,19,"METRO 6, METRO 12, METRO 13, METRO 4",montparnasse bienvenue
+METRO 4,Raspail,20,"METRO 6, METRO 12, METRO 4",raspail
+METRO 4,Denfert-Rochereau,21,"METRO 6, METRO 4, RER B",denfert rochereau
+METRO 4,Mouton-Duvernet,22,,mouton duvernet
+METRO 4,Alésia,23,,alesia
+METRO 4,Porte d’Orléans,24,,porte d'orleans
+METRO 4,Mairie de Montrouge,25,,mairie de montrouge
+METRO 4,Bagneux – Lucie Aubrac,26,,bagneux lucie aubrac
+METRO 5,Bobigny – Pablo Picasso,1,,bobigny pablo picasso
+METRO 5,Bobigny – Pantin – Raymond Queneau,2,,bobigny pantin raymond queneau
+METRO 5,Église de Pantin,3,,eglise de pantin
+METRO 5,Hoche,4,,hoche
+METRO 5,Porte de Pantin,5,,porte de pantin
+METRO 5,Ourcq,6,,ourcq
+METRO 5,Laumière,7,,laumiere
+METRO 5,Jaurès,8,"METRO 2, METRO 7, METRO 7BIS, METRO 5",jaures
+METRO 5,Stalingrad,9,"METRO 2, METRO 5, METRO 7",stalingrad
+METRO 5,Bassin de la Villette,10,,bassin de la villette
+METRO 5,Jacques Bonsergent,11,,jacques bonsergent
+METRO 5,République,12,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique
+METRO 5,Oberkampf,13,,oberkampf
+METRO 5,Richard-Lenoir,14,,richard lenoir
+METRO 5,Saint-Ambroise,15,,saint ambroise
+METRO 5,Bastille,16,"METRO 1, METRO 5, METRO 8",bastille
+METRO 5,Quai de la Rapée,17,,quai de la rapee
+METRO 5,Gare d'Austerlitz,18,"METRO 5, RER C",gare d'austerlitz
+METRO 5,Saint-Marcel,19,,saint marcel
+METRO 5,Campo-Formio,20,,campo formio
+METRO 5,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie
+METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+METRO 6,Kléber,2,,kleber
+METRO 6,Trocadéro,3,"METRO 9, METRO 6",trocadero
+METRO 6,Passy,4,,passy
+METRO 6,Bir-Hakeim,5,METRO 6,bir hakeim
+METRO 6,Dupleix,6,,dupleix
+METRO 6,La Motte-Picquet – Grenelle,7,"METRO 8, METRO 10, METRO 6",la motte picquet grenelle
+METRO 6,École Militaire,8,,ecole militaire
+METRO 6,Cambronne,9,,cambronne
+METRO 6,Sèvres – Lecourbe,10,,sevres lecourbe
+METRO 6,Montparnasse – Bienvenüe,11,"METRO 4, METRO 12, METRO 13, METRO 6",montparnasse bienvenue
+METRO 6,Edgar Quinet,12,,edgar quinet
+METRO 6,Raspail,13,"METRO 4, METRO 12, METRO 6",raspail
+METRO 6,Denfert-Rochereau,14,"METRO 4, RER B, METRO 6",denfert rochereau
+METRO 6,Saint-Jacques,15,,saint jacques
+METRO 6,Glacière,16,,glaciere
+METRO 6,Corvisart,17,,corvisart
+METRO 6,Place d'Italie,18,"METRO 5, METRO 7",place d'italie
+METRO 6,Nationale,19,,nationale
+METRO 6,Chevaleret,20,,chevaleret
+METRO 6,Quai de la Gare,21,,quai de la gare
+METRO 6,Bercy,22,,bercy
+METRO 6,Dugommier,23,,dugommier
+METRO 6,Daumesnil,24,"METRO 8, METRO 6",daumesnil
+METRO 6,Bel-Air,25,,bel air
+METRO 6,Picpus,26,,picpus
+METRO 6,Nation,27,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation
+METRO 7 1,La Courneuve – 8 Mai 1945,1,,la courneuve 8 mai 1945
+METRO 7 1,Fort d’Aubervilliers,2,,fort d'aubervilliers
+METRO 7 1,Aubervilliers – Pantin – Quatre Chemins,3,,aubervilliers pantin quatre chemins
+METRO 7 1,Porte de la Villette,4,,porte de la villette
+METRO 7 1,Corentin Cariou,5,,corentin cariou
+METRO 7 1,Crimée,6,,crimee
+METRO 7 1,Riquet,7,,riquet
+METRO 7 1,Stalingrad,8,"METRO 2, METRO 5",stalingrad
+METRO 7 1,Louis Blanc,9,METRO 7BIS,louis blanc
+METRO 7 1,Château-Landon,10,,chateau landon
+METRO 7 1,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est
+METRO 7 1,Poissonnière,12,,poissonniere
+METRO 7 1,Cadet,13,,cadet
+METRO 7 1,Le Peletier,14,,le peletier
+METRO 7 1,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette
+METRO 7 1,Opéra,16,"METRO 3, METRO 8, RER A",opera
+METRO 7 1,Pyramides,17,METRO 14,pyramides
+METRO 7 1,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre
+METRO 7 1,Pont Neuf,19,,pont neuf
+METRO 7 1,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
+METRO 7 1,Pont Marie,21,,pont marie
+METRO 7 1,Sully – Morland,22,,sully morland
+METRO 7 1,Jussieu,23,METRO 10,jussieu
+METRO 7 1,Place Monge,24,,place monge
+METRO 7 1,Censier – Daubenton,25,,censier daubenton
+METRO 7 1,Les Gobelins,26,,les gobelins
+METRO 7 1,Place d’Italie,27,"METRO 5, METRO 6",place d'italie
+METRO 7 1,Tolbiac,28,,tolbiac
+METRO 7 1,Maison Blanche,29,,maison blanche
+METRO 7 1,Porte d’Italie,30,,porte d'italie
+METRO 7 1,Porte de Choisy,31,,porte de choisy
+METRO 7 1,Porte d’Ivry,32,,porte d'ivry
+METRO 7 1,Pierre et Marie Curie,33,,pierre et marie curie
+METRO 7 1,Mairie d’Ivry,34,,mairie d'ivry
+METRO 7 2,La Courneuve – 8 Mai 1945,1,,la courneuve 8 mai 1945
+METRO 7 2,Fort d’Aubervilliers,2,,fort d'aubervilliers
+METRO 7 2,Aubervilliers – Pantin – Quatre Chemins,3,,aubervilliers pantin quatre chemins
+METRO 7 2,Porte de la Villette,4,,porte de la villette
+METRO 7 2,Corentin Cariou,5,,corentin cariou
+METRO 7 2,Crimée,6,,crimee
+METRO 7 2,Riquet,7,,riquet
+METRO 7 2,Stalingrad,8,"METRO 2, METRO 5",stalingrad
+METRO 7 2,Louis Blanc,9,METRO 7BIS,louis blanc
+METRO 7 2,Château-Landon,10,,chateau landon
+METRO 7 2,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est
+METRO 7 2,Poissonnière,12,,poissonniere
+METRO 7 2,Cadet,13,,cadet
+METRO 7 2,Le Peletier,14,,le peletier
+METRO 7 2,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette
+METRO 7 2,Opéra,16,"METRO 3, METRO 8, RER A",opera
+METRO 7 2,Pyramides,17,METRO 14,pyramides
+METRO 7 2,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre
+METRO 7 2,Pont Neuf,19,,pont neuf
+METRO 7 2,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
+METRO 7 2,Pont Marie,21,,pont marie
+METRO 7 2,Sully – Morland,22,,sully morland
+METRO 7 2,Jussieu,23,METRO 10,jussieu
+METRO 7 2,Place Monge,24,,place monge
+METRO 7 2,Censier – Daubenton,25,,censier daubenton
+METRO 7 2,Les Gobelins,26,,les gobelins
+METRO 7 2,Place d’Italie,27,"METRO 5, METRO 6",place d'italie
+METRO 7 2,Tolbiac,28,,tolbiac
+METRO 7 2,Maison Blanche,29,,maison blanche
+METRO 7 2,Porte d’Italie,30,,porte d'italie
+METRO 7 2,Porte de Choisy,31,,porte de choisy
+METRO 7 2,Porte d’Ivry,32,,porte d'ivry
+METRO 7 2,Pierre et Marie Curie,33,,pierre et marie curie
+METRO 7 2,Mairie d’Ivry,34,,mairie d'ivry
+METRO 7 2,Le Kremlin – Bicêtre,35,,le kremlin bicetre
+METRO 7 2,Villejuif – Léo Lagrange,36,,villejuif leo lagrange
+METRO 7 2,Villejuif – Paul Vaillant – Couturier,37,,villejuif paul vaillant couturier
+METRO 7 2,Villejuif – Louis Aragon,38,,villejuif louis aragon
+METRO 8,Balard,1,,balard
+METRO 8,Lourmel,2,,lourmel
+METRO 8,Boulogne – Jean Jaurès,3,,boulogne jean jaures
+METRO 8,Porte d’Auteuil,4,,porte d'auteuil
+METRO 8,Michel-Ange – Molitor,5,METRO 9,michel ange molitor
+METRO 8,Michel-Ange – Auteuil,6,METRO 10,michel ange auteuil
+METRO 8,Javel,7,METRO 10,javel
+METRO 8,Église d’Auteuil,8,,eglise d'auteuil
+METRO 8,Charles Michels,9,,charles michels
+METRO 8,La Motte-Picquet – Grenelle,10,"METRO 6, METRO 10, METRO 8",la motte picquet grenelle
+METRO 8,École Militaire,11,,ecole militaire
+METRO 8,La Tour-Maubourg,12,,la tour maubourg
+METRO 8,Invalides,13,"METRO 8, METRO 13",invalides
+METRO 8,Saint-François-Xavier,14,,saint francois xavier
+METRO 8,Ségur,15,,segur
+METRO 8,Duroc,16,"METRO 10, METRO 13",duroc
+METRO 8,Vaneau,17,,vaneau
+METRO 8,Saint-Placide,18,,saint placide
+METRO 8,Sèvres – Babylone,19,"METRO 10, METRO 12",sevres babylone
+METRO 8,Rennes,20,,rennes
+METRO 8,Saint-Germain-des-Prés,21,,saint germain des pres
+METRO 8,Odéon,22,"METRO 4, METRO 10",odeon
+METRO 8,Cluny – La Sorbonne,23,,cluny la sorbonne
+METRO 8,Maubert – Mutualité,24,,maubert mutualite
+METRO 8,Jussieu,25,"METRO 7, METRO 10",jussieu
+METRO 8,Sulpher – Morland,26,,sulpher morland
+METRO 8,Place Monge,27,,place monge
+METRO 8,Censier – Daubenton,28,,censier daubenton
+METRO 8,Les Gobelins,29,,les gobelins
+METRO 8,Place d’Italie,30,"METRO 5, METRO 6",place d'italie
+METRO 8,Tolbiac,31,,tolbiac
+METRO 8,Maison Blanche,32,,maison blanche
+METRO 8,Porte d’Italie,33,,porte d'italie
+METRO 9,Pont de Sèvres,1,,pont de sevres
+METRO 9,Billancourt,2,,billancourt
+METRO 9,Marcel Sembat,3,,marcel sembat
+METRO 9,Porte de Saint-Cloud,4,,porte de saint cloud
+METRO 9,Exelmans,5,,exelmans
+METRO 9,Michel-Ange – Molitor,6,METRO 6,michel ange molitor
+METRO 9,Michel-Ange – Auteuil,7,METRO 10,michel ange auteuil
+METRO 9,Javel,8,METRO 10,javel
+METRO 9,Église d’Auteuil,9,,eglise d'auteuil
+METRO 9,La Muette,10,,la muette
+METRO 9,Rue de la Pompe,11,,rue de la pompe
+METRO 9,Trocadéro,12,METRO 6,trocadero
+METRO 9,Iéna,13,,iena
+METRO 9,Alma – Marceau,14,,alma marceau
+METRO 9,Franklin D. Roosevelt,15,"METRO 1, METRO 9",franklin d. roosevelt
+METRO 9,Saint-Philippe du Roule,16,,saint philippe du roule
+METRO 9,Miromesnil,17,,miromesnil
+METRO 9,Saint-Augustin,18,,saint augustin
+METRO 9,Havre – Caumartin,19,"METRO 3, METRO 9",havre caumartin
+METRO 9,Chaussée d’Antin – La Fayette,20,"METRO 3, METRO 9",chaussee d'antin la fayette
+METRO 9,Richelieu – Drouot,21,,richelieu drouot
+METRO 9,Grands Boulevards,22,,grands boulevards
+METRO 9,Bonne Nouvelle,23,,bonne nouvelle
+METRO 9,Strasbourg – Saint-Denis,24,"METRO 4, METRO 8, METRO 9, METRO 11",strasbourg saint denis
+METRO 9,République,25,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique
+METRO 9,Oberkampf,26,,oberkampf
+METRO 9,Saint-Ambroise,27,,saint ambroise
+METRO 9,Rue Saint-Maur,28,,rue saint maur
+METRO 9,Saint-Maur,29,,saint maur
+METRO 9,Père Lachaise,30,"METRO 2, METRO 3BIS",pere lachaise
+METRO 9,Buzenval,31,,buzenval
+METRO 9,Maraîchers,32,,maraichers
+METRO 9,Charonne,33,,charonne
+METRO 9,Rue des Boulets,34,,rue des boulets
+METRO 9,Nation,35,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation
+METRO 10,Boulogne – Pont de Saint-Cloud,1,,boulogne pont de saint cloud
+METRO 10,Boulogne – Jean Jaurès,2,,boulogne jean jaures
+METRO 10,Michel-Ange – Molitor,3,"METRO 6, METRO 9",michel ange molitor
+METRO 10,Chardon Lagache,4,,chardon lagache
+METRO 10,Église d'Auteuil,5,,eglise d'auteuil
+METRO 10,Javel,6,METRO 8,javel
+METRO 10,Avenue Émile Zola,7,,avenue emile zola
+METRO 10,Charles Michels,8,,charles michels
+METRO 10,École Militaire,9,,ecole militaire
+METRO 10,La Tour-Maubourg,10,,la tour maubourg
+METRO 10,Invalides,11,"METRO 8, METRO 13",invalides
+METRO 10,Solférino,12,,solferino
+METRO 10,Mabillon,13,,mabillon
+METRO 10,Odéon,14,"METRO 4, METRO 10",odeon
+METRO 10,Cluny – La Sorbonne,15,,cluny la sorbonne
+METRO 10,Saint-Michel,16,"METRO 4, RER B, METRO 10",saint michel
+METRO 10,Jussieu,17,"METRO 7, METRO 10",jussieu
+METRO 10,Gare d'Austerlitz,18,METRO 5,gare d'austerlitz
+METRO 10,Saint-Marcel,19,,saint marcel
+METRO 10,Campo-Formio,20,,campo formio
+METRO 10,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie
+METRO 7BIS 1,Louis Blanc,1,METRO 7,louis blanc
+METRO 7BIS 1,Jaurès,2,,jaures
+METRO 7BIS 1,Bolivar,3,,bolivar
+METRO 7BIS 1,Buttes Chaumont,4,,buttes chaumont
+METRO 7BIS 1,Botzaris,5,,botzaris
+METRO 7BIS 1,Danube,6,,danube
+METRO 7BIS 1,Pré-Saint-Gervais,7,METRO 7,pre saint gervais
+METRO 7BIS 1,Louis Blanc,7,METRO 7,louis blanc
+METRO 7BIS 1,Jaurès,6,,jaures
+METRO 7BIS 1,Bolivar,5,,bolivar
+METRO 7BIS 1,Buttes Chaumont,4,,buttes chaumont
+METRO 7BIS 1,Botzaris,3,,botzaris
+METRO 7BIS 1,Place des Fêtes,2,METRO 11,place des fetes
+METRO 7BIS 1,Pré-Saint-Gervais,1,METRO 7,pre saint gervais
+METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",chatelet
+METRO 11,Hôtel de Ville,2,"METRO 1, METRO 11",hotel de ville
+METRO 11,Rambuteau,3,,rambuteau
+METRO 11,Arts et Métiers,4,"METRO 3, METRO 11",arts et metiers
+METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique
+METRO 11,Goncourt,6,,goncourt
+METRO 11,Belleville,7,"METRO 2, METRO 11",belleville
+METRO 11,Pyrenees,8,,pyrenees
+METRO 11,Jourdain,9,,jourdain
+METRO 11,Télégraphe,10,,telegraphe
+METRO 11,Porte des Lilas,11,,porte des lilas
+METRO 11,Mairie des Lilas,12,,mairie des lilas
+METRO 11,Serge Gainsbourg,13,,serge gainsbourg
+METRO 11,Romainville – Carnot,14,,romainville carnot
+METRO 11,Montreuil – Hôpital,15,,montreuil hopital
+METRO 11,Robespierre,16,,robespierre
+METRO 11,Croix de Chavaux,17,,croix de chavaux
+METRO 11,Mairie de Montreuil,18,,mairie de montreuil
+METRO 11,Rosny-Bois-Perrier,19,,rosny bois perrier
+METRO 12,Mairie d'Aubervilliers,1,,mairie d'aubervilliers
+METRO 12,Aimé Césaire,2,,aime cesaire
+METRO 12,Front Populaire,3,,front populaire
+METRO 12,Porte de la Chapelle,4,,porte de la chapelle
+METRO 12,Marcadet – Poissonniers,5,,marcadet poissonniers
+METRO 12,Jules Joffrin,6,,jules joffrin
+METRO 12,Lamarck – Caulaincourt,7,,lamarck caulaincourt
+METRO 12,Abbesses,8,,abbesses
+METRO 12,Pigalle,9,"METRO 2, METRO 12",pigalle
+METRO 12,Saint-Georges,10,,saint georges
+METRO 12,Notre-Dame-de-Lorette,11,,notre dame de lorette
+METRO 12,Trinité – d'Estienne d'Orves,12,,trinite d'estienne d'orves
+METRO 12,Saint-Lazare,13,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
+METRO 12,Madeleine,14,"METRO 8, METRO 12, METRO 14",madeleine
+METRO 12,Concorde,15,"METRO 1, METRO 8, METRO 12",concorde
+METRO 12,Assemblée Nationale,16,,assemblee nationale
+METRO 12,Solférino,17,,solferino
+METRO 12,Rue du Bac,18,,rue du bac
+METRO 12,Sèvres – Babylone,19,"METRO 10, METRO 12",sevres babylone
+METRO 12,Rennes,20,,rennes
+METRO 12,Notre-Dame-des-Champs,21,,notre dame des champs
+METRO 12,Montparnasse – Bienvenüe,22,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue
+METRO 12,Falguière,23,,falguiere
+METRO 12,Pasteur,24,,pasteur
+METRO 12,Volontaires,25,,volontaires
+METRO 12,Vaugirard,26,,vaugirard
+METRO 12,Convention,27,,convention
+METRO 12,Plaisance,28,,plaisance
+METRO 12,Porte de Vanves,29,,porte de vanves
+METRO 12,Malakoff – Plateau de Vanves,30,,malakoff plateau de vanves
+METRO 12,Malakoff – Rue Étienne Dolet,31,,malakoff rue etienne dolet
+METRO 12,Châtillon – Montrouge,32,,chatillon montrouge
+METRO 13 1,Saint-Denis Université,1,,saint denis universite
+METRO 13 1,Saint-Denis Porte de Paris,2,,saint denis porte de paris
+METRO 13 1,Basilique de Saint-Denis,3,,basilique de saint denis
+METRO 13 1,Saint-Ouen,4,METRO 14,saint ouen
+METRO 13 1,Mairie de Saint-Ouen,5,,mairie de saint ouen
+METRO 13 1,Garibaldi,6,,garibaldi
+METRO 13 1,Porte de Clignancourt,7,,porte de clignancourt
+METRO 13 1,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy
+METRO 13 1,La Fourche,9,,la fourche
+METRO 13 1,Place de Clichy,10,"METRO 2, METRO 13",place de clichy
+METRO 13 1,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
+METRO 13 1,Miromesnil,12,"METRO 9, METRO 13",miromesnil
+METRO 13 1,Saint-François-Xavier,13,,saint francois xavier
+METRO 13 1,Duroc,14,"METRO 10, METRO 13",duroc
+METRO 13 1,Montparnasse – Bienvenüe,15,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue
+METRO 13 1,Gaîté,16,,gaite
+METRO 13 1,Pernety,17,,pernety
+METRO 13 1,Plaisance,18,,plaisance
+METRO 13 1,Porte de Vanves,19,,porte de vanves
+METRO 13 1,Porte de Versailles,20,,porte de versailles
+METRO 13 1,Corentin Celton,21,,corentin celton
+METRO 13 1,Mairie de Vanves,22,,mairie de vanves
+METRO 13 1,Malakoff – Rue Étienne Dolet,23,,malakoff rue etienne dolet
+METRO 13 1,Bagneux,24,,bagneux
+METRO 13 1,Bagneux – Lucie Aubrac,25,,bagneux lucie aubrac
+METRO 13 1,Fontenay-aux-Roses,26,,fontenay aux roses
+METRO 13 1,Châtillon – Montrouge,27,,chatillon montrouge
+METRO 13 2,Saint-Denis Université,1,,saint denis universite
+METRO 13 2,Saint-Denis Porte de Paris,2,,saint denis porte de paris
+METRO 13 2,Basilique de Saint-Denis,3,,basilique de saint denis
+METRO 13 2,Saint-Ouen,4,METRO 14,saint ouen
+METRO 13 2,Mairie de Saint-Ouen,5,,mairie de saint ouen
+METRO 13 2,Garibaldi,6,,garibaldi
+METRO 13 2,Porte de Clignancourt,7,,porte de clignancourt
+METRO 13 2,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy
+METRO 13 2,La Fourche,9,,la fourche
+METRO 13 2,Place de Clichy,10,"METRO 2, METRO 13",place de clichy
+METRO 13 2,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
+METRO 13 2,Les Agnettes,12,,les agnettes
+METRO 13 2,Gabriel Péri,13,,gabriel peri
+METRO 13 2,Asnières – Gennevilliers,14,,asnieres gennevilliers
+METRO 13 2,Les Courtilles,15,,les courtilles
+METRO 14,Saint-Denis – Pleyel,1,,saint denis pleyel
+METRO 14,Mairie de Saint-Ouen,2,,mairie de saint ouen
+METRO 14,Saint-Ouen,3,,saint ouen
+METRO 14,Porte de Clichy,4,,porte de clichy
+METRO 14,Saint-Lazare,5,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
+METRO 14,Madeleine,6,"METRO 8, METRO 12, METRO 14",madeleine
+METRO 14,Pyramides,7,"METRO 7, METRO 14",pyramides
+METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
+METRO 14,Gare de Lyon,9,"METRO 1, METRO 14, RER A, RER D",gare de lyon
+METRO 14,Bercy,10,,bercy
+METRO 14,Cour Saint-Émilion,11,,cour saint emilion
+METRO 14,Bibliothèque François Mitterrand,12,METRO 14,bibliotheque francois mitterrand
+METRO 14,Olympiades,13,,olympiades
+METRO 14,Maison Blanche,14,,maison blanche
+METRO 14,Hôpital Bicêtre,15,,hopital bicetre
+METRO 14,Villejuif – Gustave Roussy,16,,villejuif gustave roussy
+METRO 14,L'Haÿ-les-Roses,17,,l'hay les roses
+METRO 14,Chevilly-Larue,18,,chevilly larue
+METRO 14,Thiais – Orly,19,,thiais orly
+METRO 14,Aéroport d’Orly,20,RER C,aeroport d'orly
