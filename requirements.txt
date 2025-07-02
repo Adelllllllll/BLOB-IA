@@ -5,3 +5,4 @@ networkx
 matplotlib
 geopy
 unidecode
+pydeck

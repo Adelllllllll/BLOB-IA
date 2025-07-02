@@ -37,7 +37,6 @@ grande arche de la defense_RER A 1,grande arche de la defense_RER A 3,correspond
 grande arche de la defense_RER A 1,grande arche de la defense_RER A 4,correspondance,,0.0
 grande arche de la defense_RER A 1,grande arche de la defense_RER A 5,correspondance,,0.0
 grande arche de la defense_RER A 1,grande arche de la defense_RER A 6,correspondance,,0.0
-grande arche de la defense_RER A 1,grande arche de la defense_METRO 1,correspondance,,0.0
 arc de triomphe_RER A 1,arc de triomphe_RER A 1,correspondance,,0.0
 arc de triomphe_RER A 1,auber_RER A 1,adjacence,RER A 1,2537.467905461203
 arc de triomphe_RER A 1,arc de triomphe_RER A 2,correspondance,,0.0
@@ -78,6 +77,7 @@ gare de lyon_RER A 1,gare de lyon_RER A 3,correspondance,,0.0
 gare de lyon_RER A 1,gare de lyon_RER A 4,correspondance,,0.0
 gare de lyon_RER A 1,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 1,gare de lyon_RER A 6,correspondance,,0.0
+gare de lyon_RER A 1,gare de lyon_METRO 1,correspondance,,0.0
 gare de lyon_RER A 1,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 1,nation_RER A 1,correspondance,,0.0
 nation_RER A 1,bois de vincennes_RER A 1,adjacence,RER A 1,3312.7176008271235
@@ -167,7 +167,6 @@ grande arche de la defense_RER A 2,grande arche de la defense_RER A 3,correspond
 grande arche de la defense_RER A 2,grande arche de la defense_RER A 4,correspondance,,0.0
 grande arche de la defense_RER A 2,grande arche de la defense_RER A 5,correspondance,,0.0
 grande arche de la defense_RER A 2,grande arche de la defense_RER A 6,correspondance,,0.0
-grande arche de la defense_RER A 2,grande arche de la defense_METRO 1,correspondance,,0.0
 arc de triomphe_RER A 2,arc de triomphe_RER A 2,correspondance,,0.0
 arc de triomphe_RER A 2,auber_RER A 2,adjacence,RER A 2,2520.701287401322
 arc de triomphe_RER A 2,arc de triomphe_RER A 3,correspondance,,0.0
@@ -204,6 +203,7 @@ gare de lyon_RER A 2,gare de lyon_RER A 3,correspondance,,0.0
 gare de lyon_RER A 2,gare de lyon_RER A 4,correspondance,,0.0
 gare de lyon_RER A 2,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 2,gare de lyon_RER A 6,correspondance,,0.0
+gare de lyon_RER A 2,gare de lyon_METRO 1,correspondance,,0.0
 gare de lyon_RER A 2,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 2,nation_RER A 2,correspondance,,0.0
 nation_RER A 2,bois de vincennes_RER A 2,adjacence,RER A 2,3308.4363095384883
@@ -283,7 +283,6 @@ grande arche de la defense_RER A 3,arc de triomphe_RER A 3,adjacence,RER A 3,470
 grande arche de la defense_RER A 3,grande arche de la defense_RER A 4,correspondance,,0.0
 grande arche de la defense_RER A 3,grande arche de la defense_RER A 5,correspondance,,0.0
 grande arche de la defense_RER A 3,grande arche de la defense_RER A 6,correspondance,,0.0
-grande arche de la defense_RER A 3,grande arche de la defense_METRO 1,correspondance,,0.0
 arc de triomphe_RER A 3,arc de triomphe_RER A 3,correspondance,,0.0
 arc de triomphe_RER A 3,auber_RER A 3,adjacence,RER A 3,2537.467905461203
 arc de triomphe_RER A 3,arc de triomphe_RER A 4,correspondance,,0.0
@@ -316,6 +315,7 @@ gare de lyon_RER A 3,nation_RER A 3,adjacence,RER A 3,1639.0099248115494
 gare de lyon_RER A 3,gare de lyon_RER A 4,correspondance,,0.0
 gare de lyon_RER A 3,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 3,gare de lyon_RER A 6,correspondance,,0.0
+gare de lyon_RER A 3,gare de lyon_METRO 1,correspondance,,0.0
 gare de lyon_RER A 3,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 3,nation_RER A 3,correspondance,,0.0
 nation_RER A 3,bois de vincennes_RER A 3,adjacence,RER A 3,3312.7176008271235
@@ -379,7 +379,6 @@ grande arche de la defense_RER A 4,grande arche de la defense_RER A 4,correspond
 grande arche de la defense_RER A 4,arc de triomphe_RER A 4,adjacence,RER A 4,4596.3257976871555
 grande arche de la defense_RER A 4,grande arche de la defense_RER A 5,correspondance,,0.0
 grande arche de la defense_RER A 4,grande arche de la defense_RER A 6,correspondance,,0.0
-grande arche de la defense_RER A 4,grande arche de la defense_METRO 1,correspondance,,0.0
 arc de triomphe_RER A 4,arc de triomphe_RER A 4,correspondance,,0.0
 arc de triomphe_RER A 4,auber_RER A 4,adjacence,RER A 4,2537.467905461203
 arc de triomphe_RER A 4,arc de triomphe_RER A 5,correspondance,,0.0
@@ -408,6 +407,7 @@ gare de lyon_RER A 4,gare de lyon_RER A 4,correspondance,,0.0
 gare de lyon_RER A 4,nation_RER A 4,adjacence,RER A 4,1692.0533491910478
 gare de lyon_RER A 4,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 4,gare de lyon_RER A 6,correspondance,,0.0
+gare de lyon_RER A 4,gare de lyon_METRO 1,correspondance,,0.0
 gare de lyon_RER A 4,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 4,nation_RER A 4,correspondance,,0.0
 nation_RER A 4,bois de vincennes_RER A 4,adjacence,RER A 4,2688.85886328238
@@ -471,7 +471,6 @@ nanterre prefecture_RER A 5,nanterre prefecture_RER A 6,correspondance,,0.0
 grande arche de la defense_RER A 5,grande arche de la defense_RER A 5,correspondance,,0.0
 grande arche de la defense_RER A 5,arc de triomphe_RER A 5,adjacence,RER A 5,4583.026131654688
 grande arche de la defense_RER A 5,grande arche de la defense_RER A 6,correspondance,,0.0
-grande arche de la defense_RER A 5,grande arche de la defense_METRO 1,correspondance,,0.0
 arc de triomphe_RER A 5,arc de triomphe_RER A 5,correspondance,,0.0
 arc de triomphe_RER A 5,auber_RER A 5,adjacence,RER A 5,2520.701287401322
 arc de triomphe_RER A 5,arc de triomphe_RER A 6,correspondance,,0.0
@@ -496,6 +495,7 @@ chatelet_RER A 5,chatelet_METRO 14,correspondance,,0.0
 gare de lyon_RER A 5,gare de lyon_RER A 5,correspondance,,0.0
 gare de lyon_RER A 5,nation_RER A 5,adjacence,RER A 5,1639.5993055649506
 gare de lyon_RER A 5,gare de lyon_RER A 6,correspondance,,0.0
+gare de lyon_RER A 5,gare de lyon_METRO 1,correspondance,,0.0
 gare de lyon_RER A 5,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 5,nation_RER A 5,correspondance,,0.0
 nation_RER A 5,bois de vincennes_RER A 5,adjacence,RER A 5,3308.4363095384883
@@ -548,7 +548,6 @@ nanterre universite_RER A 6,nanterre prefecture_RER A 6,adjacence,RER A 6,954.53
 nanterre prefecture_RER A 6,grande arche de la defense_RER A 6,adjacence,RER A 6,1214.8329702053115
 grande arche de la defense_RER A 6,grande arche de la defense_RER A 6,correspondance,,0.0
 grande arche de la defense_RER A 6,arc de triomphe_RER A 6,adjacence,RER A 6,4708.576107793898
-grande arche de la defense_RER A 6,grande arche de la defense_METRO 1,correspondance,,0.0
 arc de triomphe_RER A 6,arc de triomphe_RER A 6,correspondance,,0.0
 arc de triomphe_RER A 6,auber_RER A 6,adjacence,RER A 6,2537.467905461203
 arc de triomphe_RER A 6,arc de triomphe_METRO 1,correspondance,,0.0
@@ -569,6 +568,7 @@ chatelet_RER A 6,chatelet_METRO 11,correspondance,,0.0
 chatelet_RER A 6,chatelet_METRO 14,correspondance,,0.0
 gare de lyon_RER A 6,gare de lyon_RER A 6,correspondance,,0.0
 gare de lyon_RER A 6,nation_RER A 6,adjacence,RER A 6,1692.0533491910478
+gare de lyon_RER A 6,gare de lyon_METRO 1,correspondance,,0.0
 gare de lyon_RER A 6,gare de lyon_METRO 14,correspondance,,0.0
 nation_RER A 6,nation_RER A 6,correspondance,,0.0
 nation_RER A 6,bois de vincennes_RER A 6,adjacence,RER A 6,2688.85886328238
@@ -650,6 +650,7 @@ gare du nord_RER B 1,gare du nord_RER B 4,correspondance,,0.0
 gare du nord_RER B 1,gare du nord_RER E 1,correspondance,,0.0
 gare du nord_RER B 1,gare du nord_RER E 2,correspondance,,0.0
 gare du nord_RER B 1,gare du nord_METRO 4,correspondance,,0.0
+gare du nord_RER B 1,gare du nord_METRO 5,correspondance,,0.0
 chatelet_RER B 1,chatelet_RER B 1,correspondance,,0.0
 chatelet_RER B 1,saint michel_RER B 1,adjacence,RER B 1,930.4796265972717
 chatelet_RER B 1,chatelet_RER B 2,correspondance,,0.0
@@ -676,7 +677,6 @@ saint michel_RER B 1,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER B 1,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER B 1,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER B 1,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER B 1,saint michel_METRO 10,correspondance,,0.0
 luxembourg senat_RER B 1,port royal_RER B 1,adjacence,RER B 1,
 luxembourg senat_RER B 1,luxembourg senat_RER B 2,correspondance,,0.0
 luxembourg senat_RER B 1,luxembourg senat_RER B 3,correspondance,,0.0
@@ -710,7 +710,6 @@ bagneux_RER B 1,bourg la reine_RER B 1,adjacence,RER B 1,1620.431488464286
 bagneux_RER B 1,bagneux_RER B 2,correspondance,,0.0
 bagneux_RER B 1,bagneux_RER B 3,correspondance,,0.0
 bagneux_RER B 1,bagneux_RER B 4,correspondance,,0.0
-bagneux_RER B 1,bagneux_METRO 13 1,correspondance,,0.0
 bourg la reine_RER B 1,sceaux_RER B 1,adjacence,RER B 1,1083.624427484916
 bourg la reine_RER B 1,bourg la reine_RER B 2,correspondance,,0.0
 bourg la reine_RER B 1,bourg la reine_RER B 3,correspondance,,0.0
@@ -722,7 +721,6 @@ sceaux_RER B 1,sceaux_RER B 3,correspondance,,0.0
 sceaux_RER B 1,sceaux_RER B 4,correspondance,,0.0
 fontenay aux roses_RER B 1,robinson_RER B 1,adjacence,RER B 1,1177.1596163217812
 fontenay aux roses_RER B 1,fontenay aux roses_RER B 2,correspondance,,0.0
-fontenay aux roses_RER B 1,fontenay aux roses_METRO 13 1,correspondance,,0.0
 robinson_RER B 1,robinson_RER B 2,correspondance,,0.0
 mitry claye_RER B 2,villeparisis mitry le neuf_RER B 2,adjacence,RER B 2,3827.2121751483246
 mitry claye_RER B 2,mitry claye_RER B 4,correspondance,,0.0
@@ -769,6 +767,7 @@ gare du nord_RER B 2,gare du nord_RER B 4,correspondance,,0.0
 gare du nord_RER B 2,gare du nord_RER E 1,correspondance,,0.0
 gare du nord_RER B 2,gare du nord_RER E 2,correspondance,,0.0
 gare du nord_RER B 2,gare du nord_METRO 4,correspondance,,0.0
+gare du nord_RER B 2,gare du nord_METRO 5,correspondance,,0.0
 chatelet_RER B 2,chatelet_RER B 2,correspondance,,0.0
 chatelet_RER B 2,saint michel_RER B 2,adjacence,RER B 2,498.40774390861424
 chatelet_RER B 2,chatelet_RER B 3,correspondance,,0.0
@@ -793,7 +792,6 @@ saint michel_RER B 2,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER B 2,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER B 2,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER B 2,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER B 2,saint michel_METRO 10,correspondance,,0.0
 luxembourg senat_RER B 2,port royal_RER B 2,adjacence,RER B 2,
 luxembourg senat_RER B 2,luxembourg senat_RER B 3,correspondance,,0.0
 luxembourg senat_RER B 2,luxembourg senat_RER B 4,correspondance,,0.0
@@ -819,7 +817,6 @@ arcueil cachan_RER B 2,arcueil cachan_RER B 4,correspondance,,0.0
 bagneux_RER B 2,bourg la reine_RER B 2,adjacence,RER B 2,1620.431488464286
 bagneux_RER B 2,bagneux_RER B 3,correspondance,,0.0
 bagneux_RER B 2,bagneux_RER B 4,correspondance,,0.0
-bagneux_RER B 2,bagneux_METRO 13 1,correspondance,,0.0
 bourg la reine_RER B 2,sceaux_RER B 2,adjacence,RER B 2,1083.624427484916
 bourg la reine_RER B 2,bourg la reine_RER B 3,correspondance,,0.0
 bourg la reine_RER B 2,bourg la reine_RER B 4,correspondance,,0.0
@@ -828,7 +825,6 @@ sceaux_RER B 2,fontenay aux roses_RER B 2,adjacence,RER B 2,2356.729584052073
 sceaux_RER B 2,sceaux_RER B 3,correspondance,,0.0
 sceaux_RER B 2,sceaux_RER B 4,correspondance,,0.0
 fontenay aux roses_RER B 2,robinson_RER B 2,adjacence,RER B 2,1177.1596163217812
-fontenay aux roses_RER B 2,fontenay aux roses_METRO 13 1,correspondance,,0.0
 aeroport charles de gaulle 2 tgv_RER B 3,aeroport charles de gaulle 1_RER B 3,adjacence,RER B 3,886.7900665521739
 aeroport charles de gaulle 1_RER B 3,parc des expositions_RER B 3,adjacence,RER B 3,5300.190738367039
 parc des expositions_RER B 3,villepinte_RER B 3,adjacence,RER B 3,1198.252250772718
@@ -864,6 +860,7 @@ gare du nord_RER B 3,gare du nord_RER B 4,correspondance,,0.0
 gare du nord_RER B 3,gare du nord_RER E 1,correspondance,,0.0
 gare du nord_RER B 3,gare du nord_RER E 2,correspondance,,0.0
 gare du nord_RER B 3,gare du nord_METRO 4,correspondance,,0.0
+gare du nord_RER B 3,gare du nord_METRO 5,correspondance,,0.0
 chatelet_RER B 3,chatelet_RER B 3,correspondance,,0.0
 chatelet_RER B 3,saint michel_RER B 3,adjacence,RER B 3,772.0000627467014
 chatelet_RER B 3,chatelet_RER B 4,correspondance,,0.0
@@ -886,7 +883,6 @@ saint michel_RER B 3,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER B 3,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER B 3,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER B 3,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER B 3,saint michel_METRO 10,correspondance,,0.0
 luxembourg senat_RER B 3,port royal_RER B 3,adjacence,RER B 3,
 luxembourg senat_RER B 3,luxembourg senat_RER B 4,correspondance,,0.0
 port royal_RER B 3,denfert rochereau colonel rol tanguy_RER B 3,adjacence,RER B 3,
@@ -904,7 +900,6 @@ arcueil cachan_RER B 3,bagneux_RER B 3,adjacence,RER B 3,756.2614945507066
 arcueil cachan_RER B 3,arcueil cachan_RER B 4,correspondance,,0.0
 bagneux_RER B 3,bourg la reine_RER B 3,adjacence,RER B 3,1620.431488464286
 bagneux_RER B 3,bagneux_RER B 4,correspondance,,0.0
-bagneux_RER B 3,bagneux_METRO 13 1,correspondance,,0.0
 bourg la reine_RER B 3,sceaux_RER B 3,adjacence,RER B 3,1083.624427484916
 bourg la reine_RER B 3,bourg la reine_RER B 4,correspondance,,0.0
 sceaux_RER B 3,sceaux_RER B 3,correspondance,,0.0
@@ -987,6 +982,7 @@ gare du nord_RER B 4,chatelet_RER B 4,adjacence,RER B 4,2690.7268849806956
 gare du nord_RER B 4,gare du nord_RER E 1,correspondance,,0.0
 gare du nord_RER B 4,gare du nord_RER E 2,correspondance,,0.0
 gare du nord_RER B 4,gare du nord_METRO 4,correspondance,,0.0
+gare du nord_RER B 4,gare du nord_METRO 5,correspondance,,0.0
 chatelet_RER B 4,chatelet_RER B 4,correspondance,,0.0
 chatelet_RER B 4,saint michel_RER B 4,adjacence,RER B 4,772.0000627467014
 chatelet_RER B 4,chatelet_METRO 1,correspondance,,0.0
@@ -1007,7 +1003,6 @@ saint michel_RER B 4,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER B 4,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER B 4,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER B 4,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER B 4,saint michel_METRO 10,correspondance,,0.0
 luxembourg senat_RER B 4,port royal_RER B 4,adjacence,RER B 4,
 port royal_RER B 4,denfert rochereau colonel rol tanguy_RER B 4,adjacence,RER B 4,
 denfert rochereau colonel rol tanguy_RER B 4,cite universitaire_RER B 4,adjacence,RER B 4,
@@ -1017,7 +1012,6 @@ gentilly_RER B 4,laplace maison des examens_RER B 4,adjacence,RER B 4,
 laplace maison des examens_RER B 4,arcueil cachan_RER B 4,adjacence,RER B 4,
 arcueil cachan_RER B 4,bagneux_RER B 4,adjacence,RER B 4,756.2614945507066
 bagneux_RER B 4,bourg la reine_RER B 4,adjacence,RER B 4,1620.431488464286
-bagneux_RER B 4,bagneux_METRO 13 1,correspondance,,0.0
 bourg la reine_RER B 4,sceaux_RER B 4,adjacence,RER B 4,1083.624427484916
 sceaux_RER B 4,sceaux_RER B 4,correspondance,,0.0
 sceaux_RER B 4,la croix de berny_RER B 4,adjacence,RER B 4,825.2483497971934
@@ -1103,8 +1097,6 @@ saint ouen_RER C 1,saint ouen_RER C 1,correspondance,,0.0
 saint ouen_RER C 1,porte de clichy tribunal de paris_RER C 1,adjacence,RER C 1,
 saint ouen_RER C 1,saint ouen_RER C 2,correspondance,,0.0
 saint ouen_RER C 1,saint ouen_RER C 3,correspondance,,0.0
-saint ouen_RER C 1,saint ouen_METRO 13 1,correspondance,,0.0
-saint ouen_RER C 1,saint ouen_METRO 13 2,correspondance,,0.0
 saint ouen_RER C 1,saint ouen_METRO 14,correspondance,,0.0
 porte de clichy tribunal de paris_RER C 1,pereire levallois_RER C 1,adjacence,RER C 1,
 porte de clichy tribunal de paris_RER C 1,porte de clichy tribunal de paris_RER C 2,correspondance,,0.0
@@ -1157,7 +1149,8 @@ hotel des invalides_RER C 1,hotel des invalides_RER C 7,correspondance,,0.0
 hotel des invalides_RER C 1,hotel des invalides_RER C 8,correspondance,,0.0
 hotel des invalides_RER C 1,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 1,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 1,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 1,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 1,saint michel_RER C 1,adjacence,RER C 1,1556.7945577524047
 musee d'orsay_RER C 1,musee d'orsay_RER C 2,correspondance,,0.0
 musee d'orsay_RER C 1,musee d'orsay_RER C 3,correspondance,,0.0
@@ -1178,7 +1171,6 @@ saint michel_RER C 1,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER C 1,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER C 1,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 1,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 1,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 1,gare d'austerlitz_RER C 1,correspondance,,0.0
 gare d'austerlitz_RER C 1,bibliotheque francois mitterrand_RER C 1,adjacence,RER C 1,1565.0254570622383
 gare d'austerlitz_RER C 1,gare d'austerlitz_RER C 2,correspondance,,0.0
@@ -1190,7 +1182,8 @@ gare d'austerlitz_RER C 1,gare d'austerlitz_RER C 7,correspondance,,0.0
 gare d'austerlitz_RER C 1,gare d'austerlitz_RER C 8,correspondance,,0.0
 gare d'austerlitz_RER C 1,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 1,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 1,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 1,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 1,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 1,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 1,ivry sur seine_RER C 1,adjacence,RER C 1,1948.815669081914
 bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 2,correspondance,,0.0
@@ -1201,7 +1194,6 @@ bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
-bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 1,vitry sur seine_RER C 1,adjacence,RER C 1,1733.237954222894
 ivry sur seine_RER C 1,ivry sur seine_RER C 2,correspondance,,0.0
 ivry sur seine_RER C 1,ivry sur seine_RER C 3,correspondance,,0.0
@@ -1337,8 +1329,6 @@ les gresillons_RER C 2,les gresillons_RER C 3,correspondance,,0.0
 saint ouen_RER C 2,saint ouen_RER C 2,correspondance,,0.0
 saint ouen_RER C 2,porte de clichy tribunal de paris_RER C 2,adjacence,RER C 2,
 saint ouen_RER C 2,saint ouen_RER C 3,correspondance,,0.0
-saint ouen_RER C 2,saint ouen_METRO 13 1,correspondance,,0.0
-saint ouen_RER C 2,saint ouen_METRO 13 2,correspondance,,0.0
 saint ouen_RER C 2,saint ouen_METRO 14,correspondance,,0.0
 porte de clichy tribunal de paris_RER C 2,pereire levallois_RER C 2,adjacence,RER C 2,
 porte de clichy tribunal de paris_RER C 2,porte de clichy tribunal de paris_RER C 3,correspondance,,0.0
@@ -1381,7 +1371,8 @@ hotel des invalides_RER C 2,hotel des invalides_RER C 7,correspondance,,0.0
 hotel des invalides_RER C 2,hotel des invalides_RER C 8,correspondance,,0.0
 hotel des invalides_RER C 2,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 2,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 2,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 2,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 2,saint michel_RER C 2,adjacence,RER C 2,1452.1846984634644
 musee d'orsay_RER C 2,musee d'orsay_RER C 3,correspondance,,0.0
 musee d'orsay_RER C 2,musee d'orsay_RER C 4,correspondance,,0.0
@@ -1400,7 +1391,6 @@ saint michel_RER C 2,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER C 2,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER C 2,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 2,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 2,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 2,gare d'austerlitz_RER C 2,correspondance,,0.0
 gare d'austerlitz_RER C 2,bibliotheque francois mitterrand_RER C 2,adjacence,RER C 2,1565.0254570622383
 gare d'austerlitz_RER C 2,gare d'austerlitz_RER C 3,correspondance,,0.0
@@ -1411,7 +1401,8 @@ gare d'austerlitz_RER C 2,gare d'austerlitz_RER C 7,correspondance,,0.0
 gare d'austerlitz_RER C 2,gare d'austerlitz_RER C 8,correspondance,,0.0
 gare d'austerlitz_RER C 2,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 2,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 2,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 2,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 2,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 2,ivry sur seine_RER C 2,adjacence,RER C 2,1948.815669081914
 bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 3,correspondance,,0.0
@@ -1421,7 +1412,6 @@ bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
-bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 2,vitry sur seine_RER C 2,adjacence,RER C 2,1733.237954222894
 ivry sur seine_RER C 2,ivry sur seine_RER C 3,correspondance,,0.0
 ivry sur seine_RER C 2,ivry sur seine_RER C 4,correspondance,,0.0
@@ -1573,8 +1563,6 @@ gennevilliers_RER C 3,les gresillons_RER C 3,adjacence,RER C 3,1405.082195335313
 les gresillons_RER C 3,saint ouen_RER C 3,adjacence,RER C 3,1911.212369937054
 saint ouen_RER C 3,saint ouen_RER C 3,correspondance,,0.0
 saint ouen_RER C 3,porte de clichy tribunal de paris_RER C 3,adjacence,RER C 3,
-saint ouen_RER C 3,saint ouen_METRO 13 1,correspondance,,0.0
-saint ouen_RER C 3,saint ouen_METRO 13 2,correspondance,,0.0
 saint ouen_RER C 3,saint ouen_METRO 14,correspondance,,0.0
 porte de clichy tribunal de paris_RER C 3,pereire levallois_RER C 3,adjacence,RER C 3,
 pereire levallois_RER C 3,pereire levallois_RER C 3,correspondance,,0.0
@@ -1607,7 +1595,8 @@ hotel des invalides_RER C 3,hotel des invalides_RER C 7,correspondance,,0.0
 hotel des invalides_RER C 3,hotel des invalides_RER C 8,correspondance,,0.0
 hotel des invalides_RER C 3,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 3,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 3,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 3,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 3,saint michel_RER C 3,adjacence,RER C 3,1452.1846984634644
 musee d'orsay_RER C 3,musee d'orsay_RER C 4,correspondance,,0.0
 musee d'orsay_RER C 3,musee d'orsay_RER C 5,correspondance,,0.0
@@ -1624,7 +1613,6 @@ saint michel_RER C 3,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER C 3,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER C 3,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 3,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 3,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 3,gare d'austerlitz_RER C 3,correspondance,,0.0
 gare d'austerlitz_RER C 3,bibliotheque francois mitterrand_RER C 3,adjacence,RER C 3,1565.0254570622383
 gare d'austerlitz_RER C 3,gare d'austerlitz_RER C 4,correspondance,,0.0
@@ -1634,7 +1622,8 @@ gare d'austerlitz_RER C 3,gare d'austerlitz_RER C 7,correspondance,,0.0
 gare d'austerlitz_RER C 3,gare d'austerlitz_RER C 8,correspondance,,0.0
 gare d'austerlitz_RER C 3,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 3,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 3,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 3,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 3,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 3,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 3,ivry sur seine_RER C 3,adjacence,RER C 3,1948.815669081914
 bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 4,correspondance,,0.0
@@ -1643,7 +1632,6 @@ bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
-bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 3,vitry sur seine_RER C 3,adjacence,RER C 3,1733.237954222894
 ivry sur seine_RER C 3,ivry sur seine_RER C 4,correspondance,,0.0
 ivry sur seine_RER C 3,ivry sur seine_RER C 5,correspondance,,0.0
@@ -1804,9 +1792,6 @@ javel_RER C 4,javel_RER C 6,correspondance,,0.0
 javel_RER C 4,javel_RER C 7,correspondance,,0.0
 javel_RER C 4,javel_RER C 8,correspondance,,0.0
 javel_RER C 4,javel_RER C 9,correspondance,,0.0
-javel_RER C 4,javel_METRO 8,correspondance,,0.0
-javel_RER C 4,javel_METRO 9,correspondance,,0.0
-javel_RER C 4,javel_METRO 10,correspondance,,0.0
 tour eiffel_RER C 4,pont de l'alma_RER C 4,adjacence,RER C 4,1072.3599533421702
 tour eiffel_RER C 4,tour eiffel_RER C 5,correspondance,,0.0
 tour eiffel_RER C 4,tour eiffel_RER C 6,correspondance,,0.0
@@ -1827,7 +1812,8 @@ hotel des invalides_RER C 4,hotel des invalides_RER C 7,correspondance,,0.0
 hotel des invalides_RER C 4,hotel des invalides_RER C 8,correspondance,,0.0
 hotel des invalides_RER C 4,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 4,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 4,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 4,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 4,saint michel_RER C 4,adjacence,RER C 4,1562.8954654716078
 musee d'orsay_RER C 4,musee d'orsay_RER C 5,correspondance,,0.0
 musee d'orsay_RER C 4,musee d'orsay_RER C 6,correspondance,,0.0
@@ -1842,7 +1828,6 @@ saint michel_RER C 4,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER C 4,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER C 4,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 4,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 4,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 4,gare d'austerlitz_RER C 4,correspondance,,0.0
 gare d'austerlitz_RER C 4,bibliotheque francois mitterrand_RER C 4,adjacence,RER C 4,1565.0254570622383
 gare d'austerlitz_RER C 4,gare d'austerlitz_RER C 5,correspondance,,0.0
@@ -1851,7 +1836,8 @@ gare d'austerlitz_RER C 4,gare d'austerlitz_RER C 7,correspondance,,0.0
 gare d'austerlitz_RER C 4,gare d'austerlitz_RER C 8,correspondance,,0.0
 gare d'austerlitz_RER C 4,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 4,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 4,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 4,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 4,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 4,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 4,ivry sur seine_RER C 4,adjacence,RER C 4,1948.815669081914
 bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 5,correspondance,,0.0
@@ -1859,7 +1845,6 @@ bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
-bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 4,vitry sur seine_RER C 4,adjacence,RER C 4,1733.237954222894
 ivry sur seine_RER C 4,ivry sur seine_RER C 5,correspondance,,0.0
 ivry sur seine_RER C 4,ivry sur seine_RER C 6,correspondance,,0.0
@@ -1968,9 +1953,6 @@ javel_RER C 5,javel_RER C 6,correspondance,,0.0
 javel_RER C 5,javel_RER C 7,correspondance,,0.0
 javel_RER C 5,javel_RER C 8,correspondance,,0.0
 javel_RER C 5,javel_RER C 9,correspondance,,0.0
-javel_RER C 5,javel_METRO 8,correspondance,,0.0
-javel_RER C 5,javel_METRO 9,correspondance,,0.0
-javel_RER C 5,javel_METRO 10,correspondance,,0.0
 tour eiffel_RER C 5,pont de l'alma_RER C 5,adjacence,RER C 5,1072.3599533421702
 tour eiffel_RER C 5,tour eiffel_RER C 6,correspondance,,0.0
 tour eiffel_RER C 5,tour eiffel_RER C 7,correspondance,,0.0
@@ -1988,7 +1970,8 @@ hotel des invalides_RER C 5,hotel des invalides_RER C 7,correspondance,,0.0
 hotel des invalides_RER C 5,hotel des invalides_RER C 8,correspondance,,0.0
 hotel des invalides_RER C 5,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 5,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 5,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 5,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 5,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 5,saint michel_RER C 5,adjacence,RER C 5,1556.7945577524047
 musee d'orsay_RER C 5,musee d'orsay_RER C 6,correspondance,,0.0
 musee d'orsay_RER C 5,musee d'orsay_RER C 7,correspondance,,0.0
@@ -2001,7 +1984,6 @@ saint michel_RER C 5,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER C 5,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER C 5,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 5,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 5,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 5,gare d'austerlitz_RER C 5,correspondance,,0.0
 gare d'austerlitz_RER C 5,bibliotheque francois mitterrand_RER C 5,adjacence,RER C 5,1565.0254570622383
 gare d'austerlitz_RER C 5,gare d'austerlitz_RER C 6,correspondance,,0.0
@@ -2009,14 +1991,14 @@ gare d'austerlitz_RER C 5,gare d'austerlitz_RER C 7,correspondance,,0.0
 gare d'austerlitz_RER C 5,gare d'austerlitz_RER C 8,correspondance,,0.0
 gare d'austerlitz_RER C 5,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 5,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 5,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 5,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 5,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 5,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 5,ivry sur seine_RER C 5,adjacence,RER C 5,1948.815669081914
 bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 6,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
-bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 5,vitry sur seine_RER C 5,adjacence,RER C 5,1733.237954222894
 ivry sur seine_RER C 5,ivry sur seine_RER C 6,correspondance,,0.0
 ivry sur seine_RER C 5,ivry sur seine_RER C 7,correspondance,,0.0
@@ -2132,9 +2114,6 @@ javel_RER C 6,tour eiffel_RER C 6,adjacence,RER C 6,1347.391190618779
 javel_RER C 6,javel_RER C 7,correspondance,,0.0
 javel_RER C 6,javel_RER C 8,correspondance,,0.0
 javel_RER C 6,javel_RER C 9,correspondance,,0.0
-javel_RER C 6,javel_METRO 8,correspondance,,0.0
-javel_RER C 6,javel_METRO 9,correspondance,,0.0
-javel_RER C 6,javel_METRO 10,correspondance,,0.0
 tour eiffel_RER C 6,pont de l'alma_RER C 6,adjacence,RER C 6,1072.3599533421702
 tour eiffel_RER C 6,tour eiffel_RER C 7,correspondance,,0.0
 tour eiffel_RER C 6,tour eiffel_RER C 8,correspondance,,0.0
@@ -2149,7 +2128,8 @@ hotel des invalides_RER C 6,hotel des invalides_RER C 7,correspondance,,0.0
 hotel des invalides_RER C 6,hotel des invalides_RER C 8,correspondance,,0.0
 hotel des invalides_RER C 6,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 6,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 6,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 6,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 6,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 6,saint michel_RER C 6,adjacence,RER C 6,1556.7945577524047
 musee d'orsay_RER C 6,musee d'orsay_RER C 7,correspondance,,0.0
 musee d'orsay_RER C 6,musee d'orsay_RER C 8,correspondance,,0.0
@@ -2160,20 +2140,19 @@ saint michel_RER C 6,saint michel_RER C 7,correspondance,,0.0
 saint michel_RER C 6,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER C 6,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 6,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 6,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 6,gare d'austerlitz_RER C 6,correspondance,,0.0
 gare d'austerlitz_RER C 6,bibliotheque francois mitterrand_RER C 6,adjacence,RER C 6,1742.997644949775
 gare d'austerlitz_RER C 6,gare d'austerlitz_RER C 7,correspondance,,0.0
 gare d'austerlitz_RER C 6,gare d'austerlitz_RER C 8,correspondance,,0.0
 gare d'austerlitz_RER C 6,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 6,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 6,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 6,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 6,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_RER C 6,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 6,ivry sur seine_RER C 6,adjacence,RER C 6,2129.8551375530233
 bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
-bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 6,vitry sur seine_RER C 6,adjacence,RER C 6,1733.237954222894
 ivry sur seine_RER C 6,ivry sur seine_RER C 7,correspondance,,0.0
 ivry sur seine_RER C 6,ivry sur seine_RER C 8,correspondance,,0.0
@@ -2273,9 +2252,6 @@ pont du garigliano hopital europeen georges pompidou_RER C 7,pont du garigliano 
 javel_RER C 7,tour eiffel_RER C 7,adjacence,RER C 7,1347.391190618779
 javel_RER C 7,javel_RER C 8,correspondance,,0.0
 javel_RER C 7,javel_RER C 9,correspondance,,0.0
-javel_RER C 7,javel_METRO 8,correspondance,,0.0
-javel_RER C 7,javel_METRO 9,correspondance,,0.0
-javel_RER C 7,javel_METRO 10,correspondance,,0.0
 tour eiffel_RER C 7,pont de l'alma_RER C 7,adjacence,RER C 7,1072.3599533421702
 tour eiffel_RER C 7,tour eiffel_RER C 8,correspondance,,0.0
 tour eiffel_RER C 7,tour eiffel_RER C 9,correspondance,,0.0
@@ -2287,7 +2263,8 @@ hotel des invalides_RER C 7,musee d'orsay_RER C 7,adjacence,RER C 7,870.91074342
 hotel des invalides_RER C 7,hotel des invalides_RER C 8,correspondance,,0.0
 hotel des invalides_RER C 7,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 7,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 7,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 7,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 7,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 7,saint michel_RER C 7,adjacence,RER C 7,1452.1846984634644
 musee d'orsay_RER C 7,musee d'orsay_RER C 8,correspondance,,0.0
 musee d'orsay_RER C 7,musee d'orsay_RER C 9,correspondance,,0.0
@@ -2296,18 +2273,17 @@ saint michel_RER C 7,gare d'austerlitz_RER C 7,adjacence,RER C 7,1911.8313045756
 saint michel_RER C 7,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER C 7,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 7,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 7,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 7,gare d'austerlitz_RER C 7,correspondance,,0.0
 gare d'austerlitz_RER C 7,bibliotheque francois mitterrand_RER C 7,adjacence,RER C 7,1565.0254570622383
 gare d'austerlitz_RER C 7,gare d'austerlitz_RER C 8,correspondance,,0.0
 gare d'austerlitz_RER C 7,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 7,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 7,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 7,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 7,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 7,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 7,ivry sur seine_RER C 7,adjacence,RER C 7,1948.815669081914
 bibliotheque francois mitterrand_RER C 7,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 7,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
-bibliotheque francois mitterrand_RER C 7,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 7,vitry sur seine_RER C 7,adjacence,RER C 7,1733.237954222894
 ivry sur seine_RER C 7,ivry sur seine_RER C 8,correspondance,,0.0
 ivry sur seine_RER C 7,ivry sur seine_RER C 9,correspondance,,0.0
@@ -2365,9 +2341,6 @@ pont du garigliano hopital europeen georges pompidou_RER C 8,javel_RER C 8,adjac
 pont du garigliano hopital europeen georges pompidou_RER C 8,pont du garigliano hopital europeen georges pompidou_RER C 9,correspondance,,0.0
 javel_RER C 8,tour eiffel_RER C 8,adjacence,RER C 8,1347.391190618779
 javel_RER C 8,javel_RER C 9,correspondance,,0.0
-javel_RER C 8,javel_METRO 8,correspondance,,0.0
-javel_RER C 8,javel_METRO 9,correspondance,,0.0
-javel_RER C 8,javel_METRO 10,correspondance,,0.0
 tour eiffel_RER C 8,pont de l'alma_RER C 8,adjacence,RER C 8,1072.3599533421702
 tour eiffel_RER C 8,tour eiffel_RER C 9,correspondance,,0.0
 pont de l'alma_RER C 8,hotel des invalides_RER C 8,adjacence,RER C 8,992.5843823711826
@@ -2376,23 +2349,23 @@ hotel des invalides_RER C 8,hotel des invalides_RER C 8,correspondance,,0.0
 hotel des invalides_RER C 8,musee d'orsay_RER C 8,adjacence,RER C 8,870.9107434210854
 hotel des invalides_RER C 8,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 8,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 8,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 8,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 8,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 8,saint michel_RER C 8,adjacence,RER C 8,1556.7945577524047
 musee d'orsay_RER C 8,musee d'orsay_RER C 9,correspondance,,0.0
 saint michel_RER C 8,saint michel_RER C 8,correspondance,,0.0
 saint michel_RER C 8,gare d'austerlitz_RER C 8,adjacence,RER C 8,2001.8545587568335
 saint michel_RER C 8,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 8,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 8,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 8,gare d'austerlitz_RER C 8,correspondance,,0.0
 gare d'austerlitz_RER C 8,bibliotheque francois mitterrand_RER C 8,adjacence,RER C 8,1742.997644949775
 gare d'austerlitz_RER C 8,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 8,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 8,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 8,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 8,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 8,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 8,ivry sur seine_RER C 8,adjacence,RER C 8,2129.8551375530233
 bibliotheque francois mitterrand_RER C 8,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
-bibliotheque francois mitterrand_RER C 8,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 8,vitry sur seine_RER C 8,adjacence,RER C 8,1733.237954222894
 ivry sur seine_RER C 8,ivry sur seine_RER C 9,correspondance,,0.0
 vitry sur seine_RER C 8,les ardoines_RER C 8,adjacence,RER C 8,2062.6935747094417
@@ -2443,27 +2416,24 @@ clamart_RER C 9,clamart_RER C 9,correspondance,,0.0
 clamart_RER C 9,pont du garigliano hopital europeen georges pompidou_RER C 9,adjacence,RER C 9,
 pont du garigliano hopital europeen georges pompidou_RER C 9,javel_RER C 9,adjacence,RER C 9,
 javel_RER C 9,tour eiffel_RER C 9,adjacence,RER C 9,1347.391190618779
-javel_RER C 9,javel_METRO 8,correspondance,,0.0
-javel_RER C 9,javel_METRO 9,correspondance,,0.0
-javel_RER C 9,javel_METRO 10,correspondance,,0.0
 tour eiffel_RER C 9,pont de l'alma_RER C 9,adjacence,RER C 9,1072.3599533421702
 pont de l'alma_RER C 9,hotel des invalides_RER C 9,adjacence,RER C 9,992.5843823711826
 hotel des invalides_RER C 9,hotel des invalides_RER C 9,correspondance,,0.0
 hotel des invalides_RER C 9,musee d'orsay_RER C 9,adjacence,RER C 9,870.9107434210854
 hotel des invalides_RER C 9,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_RER C 9,hotel des invalides_METRO 10,correspondance,,0.0
+hotel des invalides_RER C 9,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_RER C 9,hotel des invalides_METRO 13 2,correspondance,,0.0
 musee d'orsay_RER C 9,saint michel_RER C 9,adjacence,RER C 9,1556.7945577524047
 saint michel_RER C 9,saint michel_RER C 9,correspondance,,0.0
 saint michel_RER C 9,gare d'austerlitz_RER C 9,adjacence,RER C 9,2001.8545587568335
 saint michel_RER C 9,saint michel_METRO 4,correspondance,,0.0
-saint michel_RER C 9,saint michel_METRO 10,correspondance,,0.0
 gare d'austerlitz_RER C 9,gare d'austerlitz_RER C 9,correspondance,,0.0
 gare d'austerlitz_RER C 9,bibliotheque francois mitterrand_RER C 9,adjacence,RER C 9,1742.997644949775
 gare d'austerlitz_RER C 9,gare d'austerlitz_METRO 5,correspondance,,0.0
-gare d'austerlitz_RER C 9,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_RER C 9,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_RER C 9,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 9,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 9,ivry sur seine_RER C 9,adjacence,RER C 9,2129.8551375530233
-bibliotheque francois mitterrand_RER C 9,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 9,vitry sur seine_RER C 9,adjacence,RER C 9,1733.237954222894
 vitry sur seine_RER C 9,les ardoines_RER C 9,adjacence,RER C 9,2062.6935747094417
 les ardoines_RER C 9,choisy le roi_RER C 9,adjacence,RER C 9,2054.804151996997
@@ -2874,10 +2844,10 @@ montmorency_RER D 4,eaubonne_RER D 4,adjacence,RER D 4,
 montmorency_RER D 4,montmorency_RER D 5,correspondance,,0.0
 eaubonne_RER D 4,saint gratien_RER D 4,adjacence,RER D 4,
 eaubonne_RER D 4,eaubonne_RER D 5,correspondance,,0.0
-saint gratien_RER D 4,le bourget_RER D 4,adjacence,RER D 4,10727.976710165221
+saint gratien_RER D 4,le bourget_RER D 4,adjacence,RER D 4,10876.55355027622
 saint gratien_RER D 4,saint gratien_RER D 5,correspondance,,0.0
 le bourget_RER D 4,le bourget_RER D 4,correspondance,,0.0
-le bourget_RER D 4,drancy_RER D 4,adjacence,RER D 4,2134.2815269605944
+le bourget_RER D 4,drancy_RER D 4,adjacence,RER D 4,2315.046316225624
 le bourget_RER D 4,le bourget_RER D 5,correspondance,,0.0
 drancy_RER D 4,gagny_RER D 4,adjacence,RER D 4,7516.388085900647
 drancy_RER D 4,drancy_RER D 5,correspondance,,0.0
@@ -2889,10 +2859,10 @@ noisy le sec_RER D 4,rosny sous bois_RER D 4,adjacence,RER D 4,3441.120455530708
 noisy le sec_RER D 4,noisy le sec_RER D 5,correspondance,,0.0
 noisy le sec_RER D 4,noisy le sec_RER E 1,correspondance,,0.0
 noisy le sec_RER D 4,noisy le sec_RER E 2,correspondance,,0.0
-rosny sous bois_RER D 4,val de fontenay_RER D 4,adjacence,RER D 4,3332.316061424608
+rosny sous bois_RER D 4,val de fontenay_RER D 4,adjacence,RER D 4,1757.5215445914619
 rosny sous bois_RER D 4,rosny sous bois_RER D 5,correspondance,,0.0
 val de fontenay_RER D 4,val de fontenay_RER D 4,correspondance,,0.0
-val de fontenay_RER D 4,nogent sur marne_RER D 4,adjacence,RER D 4,2565.98090049678
+val de fontenay_RER D 4,nogent sur marne_RER D 4,adjacence,RER D 4,1215.7080304817484
 val de fontenay_RER D 4,val de fontenay_RER D 5,correspondance,,0.0
 nogent sur marne_RER D 4,joinville le pont_RER D 4,adjacence,RER D 4,1581.5298966993591
 nogent sur marne_RER D 4,nogent sur marne_RER D 5,correspondance,,0.0
@@ -2903,9 +2873,9 @@ creteil pompadour_RER D 4,corbeil essonnes_RER D 4,adjacence,RER D 4,17769.45120
 creteil pompadour_RER D 4,creteil pompadour_RER D 5,correspondance,,0.0
 corbeil essonnes_RER D 4,ris orangis_RER D 4,adjacence,RER D 4,6614.8571788618065
 corbeil essonnes_RER D 4,corbeil essonnes_RER D 5,correspondance,,0.0
-ris orangis_RER D 4,malesherbes_RER D 4,adjacence,RER D 4,26094.683720753637
-malesherbes_RER D 4,malesherbes_RER D 4,correspondance,,0.0
+ris orangis_RER D 4,malesherbes_RER D 4,adjacence,RER D 4,26043.49464924941
 malesherbes_RER D 4,malesherbes_RER D 5,correspondance,,0.0
+malesherbes_RER D 4,malesherbes_METRO 3,correspondance,,0.0
 creil_RER D 5,ormoy villers_RER D 5,adjacence,RER D 5,27788.411018567527
 ormoy villers_RER D 5,montataire_RER D 5,adjacence,RER D 5,
 montataire_RER D 5,cramoisy_RER D 5,adjacence,RER D 5,
@@ -2941,18 +2911,20 @@ creteil pompadour_RER D 5,creteil pompadour_RER D 5,correspondance,,0.0
 creteil pompadour_RER D 5,corbeil essonnes_RER D 5,adjacence,RER D 5,17769.45120930577
 corbeil essonnes_RER D 5,evry courcouronnes_RER D 5,adjacence,RER D 5,3569.3351232424607
 evry courcouronnes_RER D 5,evry courcouronnes_RER D 5,correspondance,,0.0
-evry courcouronnes_RER D 5,malesherbes_RER D 5,adjacence,RER D 5,29933.809810809988
-malesherbes_RER D 5,malesherbes_RER D 5,correspondance,,0.0
-haussmann saint lazare_RER E 1,gare du nord_RER E 1,adjacence,RER E 1,2197.1206887329454
+evry courcouronnes_RER D 5,malesherbes_RER D 5,adjacence,RER D 5,29882.702794672576
+malesherbes_RER D 5,malesherbes_METRO 3,correspondance,,0.0
+haussmann saint lazare_RER E 1,gare du nord magenta_RER E 1,adjacence,RER E 1,
 haussmann saint lazare_RER E 1,haussmann saint lazare_RER E 2,correspondance,,0.0
+gare du nord magenta_RER E 1,gare du nord_RER E 1,adjacence,RER E 1,
 gare du nord_RER E 1,gare du nord_RER E 1,correspondance,,0.0
 gare du nord_RER E 1,pantin_RER E 1,adjacence,RER E 1,3713.290819289091
 gare du nord_RER E 1,gare du nord_RER E 2,correspondance,,0.0
 gare du nord_RER E 1,gare du nord_METRO 4,correspondance,,0.0
-pantin_RER E 1,noisy le sec_RER E 1,adjacence,RER E 1,4255.8986106553375
+gare du nord_RER E 1,gare du nord_METRO 5,correspondance,,0.0
+pantin_RER E 1,noisy le sec_RER E 1,adjacence,RER E 1,4403.812027829997
 pantin_RER E 1,pantin_RER E 2,correspondance,,0.0
 noisy le sec_RER E 1,noisy le sec_RER E 1,correspondance,,0.0
-noisy le sec_RER E 1,rosny bois perrier_RER E 1,adjacence,RER E 1,2081.6949463565534
+noisy le sec_RER E 1,rosny bois perrier_RER E 1,adjacence,RER E 1,2242.2440955857633
 noisy le sec_RER E 1,noisy le sec_RER E 2,correspondance,,0.0
 rosny bois perrier_RER E 1,rosny bois perrier_RER E 1,correspondance,,0.0
 rosny bois perrier_RER E 1,neuilly plaisance_RER E 1,adjacence,RER E 1,4092.3368050627823
@@ -2967,6 +2939,7 @@ haussmann saint lazare_RER E 2,gare du nord_RER E 2,adjacence,RER E 2,2197.12068
 gare du nord_RER E 2,gare du nord_RER E 2,correspondance,,0.0
 gare du nord_RER E 2,pantin_RER E 2,adjacence,RER E 2,3752.5576267437964
 gare du nord_RER E 2,gare du nord_METRO 4,correspondance,,0.0
+gare du nord_RER E 2,gare du nord_METRO 5,correspondance,,0.0
 pantin_RER E 2,noisy le sec_RER E 2,adjacence,RER E 2,4255.8986106553375
 noisy le sec_RER E 2,noisy le sec_RER E 2,correspondance,,0.0
 noisy le sec_RER E 2,bondy_RER E 2,adjacence,RER E 2,1473.6833632728521
@@ -2974,15 +2947,15 @@ bondy_RER E 2,bondy_RER E 2,correspondance,,0.0
 bondy_RER E 2,gagny_RER E 2,adjacence,RER E 2,3374.1391784055095
 gagny_RER E 2,le raincy villemomble montfermeil_RER E 2,adjacence,RER E 2,1065.9662885896648
 le raincy villemomble montfermeil_RER E 2,chelles gournay_RER E 2,adjacence,RER E 2,5401.005488669915
-grande arche de la defense_METRO 1,grande arche de la defense_METRO 1,correspondance,,0.0
-grande arche de la defense_METRO 1,esplanade de la defense_METRO 1,adjacence,METRO 1,911.105361868691
+la defense_METRO 1,esplanade de la defense_METRO 1,adjacence,METRO 1,
 esplanade de la defense_METRO 1,pont de neuilly_METRO 1,adjacence,METRO 1,873.9979585237246
 pont de neuilly_METRO 1,les sablons_METRO 1,adjacence,METRO 1,952.8465448403184
 les sablons_METRO 1,porte maillot_METRO 1,adjacence,METRO 1,858.9858002483809
 porte maillot_METRO 1,porte maillot_METRO 1,correspondance,,0.0
-porte maillot_METRO 1,arc de triomphe_METRO 1,adjacence,METRO 1,924.9928892657751
+porte maillot_METRO 1,argentine_METRO 1,adjacence,METRO 1,539.8299347377218
+argentine_METRO 1,arc de triomphe_METRO 1,adjacence,METRO 1,420.28832876223197
 arc de triomphe_METRO 1,arc de triomphe_METRO 1,correspondance,,0.0
-arc de triomphe_METRO 1,george v_METRO 1,adjacence,METRO 1,466.8273675951038
+arc de triomphe_METRO 1,george v_METRO 1,adjacence,METRO 1,475.7777132139311
 arc de triomphe_METRO 1,arc de triomphe_METRO 2,correspondance,,0.0
 arc de triomphe_METRO 1,arc de triomphe_METRO 6,correspondance,,0.0
 george v_METRO 1,franklin d. roosevelt_METRO 1,adjacence,METRO 1,753.1499418686278
@@ -2991,17 +2964,20 @@ franklin d. roosevelt_METRO 1,champs elysees clemenceau_METRO 1,adjacence,METRO 
 franklin d. roosevelt_METRO 1,franklin d. roosevelt_METRO 9,correspondance,,0.0
 champs elysees clemenceau_METRO 1,champs elysees clemenceau_METRO 1,correspondance,,0.0
 champs elysees clemenceau_METRO 1,place de la concorde_METRO 1,adjacence,METRO 1,712.6211301931355
+champs elysees clemenceau_METRO 1,champs elysees clemenceau_METRO 13 1,correspondance,,0.0
+champs elysees clemenceau_METRO 1,champs elysees clemenceau_METRO 13 2,correspondance,,0.0
 place de la concorde_METRO 1,place de la concorde_METRO 1,correspondance,,0.0
 place de la concorde_METRO 1,tuileries_METRO 1,adjacence,METRO 1,549.036960446263
+place de la concorde_METRO 1,place de la concorde_METRO 8,correspondance,,0.0
 place de la concorde_METRO 1,place de la concorde_METRO 12,correspondance,,0.0
 tuileries_METRO 1,palais royal_METRO 1,adjacence,METRO 1,517.171186830922
 palais royal_METRO 1,palais royal_METRO 1,correspondance,,0.0
 palais royal_METRO 1,louvre rivoli_METRO 1,adjacence,METRO 1,383.36783014616867
 palais royal_METRO 1,palais royal_METRO 7 1,correspondance,,0.0
 palais royal_METRO 1,palais royal_METRO 7 2,correspondance,,0.0
-louvre rivoli_METRO 1,chatelet_METRO 1,adjacence,METRO 1,618.9402494960322
+louvre rivoli_METRO 1,chatelet_METRO 1,adjacence,METRO 1,432.542358574456
 chatelet_METRO 1,chatelet_METRO 1,correspondance,,0.0
-chatelet_METRO 1,hotel de ville_METRO 1,adjacence,METRO 1,432.0042423256223
+chatelet_METRO 1,hotel de ville_METRO 1,adjacence,METRO 1,260.3988086225414
 chatelet_METRO 1,chatelet_METRO 4,correspondance,,0.0
 chatelet_METRO 1,chatelet_METRO 7 1,correspondance,,0.0
 chatelet_METRO 1,chatelet_METRO 7 2,correspondance,,0.0
@@ -3012,10 +2988,15 @@ hotel de ville_METRO 1,saint paul_METRO 1,adjacence,METRO 1,770.4648134453337
 hotel de ville_METRO 1,hotel de ville_METRO 11,correspondance,,0.0
 saint paul_METRO 1,bastille_METRO 1,adjacence,METRO 1,658.985805228013
 bastille_METRO 1,bastille_METRO 1,correspondance,,0.0
-bastille_METRO 1,reuilly diderot_METRO 1,adjacence,METRO 1,1329.3435326571905
+bastille_METRO 1,gare de lyon_METRO 1,adjacence,METRO 1,993.4670525473176
 bastille_METRO 1,bastille_METRO 5,correspondance,,0.0
+bastille_METRO 1,bastille_METRO 8,correspondance,,0.0
+gare de lyon_METRO 1,gare de lyon_METRO 1,correspondance,,0.0
+gare de lyon_METRO 1,reuilly diderot_METRO 1,adjacence,METRO 1,1063.6251500313479
+gare de lyon_METRO 1,gare de lyon_METRO 14,correspondance,,0.0
 reuilly diderot_METRO 1,reuilly diderot_METRO 1,correspondance,,0.0
-reuilly diderot_METRO 1,nation_METRO 1,adjacence,METRO 1,657.4102862965259
+reuilly diderot_METRO 1,nation_METRO 1,adjacence,METRO 1,785.3556360641835
+reuilly diderot_METRO 1,reuilly diderot_METRO 8,correspondance,,0.0
 nation_METRO 1,nation_METRO 1,correspondance,,0.0
 nation_METRO 1,porte de vincennes_METRO 1,adjacence,METRO 1,1027.7152071180408
 nation_METRO 1,nation_METRO 2,correspondance,,0.0
@@ -3046,9 +3027,9 @@ blanche_METRO 2,pigalle_METRO 2,adjacence,METRO 2,313.33168577494655
 pigalle_METRO 2,pigalle_METRO 2,correspondance,,0.0
 pigalle_METRO 2,anvers_METRO 2,adjacence,METRO 2,479.1269519714884
 pigalle_METRO 2,pigalle_METRO 12,correspondance,,0.0
-anvers_METRO 2,barbes rochechouart_METRO 2,adjacence,METRO 2,370.60647847614166
+anvers_METRO 2,barbes rochechouart_METRO 2,adjacence,METRO 2,445.77717015468346
 barbes rochechouart_METRO 2,barbes rochechouart_METRO 2,correspondance,,0.0
-barbes rochechouart_METRO 2,la chapelle_METRO 2,adjacence,METRO 2,720.8069192476254
+barbes rochechouart_METRO 2,la chapelle_METRO 2,adjacence,METRO 2,794.1039229259093
 barbes rochechouart_METRO 2,barbes rochechouart_METRO 4,correspondance,,0.0
 la chapelle_METRO 2,stalingrad_METRO 2,adjacence,METRO 2,511.43938610367655
 stalingrad_METRO 2,stalingrad_METRO 2,correspondance,,0.0
@@ -3060,17 +3041,19 @@ jaures_METRO 2,jaures_METRO 2,correspondance,,0.0
 jaures_METRO 2,colonel fabien_METRO 2,adjacence,METRO 2,542.0415102038834
 jaures_METRO 2,jaures_METRO 5,correspondance,,0.0
 jaures_METRO 2,jaures_METRO 7BIS 1,correspondance,,0.0
-colonel fabien_METRO 2,belleville_METRO 2,adjacence,METRO 2,734.4991062025433
+jaures_METRO 2,jaures_METRO 7BIS 2,correspondance,,0.0
+colonel fabien_METRO 2,belleville_METRO 2,adjacence,METRO 2,768.3880148808197
 belleville_METRO 2,belleville_METRO 2,correspondance,,0.0
-belleville_METRO 2,couronnes_METRO 2,adjacence,METRO 2,421.86478860475364
+belleville_METRO 2,couronnes_METRO 2,adjacence,METRO 2,451.8869304359624
 belleville_METRO 2,belleville_METRO 11,correspondance,,0.0
 couronnes_METRO 2,menilmontant_METRO 2,adjacence,METRO 2,369.81452091416816
 menilmontant_METRO 2,pere lachaise_METRO 2,adjacence,METRO 2,405.80159600357075
 pere lachaise_METRO 2,pere lachaise_METRO 2,correspondance,,0.0
-pere lachaise_METRO 2,avron_METRO 2,adjacence,METRO 2,1364.7412657078344
+pere lachaise_METRO 2,philippe auguste_METRO 2,adjacence,METRO 2,509.25605805840826
 pere lachaise_METRO 2,pere lachaise_METRO 3,correspondance,,0.0
-pere lachaise_METRO 2,pere lachaise_METRO 9,correspondance,,0.0
-avron_METRO 2,nation_METRO 2,adjacence,METRO 2,438.1578025096529
+philippe auguste_METRO 2,alexandre dumas_METRO 2,adjacence,METRO 2,346.35729838793134
+alexandre dumas_METRO 2,avron_METRO 2,adjacence,METRO 2,538.9928224345126
+avron_METRO 2,nation_METRO 2,adjacence,METRO 2,438.01519998138
 nation_METRO 2,nation_METRO 2,correspondance,,0.0
 nation_METRO 2,nation_METRO 6,correspondance,,0.0
 nation_METRO 2,nation_METRO 9,correspondance,,0.0
@@ -3078,22 +3061,27 @@ pont de levallois becon_METRO 3,anatole france_METRO 3,adjacence,METRO 3,
 anatole france_METRO 3,louise michel_METRO 3,adjacence,METRO 3,437.99182994206916
 louise michel_METRO 3,porte de champerret_METRO 3,adjacence,METRO 3,499.68046134795543
 porte de champerret_METRO 3,porte de champerret_METRO 3,correspondance,,0.0
-porte de champerret_METRO 3,villiers_METRO 3,adjacence,METRO 3,1742.9716573765409
+porte de champerret_METRO 3,pereire_METRO 3,adjacence,METRO 3,
+pereire_METRO 3,wagram_METRO 3,adjacence,METRO 3,
+wagram_METRO 3,malesherbes_METRO 3,adjacence,METRO 3,415.14621694816026
+malesherbes_METRO 3,villiers_METRO 3,adjacence,METRO 3,382.8484326469146
 villiers_METRO 3,europe_METRO 3,adjacence,METRO 3,610.7313796837303
-europe_METRO 3,saint lazare_METRO 3,adjacence,METRO 3,368.5068384227253
+europe_METRO 3,saint lazare_METRO 3,adjacence,METRO 3,431.3428661429328
 saint lazare_METRO 3,saint lazare_METRO 3,correspondance,,0.0
-saint lazare_METRO 3,havre caumartin_METRO 3,adjacence,METRO 3,260.7182058953164
+saint lazare_METRO 3,havre caumartin_METRO 3,adjacence,METRO 3,345.57942237925323
+saint lazare_METRO 3,saint lazare_METRO 9,correspondance,,0.0
 saint lazare_METRO 3,saint lazare_METRO 12,correspondance,,0.0
 saint lazare_METRO 3,saint lazare_METRO 13 1,correspondance,,0.0
 saint lazare_METRO 3,saint lazare_METRO 13 2,correspondance,,0.0
 saint lazare_METRO 3,saint lazare_METRO 14,correspondance,,0.0
 havre caumartin_METRO 3,havre caumartin_METRO 3,correspondance,,0.0
-havre caumartin_METRO 3,opera_METRO 3,adjacence,METRO 3,386.23257279996676
+havre caumartin_METRO 3,opera_METRO 3,adjacence,METRO 3,552.4832402751188
 havre caumartin_METRO 3,havre caumartin_METRO 9,correspondance,,0.0
 opera_METRO 3,opera_METRO 3,correspondance,,0.0
 opera_METRO 3,quatre septembre_METRO 3,adjacence,METRO 3,381.9635558421146
 opera_METRO 3,opera_METRO 7 1,correspondance,,0.0
 opera_METRO 3,opera_METRO 7 2,correspondance,,0.0
+opera_METRO 3,opera_METRO 8,correspondance,,0.0
 quatre septembre_METRO 3,bourse_METRO 3,adjacence,METRO 3,392.8712751400716
 bourse_METRO 3,sentier_METRO 3,adjacence,METRO 3,400.3993238861265
 sentier_METRO 3,reaumur sebastopol_METRO 3,adjacence,METRO 3,468.6159232494126
@@ -3103,83 +3091,88 @@ reaumur sebastopol_METRO 3,reaumur sebastopol_METRO 4,correspondance,,0.0
 arts et metiers_METRO 3,arts et metiers_METRO 3,correspondance,,0.0
 arts et metiers_METRO 3,temple_METRO 3,adjacence,METRO 3,326.9409791761626
 arts et metiers_METRO 3,arts et metiers_METRO 11,correspondance,,0.0
-temple_METRO 3,filles du calvaire_METRO 3,adjacence,METRO 3,562.0071653684137
-filles du calvaire_METRO 3,saint sebastien froissart_METRO 3,adjacence,METRO 3,235.79659979742314
-saint sebastien froissart_METRO 3,chemin vert_METRO 3,adjacence,METRO 3,457.72931620388914
-chemin vert_METRO 3,saint ambroise_METRO 3,adjacence,METRO 3,644.2965233168723
-saint ambroise_METRO 3,pere lachaise_METRO 3,adjacence,METRO 3,894.9367098392582
-saint ambroise_METRO 3,saint ambroise_METRO 5,correspondance,,0.0
-saint ambroise_METRO 3,saint ambroise_METRO 9,correspondance,,0.0
+temple_METRO 3,republique_METRO 3,adjacence,METRO 3,210.06331934057857
+republique_METRO 3,republique_METRO 3,correspondance,,0.0
+republique_METRO 3,parmentier_METRO 3,adjacence,METRO 3,845.3245767660674
+republique_METRO 3,republique_METRO 5,correspondance,,0.0
+republique_METRO 3,republique_METRO 8,correspondance,,0.0
+republique_METRO 3,republique_METRO 9,correspondance,,0.0
+republique_METRO 3,republique_METRO 11,correspondance,,0.0
+parmentier_METRO 3,rue saint maur_METRO 3,adjacence,METRO 3,393.59005172435417
+rue saint maur_METRO 3,pere lachaise_METRO 3,adjacence,METRO 3,468.72232708868523
 pere lachaise_METRO 3,pere lachaise_METRO 3,correspondance,,0.0
 pere lachaise_METRO 3,gambetta_METRO 3,adjacence,METRO 3,866.3978350350329
-pere lachaise_METRO 3,pere lachaise_METRO 9,correspondance,,0.0
 gambetta_METRO 3,gambetta_METRO 3,correspondance,,0.0
-gambetta_METRO 3,porte de bagnolet_METRO 3,adjacence,METRO 3,891.2525447279679
+gambetta_METRO 3,porte de bagnolet_METRO 3,adjacence,METRO 3,816.8186173760993
 gambetta_METRO 3,gambetta_METRO 3BIS,correspondance,,0.0
 porte de bagnolet_METRO 3,porte de bagnolet_METRO 3,correspondance,,0.0
-porte de bagnolet_METRO 3,gallieni_METRO 3,adjacence,METRO 3,641.0678397014533
+porte de bagnolet_METRO 3,gallieni_METRO 3,adjacence,METRO 3,614.5710127869967
 gambetta_METRO 3BIS,gambetta_METRO 3BIS,correspondance,,0.0
 gambetta_METRO 3BIS,pelleport_METRO 3BIS,adjacence,METRO 3BIS,514.3536092515192
-pelleport_METRO 3BIS,saint fargeau_METRO 3BIS,adjacence,METRO 3BIS,35296.228107027484
+pelleport_METRO 3BIS,saint fargeau_METRO 3BIS,adjacence,METRO 3BIS,422.76584159322186
 saint fargeau_METRO 3BIS,saint fargeau_METRO 3BIS,correspondance,,0.0
 saint fargeau_METRO 3BIS,porte des lilas_METRO 3BIS,adjacence,METRO 3BIS,535.6609126029335
 porte des lilas_METRO 3BIS,porte des lilas_METRO 3BIS,correspondance,,0.0
 porte des lilas_METRO 3BIS,porte des lilas_METRO 11,correspondance,,0.0
-porte de clignancourt_METRO 4,porte de clignancourt_METRO 4,correspondance,,0.0
-porte de clignancourt_METRO 4,marcadet poissonniers_METRO 4,adjacence,METRO 4,750.0094466142627
-porte de clignancourt_METRO 4,porte de clignancourt_METRO 13 1,correspondance,,0.0
-porte de clignancourt_METRO 4,porte de clignancourt_METRO 13 2,correspondance,,0.0
-marcadet poissonniers_METRO 4,marcadet poissonniers_METRO 4,correspondance,,0.0
-marcadet poissonniers_METRO 4,simplon_METRO 4,adjacence,METRO 4,364.7926360008263
-marcadet poissonniers_METRO 4,marcadet poissonniers_METRO 12,correspondance,,0.0
-simplon_METRO 4,chateau rouge_METRO 4,adjacence,METRO 4,863.0681500525432
-chateau rouge_METRO 4,barbes rochechouart_METRO 4,adjacence,METRO 4,332.38889410027616
-barbes rochechouart_METRO 4,barbes rochechouart_METRO 4,correspondance,,0.0
-barbes rochechouart_METRO 4,gare du nord_METRO 4,adjacence,METRO 4,603.117255370142
-gare du nord_METRO 4,gare du nord_METRO 4,correspondance,,0.0
-gare du nord_METRO 4,chateau d'eau_METRO 4,adjacence,METRO 4,849.3162867115549
-chateau d'eau_METRO 4,strasbourg saint denis_METRO 4,adjacence,METRO 4,396.81857702363476
-strasbourg saint denis_METRO 4,strasbourg saint denis_METRO 4,correspondance,,0.0
-strasbourg saint denis_METRO 4,reaumur sebastopol_METRO 4,adjacence,METRO 4,343.70845114037405
-strasbourg saint denis_METRO 4,strasbourg saint denis_METRO 9,correspondance,,0.0
-reaumur sebastopol_METRO 4,reaumur sebastopol_METRO 4,correspondance,,0.0
-reaumur sebastopol_METRO 4,etienne marcel_METRO 4,adjacence,METRO 4,308.38218300673844
-etienne marcel_METRO 4,chatelet_METRO 4,adjacence,METRO 4,714.6497370282428
+bagneux lucie aubrac_METRO 4,barbara_METRO 4,adjacence,METRO 4,676.8966564945297
+barbara_METRO 4,mairie de montrouge_METRO 4,adjacence,METRO 4,1011.876379741087
+mairie de montrouge_METRO 4,porte d'orleans_METRO 4,adjacence,METRO 4,678.9053941310045
+porte d'orleans_METRO 4,porte d'orleans_METRO 4,correspondance,,0.0
+porte d'orleans_METRO 4,alesia_METRO 4,adjacence,METRO 4,573.1607254722729
+alesia_METRO 4,mouton duvernet_METRO 4,adjacence,METRO 4,374.88066790427536
+mouton duvernet_METRO 4,denfert rochereau_METRO 4,adjacence,METRO 4,422.4624218168402
+denfert rochereau_METRO 4,denfert rochereau_METRO 4,correspondance,,0.0
+denfert rochereau_METRO 4,raspail_METRO 4,adjacence,METRO 4,617.3861292222044
+denfert rochereau_METRO 4,denfert rochereau_METRO 6,correspondance,,0.0
+raspail_METRO 4,vavin_METRO 4,adjacence,METRO 4,383.88867112334884
+raspail_METRO 4,raspail_METRO 6,correspondance,,0.0
+vavin_METRO 4,montparnasse bienvenue_METRO 4,adjacence,METRO 4,589.1136947499308
+montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 4,correspondance,,0.0
+montparnasse bienvenue_METRO 4,saint placide_METRO 4,adjacence,METRO 4,667.7651748581928
+montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 6,correspondance,,0.0
+montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 12,correspondance,,0.0
+montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 13 1,correspondance,,0.0
+montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 13 2,correspondance,,0.0
+saint placide_METRO 4,saint sulpice_METRO 4,adjacence,METRO 4,547.4505431076883
+saint sulpice_METRO 4,saint germain des pres_METRO 4,adjacence,METRO 4,370.98164957918914
+saint germain des pres_METRO 4,odeon_METRO 4,adjacence,METRO 4,464.3735260636878
+odeon_METRO 4,odeon_METRO 4,correspondance,,0.0
+odeon_METRO 4,saint michel_METRO 4,adjacence,METRO 4,386.3460562267461
+odeon_METRO 4,odeon_METRO 10 1,correspondance,,0.0
+odeon_METRO 4,odeon_METRO 10 2,correspondance,,0.0
+saint michel_METRO 4,saint michel_METRO 4,correspondance,,0.0
+saint michel_METRO 4,cite_METRO 4,adjacence,METRO 4,355.4855262860451
+cite_METRO 4,chatelet_METRO 4,adjacence,METRO 4,533.3693716396269
 chatelet_METRO 4,chatelet_METRO 4,correspondance,,0.0
-chatelet_METRO 4,cite_METRO 4,adjacence,METRO 4,766.0944295148172
+chatelet_METRO 4,etienne marcel_METRO 4,adjacence,METRO 4,789.1637445780192
 chatelet_METRO 4,chatelet_METRO 7 1,correspondance,,0.0
 chatelet_METRO 4,chatelet_METRO 7 2,correspondance,,0.0
 chatelet_METRO 4,chatelet_METRO 11,correspondance,,0.0
 chatelet_METRO 4,chatelet_METRO 14,correspondance,,0.0
-cite_METRO 4,saint michel_METRO 4,adjacence,METRO 4,215.91139575455622
-saint michel_METRO 4,saint michel_METRO 4,correspondance,,0.0
-saint michel_METRO 4,odeon_METRO 4,adjacence,METRO 4,278.36643572605095
-saint michel_METRO 4,saint michel_METRO 10,correspondance,,0.0
-odeon_METRO 4,odeon_METRO 4,correspondance,,0.0
-odeon_METRO 4,saint germain des pres_METRO 4,adjacence,METRO 4,539.4965840789527
-odeon_METRO 4,odeon_METRO 8,correspondance,,0.0
-odeon_METRO 4,odeon_METRO 10,correspondance,,0.0
-saint germain des pres_METRO 4,mabillon_METRO 4,adjacence,METRO 4,148.7943263739272
-saint germain des pres_METRO 4,saint germain des pres_METRO 8,correspondance,,0.0
-mabillon_METRO 4,saint sulpice_METRO 4,adjacence,METRO 4,413.4765033692498
-mabillon_METRO 4,mabillon_METRO 10,correspondance,,0.0
-saint sulpice_METRO 4,montparnasse bienvenue_METRO 4,adjacence,METRO 4,1205.8414649087488
-montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 4,correspondance,,0.0
-montparnasse bienvenue_METRO 4,raspail_METRO 4,adjacence,METRO 4,710.4316636875276
-montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 6,correspondance,,0.0
-montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 12,correspondance,,0.0
-montparnasse bienvenue_METRO 4,montparnasse bienvenue_METRO 13 1,correspondance,,0.0
-raspail_METRO 4,denfert rochereau_METRO 4,adjacence,METRO 4,541.8323395024513
-raspail_METRO 4,raspail_METRO 6,correspondance,,0.0
-denfert rochereau_METRO 4,denfert rochereau_METRO 4,correspondance,,0.0
-denfert rochereau_METRO 4,mouton duvernet_METRO 4,adjacence,METRO 4,299.8932641047514
-denfert rochereau_METRO 4,denfert rochereau_METRO 6,correspondance,,0.0
-mouton duvernet_METRO 4,alesia_METRO 4,adjacence,METRO 4,374.88066790427536
-alesia_METRO 4,porte d'orleans_METRO 4,adjacence,METRO 4,543.878207162269
-porte d'orleans_METRO 4,porte d'orleans_METRO 4,correspondance,,0.0
-porte d'orleans_METRO 4,mairie de montrouge_METRO 4,adjacence,METRO 4,653.578688301134
-mairie de montrouge_METRO 4,bagneux lucie aubrac_METRO 4,adjacence,METRO 4,1677.8062846163464
-bagneux lucie aubrac_METRO 4,bagneux lucie aubrac_METRO 13 1,correspondance,,0.0
+etienne marcel_METRO 4,reaumur sebastopol_METRO 4,adjacence,METRO 4,387.0568406908969
+reaumur sebastopol_METRO 4,reaumur sebastopol_METRO 4,correspondance,,0.0
+reaumur sebastopol_METRO 4,strasbourg saint denis_METRO 4,adjacence,METRO 4,416.4246831681204
+strasbourg saint denis_METRO 4,strasbourg saint denis_METRO 4,correspondance,,0.0
+strasbourg saint denis_METRO 4,chateau d'eau_METRO 4,adjacence,METRO 4,396.81857702363476
+strasbourg saint denis_METRO 4,strasbourg saint denis_METRO 8,correspondance,,0.0
+strasbourg saint denis_METRO 4,strasbourg saint denis_METRO 9,correspondance,,0.0
+chateau d'eau_METRO 4,gare de l'est_METRO 4,adjacence,METRO 4,413.8456958586437
+gare de l'est_METRO 4,gare de l'est_METRO 4,correspondance,,0.0
+gare de l'est_METRO 4,gare du nord_METRO 4,adjacence,METRO 4,380.21999432148266
+gare de l'est_METRO 4,gare de l'est_METRO 5,correspondance,,0.0
+gare de l'est_METRO 4,gare de l'est_METRO 7 1,correspondance,,0.0
+gare de l'est_METRO 4,gare de l'est_METRO 7 2,correspondance,,0.0
+gare du nord_METRO 4,gare du nord_METRO 4,correspondance,,0.0
+gare du nord_METRO 4,barbes rochechouart_METRO 4,adjacence,METRO 4,652.7990167369002
+gare du nord_METRO 4,gare du nord_METRO 5,correspondance,,0.0
+barbes rochechouart_METRO 4,barbes rochechouart_METRO 4,correspondance,,0.0
+barbes rochechouart_METRO 4,chateau rouge_METRO 4,adjacence,METRO 4,366.2907277898698
+chateau rouge_METRO 4,marcadet poissonniers_METRO 4,adjacence,METRO 4,525.8781942511578
+marcadet poissonniers_METRO 4,marcadet poissonniers_METRO 4,correspondance,,0.0
+marcadet poissonniers_METRO 4,simplon_METRO 4,adjacence,METRO 4,364.7926360008263
+marcadet poissonniers_METRO 4,marcadet poissonniers_METRO 12,correspondance,,0.0
+simplon_METRO 4,porte de clignancourt_METRO 4,adjacence,METRO 4,445.91129688969625
+porte de clignancourt_METRO 4,porte de clignancourt_METRO 4,correspondance,,0.0
 bobigny pablo picasso_METRO 5,bobigny pablo picasso_METRO 5,correspondance,,0.0
 bobigny pablo picasso_METRO 5,bobigny pantin raymond queneau_METRO 5,adjacence,METRO 5,2129.725373101442
 bobigny pantin raymond queneau_METRO 5,eglise de pantin_METRO 5,adjacence,METRO 5,956.250163380921
@@ -3190,43 +3183,48 @@ porte de pantin_METRO 5,ourcq_METRO 5,adjacence,METRO 5,464.23555470596085
 ourcq_METRO 5,laumiere_METRO 5,adjacence,METRO 5,567.9278301635095
 laumiere_METRO 5,jaures_METRO 5,adjacence,METRO 5,686.7823372777025
 jaures_METRO 5,jaures_METRO 5,correspondance,,0.0
-jaures_METRO 5,stalingrad_METRO 5,adjacence,METRO 5,367.5599645700574
+jaures_METRO 5,stalingrad_METRO 5,adjacence,METRO 5,357.4354501605524
 jaures_METRO 5,jaures_METRO 7BIS 1,correspondance,,0.0
+jaures_METRO 5,jaures_METRO 7BIS 2,correspondance,,0.0
 stalingrad_METRO 5,stalingrad_METRO 5,correspondance,,0.0
-stalingrad_METRO 5,bassin de la villette_METRO 5,adjacence,METRO 5,
+stalingrad_METRO 5,gare du nord_METRO 5,adjacence,METRO 5,1154.359027207142
 stalingrad_METRO 5,stalingrad_METRO 7 1,correspondance,,0.0
 stalingrad_METRO 5,stalingrad_METRO 7 2,correspondance,,0.0
-bassin de la villette_METRO 5,jacques bonsergent_METRO 5,adjacence,METRO 5,
-jacques bonsergent_METRO 5,republique_METRO 5,adjacence,METRO 5,311.79053155057244
+gare du nord_METRO 5,gare du nord_METRO 5,correspondance,,0.0
+gare du nord_METRO 5,gare de l'est_METRO 5,adjacence,METRO 5,453.5369830273587
+gare de l'est_METRO 5,gare de l'est_METRO 5,correspondance,,0.0
+gare de l'est_METRO 5,jacques bonsergent_METRO 5,adjacence,METRO 5,789.128008681284
+gare de l'est_METRO 5,gare de l'est_METRO 7 1,correspondance,,0.0
+gare de l'est_METRO 5,gare de l'est_METRO 7 2,correspondance,,0.0
+jacques bonsergent_METRO 5,republique_METRO 5,adjacence,METRO 5,429.03084601709014
 republique_METRO 5,republique_METRO 5,correspondance,,0.0
-republique_METRO 5,oberkampf_METRO 5,adjacence,METRO 5,396.1283289306642
+republique_METRO 5,oberkampf_METRO 5,adjacence,METRO 5,480.8159872281022
+republique_METRO 5,republique_METRO 8,correspondance,,0.0
 republique_METRO 5,republique_METRO 9,correspondance,,0.0
 republique_METRO 5,republique_METRO 11,correspondance,,0.0
 oberkampf_METRO 5,oberkampf_METRO 5,correspondance,,0.0
 oberkampf_METRO 5,richard lenoir_METRO 5,adjacence,METRO 5,639.8519807365162
 oberkampf_METRO 5,oberkampf_METRO 9,correspondance,,0.0
-richard lenoir_METRO 5,saint ambroise_METRO 5,adjacence,METRO 5,232.26838090212806
-saint ambroise_METRO 5,bastille_METRO 5,adjacence,METRO 5,1121.5938813351538
-saint ambroise_METRO 5,saint ambroise_METRO 9,correspondance,,0.0
+richard lenoir_METRO 5,breguet sabin_METRO 5,adjacence,METRO 5,433.56197524432304
+breguet sabin_METRO 5,bastille_METRO 5,adjacence,METRO 5,304.7097203418345
 bastille_METRO 5,bastille_METRO 5,correspondance,,0.0
-bastille_METRO 5,quai de la rapee_METRO 5,adjacence,METRO 5,800.4892565521575
+bastille_METRO 5,quai de la rapee_METRO 5,adjacence,METRO 5,646.9847902278815
+bastille_METRO 5,bastille_METRO 8,correspondance,,0.0
 quai de la rapee_METRO 5,gare d'austerlitz_METRO 5,adjacence,METRO 5,453.28545072109125
 gare d'austerlitz_METRO 5,gare d'austerlitz_METRO 5,correspondance,,0.0
 gare d'austerlitz_METRO 5,saint marcel_METRO 5,adjacence,METRO 5,553.1867768309231
-gare d'austerlitz_METRO 5,gare d'austerlitz_METRO 10,correspondance,,0.0
+gare d'austerlitz_METRO 5,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_METRO 5,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 saint marcel_METRO 5,campo formio_METRO 5,adjacence,METRO 5,404.58408644641133
-saint marcel_METRO 5,saint marcel_METRO 10,correspondance,,0.0
 campo formio_METRO 5,place d'italie_METRO 5,adjacence,METRO 5,465.91380492652496
-campo formio_METRO 5,campo formio_METRO 10,correspondance,,0.0
 place d'italie_METRO 5,place d'italie_METRO 5,correspondance,,0.0
 place d'italie_METRO 5,place d'italie_METRO 6,correspondance,,0.0
 place d'italie_METRO 5,place d'italie_METRO 7 1,correspondance,,0.0
 place d'italie_METRO 5,place d'italie_METRO 7 2,correspondance,,0.0
-place d'italie_METRO 5,place d'italie_METRO 8,correspondance,,0.0
-place d'italie_METRO 5,place d'italie_METRO 10,correspondance,,0.0
 arc de triomphe_METRO 6,arc de triomphe_METRO 6,correspondance,,0.0
 arc de triomphe_METRO 6,kleber_METRO 6,adjacence,METRO 6,423.42092882675183
-kleber_METRO 6,trocadero_METRO 6,adjacence,METRO 6,1046.199590854116
+kleber_METRO 6,boissiere_METRO 6,adjacence,METRO 6,530.029422086611
+boissiere_METRO 6,trocadero_METRO 6,adjacence,METRO 6,517.9043441410035
 trocadero_METRO 6,trocadero_METRO 6,correspondance,,0.0
 trocadero_METRO 6,passy_METRO 6,adjacence,METRO 6,697.4525458326492
 trocadero_METRO 6,trocadero_METRO 9,correspondance,,0.0
@@ -3234,21 +3232,24 @@ passy_METRO 6,bir hakeim_METRO 6,adjacence,METRO 6,467.78723349173947
 bir hakeim_METRO 6,dupleix_METRO 6,adjacence,METRO 6,500.7559180000928
 dupleix_METRO 6,la motte picquet grenelle_METRO 6,adjacence,METRO 6,380.09707975112735
 la motte picquet grenelle_METRO 6,la motte picquet grenelle_METRO 6,correspondance,,0.0
-la motte picquet grenelle_METRO 6,ecole militaire_METRO 6,adjacence,METRO 6,876.5426896415246
+la motte picquet grenelle_METRO 6,cambronne_METRO 6,adjacence,METRO 6,326.5810617186097
 la motte picquet grenelle_METRO 6,la motte picquet grenelle_METRO 8,correspondance,,0.0
-ecole militaire_METRO 6,cambronne_METRO 6,adjacence,METRO 6,858.9257220486006
-ecole militaire_METRO 6,ecole militaire_METRO 8,correspondance,,0.0
-ecole militaire_METRO 6,ecole militaire_METRO 10,correspondance,,0.0
+la motte picquet grenelle_METRO 6,la motte picquet grenelle_METRO 10 1,correspondance,,0.0
+la motte picquet grenelle_METRO 6,la motte picquet grenelle_METRO 10 2,correspondance,,0.0
 cambronne_METRO 6,sevres lecourbe_METRO 6,adjacence,METRO 6,525.1319036962309
-sevres lecourbe_METRO 6,montparnasse bienvenue_METRO 6,adjacence,METRO 6,947.1536131382521
+sevres lecourbe_METRO 6,pasteur_METRO 6,adjacence,METRO 6,373.7960435596826
+pasteur_METRO 6,pasteur_METRO 6,correspondance,,0.0
+pasteur_METRO 6,montparnasse bienvenue_METRO 6,adjacence,METRO 6,624.685977356929
+pasteur_METRO 6,pasteur_METRO 12,correspondance,,0.0
 montparnasse bienvenue_METRO 6,montparnasse bienvenue_METRO 6,correspondance,,0.0
 montparnasse bienvenue_METRO 6,edgar quinet_METRO 6,adjacence,METRO 6,437.4418649275529
 montparnasse bienvenue_METRO 6,montparnasse bienvenue_METRO 12,correspondance,,0.0
 montparnasse bienvenue_METRO 6,montparnasse bienvenue_METRO 13 1,correspondance,,0.0
+montparnasse bienvenue_METRO 6,montparnasse bienvenue_METRO 13 2,correspondance,,0.0
 edgar quinet_METRO 6,raspail_METRO 6,adjacence,METRO 6,372.2625793063955
 raspail_METRO 6,denfert rochereau_METRO 6,adjacence,METRO 6,617.3861292222044
 denfert rochereau_METRO 6,denfert rochereau_METRO 6,correspondance,,0.0
-denfert rochereau_METRO 6,saint jacques_METRO 6,adjacence,METRO 6,350.47695071032683
+denfert rochereau_METRO 6,saint jacques_METRO 6,adjacence,METRO 6,289.27290590303454
 saint jacques_METRO 6,glaciere_METRO 6,adjacence,METRO 6,507.89655075525695
 glaciere_METRO 6,corvisart_METRO 6,adjacence,METRO 6,528.2550831794091
 corvisart_METRO 6,place d'italie_METRO 6,adjacence,METRO 6,437.6659393342485
@@ -3256,8 +3257,6 @@ place d'italie_METRO 6,place d'italie_METRO 6,correspondance,,0.0
 place d'italie_METRO 6,nationale_METRO 6,adjacence,METRO 6,589.6102179832807
 place d'italie_METRO 6,place d'italie_METRO 7 1,correspondance,,0.0
 place d'italie_METRO 6,place d'italie_METRO 7 2,correspondance,,0.0
-place d'italie_METRO 6,place d'italie_METRO 8,correspondance,,0.0
-place d'italie_METRO 6,place d'italie_METRO 10,correspondance,,0.0
 nationale_METRO 6,chevaleret_METRO 6,adjacence,METRO 6,432.1334445091489
 chevaleret_METRO 6,quai de la gare_METRO 6,adjacence,METRO 6,416.43903220291475
 quai de la gare_METRO 6,bercy_METRO 6,adjacence,METRO 6,593.3197594681595
@@ -3267,8 +3266,9 @@ bercy_METRO 6,bercy_METRO 14,correspondance,,0.0
 dugommier_METRO 6,daumesnil_METRO 6,adjacence,METRO 6,483.85401530722845
 daumesnil_METRO 6,daumesnil_METRO 6,correspondance,,0.0
 daumesnil_METRO 6,bel air_METRO 6,adjacence,METRO 6,431.4152778905051
+daumesnil_METRO 6,daumesnil_METRO 8,correspondance,,0.0
 bel air_METRO 6,picpus_METRO 6,adjacence,METRO 6,414.9513660767371
-picpus_METRO 6,nation_METRO 6,adjacence,METRO 6,534.4369471713497
+picpus_METRO 6,nation_METRO 6,adjacence,METRO 6,594.0504444033396
 nation_METRO 6,nation_METRO 6,correspondance,,0.0
 nation_METRO 6,nation_METRO 9,correspondance,,0.0
 la courneuve 8 mai 1945_METRO 7 1,fort d'aubervilliers_METRO 7 1,adjacence,METRO 7 1,791.8570164785408
@@ -3293,6 +3293,7 @@ louis blanc_METRO 7 1,louis blanc_METRO 7 1,correspondance,,0.0
 louis blanc_METRO 7 1,chateau landon_METRO 7 1,adjacence,METRO 7 1,353.14858519942186
 louis blanc_METRO 7 1,louis blanc_METRO 7 2,correspondance,,0.0
 louis blanc_METRO 7 1,louis blanc_METRO 7BIS 1,correspondance,,0.0
+louis blanc_METRO 7 1,louis blanc_METRO 7BIS 2,correspondance,,0.0
 chateau landon_METRO 7 1,gare de l'est_METRO 7 1,adjacence,METRO 7 1,405.2080331119757
 chateau landon_METRO 7 1,chateau landon_METRO 7 2,correspondance,,0.0
 gare de l'est_METRO 7 1,gare de l'est_METRO 7 1,correspondance,,0.0
@@ -3311,6 +3312,7 @@ chaussee d'antin la fayette_METRO 7 1,chaussee d'antin la fayette_METRO 9,corres
 opera_METRO 7 1,opera_METRO 7 1,correspondance,,0.0
 opera_METRO 7 1,pyramides_METRO 7 1,adjacence,METRO 7 1,554.5942457947243
 opera_METRO 7 1,opera_METRO 7 2,correspondance,,0.0
+opera_METRO 7 1,opera_METRO 8,correspondance,,0.0
 pyramides_METRO 7 1,pyramides_METRO 7 1,correspondance,,0.0
 pyramides_METRO 7 1,palais royal_METRO 7 1,adjacence,METRO 7 1,369.67930896546267
 pyramides_METRO 7 1,pyramides_METRO 7 2,correspondance,,0.0
@@ -3332,43 +3334,30 @@ sully morland_METRO 7 1,sully morland_METRO 7 2,correspondance,,0.0
 jussieu_METRO 7 1,jussieu_METRO 7 1,correspondance,,0.0
 jussieu_METRO 7 1,place monge_METRO 7 1,adjacence,METRO 7 1,415.30159619454616
 jussieu_METRO 7 1,jussieu_METRO 7 2,correspondance,,0.0
-jussieu_METRO 7 1,jussieu_METRO 8,correspondance,,0.0
-jussieu_METRO 7 1,jussieu_METRO 10,correspondance,,0.0
+jussieu_METRO 7 1,jussieu_METRO 10 1,correspondance,,0.0
+jussieu_METRO 7 1,jussieu_METRO 10 2,correspondance,,0.0
 place monge_METRO 7 1,censier daubenton_METRO 7 1,adjacence,METRO 7 1,296.3025273180506
 place monge_METRO 7 1,place monge_METRO 7 2,correspondance,,0.0
-place monge_METRO 7 1,place monge_METRO 8,correspondance,,0.0
 censier daubenton_METRO 7 1,les gobelins_METRO 7 1,adjacence,METRO 7 1,483.486411619684
 censier daubenton_METRO 7 1,censier daubenton_METRO 7 2,correspondance,,0.0
-censier daubenton_METRO 7 1,censier daubenton_METRO 8,correspondance,,0.0
 les gobelins_METRO 7 1,place d'italie_METRO 7 1,adjacence,METRO 7 1,615.3182890677609
 les gobelins_METRO 7 1,les gobelins_METRO 7 2,correspondance,,0.0
-les gobelins_METRO 7 1,les gobelins_METRO 8,correspondance,,0.0
 place d'italie_METRO 7 1,place d'italie_METRO 7 1,correspondance,,0.0
 place d'italie_METRO 7 1,tolbiac_METRO 7 1,adjacence,METRO 7 1,520.1932101807689
 place d'italie_METRO 7 1,place d'italie_METRO 7 2,correspondance,,0.0
-place d'italie_METRO 7 1,place d'italie_METRO 8,correspondance,,0.0
-place d'italie_METRO 7 1,place d'italie_METRO 10,correspondance,,0.0
 tolbiac_METRO 7 1,maison blanche_METRO 7 1,adjacence,METRO 7 1,481.52894658270645
 tolbiac_METRO 7 1,tolbiac_METRO 7 2,correspondance,,0.0
-tolbiac_METRO 7 1,tolbiac_METRO 8,correspondance,,0.0
 maison blanche_METRO 7 1,maison blanche_METRO 7 1,correspondance,,0.0
 maison blanche_METRO 7 1,porte d'italie_METRO 7 1,adjacence,METRO 7 1,248.94880570082233
 maison blanche_METRO 7 1,maison blanche_METRO 7 2,correspondance,,0.0
-maison blanche_METRO 7 1,maison blanche_METRO 8,correspondance,,0.0
 maison blanche_METRO 7 1,maison blanche_METRO 14,correspondance,,0.0
 porte d'italie_METRO 7 1,porte d'italie_METRO 7 1,correspondance,,0.0
 porte d'italie_METRO 7 1,porte de choisy_METRO 7 1,adjacence,METRO 7 1,296.0664431957627
-porte d'italie_METRO 7 1,porte d'italie_METRO 7 2,correspondance,,0.0
-porte d'italie_METRO 7 1,porte d'italie_METRO 8,correspondance,,0.0
 porte de choisy_METRO 7 1,porte de choisy_METRO 7 1,correspondance,,0.0
 porte de choisy_METRO 7 1,porte d'ivry_METRO 7 1,adjacence,METRO 7 1,444.20535428897034
-porte de choisy_METRO 7 1,porte de choisy_METRO 7 2,correspondance,,0.0
 porte d'ivry_METRO 7 1,porte d'ivry_METRO 7 1,correspondance,,0.0
 porte d'ivry_METRO 7 1,pierre et marie curie_METRO 7 1,adjacence,METRO 7 1,840.8944936503459
-porte d'ivry_METRO 7 1,porte d'ivry_METRO 7 2,correspondance,,0.0
 pierre et marie curie_METRO 7 1,mairie d'ivry_METRO 7 1,adjacence,METRO 7 1,792.4365957660564
-pierre et marie curie_METRO 7 1,pierre et marie curie_METRO 7 2,correspondance,,0.0
-mairie d'ivry_METRO 7 1,mairie d'ivry_METRO 7 2,correspondance,,0.0
 la courneuve 8 mai 1945_METRO 7 2,fort d'aubervilliers_METRO 7 2,adjacence,METRO 7 2,791.8570164785408
 fort d'aubervilliers_METRO 7 2,aubervilliers pantin quatre chemins_METRO 7 2,adjacence,METRO 7 2,1529.742789277256
 aubervilliers pantin quatre chemins_METRO 7 2,porte de la villette_METRO 7 2,adjacence,METRO 7 2,864.7756427817118
@@ -3378,13 +3367,14 @@ corentin cariou_METRO 7 2,crimee_METRO 7 2,adjacence,METRO 7 2,558.6239247914791
 crimee_METRO 7 2,riquet_METRO 7 2,adjacence,METRO 7 2,421.6839606387782
 riquet_METRO 7 2,stalingrad_METRO 7 2,adjacence,METRO 7 2,602.6377933462549
 stalingrad_METRO 7 2,stalingrad_METRO 7 2,correspondance,,0.0
-stalingrad_METRO 7 2,louis blanc_METRO 7 2,adjacence,METRO 7 2,544.6770477615624
+stalingrad_METRO 7 2,louis blanc_METRO 7 2,adjacence,METRO 7 2,553.5305778782291
 louis blanc_METRO 7 2,louis blanc_METRO 7 2,correspondance,,0.0
-louis blanc_METRO 7 2,chateau landon_METRO 7 2,adjacence,METRO 7 2,353.14858519942186
+louis blanc_METRO 7 2,chateau landon_METRO 7 2,adjacence,METRO 7 2,356.0436329552595
 louis blanc_METRO 7 2,louis blanc_METRO 7BIS 1,correspondance,,0.0
-chateau landon_METRO 7 2,gare de l'est_METRO 7 2,adjacence,METRO 7 2,386.04622897178075
+louis blanc_METRO 7 2,louis blanc_METRO 7BIS 2,correspondance,,0.0
+chateau landon_METRO 7 2,gare de l'est_METRO 7 2,adjacence,METRO 7 2,405.2080331119757
 gare de l'est_METRO 7 2,gare de l'est_METRO 7 2,correspondance,,0.0
-gare de l'est_METRO 7 2,poissonniere_METRO 7 2,adjacence,METRO 7 2,784.0697760394526
+gare de l'est_METRO 7 2,poissonniere_METRO 7 2,adjacence,METRO 7 2,688.6876119073436
 poissonniere_METRO 7 2,cadet_METRO 7 2,adjacence,METRO 7 2,331.343924723837
 cadet_METRO 7 2,le peletier_METRO 7 2,adjacence,METRO 7 2,315.020077305211
 le peletier_METRO 7 2,chaussee d'antin la fayette_METRO 7 2,adjacence,METRO 7 2,522.5236107359833
@@ -3392,117 +3382,100 @@ chaussee d'antin la fayette_METRO 7 2,chaussee d'antin la fayette_METRO 7 2,corr
 chaussee d'antin la fayette_METRO 7 2,opera_METRO 7 2,adjacence,METRO 7 2,273.6805949486888
 chaussee d'antin la fayette_METRO 7 2,chaussee d'antin la fayette_METRO 9,correspondance,,0.0
 opera_METRO 7 2,opera_METRO 7 2,correspondance,,0.0
-opera_METRO 7 2,pyramides_METRO 7 2,adjacence,METRO 7 2,554.5942457947243
+opera_METRO 7 2,pyramides_METRO 7 2,adjacence,METRO 7 2,579.1358070375077
+opera_METRO 7 2,opera_METRO 8,correspondance,,0.0
 pyramides_METRO 7 2,pyramides_METRO 7 2,correspondance,,0.0
-pyramides_METRO 7 2,palais royal_METRO 7 2,adjacence,METRO 7 2,406.1106854614261
+pyramides_METRO 7 2,palais royal_METRO 7 2,adjacence,METRO 7 2,430.4299747868626
 pyramides_METRO 7 2,pyramides_METRO 14,correspondance,,0.0
 palais royal_METRO 7 2,palais royal_METRO 7 2,correspondance,,0.0
 palais royal_METRO 7 2,pont neuf_METRO 7 2,adjacence,METRO 7 2,616.8131809138938
-pont neuf_METRO 7 2,chatelet_METRO 7 2,adjacence,METRO 7 2,332.1359299623198
+pont neuf_METRO 7 2,chatelet_METRO 7 2,adjacence,METRO 7 2,438.05968309474787
 chatelet_METRO 7 2,chatelet_METRO 7 2,correspondance,,0.0
-chatelet_METRO 7 2,pont marie_METRO 7 2,adjacence,METRO 7 2,1181.4401112123057
+chatelet_METRO 7 2,pont marie_METRO 7 2,adjacence,METRO 7 2,1023.9632987546712
 chatelet_METRO 7 2,chatelet_METRO 11,correspondance,,0.0
 chatelet_METRO 7 2,chatelet_METRO 14,correspondance,,0.0
 pont marie_METRO 7 2,sully morland_METRO 7 2,adjacence,METRO 7 2,386.98062843546955
-sully morland_METRO 7 2,jussieu_METRO 7 2,adjacence,METRO 7 2,789.5483832997751
+sully morland_METRO 7 2,jussieu_METRO 7 2,adjacence,METRO 7 2,777.8765533972764
 jussieu_METRO 7 2,jussieu_METRO 7 2,correspondance,,0.0
-jussieu_METRO 7 2,place monge_METRO 7 2,adjacence,METRO 7 2,415.30159619454616
-jussieu_METRO 7 2,jussieu_METRO 8,correspondance,,0.0
-jussieu_METRO 7 2,jussieu_METRO 10,correspondance,,0.0
+jussieu_METRO 7 2,place monge_METRO 7 2,adjacence,METRO 7 2,400.7764952834579
+jussieu_METRO 7 2,jussieu_METRO 10 1,correspondance,,0.0
+jussieu_METRO 7 2,jussieu_METRO 10 2,correspondance,,0.0
 place monge_METRO 7 2,censier daubenton_METRO 7 2,adjacence,METRO 7 2,296.3025273180506
-place monge_METRO 7 2,place monge_METRO 8,correspondance,,0.0
 censier daubenton_METRO 7 2,les gobelins_METRO 7 2,adjacence,METRO 7 2,483.486411619684
-censier daubenton_METRO 7 2,censier daubenton_METRO 8,correspondance,,0.0
 les gobelins_METRO 7 2,place d'italie_METRO 7 2,adjacence,METRO 7 2,615.3182890677609
-les gobelins_METRO 7 2,les gobelins_METRO 8,correspondance,,0.0
 place d'italie_METRO 7 2,place d'italie_METRO 7 2,correspondance,,0.0
 place d'italie_METRO 7 2,tolbiac_METRO 7 2,adjacence,METRO 7 2,520.1932101807689
-place d'italie_METRO 7 2,place d'italie_METRO 8,correspondance,,0.0
-place d'italie_METRO 7 2,place d'italie_METRO 10,correspondance,,0.0
-tolbiac_METRO 7 2,maison blanche_METRO 7 2,adjacence,METRO 7 2,572.2904971574203
-tolbiac_METRO 7 2,tolbiac_METRO 8,correspondance,,0.0
+tolbiac_METRO 7 2,maison blanche_METRO 7 2,adjacence,METRO 7 2,481.52894658270645
 maison blanche_METRO 7 2,maison blanche_METRO 7 2,correspondance,,0.0
-maison blanche_METRO 7 2,porte d'italie_METRO 7 2,adjacence,METRO 7 2,339.8269904531405
-maison blanche_METRO 7 2,maison blanche_METRO 8,correspondance,,0.0
+maison blanche_METRO 7 2,le kremlin bicetre_METRO 7 2,adjacence,METRO 7 2,1277.4864529198107
 maison blanche_METRO 7 2,maison blanche_METRO 14,correspondance,,0.0
-porte d'italie_METRO 7 2,porte d'italie_METRO 7 2,correspondance,,0.0
-porte d'italie_METRO 7 2,porte de choisy_METRO 7 2,adjacence,METRO 7 2,296.0664431957627
-porte d'italie_METRO 7 2,porte d'italie_METRO 8,correspondance,,0.0
-porte de choisy_METRO 7 2,porte de choisy_METRO 7 2,correspondance,,0.0
-porte de choisy_METRO 7 2,porte d'ivry_METRO 7 2,adjacence,METRO 7 2,444.20535428897034
-porte d'ivry_METRO 7 2,porte d'ivry_METRO 7 2,correspondance,,0.0
-porte d'ivry_METRO 7 2,pierre et marie curie_METRO 7 2,adjacence,METRO 7 2,840.8944936503459
-pierre et marie curie_METRO 7 2,mairie d'ivry_METRO 7 2,adjacence,METRO 7 2,792.4365957660564
-mairie d'ivry_METRO 7 2,le kremlin bicetre_METRO 7 2,adjacence,METRO 7 2,1618.392371860159
 le kremlin bicetre_METRO 7 2,villejuif leo lagrange_METRO 7 2,adjacence,METRO 7 2,617.7628250623919
 villejuif leo lagrange_METRO 7 2,villejuif paul vaillant couturier_METRO 7 2,adjacence,METRO 7 2,965.976231390773
 villejuif paul vaillant couturier_METRO 7 2,villejuif louis aragon_METRO 7 2,adjacence,METRO 7 2,1027.7163934325388
 villejuif louis aragon_METRO 7 2,villejuif louis aragon_METRO 7 2,correspondance,,0.0
 balard_METRO 8,balard_METRO 8,correspondance,,0.0
-balard_METRO 8,lourmel_METRO 8,adjacence,METRO 8,414.2897267506024
-lourmel_METRO 8,boulogne jean jaures_METRO 8,adjacence,METRO 8,3195.9870512634047
-boulogne jean jaures_METRO 8,porte d'auteuil_METRO 8,adjacence,METRO 8,1534.910013000644
-boulogne jean jaures_METRO 8,boulogne jean jaures_METRO 10,correspondance,,0.0
-porte d'auteuil_METRO 8,michel ange molitor_METRO 8,adjacence,METRO 8,415.7063649368072
-michel ange molitor_METRO 8,michel ange molitor_METRO 8,correspondance,,0.0
-michel ange molitor_METRO 8,michel ange auteuil_METRO 8,adjacence,METRO 8,359.1504242387392
-michel ange molitor_METRO 8,michel ange molitor_METRO 9,correspondance,,0.0
-michel ange molitor_METRO 8,michel ange molitor_METRO 10,correspondance,,0.0
-michel ange auteuil_METRO 8,michel ange auteuil_METRO 8,correspondance,,0.0
-michel ange auteuil_METRO 8,javel_METRO 8,adjacence,METRO 8,1017.8169289977345
-michel ange auteuil_METRO 8,michel ange auteuil_METRO 9,correspondance,,0.0
-javel_METRO 8,eglise d'auteuil_METRO 8,adjacence,METRO 8,653.2498190576728
-javel_METRO 8,javel_METRO 9,correspondance,,0.0
-javel_METRO 8,javel_METRO 10,correspondance,,0.0
-eglise d'auteuil_METRO 8,charles michels_METRO 8,adjacence,METRO 8,1239.5911749444042
-eglise d'auteuil_METRO 8,eglise d'auteuil_METRO 9,correspondance,,0.0
-eglise d'auteuil_METRO 8,eglise d'auteuil_METRO 10,correspondance,,0.0
-charles michels_METRO 8,la motte picquet grenelle_METRO 8,adjacence,METRO 8,980.3385564815965
-charles michels_METRO 8,charles michels_METRO 10,correspondance,,0.0
+balard_METRO 8,boucicaut_METRO 8,adjacence,METRO 8,908.818547587412
+boucicaut_METRO 8,felix faure_METRO 8,adjacence,METRO 8,344.3206059028676
+felix faure_METRO 8,commerce_METRO 8,adjacence,METRO 8,272.545545913973
+commerce_METRO 8,la motte picquet grenelle_METRO 8,adjacence,METRO 8,571.1351316617305
 la motte picquet grenelle_METRO 8,la motte picquet grenelle_METRO 8,correspondance,,0.0
 la motte picquet grenelle_METRO 8,ecole militaire_METRO 8,adjacence,METRO 8,821.7420424964201
+la motte picquet grenelle_METRO 8,la motte picquet grenelle_METRO 10 1,correspondance,,0.0
+la motte picquet grenelle_METRO 8,la motte picquet grenelle_METRO 10 2,correspondance,,0.0
 ecole militaire_METRO 8,la tour maubourg_METRO 8,adjacence,METRO 8,438.959850805438
-ecole militaire_METRO 8,ecole militaire_METRO 10,correspondance,,0.0
 la tour maubourg_METRO 8,hotel des invalides_METRO 8,adjacence,METRO 8,354.9514799642785
-la tour maubourg_METRO 8,la tour maubourg_METRO 10,correspondance,,0.0
 hotel des invalides_METRO 8,hotel des invalides_METRO 8,correspondance,,0.0
-hotel des invalides_METRO 8,saint francois xavier_METRO 8,adjacence,METRO 8,994.7730777498674
-hotel des invalides_METRO 8,hotel des invalides_METRO 10,correspondance,,0.0
-saint francois xavier_METRO 8,segur_METRO 8,adjacence,METRO 8,707.9213056968399
-saint francois xavier_METRO 8,saint francois xavier_METRO 13 1,correspondance,,0.0
-segur_METRO 8,duroc_METRO 8,adjacence,METRO 8,704.8697846832265
-duroc_METRO 8,duroc_METRO 8,correspondance,,0.0
-duroc_METRO 8,vaneau_METRO 8,adjacence,METRO 8,405.36810000980086
-duroc_METRO 8,duroc_METRO 13 1,correspondance,,0.0
-vaneau_METRO 8,saint placide_METRO 8,adjacence,METRO 8,459.8690392575354
-saint placide_METRO 8,sevres babylone_METRO 8,adjacence,METRO 8,464.67040682921066
-sevres babylone_METRO 8,sevres babylone_METRO 8,correspondance,,0.0
-sevres babylone_METRO 8,rennes_METRO 8,adjacence,METRO 8,374.1375277045201
-sevres babylone_METRO 8,sevres babylone_METRO 12,correspondance,,0.0
-rennes_METRO 8,saint germain des pres_METRO 8,adjacence,METRO 8,731.9945209625865
-rennes_METRO 8,rennes_METRO 12,correspondance,,0.0
-saint germain des pres_METRO 8,odeon_METRO 8,adjacence,METRO 8,464.3735260636878
-odeon_METRO 8,odeon_METRO 8,correspondance,,0.0
-odeon_METRO 8,cluny la sorbonne_METRO 8,adjacence,METRO 8,286.1154897477105
-odeon_METRO 8,odeon_METRO 10,correspondance,,0.0
-cluny la sorbonne_METRO 8,maubert mutualite_METRO 8,adjacence,METRO 8,307.937698656198
-cluny la sorbonne_METRO 8,cluny la sorbonne_METRO 10,correspondance,,0.0
-maubert mutualite_METRO 8,jussieu_METRO 8,adjacence,METRO 8,681.1856680665353
-jussieu_METRO 8,jussieu_METRO 8,correspondance,,0.0
-jussieu_METRO 8,sulpher morland_METRO 8,adjacence,METRO 8,
-jussieu_METRO 8,jussieu_METRO 10,correspondance,,0.0
-sulpher morland_METRO 8,place monge_METRO 8,adjacence,METRO 8,
-place monge_METRO 8,censier daubenton_METRO 8,adjacence,METRO 8,296.3025273180506
-censier daubenton_METRO 8,les gobelins_METRO 8,adjacence,METRO 8,483.486411619684
-les gobelins_METRO 8,place d'italie_METRO 8,adjacence,METRO 8,615.3182890677609
-place d'italie_METRO 8,place d'italie_METRO 8,correspondance,,0.0
-place d'italie_METRO 8,tolbiac_METRO 8,adjacence,METRO 8,520.1932101807689
-place d'italie_METRO 8,place d'italie_METRO 10,correspondance,,0.0
-tolbiac_METRO 8,maison blanche_METRO 8,adjacence,METRO 8,481.52894658270645
-maison blanche_METRO 8,maison blanche_METRO 8,correspondance,,0.0
-maison blanche_METRO 8,porte d'italie_METRO 8,adjacence,METRO 8,248.94880570082233
-maison blanche_METRO 8,maison blanche_METRO 14,correspondance,,0.0
-porte d'italie_METRO 8,porte d'italie_METRO 8,correspondance,,0.0
+hotel des invalides_METRO 8,place de la concorde_METRO 8,adjacence,METRO 8,889.3279766156066
+hotel des invalides_METRO 8,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_METRO 8,hotel des invalides_METRO 13 2,correspondance,,0.0
+place de la concorde_METRO 8,place de la concorde_METRO 8,correspondance,,0.0
+place de la concorde_METRO 8,madeleine_METRO 8,adjacence,METRO 8,468.22666755686214
+place de la concorde_METRO 8,place de la concorde_METRO 12,correspondance,,0.0
+madeleine_METRO 8,madeleine_METRO 8,correspondance,,0.0
+madeleine_METRO 8,opera_METRO 8,adjacence,METRO 8,508.27143592934334
+madeleine_METRO 8,madeleine_METRO 12,correspondance,,0.0
+madeleine_METRO 8,madeleine_METRO 14,correspondance,,0.0
+opera_METRO 8,opera_METRO 8,correspondance,,0.0
+opera_METRO 8,richelieu drouot_METRO 8,adjacence,METRO 8,550.5131519634042
+richelieu drouot_METRO 8,richelieu drouot_METRO 8,correspondance,,0.0
+richelieu drouot_METRO 8,grands boulevards_METRO 8,adjacence,METRO 8,431.1439059741202
+richelieu drouot_METRO 8,richelieu drouot_METRO 9,correspondance,,0.0
+grands boulevards_METRO 8,bonne nouvelle_METRO 8,adjacence,METRO 8,297.6756462547161
+grands boulevards_METRO 8,grands boulevards_METRO 9,correspondance,,0.0
+bonne nouvelle_METRO 8,strasbourg saint denis_METRO 8,adjacence,METRO 8,451.38439746679444
+bonne nouvelle_METRO 8,bonne nouvelle_METRO 9,correspondance,,0.0
+strasbourg saint denis_METRO 8,strasbourg saint denis_METRO 8,correspondance,,0.0
+strasbourg saint denis_METRO 8,republique_METRO 8,adjacence,METRO 8,692.2503274181188
+strasbourg saint denis_METRO 8,strasbourg saint denis_METRO 9,correspondance,,0.0
+republique_METRO 8,republique_METRO 8,correspondance,,0.0
+republique_METRO 8,filles du calvaire_METRO 8,adjacence,METRO 8,454.98250353415756
+republique_METRO 8,republique_METRO 9,correspondance,,0.0
+republique_METRO 8,republique_METRO 11,correspondance,,0.0
+filles du calvaire_METRO 8,saint sebastien froissart_METRO 8,adjacence,METRO 8,235.79659979742314
+saint sebastien froissart_METRO 8,chemin vert_METRO 8,adjacence,METRO 8,457.72931620388914
+chemin vert_METRO 8,bastille_METRO 8,adjacence,METRO 8,418.9606793425787
+bastille_METRO 8,bastille_METRO 8,correspondance,,0.0
+bastille_METRO 8,ledru rollin_METRO 8,adjacence,METRO 8,474.7067654051391
+ledru rollin_METRO 8,faidherbe chaligny_METRO 8,adjacence,METRO 8,676.623262456764
+faidherbe chaligny_METRO 8,reuilly diderot_METRO 8,adjacence,METRO 8,401.6436968527294
+reuilly diderot_METRO 8,reuilly diderot_METRO 8,correspondance,,0.0
+reuilly diderot_METRO 8,montgallet_METRO 8,adjacence,METRO 8,517.4718118778362
+montgallet_METRO 8,daumesnil_METRO 8,adjacence,METRO 8,631.7350617727548
+daumesnil_METRO 8,daumesnil_METRO 8,correspondance,,0.0
+daumesnil_METRO 8,michel bizot_METRO 8,adjacence,METRO 8,520.4649953858728
+michel bizot_METRO 8,porte doree_METRO 8,adjacence,METRO 8,363.6137292115165
+porte doree_METRO 8,porte doree_METRO 8,correspondance,,0.0
+porte doree_METRO 8,porte de charenton_METRO 8,adjacence,METRO 8,436.566603566301
+porte de charenton_METRO 8,porte de charenton_METRO 8,correspondance,,0.0
+porte de charenton_METRO 8,liberte_METRO 8,adjacence,METRO 8,812.6501982362214
+liberte_METRO 8,charenton ecoles_METRO 8,adjacence,METRO 8,749.3975844772646
+charenton ecoles_METRO 8,ecole veterinaire de maisons alfort_METRO 8,adjacence,METRO 8,1040.8115241268115
+ecole veterinaire de maisons alfort_METRO 8,maisons alfort stade_METRO 8,adjacence,METRO 8,1090.9628832223943
+maisons alfort stade_METRO 8,maisons alfort les juilliottes_METRO 8,adjacence,METRO 8,1036.8117816977212
+maisons alfort les juilliottes_METRO 8,creteil l'echat_METRO 8,adjacence,METRO 8,793.8658719511953
+creteil l'echat_METRO 8,creteil universite_METRO 8,adjacence,METRO 8,756.2572847751082
+creteil universite_METRO 8,creteil prefecture_METRO 8,adjacence,METRO 8,1280.4271267751203
+creteil prefecture_METRO 8,pointe du lac_METRO 8,adjacence,METRO 8,
 sevres_METRO 9,billancourt_METRO 9,adjacence,METRO 9,520.0537067204316
 billancourt_METRO 9,marcel sembat_METRO 9,adjacence,METRO 9,497.5303611499426
 marcel sembat_METRO 9,porte de saint cloud_METRO 9,adjacence,METRO 9,1104.8465078634886
@@ -3510,13 +3483,12 @@ porte de saint cloud_METRO 9,exelmans_METRO 9,adjacence,METRO 9,527.612482755858
 exelmans_METRO 9,michel ange molitor_METRO 9,adjacence,METRO 9,348.21940874520425
 michel ange molitor_METRO 9,michel ange molitor_METRO 9,correspondance,,0.0
 michel ange molitor_METRO 9,michel ange auteuil_METRO 9,adjacence,METRO 9,359.1504242387392
-michel ange molitor_METRO 9,michel ange molitor_METRO 10,correspondance,,0.0
+michel ange molitor_METRO 9,michel ange molitor_METRO 10 2,correspondance,,0.0
 michel ange auteuil_METRO 9,michel ange auteuil_METRO 9,correspondance,,0.0
-michel ange auteuil_METRO 9,javel_METRO 9,adjacence,METRO 9,1017.8169289977345
-javel_METRO 9,eglise d'auteuil_METRO 9,adjacence,METRO 9,653.2498190576728
-javel_METRO 9,javel_METRO 10,correspondance,,0.0
-eglise d'auteuil_METRO 9,la muette_METRO 9,adjacence,METRO 9,1266.4504863968314
-eglise d'auteuil_METRO 9,eglise d'auteuil_METRO 10,correspondance,,0.0
+michel ange auteuil_METRO 9,jasmin_METRO 9,adjacence,METRO 9,585.3034004501576
+michel ange auteuil_METRO 9,michel ange auteuil_METRO 10 1,correspondance,,0.0
+jasmin_METRO 9,ranelagh_METRO 9,adjacence,METRO 9,360.5610172614143
+ranelagh_METRO 9,la muette_METRO 9,adjacence,METRO 9,411.3878989946439
 la muette_METRO 9,rue de la pompe_METRO 9,adjacence,METRO 9,727.0350054042385
 rue de la pompe_METRO 9,trocadero_METRO 9,adjacence,METRO 9,580.6234276693276
 trocadero_METRO 9,trocadero_METRO 9,correspondance,,0.0
@@ -3529,9 +3501,16 @@ saint philippe du roule_METRO 9,miromesnil_METRO 9,adjacence,METRO 9,377.7700333
 miromesnil_METRO 9,miromesnil_METRO 9,correspondance,,0.0
 miromesnil_METRO 9,saint augustin_METRO 9,adjacence,METRO 9,538.8010466462567
 miromesnil_METRO 9,miromesnil_METRO 13 1,correspondance,,0.0
+miromesnil_METRO 9,miromesnil_METRO 13 2,correspondance,,0.0
 saint augustin_METRO 9,havre caumartin_METRO 9,adjacence,METRO 9,420.3385377546298
 havre caumartin_METRO 9,havre caumartin_METRO 9,correspondance,,0.0
-havre caumartin_METRO 9,chaussee d'antin la fayette_METRO 9,adjacence,METRO 9,506.15538728882217
+havre caumartin_METRO 9,saint lazare_METRO 9,adjacence,METRO 9,291.02777803863313
+saint lazare_METRO 9,saint lazare_METRO 9,correspondance,,0.0
+saint lazare_METRO 9,chaussee d'antin la fayette_METRO 9,adjacence,METRO 9,817.5519836200301
+saint lazare_METRO 9,saint lazare_METRO 12,correspondance,,0.0
+saint lazare_METRO 9,saint lazare_METRO 13 1,correspondance,,0.0
+saint lazare_METRO 9,saint lazare_METRO 13 2,correspondance,,0.0
+saint lazare_METRO 9,saint lazare_METRO 14,correspondance,,0.0
 chaussee d'antin la fayette_METRO 9,chaussee d'antin la fayette_METRO 9,correspondance,,0.0
 chaussee d'antin la fayette_METRO 9,richelieu drouot_METRO 9,adjacence,METRO 9,373.9752439403187
 richelieu drouot_METRO 9,richelieu drouot_METRO 9,correspondance,,0.0
@@ -3539,65 +3518,123 @@ richelieu drouot_METRO 9,grands boulevards_METRO 9,adjacence,METRO 9,431.1439059
 grands boulevards_METRO 9,bonne nouvelle_METRO 9,adjacence,METRO 9,297.6756462547161
 bonne nouvelle_METRO 9,strasbourg saint denis_METRO 9,adjacence,METRO 9,451.38439746679444
 strasbourg saint denis_METRO 9,strasbourg saint denis_METRO 9,correspondance,,0.0
-strasbourg saint denis_METRO 9,republique_METRO 9,adjacence,METRO 9,692.2503274181188
+strasbourg saint denis_METRO 9,republique_METRO 9,adjacence,METRO 9,809.452216948976
 republique_METRO 9,republique_METRO 9,correspondance,,0.0
-republique_METRO 9,oberkampf_METRO 9,adjacence,METRO 9,480.65400816135417
+republique_METRO 9,oberkampf_METRO 9,adjacence,METRO 9,480.8159872281022
 republique_METRO 9,republique_METRO 11,correspondance,,0.0
 oberkampf_METRO 9,oberkampf_METRO 9,correspondance,,0.0
-oberkampf_METRO 9,saint ambroise_METRO 9,adjacence,METRO 9,589.0367022092132
-saint ambroise_METRO 9,rue saint maur_METRO 9,adjacence,METRO 9,527.8283828963506
-rue saint maur_METRO 9,saint maur_METRO 9,adjacence,METRO 9,
-saint maur_METRO 9,pere lachaise_METRO 9,adjacence,METRO 9,
-pere lachaise_METRO 9,pere lachaise_METRO 9,correspondance,,0.0
-pere lachaise_METRO 9,buzenval_METRO 9,adjacence,METRO 9,1535.5925127572868
-buzenval_METRO 9,maraichers_METRO 9,adjacence,METRO 9,316.611700359565
-maraichers_METRO 9,charonne_METRO 9,adjacence,METRO 9,1591.634756164501
+oberkampf_METRO 9,saint ambroise_METRO 9,adjacence,METRO 9,587.0651429192704
+saint ambroise_METRO 9,voltaire_METRO 9,adjacence,METRO 9,599.1182262714976
+voltaire_METRO 9,charonne_METRO 9,adjacence,METRO 9,462.3307110097342
 charonne_METRO 9,rue des boulets_METRO 9,adjacence,METRO 9,486.37292761831367
-rue des boulets_METRO 9,nation_METRO 9,adjacence,METRO 9,572.6871136866027
+rue des boulets_METRO 9,nation_METRO 9,adjacence,METRO 9,630.908448210909
 nation_METRO 9,nation_METRO 9,correspondance,,0.0
-boulogne pont de saint cloud_METRO 10,boulogne jean jaures_METRO 10,adjacence,METRO 10,772.5752016266882
-boulogne jean jaures_METRO 10,michel ange molitor_METRO 10,adjacence,METRO 10,1707.3529297410037
-michel ange molitor_METRO 10,michel ange molitor_METRO 10,correspondance,,0.0
-michel ange molitor_METRO 10,chardon lagache_METRO 10,adjacence,METRO 10,345.0943549715139
-chardon lagache_METRO 10,eglise d'auteuil_METRO 10,adjacence,METRO 10,293.1016244159024
-eglise d'auteuil_METRO 10,javel_METRO 10,adjacence,METRO 10,653.2498190576728
-javel_METRO 10,avenue emile zola_METRO 10,adjacence,METRO 10,1246.5921692247275
-avenue emile zola_METRO 10,charles michels_METRO 10,adjacence,METRO 10,664.0191996873392
-charles michels_METRO 10,ecole militaire_METRO 10,adjacence,METRO 10,1762.3586047378833
-ecole militaire_METRO 10,la tour maubourg_METRO 10,adjacence,METRO 10,438.959850805438
-la tour maubourg_METRO 10,hotel des invalides_METRO 10,adjacence,METRO 10,354.9514799642785
-hotel des invalides_METRO 10,hotel des invalides_METRO 10,correspondance,,0.0
-hotel des invalides_METRO 10,solferino_METRO 10,adjacence,METRO 10,642.3923972352203
-solferino_METRO 10,mabillon_METRO 10,adjacence,METRO 10,1091.3188678509919
-solferino_METRO 10,solferino_METRO 12,correspondance,,0.0
-mabillon_METRO 10,odeon_METRO 10,adjacence,METRO 10,320.17427330758414
-odeon_METRO 10,odeon_METRO 10,correspondance,,0.0
-odeon_METRO 10,cluny la sorbonne_METRO 10,adjacence,METRO 10,286.1154897477105
-cluny la sorbonne_METRO 10,saint michel_METRO 10,adjacence,METRO 10,285.9561730411969
-saint michel_METRO 10,saint michel_METRO 10,correspondance,,0.0
-saint michel_METRO 10,jussieu_METRO 10,adjacence,METRO 10,1178.8369456325388
-jussieu_METRO 10,jussieu_METRO 10,correspondance,,0.0
-jussieu_METRO 10,gare d'austerlitz_METRO 10,adjacence,METRO 10,859.3610273309057
-gare d'austerlitz_METRO 10,gare d'austerlitz_METRO 10,correspondance,,0.0
-gare d'austerlitz_METRO 10,saint marcel_METRO 10,adjacence,METRO 10,553.1867768309231
-saint marcel_METRO 10,campo formio_METRO 10,adjacence,METRO 10,404.58408644641133
-campo formio_METRO 10,place d'italie_METRO 10,adjacence,METRO 10,502.9816320477438
-place d'italie_METRO 10,place d'italie_METRO 10,correspondance,,0.0
-louis blanc_METRO 7BIS 1,pre saint gervais_METRO 7BIS 1,adjacence,METRO 7BIS 1,2456.3987863732204
-louis blanc_METRO 7BIS 1,jaures_METRO 7BIS 1,adjacence,METRO 7BIS 1,446.89552735920097
+nation_METRO 9,buzenval_METRO 9,adjacence,METRO 9,557.3056965443395
+buzenval_METRO 9,maraichers_METRO 9,adjacence,METRO 9,316.611700359565
+maraichers_METRO 9,porte de montreuil_METRO 9,adjacence,METRO 9,342.63742988055986
+porte de montreuil_METRO 9,porte de montreuil_METRO 9,correspondance,,0.0
+porte de montreuil_METRO 9,robespierre_METRO 9,adjacence,METRO 9,842.2175904107653
+robespierre_METRO 9,croix de chavaux_METRO 9,adjacence,METRO 9,878.2558165696454
+croix de chavaux_METRO 9,mairie de montreuil_METRO 9,adjacence,METRO 9,717.477249632093
+boulogne pont de saint cloud_METRO 10 1,boulogne jean jaures_METRO 10 1,adjacence,METRO 10 1,772.5752016266882
+boulogne pont de saint cloud_METRO 10 1,boulogne pont de saint cloud_METRO 10 2,correspondance,,0.0
+boulogne jean jaures_METRO 10 1,porte d'auteuil_METRO 10 1,adjacence,METRO 10 1,1534.910013000644
+boulogne jean jaures_METRO 10 1,boulogne jean jaures_METRO 10 2,correspondance,,0.0
+porte d'auteuil_METRO 10 1,michel ange auteuil_METRO 10 1,adjacence,METRO 10 1,465.2019007668609
+michel ange auteuil_METRO 10 1,michel ange auteuil_METRO 10 1,correspondance,,0.0
+michel ange auteuil_METRO 10 1,eglise d'auteuil_METRO 10 1,adjacence,METRO 10 1,371.29150136660166
+eglise d'auteuil_METRO 10 1,javel andre citroen_METRO 10 1,adjacence,METRO 10 1,688.8854594229
+javel andre citroen_METRO 10 1,charles michels_METRO 10 1,adjacence,METRO 10 1,559.3059403334752
+javel andre citroen_METRO 10 1,javel andre citroen_METRO 10 2,correspondance,,0.0
+charles michels_METRO 10 1,avenue emile zola_METRO 10 1,adjacence,METRO 10 1,664.0191996873392
+charles michels_METRO 10 1,charles michels_METRO 10 2,correspondance,,0.0
+avenue emile zola_METRO 10 1,la motte picquet grenelle_METRO 10 1,adjacence,METRO 10 1,346.51103898385736
+avenue emile zola_METRO 10 1,avenue emile zola_METRO 10 2,correspondance,,0.0
+la motte picquet grenelle_METRO 10 1,la motte picquet grenelle_METRO 10 1,correspondance,,0.0
+la motte picquet grenelle_METRO 10 1,segur_METRO 10 1,adjacence,METRO 10 1,702.0187767287941
+la motte picquet grenelle_METRO 10 1,la motte picquet grenelle_METRO 10 2,correspondance,,0.0
+segur_METRO 10 1,duroc_METRO 10 1,adjacence,METRO 10 1,662.184721844393
+segur_METRO 10 1,segur_METRO 10 2,correspondance,,0.0
+duroc_METRO 10 1,duroc_METRO 10 1,correspondance,,0.0
+duroc_METRO 10 1,vaneau_METRO 10 1,adjacence,METRO 10 1,372.43817052438675
+duroc_METRO 10 1,duroc_METRO 10 2,correspondance,,0.0
+duroc_METRO 10 1,duroc_METRO 13 1,correspondance,,0.0
+duroc_METRO 10 1,duroc_METRO 13 2,correspondance,,0.0
+vaneau_METRO 10 1,sevres babylone_METRO 10 1,adjacence,METRO 10 1,432.556471523219
+vaneau_METRO 10 1,vaneau_METRO 10 2,correspondance,,0.0
+sevres babylone_METRO 10 1,sevres babylone_METRO 10 1,correspondance,,0.0
+sevres babylone_METRO 10 1,mabillon_METRO 10 1,adjacence,METRO 10 1,652.0718097934996
+sevres babylone_METRO 10 1,sevres babylone_METRO 10 2,correspondance,,0.0
+sevres babylone_METRO 10 1,sevres babylone_METRO 12,correspondance,,0.0
+mabillon_METRO 10 1,odeon_METRO 10 1,adjacence,METRO 10 1,320.17427330758414
+mabillon_METRO 10 1,mabillon_METRO 10 2,correspondance,,0.0
+odeon_METRO 10 1,odeon_METRO 10 1,correspondance,,0.0
+odeon_METRO 10 1,cluny la sorbonne_METRO 10 1,adjacence,METRO 10 1,286.1154897477105
+odeon_METRO 10 1,odeon_METRO 10 2,correspondance,,0.0
+cluny la sorbonne_METRO 10 1,maubert mutualite_METRO 10 1,adjacence,METRO 10 1,307.937698656198
+cluny la sorbonne_METRO 10 1,cluny la sorbonne_METRO 10 2,correspondance,,0.0
+maubert mutualite_METRO 10 1,cardinal lemoine_METRO 10 1,adjacence,METRO 10 1,456.67693165267787
+maubert mutualite_METRO 10 1,maubert mutualite_METRO 10 2,correspondance,,0.0
+cardinal lemoine_METRO 10 1,jussieu_METRO 10 1,adjacence,METRO 10 1,263.50570858316894
+cardinal lemoine_METRO 10 1,cardinal lemoine_METRO 10 2,correspondance,,0.0
+jussieu_METRO 10 1,jussieu_METRO 10 1,correspondance,,0.0
+jussieu_METRO 10 1,gare d'austerlitz_METRO 10 1,adjacence,METRO 10 1,870.6624504528276
+jussieu_METRO 10 1,jussieu_METRO 10 2,correspondance,,0.0
+gare d'austerlitz_METRO 10 1,gare d'austerlitz_METRO 10 1,correspondance,,0.0
+gare d'austerlitz_METRO 10 1,gare d'austerlitz_METRO 10 2,correspondance,,0.0
+boulogne pont de saint cloud_METRO 10 2,boulogne jean jaures_METRO 10 2,adjacence,METRO 10 2,772.5752016266882
+boulogne jean jaures_METRO 10 2,michel ange molitor_METRO 10 2,adjacence,METRO 10 2,1707.3529297410037
+michel ange molitor_METRO 10 2,michel ange molitor_METRO 10 2,correspondance,,0.0
+michel ange molitor_METRO 10 2,chardon lagache_METRO 10 2,adjacence,METRO 10 2,345.0943549715139
+chardon lagache_METRO 10 2,mirabeau_METRO 10 2,adjacence,METRO 10 2,511.090739088516
+mirabeau_METRO 10 2,javel andre citroen_METRO 10 2,adjacence,METRO 10 2,427.6461445767697
+javel andre citroen_METRO 10 2,charles michels_METRO 10 2,adjacence,METRO 10 2,559.3059403334752
+charles michels_METRO 10 2,avenue emile zola_METRO 10 2,adjacence,METRO 10 2,664.0191996873392
+avenue emile zola_METRO 10 2,la motte picquet grenelle_METRO 10 2,adjacence,METRO 10 2,346.51103898385736
+la motte picquet grenelle_METRO 10 2,la motte picquet grenelle_METRO 10 2,correspondance,,0.0
+la motte picquet grenelle_METRO 10 2,segur_METRO 10 2,adjacence,METRO 10 2,702.0187767287941
+segur_METRO 10 2,duroc_METRO 10 2,adjacence,METRO 10 2,662.184721844393
+duroc_METRO 10 2,duroc_METRO 10 2,correspondance,,0.0
+duroc_METRO 10 2,vaneau_METRO 10 2,adjacence,METRO 10 2,372.43817052438675
+duroc_METRO 10 2,duroc_METRO 13 1,correspondance,,0.0
+duroc_METRO 10 2,duroc_METRO 13 2,correspondance,,0.0
+vaneau_METRO 10 2,sevres babylone_METRO 10 2,adjacence,METRO 10 2,432.556471523219
+sevres babylone_METRO 10 2,sevres babylone_METRO 10 2,correspondance,,0.0
+sevres babylone_METRO 10 2,mabillon_METRO 10 2,adjacence,METRO 10 2,652.0718097934996
+sevres babylone_METRO 10 2,sevres babylone_METRO 12,correspondance,,0.0
+mabillon_METRO 10 2,odeon_METRO 10 2,adjacence,METRO 10 2,320.17427330758414
+odeon_METRO 10 2,odeon_METRO 10 2,correspondance,,0.0
+odeon_METRO 10 2,cluny la sorbonne_METRO 10 2,adjacence,METRO 10 2,286.1154897477105
+cluny la sorbonne_METRO 10 2,maubert mutualite_METRO 10 2,adjacence,METRO 10 2,307.937698656198
+maubert mutualite_METRO 10 2,cardinal lemoine_METRO 10 2,adjacence,METRO 10 2,456.67693165267787
+cardinal lemoine_METRO 10 2,jussieu_METRO 10 2,adjacence,METRO 10 2,263.50570858316894
+jussieu_METRO 10 2,jussieu_METRO 10 2,correspondance,,0.0
+jussieu_METRO 10 2,gare d'austerlitz_METRO 10 2,adjacence,METRO 10 2,870.6624504528276
+gare d'austerlitz_METRO 10 2,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 louis blanc_METRO 7BIS 1,louis blanc_METRO 7BIS 1,correspondance,,0.0
+louis blanc_METRO 7BIS 1,jaures_METRO 7BIS 1,adjacence,METRO 7BIS 1,597.0947056639902
+louis blanc_METRO 7BIS 1,louis blanc_METRO 7BIS 2,correspondance,,0.0
 jaures_METRO 7BIS 1,jaures_METRO 7BIS 1,correspondance,,0.0
-jaures_METRO 7BIS 1,place des fetes_METRO 7BIS 1,adjacence,METRO 7BIS 1,1783.0522068072105
-jaures_METRO 7BIS 1,danube_METRO 7BIS 1,adjacence,METRO 7BIS 1,1626.6029572026591
-bolivar_METRO 7BIS 1,place des fetes_METRO 7BIS 1,adjacence,METRO 7BIS 1,1427.480167146679
-bolivar_METRO 7BIS 1,botzaris_METRO 7BIS 1,adjacence,METRO 7BIS 1,1040.29286226376
-bolivar_METRO 7BIS 1,danube_METRO 7BIS 1,adjacence,METRO 7BIS 1,1437.13259694938
-bolivar_METRO 7BIS 1,bolivar_METRO 7BIS 1,correspondance,,0.0
+jaures_METRO 7BIS 1,bolivar_METRO 7BIS 1,adjacence,METRO 7BIS 1,375.7709428249721
+jaures_METRO 7BIS 1,jaures_METRO 7BIS 2,correspondance,,0.0
+bolivar_METRO 7BIS 1,buttes chaumont_METRO 7BIS 1,adjacence,METRO 7BIS 1,574.4267536802595
+bolivar_METRO 7BIS 1,bolivar_METRO 7BIS 2,correspondance,,0.0
 buttes chaumont_METRO 7BIS 1,botzaris_METRO 7BIS 1,adjacence,METRO 7BIS 1,521.4399232852373
-buttes chaumont_METRO 7BIS 1,buttes chaumont_METRO 7BIS 1,correspondance,,0.0
-botzaris_METRO 7BIS 1,botzaris_METRO 7BIS 1,correspondance,,0.0
-pre saint gervais_METRO 7BIS 1,pre saint gervais_METRO 7BIS 1,correspondance,,0.0
-place des fetes_METRO 7BIS 1,place des fetes_METRO 7BIS 1,correspondance,,0.0
+buttes chaumont_METRO 7BIS 1,buttes chaumont_METRO 7BIS 2,correspondance,,0.0
+botzaris_METRO 7BIS 1,danube_METRO 7BIS 1,adjacence,METRO 7BIS 1,475.67363405413056
+botzaris_METRO 7BIS 1,botzaris_METRO 7BIS 2,correspondance,,0.0
+danube_METRO 7BIS 1,pre saint gervais_METRO 7BIS 1,adjacence,METRO 7BIS 1,369.181084141867
+pre saint gervais_METRO 7BIS 1,pre saint gervais_METRO 7BIS 2,correspondance,,0.0
+louis blanc_METRO 7BIS 2,jaures_METRO 7BIS 2,adjacence,METRO 7BIS 2,414.73433162880605
+louis blanc_METRO 7BIS 2,louis blanc_METRO 7BIS 2,correspondance,,0.0
+jaures_METRO 7BIS 2,bolivar_METRO 7BIS 2,adjacence,METRO 7BIS 2,337.98577646873986
+jaures_METRO 7BIS 2,jaures_METRO 7BIS 2,correspondance,,0.0
+bolivar_METRO 7BIS 2,buttes chaumont_METRO 7BIS 2,adjacence,METRO 7BIS 2,574.4267536802595
+buttes chaumont_METRO 7BIS 2,botzaris_METRO 7BIS 2,adjacence,METRO 7BIS 2,521.4399232852373
+botzaris_METRO 7BIS 2,place des fetes_METRO 7BIS 2,adjacence,METRO 7BIS 2,444.63447663966843
+place des fetes_METRO 7BIS 2,pre saint gervais_METRO 7BIS 2,adjacence,METRO 7BIS 2,546.1722774694589
+place des fetes_METRO 7BIS 2,place des fetes_METRO 7BIS 2,correspondance,,0.0
+place des fetes_METRO 7BIS 2,place des fetes_METRO 11,correspondance,,0.0
 chatelet_METRO 11,chatelet_METRO 11,correspondance,,0.0
 chatelet_METRO 11,hotel de ville_METRO 11,adjacence,METRO 11,400.4439107924737
 chatelet_METRO 11,chatelet_METRO 14,correspondance,,0.0
@@ -3612,17 +3649,18 @@ goncourt_METRO 11,belleville_METRO 11,adjacence,METRO 11,454.9364453461358
 belleville_METRO 11,belleville_METRO 11,correspondance,,0.0
 belleville_METRO 11,pyrenees_METRO 11,adjacence,METRO 11,654.424490357452
 pyrenees_METRO 11,jourdain_METRO 11,adjacence,METRO 11,330.32077919117626
-jourdain_METRO 11,telegraphe_METRO 11,adjacence,METRO 11,694.5580191965452
-telegraphe_METRO 11,porte des lilas_METRO 11,adjacence,METRO 11,610.2110537723429
+jourdain_METRO 11,place des fetes_METRO 11,adjacence,METRO 11,332.1382607816819
+place des fetes_METRO 11,place des fetes_METRO 11,correspondance,,0.0
+place des fetes_METRO 11,telegraphe_METRO 11,adjacence,METRO 11,451.29181360086653
+telegraphe_METRO 11,porte des lilas_METRO 11,adjacence,METRO 11,604.6948335016039
 porte des lilas_METRO 11,porte des lilas_METRO 11,correspondance,,0.0
-porte des lilas_METRO 11,mairie des lilas_METRO 11,adjacence,METRO 11,773.5576652196836
+porte des lilas_METRO 11,mairie des lilas_METRO 11,adjacence,METRO 11,777.6391525784926
 mairie des lilas_METRO 11,serge gainsbourg_METRO 11,adjacence,METRO 11,804.0553444354099
 serge gainsbourg_METRO 11,romainville carnot_METRO 11,adjacence,METRO 11,1020.4369703618836
 romainville carnot_METRO 11,montreuil hopital_METRO 11,adjacence,METRO 11,1150.2419964318904
-montreuil hopital_METRO 11,robespierre_METRO 11,adjacence,METRO 11,3426.6394350545334
-robespierre_METRO 11,croix de chavaux_METRO 11,adjacence,METRO 11,878.2558165696454
-croix de chavaux_METRO 11,mairie de montreuil_METRO 11,adjacence,METRO 11,717.477249632093
-mairie de montreuil_METRO 11,rosny bois perrier_METRO 11,adjacence,METRO 11,3654.277543619216
+montreuil hopital_METRO 11,la dhuys_METRO 11,adjacence,METRO 11,789.9894187403619
+la dhuys_METRO 11,coteaux beauclair_METRO 11,adjacence,METRO 11,492.4628048642615
+coteaux beauclair_METRO 11,rosny bois perrier_METRO 11,adjacence,METRO 11,966.4910821463455
 rosny bois perrier_METRO 11,rosny bois perrier_METRO 11,correspondance,,0.0
 mairie d'aubervilliers_METRO 12,aime cesaire_METRO 12,adjacence,METRO 12,663.256261505054
 aime cesaire_METRO 12,front populaire_METRO 12,adjacence,METRO 12,882.811468025682
@@ -3659,111 +3697,123 @@ notre dame des champs_METRO 12,montparnasse bienvenue_METRO 12,adjacence,METRO 1
 montparnasse bienvenue_METRO 12,montparnasse bienvenue_METRO 12,correspondance,,0.0
 montparnasse bienvenue_METRO 12,falguiere_METRO 12,adjacence,METRO 12,331.105269097511
 montparnasse bienvenue_METRO 12,montparnasse bienvenue_METRO 13 1,correspondance,,0.0
+montparnasse bienvenue_METRO 12,montparnasse bienvenue_METRO 13 2,correspondance,,0.0
 falguiere_METRO 12,pasteur_METRO 12,adjacence,METRO 12,434.7697856313692
 pasteur_METRO 12,pasteur_METRO 12,correspondance,,0.0
 pasteur_METRO 12,volontaires_METRO 12,adjacence,METRO 12,380.0567404072172
 volontaires_METRO 12,vaugirard_METRO 12,adjacence,METRO 12,548.7286059373347
 vaugirard_METRO 12,convention_METRO 12,adjacence,METRO 12,447.6413108061487
-convention_METRO 12,plaisance_METRO 12,adjacence,METRO 12,1438.434665603345
-plaisance_METRO 12,porte de vanves_METRO 12,adjacence,METRO 12,773.5666816151013
-plaisance_METRO 12,plaisance_METRO 13 1,correspondance,,0.0
+convention_METRO 12,porte de versailles_METRO 12,adjacence,METRO 12,775.1892081543258
+porte de versailles_METRO 12,porte de versailles_METRO 12,correspondance,,0.0
+porte de versailles_METRO 12,porte de vanves_METRO 12,adjacence,METRO 12,1386.0123457560587
 porte de vanves_METRO 12,porte de vanves_METRO 12,correspondance,,0.0
-porte de vanves_METRO 12,malakoff plateau de vanves_METRO 12,adjacence,METRO 12,805.4077658882176
+porte de vanves_METRO 12,corentin celton_METRO 12,adjacence,METRO 12,1999.262550042675
 porte de vanves_METRO 12,porte de vanves_METRO 13 1,correspondance,,0.0
-malakoff plateau de vanves_METRO 12,malakoff rue etienne dolet_METRO 12,adjacence,METRO 12,815.5362664370006
-malakoff rue etienne dolet_METRO 12,chatillon montrouge_METRO 12,adjacence,METRO 12,609.4647187729524
-malakoff rue etienne dolet_METRO 12,malakoff rue etienne dolet_METRO 13 1,correspondance,,0.0
-chatillon montrouge_METRO 12,chatillon montrouge_METRO 12,correspondance,,0.0
-chatillon montrouge_METRO 12,chatillon montrouge_METRO 13 1,correspondance,,0.0
-saint denis universite_METRO 13 1,saint denis porte de paris_METRO 13 1,adjacence,METRO 13 1,1864.3267445469905
-saint denis universite_METRO 13 1,saint denis universite_METRO 13 2,correspondance,,0.0
-saint denis porte de paris_METRO 13 1,saint denis porte de paris_METRO 13 1,correspondance,,0.0
-saint denis porte de paris_METRO 13 1,basilique de saint denis_METRO 13 1,adjacence,METRO 13 1,968.0830092841682
-saint denis porte de paris_METRO 13 1,saint denis porte de paris_METRO 13 2,correspondance,,0.0
+porte de vanves_METRO 12,porte de vanves_METRO 13 2,correspondance,,0.0
+corentin celton_METRO 12,mairie d'issy_METRO 12,adjacence,METRO 12,522.8025546854255
+saint denis universite_METRO 13 1,basilique de saint denis_METRO 13 1,adjacence,METRO 13 1,913.0425424729846
 basilique de saint denis_METRO 13 1,basilique de saint denis_METRO 13 1,correspondance,,0.0
-basilique de saint denis_METRO 13 1,saint ouen_METRO 13 1,adjacence,METRO 13 1,4481.206929462244
-basilique de saint denis_METRO 13 1,basilique de saint denis_METRO 13 2,correspondance,,0.0
-saint ouen_METRO 13 1,saint ouen_METRO 13 1,correspondance,,0.0
-saint ouen_METRO 13 1,mairie de saint ouen_METRO 13 1,adjacence,METRO 13 1,1219.5100985936335
-saint ouen_METRO 13 1,saint ouen_METRO 13 2,correspondance,,0.0
-saint ouen_METRO 13 1,saint ouen_METRO 14,correspondance,,0.0
+basilique de saint denis_METRO 13 1,saint denis porte de paris_METRO 13 1,adjacence,METRO 13 1,788.8296532379285
+saint denis porte de paris_METRO 13 1,saint denis porte de paris_METRO 13 1,correspondance,,0.0
+saint denis porte de paris_METRO 13 1,carrefour pleyel_METRO 13 1,adjacence,METRO 13 1,1563.7455132569737
+carrefour pleyel_METRO 13 1,mairie de saint ouen_METRO 13 1,adjacence,METRO 13 1,1009.183519771341
 mairie de saint ouen_METRO 13 1,mairie de saint ouen_METRO 13 1,correspondance,,0.0
 mairie de saint ouen_METRO 13 1,garibaldi_METRO 13 1,adjacence,METRO 13 1,817.2827125492478
-mairie de saint ouen_METRO 13 1,mairie de saint ouen_METRO 13 2,correspondance,,0.0
 mairie de saint ouen_METRO 13 1,mairie de saint ouen_METRO 14,correspondance,,0.0
-garibaldi_METRO 13 1,porte de clignancourt_METRO 13 1,adjacence,METRO 13 1,1321.086602338583
-garibaldi_METRO 13 1,garibaldi_METRO 13 2,correspondance,,0.0
-porte de clignancourt_METRO 13 1,porte de clignancourt_METRO 13 1,correspondance,,0.0
-porte de clignancourt_METRO 13 1,porte de clichy_METRO 13 1,adjacence,METRO 13 1,2174.5722959511963
-porte de clignancourt_METRO 13 1,porte de clignancourt_METRO 13 2,correspondance,,0.0
-porte de clichy_METRO 13 1,porte de clichy_METRO 13 1,correspondance,,0.0
-porte de clichy_METRO 13 1,la fourche_METRO 13 1,adjacence,METRO 13 1,1180.3441678424258
-porte de clichy_METRO 13 1,porte de clichy_METRO 13 2,correspondance,,0.0
-porte de clichy_METRO 13 1,porte de clichy_METRO 14,correspondance,,0.0
+garibaldi_METRO 13 1,porte de saint ouen_METRO 13 1,adjacence,METRO 13 1,992.4981325485342
+porte de saint ouen_METRO 13 1,porte de saint ouen_METRO 13 1,correspondance,,0.0
+porte de saint ouen_METRO 13 1,guy moquet_METRO 13 1,adjacence,METRO 13 1,637.180003216511
+guy moquet_METRO 13 1,la fourche_METRO 13 1,adjacence,METRO 13 1,568.4793441710194
 la fourche_METRO 13 1,place de clichy_METRO 13 1,adjacence,METRO 13 1,407.52345744843467
 la fourche_METRO 13 1,la fourche_METRO 13 2,correspondance,,0.0
 place de clichy_METRO 13 1,place de clichy_METRO 13 1,correspondance,,0.0
-place de clichy_METRO 13 1,saint lazare_METRO 13 1,adjacence,METRO 13 1,926.0229993235174
+place de clichy_METRO 13 1,liege_METRO 13 1,adjacence,METRO 13 1,463.99293179473625
 place de clichy_METRO 13 1,place de clichy_METRO 13 2,correspondance,,0.0
+liege_METRO 13 1,saint lazare_METRO 13 1,adjacence,METRO 13 1,353.37887292759285
+liege_METRO 13 1,liege_METRO 13 2,correspondance,,0.0
 saint lazare_METRO 13 1,saint lazare_METRO 13 1,correspondance,,0.0
-saint lazare_METRO 13 1,miromesnil_METRO 13 1,adjacence,METRO 13 1,810.3286014946418
+saint lazare_METRO 13 1,miromesnil_METRO 13 1,adjacence,METRO 13 1,729.7059364384597
 saint lazare_METRO 13 1,saint lazare_METRO 13 2,correspondance,,0.0
 saint lazare_METRO 13 1,saint lazare_METRO 14,correspondance,,0.0
 miromesnil_METRO 13 1,miromesnil_METRO 13 1,correspondance,,0.0
-miromesnil_METRO 13 1,saint francois xavier_METRO 13 1,adjacence,METRO 13 1,2483.0654415557538
+miromesnil_METRO 13 1,champs elysees clemenceau_METRO 13 1,adjacence,METRO 13 1,687.1464690961046
+miromesnil_METRO 13 1,miromesnil_METRO 13 2,correspondance,,0.0
+champs elysees clemenceau_METRO 13 1,champs elysees clemenceau_METRO 13 1,correspondance,,0.0
+champs elysees clemenceau_METRO 13 1,hotel des invalides_METRO 13 1,adjacence,METRO 13 1,876.3853217606736
+champs elysees clemenceau_METRO 13 1,champs elysees clemenceau_METRO 13 2,correspondance,,0.0
+hotel des invalides_METRO 13 1,hotel des invalides_METRO 13 1,correspondance,,0.0
+hotel des invalides_METRO 13 1,varenne_METRO 13 1,adjacence,METRO 13 1,390.51524191477654
+hotel des invalides_METRO 13 1,hotel des invalides_METRO 13 2,correspondance,,0.0
+varenne_METRO 13 1,saint francois xavier_METRO 13 1,adjacence,METRO 13 1,605.6896524939779
+varenne_METRO 13 1,varenne_METRO 13 2,correspondance,,0.0
 saint francois xavier_METRO 13 1,duroc_METRO 13 1,adjacence,METRO 13 1,530.5795317967538
+saint francois xavier_METRO 13 1,saint francois xavier_METRO 13 2,correspondance,,0.0
 duroc_METRO 13 1,duroc_METRO 13 1,correspondance,,0.0
-duroc_METRO 13 1,montparnasse bienvenue_METRO 13 1,adjacence,METRO 13 1,655.7512656342844
+duroc_METRO 13 1,montparnasse bienvenue_METRO 13 1,adjacence,METRO 13 1,689.0368288886569
+duroc_METRO 13 1,duroc_METRO 13 2,correspondance,,0.0
 montparnasse bienvenue_METRO 13 1,montparnasse bienvenue_METRO 13 1,correspondance,,0.0
-montparnasse bienvenue_METRO 13 1,gaite_METRO 13 1,adjacence,METRO 13 1,425.6218201183182
+montparnasse bienvenue_METRO 13 1,gaite_METRO 13 1,adjacence,METRO 13 1,583.7939809201233
+montparnasse bienvenue_METRO 13 1,montparnasse bienvenue_METRO 13 2,correspondance,,0.0
 gaite_METRO 13 1,pernety_METRO 13 1,adjacence,METRO 13 1,566.5570215271164
+gaite_METRO 13 1,gaite_METRO 13 2,correspondance,,0.0
 pernety_METRO 13 1,plaisance_METRO 13 1,adjacence,METRO 13 1,424.3895332943942
-plaisance_METRO 13 1,porte de vanves_METRO 13 1,adjacence,METRO 13 1,736.69776334222
+pernety_METRO 13 1,pernety_METRO 13 2,correspondance,,0.0
+plaisance_METRO 13 1,porte de vanves_METRO 13 1,adjacence,METRO 13 1,773.5666816151013
+plaisance_METRO 13 1,plaisance_METRO 13 2,correspondance,,0.0
 porte de vanves_METRO 13 1,porte de vanves_METRO 13 1,correspondance,,0.0
-porte de vanves_METRO 13 1,porte de versailles_METRO 13 1,adjacence,METRO 13 1,1392.4652642770338
-porte de versailles_METRO 13 1,porte de versailles_METRO 13 1,correspondance,,0.0
-porte de versailles_METRO 13 1,corentin celton_METRO 13 1,adjacence,METRO 13 1,869.1604627846365
-corentin celton_METRO 13 1,mairie de vanves_METRO 13 1,adjacence,METRO 13 1,
-mairie de vanves_METRO 13 1,malakoff rue etienne dolet_METRO 13 1,adjacence,METRO 13 1,
-malakoff rue etienne dolet_METRO 13 1,bagneux_METRO 13 1,adjacence,METRO 13 1,3062.0114817602675
-bagneux_METRO 13 1,bagneux lucie aubrac_METRO 13 1,adjacence,METRO 13 1,1184.6137354919524
-bagneux lucie aubrac_METRO 13 1,fontenay aux roses_METRO 13 1,adjacence,METRO 13 1,2565.640405372062
-fontenay aux roses_METRO 13 1,chatillon montrouge_METRO 13 1,adjacence,METRO 13 1,2655.6147949330107
+porte de vanves_METRO 13 1,malakoff plateau de vanves_METRO 13 1,adjacence,METRO 13 1,805.4077658882176
+porte de vanves_METRO 13 1,porte de vanves_METRO 13 2,correspondance,,0.0
+malakoff plateau de vanves_METRO 13 1,malakoff rue etienne dolet_METRO 13 1,adjacence,METRO 13 1,815.5362664370006
+malakoff plateau de vanves_METRO 13 1,malakoff plateau de vanves_METRO 13 2,correspondance,,0.0
+malakoff rue etienne dolet_METRO 13 1,chatillon montrouge_METRO 13 1,adjacence,METRO 13 1,609.4647187729524
+malakoff rue etienne dolet_METRO 13 1,malakoff rue etienne dolet_METRO 13 2,correspondance,,0.0
 chatillon montrouge_METRO 13 1,chatillon montrouge_METRO 13 1,correspondance,,0.0
-saint denis universite_METRO 13 2,saint denis porte de paris_METRO 13 2,adjacence,METRO 13 2,1864.3267445469905
-saint denis porte de paris_METRO 13 2,saint denis porte de paris_METRO 13 2,correspondance,,0.0
-saint denis porte de paris_METRO 13 2,basilique de saint denis_METRO 13 2,adjacence,METRO 13 2,968.0830092841682
-basilique de saint denis_METRO 13 2,basilique de saint denis_METRO 13 2,correspondance,,0.0
-basilique de saint denis_METRO 13 2,saint ouen_METRO 13 2,adjacence,METRO 13 2,4481.206929462244
-saint ouen_METRO 13 2,saint ouen_METRO 13 2,correspondance,,0.0
-saint ouen_METRO 13 2,mairie de saint ouen_METRO 13 2,adjacence,METRO 13 2,1219.5100985936335
-saint ouen_METRO 13 2,saint ouen_METRO 14,correspondance,,0.0
-mairie de saint ouen_METRO 13 2,mairie de saint ouen_METRO 13 2,correspondance,,0.0
-mairie de saint ouen_METRO 13 2,garibaldi_METRO 13 2,adjacence,METRO 13 2,817.2827125492478
-mairie de saint ouen_METRO 13 2,mairie de saint ouen_METRO 14,correspondance,,0.0
-garibaldi_METRO 13 2,porte de clignancourt_METRO 13 2,adjacence,METRO 13 2,1321.086602338583
-porte de clignancourt_METRO 13 2,porte de clignancourt_METRO 13 2,correspondance,,0.0
-porte de clignancourt_METRO 13 2,porte de clichy_METRO 13 2,adjacence,METRO 13 2,2174.5722959511963
+chatillon montrouge_METRO 13 1,chatillon montrouge_METRO 13 2,correspondance,,0.0
+les courtilles_METRO 13 2,les courtilles_METRO 13 2,correspondance,,0.0
+les courtilles_METRO 13 2,les agnettes_METRO 13 2,adjacence,METRO 13 2,812.6367169754502
+les agnettes_METRO 13 2,gabriel peri_METRO 13 2,adjacence,METRO 13 2,968.6226609869391
+gabriel peri_METRO 13 2,mairie de clichy_METRO 13 2,adjacence,METRO 13 2,1681.486802234884
+mairie de clichy_METRO 13 2,porte de clichy_METRO 13 2,adjacence,METRO 13 2,1131.44021321793
 porte de clichy_METRO 13 2,porte de clichy_METRO 13 2,correspondance,,0.0
-porte de clichy_METRO 13 2,la fourche_METRO 13 2,adjacence,METRO 13 2,1180.3441678424258
+porte de clichy_METRO 13 2,brochant_METRO 13 2,adjacence,METRO 13 2,520.7521479112099
 porte de clichy_METRO 13 2,porte de clichy_METRO 14,correspondance,,0.0
+brochant_METRO 13 2,la fourche_METRO 13 2,adjacence,METRO 13 2,558.7352014623635
 la fourche_METRO 13 2,place de clichy_METRO 13 2,adjacence,METRO 13 2,407.52345744843467
 place de clichy_METRO 13 2,place de clichy_METRO 13 2,correspondance,,0.0
-place de clichy_METRO 13 2,saint lazare_METRO 13 2,adjacence,METRO 13 2,984.9484566947152
+place de clichy_METRO 13 2,liege_METRO 13 2,adjacence,METRO 13 2,463.99293179473625
+liege_METRO 13 2,saint lazare_METRO 13 2,adjacence,METRO 13 2,534.9235118216471
 saint lazare_METRO 13 2,saint lazare_METRO 13 2,correspondance,,0.0
-saint lazare_METRO 13 2,les agnettes_METRO 13 2,adjacence,METRO 13 2,5958.8713709662925
+saint lazare_METRO 13 2,miromesnil_METRO 13 2,adjacence,METRO 13 2,748.6378580105642
 saint lazare_METRO 13 2,saint lazare_METRO 14,correspondance,,0.0
-les agnettes_METRO 13 2,gabriel peri_METRO 13 2,adjacence,METRO 13 2,968.6226609869391
-gabriel peri_METRO 13 2,asnieres gennevilliers_METRO 13 2,adjacence,METRO 13 2,
-asnieres gennevilliers_METRO 13 2,les courtilles_METRO 13 2,adjacence,METRO 13 2,
-les courtilles_METRO 13 2,les courtilles_METRO 13 2,correspondance,,0.0
+miromesnil_METRO 13 2,miromesnil_METRO 13 2,correspondance,,0.0
+miromesnil_METRO 13 2,champs elysees clemenceau_METRO 13 2,adjacence,METRO 13 2,654.0275942121481
+champs elysees clemenceau_METRO 13 2,champs elysees clemenceau_METRO 13 2,correspondance,,0.0
+champs elysees clemenceau_METRO 13 2,hotel des invalides_METRO 13 2,adjacence,METRO 13 2,842.2491673587944
+hotel des invalides_METRO 13 2,hotel des invalides_METRO 13 2,correspondance,,0.0
+hotel des invalides_METRO 13 2,varenne_METRO 13 2,adjacence,METRO 13 2,390.51524191477654
+varenne_METRO 13 2,saint francois xavier_METRO 13 2,adjacence,METRO 13 2,605.6896524939779
+saint francois xavier_METRO 13 2,duroc_METRO 13 2,adjacence,METRO 13 2,530.5795317967538
+duroc_METRO 13 2,duroc_METRO 13 2,correspondance,,0.0
+duroc_METRO 13 2,montparnasse bienvenue_METRO 13 2,adjacence,METRO 13 2,623.0255558045167
+montparnasse bienvenue_METRO 13 2,montparnasse bienvenue_METRO 13 2,correspondance,,0.0
+montparnasse bienvenue_METRO 13 2,gaite_METRO 13 2,adjacence,METRO 13 2,589.5061518962078
+gaite_METRO 13 2,pernety_METRO 13 2,adjacence,METRO 13 2,566.5570215271164
+pernety_METRO 13 2,plaisance_METRO 13 2,adjacence,METRO 13 2,424.3895332943942
+plaisance_METRO 13 2,porte de vanves_METRO 13 2,adjacence,METRO 13 2,773.5666816151013
+porte de vanves_METRO 13 2,porte de vanves_METRO 13 2,correspondance,,0.0
+porte de vanves_METRO 13 2,malakoff plateau de vanves_METRO 13 2,adjacence,METRO 13 2,805.4077658882176
+malakoff plateau de vanves_METRO 13 2,malakoff rue etienne dolet_METRO 13 2,adjacence,METRO 13 2,815.5362664370006
+malakoff rue etienne dolet_METRO 13 2,chatillon montrouge_METRO 13 2,adjacence,METRO 13 2,609.4647187729524
+chatillon montrouge_METRO 13 2,chatillon montrouge_METRO 13 2,correspondance,,0.0
 saint denis pleyel_METRO 14,mairie de saint ouen_METRO 14,adjacence,METRO 14,1109.1683269371408
 mairie de saint ouen_METRO 14,mairie de saint ouen_METRO 14,correspondance,,0.0
 mairie de saint ouen_METRO 14,saint ouen_METRO 14,adjacence,METRO 14,1304.1649496372352
 saint ouen_METRO 14,saint ouen_METRO 14,correspondance,,0.0
 saint ouen_METRO 14,porte de clichy_METRO 14,adjacence,METRO 14,1228.1886848628026
 porte de clichy_METRO 14,porte de clichy_METRO 14,correspondance,,0.0
-porte de clichy_METRO 14,saint lazare_METRO 14,adjacence,METRO 14,2147.0068690428698
+porte de clichy_METRO 14,pont cardinet_METRO 14,adjacence,METRO 14,513.3306745898507
+pont cardinet_METRO 14,pont cardinet_METRO 14,correspondance,,0.0
+pont cardinet_METRO 14,saint lazare_METRO 14,adjacence,METRO 14,1588.988049673368
 saint lazare_METRO 14,saint lazare_METRO 14,correspondance,,0.0
 saint lazare_METRO 14,madeleine_METRO 14,adjacence,METRO 14,577.3410169067217
 madeleine_METRO 14,madeleine_METRO 14,correspondance,,0.0
@@ -3771,14 +3821,13 @@ madeleine_METRO 14,pyramides_METRO 14,adjacence,METRO 14,814.4716807634564
 pyramides_METRO 14,pyramides_METRO 14,correspondance,,0.0
 pyramides_METRO 14,chatelet_METRO 14,adjacence,METRO 14,1117.1167513798089
 chatelet_METRO 14,chatelet_METRO 14,correspondance,,0.0
-chatelet_METRO 14,gare de lyon_METRO 14,adjacence,METRO 14,2307.158396462238
+chatelet_METRO 14,gare de lyon_METRO 14,adjacence,METRO 14,2721.2826699246275
 gare de lyon_METRO 14,gare de lyon_METRO 14,correspondance,,0.0
 gare de lyon_METRO 14,bercy_METRO 14,adjacence,METRO 14,566.6585639803336
 bercy_METRO 14,bercy_METRO 14,correspondance,,0.0
 bercy_METRO 14,cour saint emilion_METRO 14,adjacence,METRO 14,926.3605070626567
-cour saint emilion_METRO 14,bibliotheque francois mitterrand_METRO 14,adjacence,METRO 14,881.6081556291794
-bibliotheque francois mitterrand_METRO 14,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
-bibliotheque francois mitterrand_METRO 14,olympiades_METRO 14,adjacence,METRO 14,731.8243384584276
+cour saint emilion_METRO 14,bibliotheque f. mitterrand_METRO 14,adjacence,METRO 14,
+bibliotheque f. mitterrand_METRO 14,olympiades_METRO 14,adjacence,METRO 14,
 olympiades_METRO 14,maison blanche_METRO 14,adjacence,METRO 14,897.1395676581249
 maison blanche_METRO 14,maison blanche_METRO 14,correspondance,,0.0
 maison blanche_METRO 14,hopital bicetre_METRO 14,adjacence,METRO 14,1460.8446303706664

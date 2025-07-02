@@ -8,8 +8,8 @@ from affluence_builder.get_affluence import get_affluence_mapping_from_file
 from blobia.route import find_best_route
 from blobia.show_route import format_route
 
-DEPART_STR = "Aimé Césaire"
-MONUMENT_STR = "Arena Bercy (Accor Arena)"
+DEPART_STR = "Aulnay sous Bois"
+MONUMENT_STR = "Arena Paris Sud"
 JOUR = "lundi"
 HEURE = 8
 

@@ -2,10 +2,10 @@ import heapq
 from collections import defaultdict
 
 def normalize_line(line):
-    parts = line.upper().split()
-    if parts[0] in {"RER", "METRO"}:
+    parts = str(line).upper().split()
+    if parts[0] in {"RER", "METRO"} and len(parts) > 1:
         return f"{parts[0]} {parts[1]}"
-    return line.upper()
+    return str(line).upper()
 
 def blob_path_solver(
     G,
@@ -17,21 +17,21 @@ def blob_path_solver(
     max_iter=25000,
     max_visites_station=2,
     topk=10,
-    return_all_explored=False  # <---- Option pour visu
+    return_all_explored=False
 ):
-    
+
     if curseur == 1:
-            alpha = 3.5   # pondère fortement la longueur (très court !)
-            beta  = 0.01  # affluence négligée
-            gamma = 3.0   # grosse pénalité de changement de ligne
+        alpha = 3.5
+        beta  = 0.01
+        gamma = 3.0
     elif curseur == 10:
-            alpha = 0.01  # longueur peu importante
-            beta  = 6.0   # pondère massivement l'affluence (score totalement dominé par l'affluence)
-            gamma = 0.05  # changement de ligne quasiment pas pénalisé
+        alpha = 0.01
+        beta  = 6.0
+        gamma = 0.05
     else:
-            alpha = max(0.01, 1.5 - 0.16*curseur)
-            beta  = 0.05 + 1.7 * ((curseur-1)/9)**2.1
-            gamma = max(0.01, 1.0 - 0.11*curseur)
+        alpha = max(0.01, 1.5 - 0.16*curseur)
+        beta  = 0.05 + 1.7 * ((curseur-1)/9)**2.1
+        gamma = max(0.01, 1.0 - 0.11*curseur)
 
     front = []
     heapq.heapify(front)
@@ -45,7 +45,7 @@ def blob_path_solver(
 
     visited = dict()
     finals = []
-    explored_paths = []  # <- pour visu
+    explored_paths = []
 
     it = 0
     while front and it < max_iter and len(finals) < topk * 5:
@@ -54,7 +54,6 @@ def blob_path_solver(
         visits = visits.copy()
         visits[G.nodes[node]['station_key']] += 1
 
-        # Sauvegarde du chemin courant (pour la visu)
         if return_all_explored:
             explored_paths.append({
                 "score": score,
@@ -75,16 +74,33 @@ def blob_path_solver(
         for succ in G.neighbors(node):
             succ_line = G.nodes[succ]['ligne']
             succ_aff = affluence_mapping.get((G.nodes[succ]['station_key'], succ_line), 0.2)
-            # Ne repasse jamais plus de 2 fois par une station, sauf pour une correspondance (ligne différente)
-            if visits[G.nodes[succ]['station_key']] >= max_visites_station:
-                # Autorise de repasser si changement de ligne
-                if succ_line == lignes[-1]:
-                    continue
-            # Empêche de tourner en rond juste pour baisser l'affluence
-            if (normalize_line(succ_line) == normalize_line(lignes[-1])
-                and G.nodes[succ]['station_key'] == G.nodes[node]['station_key']
-                and succ_line != lignes[-1]):
+            succ_station = G.nodes[succ]['station_key']
+
+            # ------------- FILTRE ANTI-BOUCLE -----------------
+            potential_path = path + [succ]
+            stations_logiques = [(G.nodes[n]['station_key'], normalize_line(G.nodes[n]['ligne'])) for n in potential_path]
+
+            # 1. Pas plus de 2 passages par station (toutes lignes confondues)
+            if [G.nodes[n]['station_key'] for n in potential_path].count(succ_station) > 2:
                 continue
+
+            # 2. Interdit de repasser sur même station avec même ligne logique
+            if stations_logiques.count((succ_station, normalize_line(succ_line))) > 1:
+                continue
+
+            # 3. Interdit triple passage d'affilée même station
+            if len(potential_path) >= 3:
+                if (G.nodes[potential_path[-1]]['station_key'] == G.nodes[potential_path[-2]]['station_key'] == G.nodes[potential_path[-3]]['station_key']):
+                    continue
+
+            # 4. Interdit "changement de ligne logique" sans changement effectif (ex : RER C 1 → RER C 2)
+            if len(path) >= 1:
+                last_station = G.nodes[path[-1]]['station_key']
+                last_logique = normalize_line(G.nodes[path[-1]]['ligne'])
+                if last_station == succ_station and last_logique == normalize_line(succ_line) and succ_line != lignes[-1]:
+                    continue
+            # ------------- FIN FILTRE ANTI-BOUCLE --------------
+
             penalty = 0.0
             if succ_line != lignes[-1]:
                 penalty += gamma
@@ -104,7 +120,6 @@ def blob_path_solver(
                 visits
             ))
 
-    # Filtrage top 3 pour résultat principal
     def stations_sequence(path):
         return tuple([G.nodes[n]['station_key'] for n in path])
 
@@ -114,9 +129,8 @@ def blob_path_solver(
         if seq not in unique_routes:
             unique_routes[seq] = tup
 
-    top_routes = list(unique_routes.values())[:3]  # Top 3 uniques
+    top_routes = list(unique_routes.values())[:3]
 
-    # Formatage standard pour main.py
     results = []
     for score, node, path, affluences, lignes in top_routes:
         stations = [G.nodes[n]['name'] for n in path]
@@ -141,7 +155,6 @@ def blob_path_solver(
         })
 
     if return_all_explored:
-        # Pour la visu : chaque chemin doit avoir .raw_path
         for r in explored_paths:
             if "raw_path" not in r:
                 r["raw_path"] = r.get("path", None)

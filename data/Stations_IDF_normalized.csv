@@ -780,8 +780,8 @@ RER D 5,Créteil-Pompadour,27,,creteil pompadour
 RER D 5,Corbeil-Essonnes,28,,corbeil essonnes
 RER D 5,Évry-Courcouronnes,29,,evry courcouronnes
 RER D 5,Malesherbes,30,,malesherbes
-RER E 1,Haussmann – Saint-Lazare,1,,haussmann saint lazare
-RER E 1,Magenta,2,,magenta
+RER E 1,Haussmann Saint-Lazare,1,,haussmann saint lazare
+RER E 1,Gare du Nord Magenta,2,,gare du nord magenta
 RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord
 RER E 1,Pantin,4,,pantin
 RER E 1,Noisy-le-Sec,5,RER B,noisy le sec
@@ -802,156 +802,167 @@ RER E 2,Bondy,6,,bondy
 RER E 2,Gagny,7,,gagny
 RER E 2,Le Raincy – Villemomble – Montfermeil,8,,le raincy villemomble montfermeil
 RER E 2,Chelles – Gournay,9,,chelles gournay
-METRO 1,La Défense – Grande Arche,1,,la defense grande arche
-METRO 1,Esplanade de La Défense,2,,esplanade de la defense
+METRO 1,La Défense (Grande Arche),1,RER A,la defense (grande arche)
+METRO 1,Esplanade de la Défense,2,,esplanade de la defense
 METRO 1,Pont de Neuilly,3,,pont de neuilly
 METRO 1,Les Sablons,4,,les sablons
-METRO 1,Porte Maillot,5,"RER C, METRO 1",porte maillot
-METRO 1,Charles de Gaulle – Étoile,6,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile
-METRO 1,George V,7,,george v
-METRO 1,Franklin D. Roosevelt,8,"METRO 9, METRO 1",franklin d. roosevelt
-METRO 1,Champs-Élysées – Clemenceau,9,,champs elysees clemenceau
-METRO 1,Concorde,10,"METRO 8, METRO 12, METRO 1",concorde
-METRO 1,Tuileries,11,,tuileries
-METRO 1,Palais Royal – Musée du Louvre,12,"METRO 7, METRO 14, RER A",palais royal musee du louvre
-METRO 1,Louvre – Rivoli,13,,louvre rivoli
-METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet
-METRO 1,Hôtel de Ville,15,"METRO 1, METRO 11",hotel de ville
-METRO 1,Saint-Paul,16,,saint paul
-METRO 1,Bastille,17,"METRO 5, METRO 8, METRO 1",bastille
-METRO 1,Reuilly – Diderot,18,"METRO 8, METRO 1",reuilly diderot
-METRO 1,Nation,19,"RER A, METRO 2, METRO 6, METRO 9, METRO 1",nation
-METRO 1,Porte de Vincennes,20,,porte de vincennes
-METRO 1,Saint-Mandé,21,,saint mande
-METRO 1,Bérault,22,,berault
-METRO 1,Château de Vincennes,23,,chateau de vincennes
+METRO 1,Porte Maillot,5,RER C,porte maillot
+METRO 1,Argentine,6,,argentine
+METRO 1,Charles de Gaulle – Etoile,7,"METRO 2, METRO 6, RER A",charles de gaulle etoile
+METRO 1,George V,8,,george v
+METRO 1,Franklin D. Roosevelt,9,METRO 9,franklin d. roosevelt
+METRO 1,Champs-Élysées – Clemenceau,10,METRO 13,champs elysees clemenceau
+METRO 1,Concorde,11,"METRO 8, METRO 12",concorde
+METRO 1,Tuileries,12,,tuileries
+METRO 1,Palais Royal – Musée du Louvre,13,METRO 7,palais royal musee du louvre
+METRO 1,Louvre – Rivoli,14,,louvre rivoli
+METRO 1,Châtelet,15,"METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
+METRO 1,Hôtel de Ville,16,METRO 11,hotel de ville
+METRO 1,Saint-Paul,17,,saint paul
+METRO 1,Bastille,18,"METRO 5, METRO 8",bastille
+METRO 1,Gare de Lyon,19,"METRO 14, RER A, RER D",gare de lyon
+METRO 1,Reuilly – Diderot,20,METRO 8,reuilly diderot
+METRO 1,Nation,21,"METRO 2, METRO 6, METRO 9, RER A",nation
+METRO 1,Porte de Vincennes,22,,porte de vincennes
+METRO 1,Saint-Mandé,23,,saint mande
+METRO 1,Bérault,24,,berault
+METRO 1,Château de Vincennes,25,,chateau de vincennes
 METRO 2,Porte Dauphine,1,,porte dauphine
 METRO 2,Victor Hugo,2,,victor hugo
-METRO 2,Charles de Gaulle – Étoile,3,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+METRO 2,Charles de Gaulle – Etoile,3,"METRO 1, METRO 6, RER A",charles de gaulle etoile
 METRO 2,Ternes,4,,ternes
 METRO 2,Courcelles,5,,courcelles
 METRO 2,Monceau,6,,monceau
-METRO 2,Villiers,7,,villiers
+METRO 2,Villiers,7,METRO 3,villiers
 METRO 2,Rome,8,,rome
-METRO 2,Place de Clichy,9,"METRO 13, METRO 2",place de clichy
+METRO 2,Place de Clichy,9,METRO 13,place de clichy
 METRO 2,Blanche,10,,blanche
-METRO 2,Pigalle,11,"METRO 12, METRO 2",pigalle
+METRO 2,Pigalle,11,METRO 12,pigalle
 METRO 2,Anvers,12,,anvers
-METRO 2,Barbès – Rochechouart,13,"METRO 4, METRO 2",barbes rochechouart
-METRO 2,La Chapelle,14,,la chapelle
-METRO 2,Stalingrad,15,"METRO 7, METRO 2, METRO 5",stalingrad
-METRO 2,Jaurès,16,"METRO 5, METRO 7BIS, METRO 2",jaures
+METRO 2,Barbès – Rochechouart,13,METRO 4,barbes rochechouart
+METRO 2,La Chapelle,14,RER B,la chapelle
+METRO 2,Stalingrad,15,"METRO 5, METRO 7",stalingrad
+METRO 2,Jaurès,16,"METRO 5, METRO 7bis",jaures
 METRO 2,Colonel Fabien,17,,colonel fabien
-METRO 2,Belleville,18,"METRO 11, METRO 2",belleville
+METRO 2,Belleville,18,METRO 11,belleville
 METRO 2,Couronnes,19,,couronnes
 METRO 2,Ménilmontant,20,,menilmontant
-METRO 2,Père Lachaise,21,"METRO 3BIS, METRO 2",pere lachaise
-METRO 2,Avron,22,,avron
-METRO 2,Nation,23,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation
+METRO 2,Père Lachaise,21,METRO 3,pere lachaise
+METRO 2,Philippe Auguste,22,,philippe auguste
+METRO 2,Alexandre Dumas,23,,alexandre dumas
+METRO 2,Avron,24,,avron
+METRO 2,Nation,25,"METRO 1, METRO 6, METRO 9, RER A",nation
 METRO 3,Pont de Levallois – Bécon,1,,pont de levallois becon
 METRO 3,Anatole France,2,,anatole france
 METRO 3,Louise Michel,3,,louise michel
 METRO 3,Porte de Champerret,4,,porte de champerret
-METRO 3,Villiers,5,,villiers
-METRO 3,Europe,6,,europe
-METRO 3,Saint-Lazare,7,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
-METRO 3,Havre – Caumartin,8,"METRO 3, METRO 9",havre caumartin
-METRO 3,Opéra,9,"METRO 3, METRO 7, METRO 8",opera
-METRO 3,Quatre-Septembre,10,,quatre septembre
-METRO 3,Bourse,11,,bourse
-METRO 3,Sentier,12,,sentier
-METRO 3,Réaumur – Sébastopol,13,"METRO 4, METRO 3",reaumur sebastopol
-METRO 3,Arts et Métiers,14,"METRO 3, METRO 11",arts et metiers
-METRO 3,Temple,15,,temple
-METRO 3,Filles du Calvaire,16,,filles du calvaire
-METRO 3,Saint-Sébastien – Froissart,17,,saint sebastien froissart
-METRO 3,Chemin Vert,18,,chemin vert
-METRO 3,Saint-Ambroise,19,,saint ambroise
-METRO 3,Père Lachaise,20,"METRO 2, METRO 3BIS",pere lachaise
-METRO 3,Gambetta,21,,gambetta
-METRO 3,Porte de Bagnolet,22,,porte de bagnolet
-METRO 3,Gallieni,23,,gallieni
-METRO 3BIS,Gambetta,1,,gambetta
+METRO 3,Pereire,5,RER C,pereire
+METRO 3,Wagram,6,,wagram
+METRO 3,Malesherbes,7,,malesherbes
+METRO 3,Villiers,8,METRO 2,villiers
+METRO 3,Europe,9,,europe
+METRO 3,Saint-Lazare,10,"METRO 12, METRO 13, METRO 14, RER E",saint lazare
+METRO 3,Havre – Caumartin,11,"METRO 9, RER A",havre caumartin
+METRO 3,Opéra,12,"METRO 7, METRO 8, RER A",opera
+METRO 3,Quatre-Septembre,13,,quatre septembre
+METRO 3,Bourse,14,,bourse
+METRO 3,Sentier,15,,sentier
+METRO 3,Réaumur–Sébastopol,16,METRO 4,reaumur sebastopol
+METRO 3,Arts et Métiers,17,METRO 11,arts et metiers
+METRO 3,Temple,18,,temple
+METRO 3,République,19,"METRO 5, METRO 8, METRO 9, METRO 11",republique
+METRO 3,Parmentier,20,,parmentier
+METRO 3,Rue Saint-Maur,21,,rue saint maur
+METRO 3,Père Lachaise,22,METRO 2,pere lachaise
+METRO 3,Gambetta,23,METRO 3bis,gambetta
+METRO 3,Porte de Bagnolet,24,,porte de bagnolet
+METRO 3,Gallieni,25,,gallieni
+METRO 3BIS,Gambetta,1,METRO 3,gambetta
 METRO 3BIS,Pelleport,2,,pelleport
 METRO 3BIS,Saint-Fargeau,3,,saint fargeau
-METRO 3BIS,Porte des Lilas,4,"METRO 3, METRO 11",porte des lilas
-METRO 4,Porte de Clignancourt,1,,porte de clignancourt
-METRO 4,Marcadet – Poissonniers,2,,marcadet poissonniers
-METRO 4,Simplon,3,,simplon
-METRO 4,Château Rouge,4,,chateau rouge
-METRO 4,Barbès – Rochechouart,5,"METRO 2, METRO 4",barbes rochechouart
-METRO 4,Gare du Nord,6,"RER B, RER D, METRO 4, METRO 5",gare du nord
-METRO 4,Château d’Eau,7,,chateau d'eau
-METRO 4,Strasbourg – Saint-Denis,8,"METRO 8, METRO 9, METRO 4, METRO 11",strasbourg saint denis
-METRO 4,Réaumur – Sébastopol,9,"METRO 3, METRO 4",reaumur sebastopol
-METRO 4,Étienne Marcel,10,,etienne marcel
-METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles
-METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet
-METRO 4,Cité,13,,cite
-METRO 4,Saint-Michel,14,"RER B, METRO 10, METRO 4",saint michel
-METRO 4,Odéon,15,"METRO 10, METRO 4",odeon
-METRO 4,Saint-Germain-des-Prés,16,,saint germain des pres
-METRO 4,Mabillon,17,,mabillon
-METRO 4,Saint-Sulpice,18,,saint sulpice
-METRO 4,Montparnasse – Bienvenüe,19,"METRO 6, METRO 12, METRO 13, METRO 4",montparnasse bienvenue
-METRO 4,Raspail,20,"METRO 6, METRO 12, METRO 4",raspail
-METRO 4,Denfert-Rochereau,21,"METRO 6, METRO 4, RER B",denfert rochereau
-METRO 4,Mouton-Duvernet,22,,mouton duvernet
-METRO 4,Alésia,23,,alesia
-METRO 4,Porte d’Orléans,24,,porte d'orleans
-METRO 4,Mairie de Montrouge,25,,mairie de montrouge
-METRO 4,Bagneux – Lucie Aubrac,26,,bagneux lucie aubrac
-METRO 5,Bobigny – Pablo Picasso,1,,bobigny pablo picasso
-METRO 5,Bobigny – Pantin – Raymond Queneau,2,,bobigny pantin raymond queneau
+METRO 3BIS,Porte des Lilas,4,METRO 11,porte des lilas
+METRO 4,Bagneux – Lucie Aubrac,1,,bagneux lucie aubrac
+METRO 4,Barbara,2,,barbara
+METRO 4,Mairie de Montrouge,3,,mairie de montrouge
+METRO 4,Porte d'Orléans,4,,porte d'orleans
+METRO 4,Alésia,5,,alesia
+METRO 4,Mouton-Duvernet,6,,mouton duvernet
+METRO 4,Denfert-Rochereau,7,"RER B, METRO 6",denfert rochereau
+METRO 4,Raspail,8,METRO 6,raspail
+METRO 4,Vavin,9,,vavin
+METRO 4,Montparnasse – Bienvenüe,10,"METRO 6, METRO 12, METRO 13",montparnasse bienvenue
+METRO 4,Saint-Placide,11,,saint placide
+METRO 4,Saint-Sulpice,12,,saint sulpice
+METRO 4,Saint-Germain-des-Prés,13,,saint germain des pres
+METRO 4,Odéon,14,METRO 10,odeon
+METRO 4,Saint-Michel,15,"RER B, RER C",saint michel
+METRO 4,Cité,16,,cite
+METRO 4,Châtelet,17,"METRO 1, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
+METRO 4,Les Halles,18,"RER A, RER B, RER D",les halles
+METRO 4,Étienne Marcel,19,,etienne marcel
+METRO 4,Réaumur – Sébastopol,20,METRO 3,reaumur sebastopol
+METRO 4,Strasbourg – Saint-Denis,21,"METRO 8, METRO 9",strasbourg saint denis
+METRO 4,Château d'Eau,22,,chateau d'eau
+METRO 4,Gare de l'Est,23,"METRO 5, METRO 7",gare de l'est
+METRO 4,Gare du Nord,24,"METRO 5, RER B, RER D, RER E",gare du nord
+METRO 4,Barbès – Rochechouart,25,METRO 2,barbes rochechouart
+METRO 4,Château Rouge,26,,chateau rouge
+METRO 4,Marcadet – Poissonniers,27,METRO 12,marcadet poissonniers
+METRO 4,Simplon,28,,simplon
+METRO 4,Porte de Clignancourt,29,,porte de clignancourt
+METRO 5,Bobigny–Pablo Picasso,1,,bobigny pablo picasso
+METRO 5,Bobigny–Pantin–Raymond Queneau,2,,bobigny pantin raymond queneau
 METRO 5,Église de Pantin,3,,eglise de pantin
 METRO 5,Hoche,4,,hoche
-METRO 5,Porte de Pantin,5,,porte de pantin
+METRO 5,Porte de Pantin,5,METRO 3BIS,porte de pantin
 METRO 5,Ourcq,6,,ourcq
 METRO 5,Laumière,7,,laumiere
-METRO 5,Jaurès,8,"METRO 2, METRO 7, METRO 7BIS, METRO 5",jaures
-METRO 5,Stalingrad,9,"METRO 2, METRO 5, METRO 7",stalingrad
-METRO 5,Bassin de la Villette,10,,bassin de la villette
-METRO 5,Jacques Bonsergent,11,,jacques bonsergent
-METRO 5,République,12,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique
-METRO 5,Oberkampf,13,,oberkampf
-METRO 5,Richard-Lenoir,14,,richard lenoir
-METRO 5,Saint-Ambroise,15,,saint ambroise
-METRO 5,Bastille,16,"METRO 1, METRO 5, METRO 8",bastille
-METRO 5,Quai de la Rapée,17,,quai de la rapee
-METRO 5,Gare d'Austerlitz,18,"METRO 5, RER C",gare d'austerlitz
-METRO 5,Saint-Marcel,19,,saint marcel
-METRO 5,Campo-Formio,20,,campo formio
-METRO 5,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie
-METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile
+METRO 5,Jaurès,8,"METRO 2, METRO 7BIS",jaures
+METRO 5,Stalingrad,9,"METRO 2, METRO 7",stalingrad
+METRO 5,Gare du Nord,10,"METRO 4, RER B, RER D, RER E",gare du nord
+METRO 5,Gare de l'Est,11,"METRO 4, METRO 7",gare de l'est
+METRO 5,Jacques Bonsergent,12,,jacques bonsergent
+METRO 5,République,13,"METRO 3, METRO 8, METRO 9, METRO 11",republique
+METRO 5,Oberkampf,14,METRO 9,oberkampf
+METRO 5,Richard-Lenoir,15,,richard lenoir
+METRO 5,Bréguet–Sabin,16,,breguet sabin
+METRO 5,Bastille,17,"METRO 1, METRO 8",bastille
+METRO 5,Quai de la Rapée,18,,quai de la rapee
+METRO 5,Gare d'Austerlitz,19,"METRO 10, RER C",gare d'austerlitz
+METRO 5,Saint-Marcel,20,,saint marcel
+METRO 5,Campo-Formio,21,,campo formio
+METRO 5,Place d'Italie,22,"METRO 6, METRO 7",place d'italie
+METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, RER A",charles de gaulle etoile
 METRO 6,Kléber,2,,kleber
-METRO 6,Trocadéro,3,"METRO 9, METRO 6",trocadero
-METRO 6,Passy,4,,passy
-METRO 6,Bir-Hakeim,5,METRO 6,bir hakeim
-METRO 6,Dupleix,6,,dupleix
-METRO 6,La Motte-Picquet – Grenelle,7,"METRO 8, METRO 10, METRO 6",la motte picquet grenelle
-METRO 6,École Militaire,8,,ecole militaire
+METRO 6,Boissière,3,,boissiere
+METRO 6,Trocadéro,4,METRO 9,trocadero
+METRO 6,Passy,5,,passy
+METRO 6,Bir-Hakeim,6,RER C,bir hakeim
+METRO 6,Dupleix,7,,dupleix
+METRO 6,La Motte-Picquet – Grenelle,8,"METRO 8, METRO 10",la motte picquet grenelle
 METRO 6,Cambronne,9,,cambronne
 METRO 6,Sèvres – Lecourbe,10,,sevres lecourbe
-METRO 6,Montparnasse – Bienvenüe,11,"METRO 4, METRO 12, METRO 13, METRO 6",montparnasse bienvenue
-METRO 6,Edgar Quinet,12,,edgar quinet
-METRO 6,Raspail,13,"METRO 4, METRO 12, METRO 6",raspail
-METRO 6,Denfert-Rochereau,14,"METRO 4, RER B, METRO 6",denfert rochereau
-METRO 6,Saint-Jacques,15,,saint jacques
-METRO 6,Glacière,16,,glaciere
-METRO 6,Corvisart,17,,corvisart
-METRO 6,Place d'Italie,18,"METRO 5, METRO 7",place d'italie
-METRO 6,Nationale,19,,nationale
-METRO 6,Chevaleret,20,,chevaleret
-METRO 6,Quai de la Gare,21,,quai de la gare
-METRO 6,Bercy,22,,bercy
-METRO 6,Dugommier,23,,dugommier
-METRO 6,Daumesnil,24,"METRO 8, METRO 6",daumesnil
-METRO 6,Bel-Air,25,,bel air
-METRO 6,Picpus,26,,picpus
-METRO 6,Nation,27,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation
-METRO 7 1,La Courneuve – 8 Mai 1945,1,,la courneuve 8 mai 1945
-METRO 7 1,Fort d’Aubervilliers,2,,fort d'aubervilliers
-METRO 7 1,Aubervilliers – Pantin – Quatre Chemins,3,,aubervilliers pantin quatre chemins
+METRO 6,Pasteur,11,METRO 12,pasteur
+METRO 6,Montparnasse – Bienvenüe,12,"METRO 4, METRO 12, METRO 13",montparnasse bienvenue
+METRO 6,Edgar Quinet,13,,edgar quinet
+METRO 6,Raspail,14,METRO 4,raspail
+METRO 6,Denfert-Rochereau,15,"METRO 4, RER B",denfert rochereau
+METRO 6,Saint-Jacques,16,,saint jacques
+METRO 6,Glacière,17,,glaciere
+METRO 6,Corvisart,18,,corvisart
+METRO 6,Place d'Italie,19,"METRO 5, METRO 7",place d'italie
+METRO 6,Nationale,20,,nationale
+METRO 6,Chevaleret,21,,chevaleret
+METRO 6,Quai de la Gare,22,,quai de la gare
+METRO 6,Bercy,23,METRO 14,bercy
+METRO 6,Dugommier,24,,dugommier
+METRO 6,Daumesnil,25,METRO 8,daumesnil
+METRO 6,Bel-Air,26,,bel air
+METRO 6,Picpus,27,,picpus
+METRO 6,Nation,28,"METRO 1, METRO 2, METRO 9, RER A",nation
+METRO 7 1,La Courneuve - 8 Mai 1945,1,,la courneuve 8 mai 1945
+METRO 7 1,Fort d'Aubervilliers,2,,fort d'aubervilliers
+METRO 7 1,Aubervilliers - Pantin - Quatre Chemins,3,,aubervilliers pantin quatre chemins
 METRO 7 1,Porte de la Villette,4,,porte de la villette
 METRO 7 1,Corentin Cariou,5,,corentin cariou
 METRO 7 1,Crimée,6,,crimee
@@ -959,33 +970,33 @@ METRO 7 1,Riquet,7,,riquet
 METRO 7 1,Stalingrad,8,"METRO 2, METRO 5",stalingrad
 METRO 7 1,Louis Blanc,9,METRO 7BIS,louis blanc
 METRO 7 1,Château-Landon,10,,chateau landon
-METRO 7 1,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est
+METRO 7 1,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est
 METRO 7 1,Poissonnière,12,,poissonniere
 METRO 7 1,Cadet,13,,cadet
 METRO 7 1,Le Peletier,14,,le peletier
-METRO 7 1,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette
+METRO 7 1,Chaussée d'Antin - La Fayette,15,METRO 9,chaussee d'antin la fayette
 METRO 7 1,Opéra,16,"METRO 3, METRO 8, RER A",opera
 METRO 7 1,Pyramides,17,METRO 14,pyramides
-METRO 7 1,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre
+METRO 7 1,Palais Royal - Musée du Louvre,18,METRO 1,palais royal musee du louvre
 METRO 7 1,Pont Neuf,19,,pont neuf
 METRO 7 1,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
 METRO 7 1,Pont Marie,21,,pont marie
-METRO 7 1,Sully – Morland,22,,sully morland
+METRO 7 1,Sully - Morland,22,,sully morland
 METRO 7 1,Jussieu,23,METRO 10,jussieu
 METRO 7 1,Place Monge,24,,place monge
-METRO 7 1,Censier – Daubenton,25,,censier daubenton
+METRO 7 1,Censier - Daubenton,25,,censier daubenton
 METRO 7 1,Les Gobelins,26,,les gobelins
-METRO 7 1,Place d’Italie,27,"METRO 5, METRO 6",place d'italie
+METRO 7 1,Place d'Italie,27,"METRO 5, METRO 6",place d'italie
 METRO 7 1,Tolbiac,28,,tolbiac
-METRO 7 1,Maison Blanche,29,,maison blanche
-METRO 7 1,Porte d’Italie,30,,porte d'italie
+METRO 7 1,Maison Blanche,29,METRO 14,maison blanche
+METRO 7 1,Porte d'Italie,30,,porte d'italie
 METRO 7 1,Porte de Choisy,31,,porte de choisy
-METRO 7 1,Porte d’Ivry,32,,porte d'ivry
+METRO 7 1,Porte d'Ivry,32,,porte d'ivry
 METRO 7 1,Pierre et Marie Curie,33,,pierre et marie curie
-METRO 7 1,Mairie d’Ivry,34,,mairie d'ivry
-METRO 7 2,La Courneuve – 8 Mai 1945,1,,la courneuve 8 mai 1945
-METRO 7 2,Fort d’Aubervilliers,2,,fort d'aubervilliers
-METRO 7 2,Aubervilliers – Pantin – Quatre Chemins,3,,aubervilliers pantin quatre chemins
+METRO 7 1,Mairie d'Ivry,34,,mairie d'ivry
+METRO 7 2,La Courneuve - 8 Mai 1945,1,,la courneuve 8 mai 1945
+METRO 7 2,Fort d'Aubervilliers,2,,fort d'aubervilliers
+METRO 7 2,Aubervilliers - Pantin - Quatre Chemins,3,,aubervilliers pantin quatre chemins
 METRO 7 2,Porte de la Villette,4,,porte de la villette
 METRO 7 2,Corentin Cariou,5,,corentin cariou
 METRO 7 2,Crimée,6,,crimee
@@ -993,247 +1004,276 @@ METRO 7 2,Riquet,7,,riquet
 METRO 7 2,Stalingrad,8,"METRO 2, METRO 5",stalingrad
 METRO 7 2,Louis Blanc,9,METRO 7BIS,louis blanc
 METRO 7 2,Château-Landon,10,,chateau landon
-METRO 7 2,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est
+METRO 7 2,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est
 METRO 7 2,Poissonnière,12,,poissonniere
 METRO 7 2,Cadet,13,,cadet
 METRO 7 2,Le Peletier,14,,le peletier
-METRO 7 2,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette
+METRO 7 2,Chaussée d'Antin - La Fayette,15,METRO 9,chaussee d'antin la fayette
 METRO 7 2,Opéra,16,"METRO 3, METRO 8, RER A",opera
 METRO 7 2,Pyramides,17,METRO 14,pyramides
-METRO 7 2,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre
+METRO 7 2,Palais Royal - Musée du Louvre,18,METRO 1,palais royal musee du louvre
 METRO 7 2,Pont Neuf,19,,pont neuf
 METRO 7 2,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
 METRO 7 2,Pont Marie,21,,pont marie
-METRO 7 2,Sully – Morland,22,,sully morland
+METRO 7 2,Sully - Morland,22,,sully morland
 METRO 7 2,Jussieu,23,METRO 10,jussieu
 METRO 7 2,Place Monge,24,,place monge
-METRO 7 2,Censier – Daubenton,25,,censier daubenton
+METRO 7 2,Censier - Daubenton,25,,censier daubenton
 METRO 7 2,Les Gobelins,26,,les gobelins
-METRO 7 2,Place d’Italie,27,"METRO 5, METRO 6",place d'italie
+METRO 7 2,Place d'Italie,27,"METRO 5, METRO 6",place d'italie
 METRO 7 2,Tolbiac,28,,tolbiac
-METRO 7 2,Maison Blanche,29,,maison blanche
-METRO 7 2,Porte d’Italie,30,,porte d'italie
-METRO 7 2,Porte de Choisy,31,,porte de choisy
-METRO 7 2,Porte d’Ivry,32,,porte d'ivry
-METRO 7 2,Pierre et Marie Curie,33,,pierre et marie curie
-METRO 7 2,Mairie d’Ivry,34,,mairie d'ivry
-METRO 7 2,Le Kremlin – Bicêtre,35,,le kremlin bicetre
-METRO 7 2,Villejuif – Léo Lagrange,36,,villejuif leo lagrange
-METRO 7 2,Villejuif – Paul Vaillant – Couturier,37,,villejuif paul vaillant couturier
-METRO 7 2,Villejuif – Louis Aragon,38,,villejuif louis aragon
-METRO 8,Balard,1,,balard
-METRO 8,Lourmel,2,,lourmel
-METRO 8,Boulogne – Jean Jaurès,3,,boulogne jean jaures
-METRO 8,Porte d’Auteuil,4,,porte d'auteuil
-METRO 8,Michel-Ange – Molitor,5,METRO 9,michel ange molitor
-METRO 8,Michel-Ange – Auteuil,6,METRO 10,michel ange auteuil
-METRO 8,Javel,7,METRO 10,javel
-METRO 8,Église d’Auteuil,8,,eglise d'auteuil
-METRO 8,Charles Michels,9,,charles michels
-METRO 8,La Motte-Picquet – Grenelle,10,"METRO 6, METRO 10, METRO 8",la motte picquet grenelle
-METRO 8,École Militaire,11,,ecole militaire
-METRO 8,La Tour-Maubourg,12,,la tour maubourg
-METRO 8,Invalides,13,"METRO 8, METRO 13",invalides
-METRO 8,Saint-François-Xavier,14,,saint francois xavier
-METRO 8,Ségur,15,,segur
-METRO 8,Duroc,16,"METRO 10, METRO 13",duroc
-METRO 8,Vaneau,17,,vaneau
-METRO 8,Saint-Placide,18,,saint placide
-METRO 8,Sèvres – Babylone,19,"METRO 10, METRO 12",sevres babylone
-METRO 8,Rennes,20,,rennes
-METRO 8,Saint-Germain-des-Prés,21,,saint germain des pres
-METRO 8,Odéon,22,"METRO 4, METRO 10",odeon
-METRO 8,Cluny – La Sorbonne,23,,cluny la sorbonne
-METRO 8,Maubert – Mutualité,24,,maubert mutualite
-METRO 8,Jussieu,25,"METRO 7, METRO 10",jussieu
-METRO 8,Sulpher – Morland,26,,sulpher morland
-METRO 8,Place Monge,27,,place monge
-METRO 8,Censier – Daubenton,28,,censier daubenton
-METRO 8,Les Gobelins,29,,les gobelins
-METRO 8,Place d’Italie,30,"METRO 5, METRO 6",place d'italie
-METRO 8,Tolbiac,31,,tolbiac
-METRO 8,Maison Blanche,32,,maison blanche
-METRO 8,Porte d’Italie,33,,porte d'italie
+METRO 7 2,Maison Blanche,29,METRO 14,maison blanche
+METRO 7 2,Le Kremlin-Bicêtre,30,,le kremlin bicetre
+METRO 7 2,Villejuif - Léo Lagrange,31,,villejuif leo lagrange
+METRO 7 2,Villejuif - Paul Vaillant-Couturier,32,,villejuif paul vaillant couturier
+METRO 7 2,Villejuif - Louis Aragon,33,,villejuif louis aragon
+METRO 8,Balard,1,METRO 12,balard
+METRO 8,Boucicaut,2,,boucicaut
+METRO 8,Félix Faure,3,,felix faure
+METRO 8,Commerce,4,,commerce
+METRO 8,La Motte-Picquet – Grenelle,5,"METRO 6, METRO 10",la motte picquet grenelle
+METRO 8,Ecole Militaire,6,,ecole militaire
+METRO 8,La Tour-Maubourg,7,,la tour maubourg
+METRO 8,Invalides,8,"METRO 13, METRO 12, RER C",invalides
+METRO 8,Concorde,9,"METRO 1, METRO 12",concorde
+METRO 8,Madeleine,10,"METRO 12, METRO 14",madeleine
+METRO 8,Opéra,11,"METRO 3, METRO 7",opera
+METRO 8,Richelieu – Drouot,12,METRO 9,richelieu drouot
+METRO 8,Grands Boulevards,13,METRO 9,grands boulevards
+METRO 8,Bonne Nouvelle,14,METRO 9,bonne nouvelle
+METRO 8,Strasbourg – Saint-Denis,15,METRO 4,strasbourg saint denis
+METRO 8,République,16,"METRO 3, METRO 5, METRO 9, METRO 11",republique
+METRO 8,Filles du Calvaire,17,,filles du calvaire
+METRO 8,Saint-Sébastien – Froissart,18,,saint sebastien froissart
+METRO 8,Chemin Vert,19,,chemin vert
+METRO 8,Bastille,20,"METRO 1, METRO 5",bastille
+METRO 8,Ledru-Rollin,21,,ledru rollin
+METRO 8,Faidherbe – Chaligny,22,,faidherbe chaligny
+METRO 8,Reuilly – Diderot,23,METRO 1,reuilly diderot
+METRO 8,Montgallet,24,,montgallet
+METRO 8,Daumesnil,25,METRO 6,daumesnil
+METRO 8,Michel Bizot,26,,michel bizot
+METRO 8,Porte Dorée,27,,porte doree
+METRO 8,Porte de Charenton,28,,porte de charenton
+METRO 8,Liberté,29,,liberte
+METRO 8,Charenton – Écoles,30,,charenton ecoles
+METRO 8,Ecole Vétérinaire de Maisons-Alfort,31,,ecole veterinaire de maisons alfort
+METRO 8,Maisons-Alfort – Stade,32,,maisons alfort stade
+METRO 8,Maisons-Alfort – Les Juilliottes,33,,maisons alfort les juilliottes
+METRO 8,Créteil – L’Echat,34,,creteil l'echat
+METRO 8,Créteil – Université,35,,creteil universite
+METRO 8,Créteil – Préfecture,36,,creteil prefecture
+METRO 8,Pointe du Lac,37,,pointe du lac
 METRO 9,Pont de Sèvres,1,,pont de sevres
 METRO 9,Billancourt,2,,billancourt
 METRO 9,Marcel Sembat,3,,marcel sembat
 METRO 9,Porte de Saint-Cloud,4,,porte de saint cloud
 METRO 9,Exelmans,5,,exelmans
-METRO 9,Michel-Ange – Molitor,6,METRO 6,michel ange molitor
+METRO 9,Michel-Ange – Molitor,6,METRO 10,michel ange molitor
 METRO 9,Michel-Ange – Auteuil,7,METRO 10,michel ange auteuil
-METRO 9,Javel,8,METRO 10,javel
-METRO 9,Église d’Auteuil,9,,eglise d'auteuil
-METRO 9,La Muette,10,,la muette
+METRO 9,Jasmin,8,,jasmin
+METRO 9,Ranelagh,9,,ranelagh
+METRO 9,La Muette,10,RER C,la muette
 METRO 9,Rue de la Pompe,11,,rue de la pompe
 METRO 9,Trocadéro,12,METRO 6,trocadero
 METRO 9,Iéna,13,,iena
 METRO 9,Alma – Marceau,14,,alma marceau
-METRO 9,Franklin D. Roosevelt,15,"METRO 1, METRO 9",franklin d. roosevelt
+METRO 9,Franklin D. Roosevelt,15,METRO 1,franklin d. roosevelt
 METRO 9,Saint-Philippe du Roule,16,,saint philippe du roule
-METRO 9,Miromesnil,17,,miromesnil
+METRO 9,Miromesnil,17,METRO 13,miromesnil
 METRO 9,Saint-Augustin,18,,saint augustin
-METRO 9,Havre – Caumartin,19,"METRO 3, METRO 9",havre caumartin
-METRO 9,Chaussée d’Antin – La Fayette,20,"METRO 3, METRO 9",chaussee d'antin la fayette
-METRO 9,Richelieu – Drouot,21,,richelieu drouot
-METRO 9,Grands Boulevards,22,,grands boulevards
-METRO 9,Bonne Nouvelle,23,,bonne nouvelle
-METRO 9,Strasbourg – Saint-Denis,24,"METRO 4, METRO 8, METRO 9, METRO 11",strasbourg saint denis
-METRO 9,République,25,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique
-METRO 9,Oberkampf,26,,oberkampf
-METRO 9,Saint-Ambroise,27,,saint ambroise
-METRO 9,Rue Saint-Maur,28,,rue saint maur
-METRO 9,Saint-Maur,29,,saint maur
-METRO 9,Père Lachaise,30,"METRO 2, METRO 3BIS",pere lachaise
-METRO 9,Buzenval,31,,buzenval
-METRO 9,Maraîchers,32,,maraichers
-METRO 9,Charonne,33,,charonne
-METRO 9,Rue des Boulets,34,,rue des boulets
-METRO 9,Nation,35,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation
-METRO 10,Boulogne – Pont de Saint-Cloud,1,,boulogne pont de saint cloud
-METRO 10,Boulogne – Jean Jaurès,2,,boulogne jean jaures
-METRO 10,Michel-Ange – Molitor,3,"METRO 6, METRO 9",michel ange molitor
-METRO 10,Chardon Lagache,4,,chardon lagache
-METRO 10,Église d'Auteuil,5,,eglise d'auteuil
-METRO 10,Javel,6,METRO 8,javel
-METRO 10,Avenue Émile Zola,7,,avenue emile zola
-METRO 10,Charles Michels,8,,charles michels
-METRO 10,École Militaire,9,,ecole militaire
-METRO 10,La Tour-Maubourg,10,,la tour maubourg
-METRO 10,Invalides,11,"METRO 8, METRO 13",invalides
-METRO 10,Solférino,12,,solferino
-METRO 10,Mabillon,13,,mabillon
-METRO 10,Odéon,14,"METRO 4, METRO 10",odeon
-METRO 10,Cluny – La Sorbonne,15,,cluny la sorbonne
-METRO 10,Saint-Michel,16,"METRO 4, RER B, METRO 10",saint michel
-METRO 10,Jussieu,17,"METRO 7, METRO 10",jussieu
-METRO 10,Gare d'Austerlitz,18,METRO 5,gare d'austerlitz
-METRO 10,Saint-Marcel,19,,saint marcel
-METRO 10,Campo-Formio,20,,campo formio
-METRO 10,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie
+METRO 9,Havre – Caumartin,19,METRO 3,havre caumartin
+METRO 9,Saint-Lazare,20,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare
+METRO 9,Chaussée d’Antin – La Fayette,21,METRO 7,chaussee d'antin la fayette
+METRO 9,Richelieu – Drouot,22,METRO 8,richelieu drouot
+METRO 9,Grands Boulevards,23,METRO 8,grands boulevards
+METRO 9,Bonne Nouvelle,24,METRO 8,bonne nouvelle
+METRO 9,Strasbourg – Saint-Denis,25,"METRO 4, METRO 8",strasbourg saint denis
+METRO 9,République,26,"METRO 3, METRO 5, METRO 8, METRO 11",republique
+METRO 9,Oberkampf,27,METRO 5,oberkampf
+METRO 9,Saint-Ambroise,28,,saint ambroise
+METRO 9,Voltaire,29,,voltaire
+METRO 9,Charonne,30,,charonne
+METRO 9,Rue des Boulets,31,,rue des boulets
+METRO 9,Nation,32,"METRO 1, METRO 2, METRO 6, RER A",nation
+METRO 9,Buzenval,33,,buzenval
+METRO 9,Maraîchers,34,,maraichers
+METRO 9,Porte de Montreuil,35,,porte de montreuil
+METRO 9,Robespierre,36,,robespierre
+METRO 9,Croix de Chavaux,37,,croix de chavaux
+METRO 9,Mairie de Montreuil,38,,mairie de montreuil
+METRO 10 1,Boulogne - Pont de Saint-Cloud,1,,boulogne pont de saint cloud
+METRO 10 1,Boulogne - Jean Jaurès,2,,boulogne jean jaures
+METRO 10 1,Porte d’Auteuil,3,,porte d'auteuil
+METRO 10 1,Michel-Ange Auteuil,4,METRO 9,michel ange auteuil
+METRO 10 1,Eglise d’Auteuil,5,,eglise d'auteuil
+METRO 10 1,Javel - André Citroën,6,RER C,javel andre citroen
+METRO 10 1,Charles Michels,7,,charles michels
+METRO 10 1,Avenue Émile Zola,8,,avenue emile zola
+METRO 10 1,La Motte-Picquet - Grenelle,9,"METRO 6, METRO 8",la motte picquet grenelle
+METRO 10 1,Ségur,10,,segur
+METRO 10 1,Duroc,11,METRO 13,duroc
+METRO 10 1,Vaneau,12,,vaneau
+METRO 10 1,Sèvres - Babylone,13,METRO 12,sevres babylone
+METRO 10 1,Mabillon,14,,mabillon
+METRO 10 1,Odéon,15,METRO 4,odeon
+METRO 10 1,Cluny - La Sorbonne,16,"RER B, RER C",cluny la sorbonne
+METRO 10 1,Maubert - Mutualité,17,,maubert mutualite
+METRO 10 1,Cardinal Lemoine,18,,cardinal lemoine
+METRO 10 1,Jussieu,19,METRO 7,jussieu
+METRO 10 1,Gare d'Austerlitz,20,"METRO 5, RER C",gare d'austerlitz
+METRO 10 2,Boulogne - Pont de Saint-Cloud,1,,boulogne pont de saint cloud
+METRO 10 2,Boulogne - Jean Jaurès,2,,boulogne jean jaures
+METRO 10 2,Michel-Ange Molitor,3,METRO 9,michel ange molitor
+METRO 10 2,Chardon Lagache,4,,chardon lagache
+METRO 10 2,Mirabeau,5,,mirabeau
+METRO 10 2,Javel - André Citroën,6,RER C,javel andre citroen
+METRO 10 2,Charles Michels,7,,charles michels
+METRO 10 2,Avenue Émile Zola,8,,avenue emile zola
+METRO 10 2,La Motte-Picquet - Grenelle,9,"METRO 6, METRO 8",la motte picquet grenelle
+METRO 10 2,Ségur,10,,segur
+METRO 10 2,Duroc,11,METRO 13,duroc
+METRO 10 2,Vaneau,12,,vaneau
+METRO 10 2,Sèvres - Babylone,13,METRO 12,sevres babylone
+METRO 10 2,Mabillon,14,,mabillon
+METRO 10 2,Odéon,15,METRO 4,odeon
+METRO 10 2,Cluny - La Sorbonne,16,"RER B, RER C",cluny la sorbonne
+METRO 10 2,Maubert - Mutualité,17,,maubert mutualite
+METRO 10 2,Cardinal Lemoine,18,,cardinal lemoine
+METRO 10 2,Jussieu,19,METRO 7,jussieu
+METRO 10 2,Gare d'Austerlitz,20,"METRO 5, RER C",gare d'austerlitz
 METRO 7BIS 1,Louis Blanc,1,METRO 7,louis blanc
-METRO 7BIS 1,Jaurès,2,,jaures
+METRO 7BIS 1,Jaurès,2,"METRO 5, METRO 2",jaures
 METRO 7BIS 1,Bolivar,3,,bolivar
 METRO 7BIS 1,Buttes Chaumont,4,,buttes chaumont
 METRO 7BIS 1,Botzaris,5,,botzaris
 METRO 7BIS 1,Danube,6,,danube
-METRO 7BIS 1,Pré-Saint-Gervais,7,METRO 7,pre saint gervais
-METRO 7BIS 1,Louis Blanc,7,METRO 7,louis blanc
-METRO 7BIS 1,Jaurès,6,,jaures
-METRO 7BIS 1,Bolivar,5,,bolivar
-METRO 7BIS 1,Buttes Chaumont,4,,buttes chaumont
-METRO 7BIS 1,Botzaris,3,,botzaris
-METRO 7BIS 1,Place des Fêtes,2,METRO 11,place des fetes
-METRO 7BIS 1,Pré-Saint-Gervais,1,METRO 7,pre saint gervais
+METRO 7BIS 1,Pré-Saint-Gervais,7,,pre saint gervais
+METRO 7BIS 2,Louis Blanc,7,METRO 7,louis blanc
+METRO 7BIS 2,Jaurès,6,"METRO 5, METRO 2",jaures
+METRO 7BIS 2,Bolivar,5,,bolivar
+METRO 7BIS 2,Buttes Chaumont,4,,buttes chaumont
+METRO 7BIS 2,Botzaris,3,,botzaris
+METRO 7BIS 2,Place des Fêtes,2,METRO 11,place des fetes
+METRO 7BIS 2,Pré-Saint-Gervais,1,,pre saint gervais
 METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",chatelet
-METRO 11,Hôtel de Ville,2,"METRO 1, METRO 11",hotel de ville
+METRO 11,Hôtel de Ville,2,METRO 1,hotel de ville
 METRO 11,Rambuteau,3,,rambuteau
-METRO 11,Arts et Métiers,4,"METRO 3, METRO 11",arts et metiers
-METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique
+METRO 11,Arts et Métiers,4,METRO 3,arts et metiers
+METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9",republique
 METRO 11,Goncourt,6,,goncourt
-METRO 11,Belleville,7,"METRO 2, METRO 11",belleville
-METRO 11,Pyrenees,8,,pyrenees
+METRO 11,Belleville,7,METRO 2,belleville
+METRO 11,Pyrenées,8,,pyrenees
 METRO 11,Jourdain,9,,jourdain
-METRO 11,Télégraphe,10,,telegraphe
-METRO 11,Porte des Lilas,11,,porte des lilas
-METRO 11,Mairie des Lilas,12,,mairie des lilas
-METRO 11,Serge Gainsbourg,13,,serge gainsbourg
-METRO 11,Romainville – Carnot,14,,romainville carnot
-METRO 11,Montreuil – Hôpital,15,,montreuil hopital
-METRO 11,Robespierre,16,,robespierre
-METRO 11,Croix de Chavaux,17,,croix de chavaux
-METRO 11,Mairie de Montreuil,18,,mairie de montreuil
-METRO 11,Rosny-Bois-Perrier,19,,rosny bois perrier
+METRO 11,Place des Fêtes,10,METRO 7BIS,place des fetes
+METRO 11,Télégraphe,11,,telegraphe
+METRO 11,Porte des Lilas,12,METRO 3BIS,porte des lilas
+METRO 11,Mairie des Lilas,13,,mairie des lilas
+METRO 11,Serge Gainsbourg,14,,serge gainsbourg
+METRO 11,Romainville–Carnot,15,,romainville carnot
+METRO 11,Montreuil – Hôpital,16,,montreuil hopital
+METRO 11,La Dhuys,17,,la dhuys
+METRO 11,Coteaux Beauclair,18,,coteaux beauclair
+METRO 11,Rosny–Bois-Perrier,19,RER E,rosny bois perrier
 METRO 12,Mairie d'Aubervilliers,1,,mairie d'aubervilliers
 METRO 12,Aimé Césaire,2,,aime cesaire
 METRO 12,Front Populaire,3,,front populaire
 METRO 12,Porte de la Chapelle,4,,porte de la chapelle
-METRO 12,Marcadet – Poissonniers,5,,marcadet poissonniers
+METRO 12,Marcadet – Poissonniers,5,RER E,marcadet poissonniers
 METRO 12,Jules Joffrin,6,,jules joffrin
 METRO 12,Lamarck – Caulaincourt,7,,lamarck caulaincourt
 METRO 12,Abbesses,8,,abbesses
-METRO 12,Pigalle,9,"METRO 2, METRO 12",pigalle
+METRO 12,Pigalle,9,,pigalle
 METRO 12,Saint-Georges,10,,saint georges
 METRO 12,Notre-Dame-de-Lorette,11,,notre dame de lorette
 METRO 12,Trinité – d'Estienne d'Orves,12,,trinite d'estienne d'orves
-METRO 12,Saint-Lazare,13,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
-METRO 12,Madeleine,14,"METRO 8, METRO 12, METRO 14",madeleine
-METRO 12,Concorde,15,"METRO 1, METRO 8, METRO 12",concorde
+METRO 12,Saint-Lazare,13,,saint lazare
+METRO 12,Madeleine,14,"METRO 2, METRO 12",madeleine
+METRO 12,Concorde,15,,concorde
 METRO 12,Assemblée Nationale,16,,assemblee nationale
 METRO 12,Solférino,17,,solferino
-METRO 12,Rue du Bac,18,,rue du bac
-METRO 12,Sèvres – Babylone,19,"METRO 10, METRO 12",sevres babylone
-METRO 12,Rennes,20,,rennes
+METRO 12,Rue du Bac,18,"METRO 3, METRO 12, METRO 13, RER E",rue du bac
+METRO 12,Sèvres – Babylone,19,"METRO 8, METRO 12, METRO 14",sevres babylone
+METRO 12,Rennes,20,"METRO 1, METRO 8, METRO 12",rennes
 METRO 12,Notre-Dame-des-Champs,21,,notre dame des champs
-METRO 12,Montparnasse – Bienvenüe,22,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue
+METRO 12,Montparnasse – Bienvenüe,22,,montparnasse bienvenue
 METRO 12,Falguière,23,,falguiere
-METRO 12,Pasteur,24,,pasteur
+METRO 12,Pasteur,24,"METRO 10, METRO 12",pasteur
 METRO 12,Volontaires,25,,volontaires
 METRO 12,Vaugirard,26,,vaugirard
-METRO 12,Convention,27,,convention
-METRO 12,Plaisance,28,,plaisance
+METRO 12,Convention,27,"METRO 4, METRO 6, METRO 12, METRO 13",convention
+METRO 12,Porte de Versailles,28,,porte de versailles
 METRO 12,Porte de Vanves,29,,porte de vanves
-METRO 12,Malakoff – Plateau de Vanves,30,,malakoff plateau de vanves
-METRO 12,Malakoff – Rue Étienne Dolet,31,,malakoff rue etienne dolet
-METRO 12,Châtillon – Montrouge,32,,chatillon montrouge
+METRO 12,Corentin Celton,30,,corentin celton
+METRO 12,Mairie d’Issy,31,,mairie d'issy
 METRO 13 1,Saint-Denis Université,1,,saint denis universite
-METRO 13 1,Saint-Denis Porte de Paris,2,,saint denis porte de paris
-METRO 13 1,Basilique de Saint-Denis,3,,basilique de saint denis
-METRO 13 1,Saint-Ouen,4,METRO 14,saint ouen
+METRO 13 1,Basilique de Saint-Denis,2,,basilique de saint denis
+METRO 13 1,Saint-Denis Porte de Paris,3,,saint denis porte de paris
+METRO 13 1,Carrefour Pleyel,4,,carrefour pleyel
 METRO 13 1,Mairie de Saint-Ouen,5,,mairie de saint ouen
 METRO 13 1,Garibaldi,6,,garibaldi
-METRO 13 1,Porte de Clignancourt,7,,porte de clignancourt
-METRO 13 1,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy
+METRO 13 1,Porte de Saint-Ouen,7,,porte de saint ouen
+METRO 13 1,Guy Môquet,8,,guy moquet
 METRO 13 1,La Fourche,9,,la fourche
-METRO 13 1,Place de Clichy,10,"METRO 2, METRO 13",place de clichy
-METRO 13 1,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
-METRO 13 1,Miromesnil,12,"METRO 9, METRO 13",miromesnil
-METRO 13 1,Saint-François-Xavier,13,,saint francois xavier
-METRO 13 1,Duroc,14,"METRO 10, METRO 13",duroc
-METRO 13 1,Montparnasse – Bienvenüe,15,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue
-METRO 13 1,Gaîté,16,,gaite
-METRO 13 1,Pernety,17,,pernety
-METRO 13 1,Plaisance,18,,plaisance
-METRO 13 1,Porte de Vanves,19,,porte de vanves
-METRO 13 1,Porte de Versailles,20,,porte de versailles
-METRO 13 1,Corentin Celton,21,,corentin celton
-METRO 13 1,Mairie de Vanves,22,,mairie de vanves
-METRO 13 1,Malakoff – Rue Étienne Dolet,23,,malakoff rue etienne dolet
-METRO 13 1,Bagneux,24,,bagneux
-METRO 13 1,Bagneux – Lucie Aubrac,25,,bagneux lucie aubrac
-METRO 13 1,Fontenay-aux-Roses,26,,fontenay aux roses
-METRO 13 1,Châtillon – Montrouge,27,,chatillon montrouge
-METRO 13 2,Saint-Denis Université,1,,saint denis universite
-METRO 13 2,Saint-Denis Porte de Paris,2,,saint denis porte de paris
-METRO 13 2,Basilique de Saint-Denis,3,,basilique de saint denis
-METRO 13 2,Saint-Ouen,4,METRO 14,saint ouen
-METRO 13 2,Mairie de Saint-Ouen,5,,mairie de saint ouen
-METRO 13 2,Garibaldi,6,,garibaldi
-METRO 13 2,Porte de Clignancourt,7,,porte de clignancourt
-METRO 13 2,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy
-METRO 13 2,La Fourche,9,,la fourche
-METRO 13 2,Place de Clichy,10,"METRO 2, METRO 13",place de clichy
-METRO 13 2,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
-METRO 13 2,Les Agnettes,12,,les agnettes
-METRO 13 2,Gabriel Péri,13,,gabriel peri
-METRO 13 2,Asnières – Gennevilliers,14,,asnieres gennevilliers
-METRO 13 2,Les Courtilles,15,,les courtilles
-METRO 14,Saint-Denis – Pleyel,1,,saint denis pleyel
-METRO 14,Mairie de Saint-Ouen,2,,mairie de saint ouen
-METRO 14,Saint-Ouen,3,,saint ouen
-METRO 14,Porte de Clichy,4,,porte de clichy
-METRO 14,Saint-Lazare,5,"METRO 3, METRO 12, METRO 13, RER E",saint lazare
-METRO 14,Madeleine,6,"METRO 8, METRO 12, METRO 14",madeleine
-METRO 14,Pyramides,7,"METRO 7, METRO 14",pyramides
-METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
-METRO 14,Gare de Lyon,9,"METRO 1, METRO 14, RER A, RER D",gare de lyon
-METRO 14,Bercy,10,,bercy
-METRO 14,Cour Saint-Émilion,11,,cour saint emilion
-METRO 14,Bibliothèque François Mitterrand,12,METRO 14,bibliotheque francois mitterrand
-METRO 14,Olympiades,13,,olympiades
-METRO 14,Maison Blanche,14,,maison blanche
-METRO 14,Hôpital Bicêtre,15,,hopital bicetre
-METRO 14,Villejuif – Gustave Roussy,16,,villejuif gustave roussy
-METRO 14,L'Haÿ-les-Roses,17,,l'hay les roses
-METRO 14,Chevilly-Larue,18,,chevilly larue
-METRO 14,Thiais – Orly,19,,thiais orly
-METRO 14,Aéroport d’Orly,20,RER C,aeroport d'orly
+METRO 13 1,Place de Clichy,10,METRO 14,place de clichy
+METRO 13 1,Liège,11,,liege
+METRO 13 1,Saint-Lazare,12,,saint lazare
+METRO 13 1,Miromesnil,13,,miromesnil
+METRO 13 1,Champs-Elysées Clemenceau,14,,champs elysees clemenceau
+METRO 13 1,Invalides,15,METRO 2,invalides
+METRO 13 1,Varenne,16,,varenne
+METRO 13 1,Saint-François-Xavier,17,"METRO 3, METRO 12, METRO 14, RER E",saint francois xavier
+METRO 13 1,Duroc,18,METRO 9,duroc
+METRO 13 1,Montparnasse – Bienvenüe,19,METRO 1,montparnasse bienvenue
+METRO 13 1,Gaîté,20,"METRO 8, RER C",gaite
+METRO 13 1,Pernety,21,,pernety
+METRO 13 1,Plaisance,22,,plaisance
+METRO 13 1,Porte de Vanves,23,METRO 10,porte de vanves
+METRO 13 1,Malakoff - Plateau de Vanves,24,"METRO 4, METRO 6, METRO 12",malakoff plateau de vanves
+METRO 13 1,Malakoff – Rue Étienne Dolet,25,,malakoff rue etienne dolet
+METRO 13 1,Châtillon – Montrouge,26,,chatillon montrouge
+METRO 13 2,Les Courtilles,1,,les courtilles
+METRO 13 2,Les Agnettes,2,,les agnettes
+METRO 13 2,Gabriel Péri,3,,gabriel peri
+METRO 13 2,Mairie de Clichy,4,,mairie de clichy
+METRO 13 2,Porte de Clichy,5,,porte de clichy
+METRO 13 2,Brochant,6,,brochant
+METRO 13 2,La Fourche,7,,la fourche
+METRO 13 2,Place de Clichy,8,,place de clichy
+METRO 13 2,Liège,9,,liege
+METRO 13 2,Saint-Lazare,10,"METRO 14, RER C",saint lazare
+METRO 13 2,Miromesnil,11,,miromesnil
+METRO 13 2,Champs-Elysées Clemenceau,12,,champs elysees clemenceau
+METRO 13 2,Invalides,13,METRO 2,invalides
+METRO 13 2,Varenne,14,,varenne
+METRO 13 2,Saint-François-Xavier,15,"METRO 3, METRO 12, METRO 14, RER E",saint francois xavier
+METRO 13 2,Duroc,16,METRO 9,duroc
+METRO 13 2,Montparnasse – Bienvenüe,17,METRO 1,montparnasse bienvenue
+METRO 13 2,Gaîté,18,"METRO 8, RER C",gaite
+METRO 13 2,Pernety,19,,pernety
+METRO 13 2,Plaisance,20,,plaisance
+METRO 13 2,Porte de Vanves,21,METRO 10,porte de vanves
+METRO 13 2,Malakoff - Plateau de Vanves,22,"METRO 4, METRO 6, METRO 12",malakoff plateau de vanves
+METRO 13 2,Malakoff – Rue Étienne Dolet,23,,malakoff rue etienne dolet
+METRO 13 2,Châtillon – Montrouge,24,,chatillon montrouge
+METRO 14,Saint-Denis–Pleyel,1,"METRO 13, RER D, RER E",saint denis pleyel
+METRO 14,Mairie de Saint-Ouen,2,METRO 13,mairie de saint ouen
+METRO 14,Saint-Ouen,3,RER C,saint ouen
+METRO 14,Porte de Clichy,4,"METRO 13, RER C",porte de clichy
+METRO 14,Pont Cardinet,5,,pont cardinet
+METRO 14,Saint-Lazare,6,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare
+METRO 14,Madeleine,7,"METRO 8, METRO 12, METRO 14",madeleine
+METRO 14,Pyramides,8,"METRO 7, METRO 14",pyramides
+METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet
+METRO 14,Gare de Lyon,10,"METRO 1, METRO 14, RER A, RER D",gare de lyon
+METRO 14,Bercy,11,"METRO 6, METRO 14",bercy
+METRO 14,Cour Saint-Émilion,12,,cour saint emilion
+METRO 14,Bibliothèque F. Mitterrand,13,RER C,bibliotheque f. mitterrand
+METRO 14,Olympiades,14,METRO 14,olympiades
+METRO 14,Maison Blanche,15,METRO 7,maison blanche
+METRO 14,Hôpital Bicêtre,16,,hopital bicetre
+METRO 14,Villejuif–Gustave Roussy,17,,villejuif gustave roussy
+METRO 14,L'Haÿ-les-Roses,18,,l'hay les roses
+METRO 14,Chevilly-Larue,19,,chevilly larue
+METRO 14,Thiais–Orly,20,,thiais orly
+METRO 14,Aéroport d'Orly,21,,aeroport d'orly

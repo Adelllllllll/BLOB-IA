@@ -1123,8 +1123,7 @@ RER D 4,Créteil-Pompadour,26,,creteil pompadour,creteil pompadour,48.7712660381
 RER D 4,Créteil-Pompadour,27,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
 RER D 4,Corbeil-Essonnes,28,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
 RER D 4,Ris-Orangis,29,,ris orangis,ris orangis,48.658975423830064,2.415206841330065
-RER D 4,Malesherbes,30,,malesherbes,malesherbes,48.88289191745414,2.309052264550479
-RER D 4,Malesherbes,30,,malesherbes,malesherbes,48.29359176873126,2.401133894429584
+RER D 4,Malesherbes,30,,malesherbes,malesherbes,48.882612630584646,2.310036147219974
 RER D 5,Creil,1,,creil,creil,49.26394414450534,2.4689141153510383
 RER D 5,Ormoy-Villers,2,,ormoy villers,ormoy villers,49.200877079101126,2.838108478036552
 RER D 5,Montataire,3,,montataire,montataire,,
@@ -1159,14 +1158,9 @@ RER D 5,Créteil-Pompadour,27,,creteil pompadour,creteil pompadour,48.7712660381
 RER D 5,Corbeil-Essonnes,28,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
 RER D 5,Évry-Courcouronnes,29,,evry courcouronnes,evry courcouronnes,48.62468182599698,2.4275947804437275
 RER D 5,Évry-Courcouronnes,29,,evry courcouronnes,evry courcouronnes,48.62590139491631,2.4301553860113567
-RER D 5,Malesherbes,30,,malesherbes,malesherbes,48.88289191745414,2.309052264550479
-RER D 5,Malesherbes,30,,malesherbes,malesherbes,48.29359176873126,2.401133894429584
-RER E 1,Haussmann – Saint-Lazare,1,,haussmann saint lazare,haussmann saint lazare,48.8750292564036,2.3267224755800515
-RER E 1,Magenta,2,,magenta,gare du nord,48.87979369411629,2.355791907531139
-RER E 1,Magenta,2,,magenta,gare du nord,48.88092200667149,2.356328543670162
-RER E 1,Magenta,2,,magenta,gare du nord,48.88077520479297,2.35873295908786
-RER E 1,Magenta,2,,magenta,gare du nord,48.88175948915267,2.357570193470877
-RER E 1,Magenta,2,,magenta,gare du nord,48.880195487135886,2.3576332046800537
+RER D 5,Malesherbes,30,,malesherbes,malesherbes,48.882612630584646,2.310036147219974
+RER E 1,Haussmann Saint-Lazare,1,,haussmann saint lazare,haussmann saint lazare,48.8750292564036,2.3267224755800515
+RER E 1,Gare du Nord Magenta,2,,gare du nord magenta,gare du nord magenta,,
 RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.87979369411629,2.355791907531139
 RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.88092200667149,2.356328543670162
 RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.88077520479297,2.35873295908786
@@ -1203,287 +1197,314 @@ RER E 2,Bondy,6,,bondy,bondy,48.8938058606185,2.4820329224074715
 RER E 2,Gagny,7,,gagny,gagny,48.88373428097724,2.5254342507658434
 RER E 2,Le Raincy – Villemomble – Montfermeil,8,,le raincy villemomble montfermeil,le raincy villemomble montfermeil,48.88886574230645,2.513157532747812
 RER E 2,Chelles – Gournay,9,,chelles gournay,chelles gournay,48.87414408301458,2.583331158055108
-METRO 1,La Défense – Grande Arche,1,,la defense grande arche,grande arche de la defense,48.89218707644951,2.237018056395014
-METRO 1,La Défense – Grande Arche,1,,la defense grande arche,grande arche de la defense,48.8921233638325,2.237213536457713
-METRO 1,La Défense – Grande Arche,1,,la defense grande arche,grande arche de la defense,48.89286497052017,2.2395681712170497
-METRO 1,La Défense – Grande Arche,1,,la defense grande arche,grande arche de la defense,48.89168813894621,2.238595217338472
-METRO 1,Esplanade de La Défense,2,,esplanade de la defense,esplanade de la defense,48.88813847761218,2.249792769009765
+METRO 1,La Défense (Grande Arche),1,RER A,la defense (grande arche),la defense,,
+METRO 1,Esplanade de la Défense,2,,esplanade de la defense,esplanade de la defense,48.88813847761218,2.249792769009765
 METRO 1,Pont de Neuilly,3,,pont de neuilly,pont de neuilly,48.88470820133096,2.260515079251701
 METRO 1,Les Sablons,4,,les sablons,les sablons,48.88101649749112,2.272238940611057
-METRO 1,Porte Maillot,5,"RER C, METRO 1",porte maillot,porte maillot,48.87793268655634,2.282976188020842
-METRO 1,Porte Maillot,5,"RER C, METRO 1",porte maillot,porte maillot,48.87790843816008,2.284431219916768
-METRO 1,Porte Maillot,5,"RER C, METRO 1",porte maillot,porte maillot,48.87755125180425,2.2831622422302296
-METRO 1,Porte Maillot,5,"RER C, METRO 1",porte maillot,porte maillot,48.87793813782425,2.283913993903496
-METRO 1,Charles de Gaulle – Étoile,6,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87481054112289,2.2958012223518693
-METRO 1,Charles de Gaulle – Étoile,6,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87514981972761,2.295904904713175
-METRO 1,Charles de Gaulle – Étoile,6,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.874204186324654,2.2947732143825275
-METRO 1,Charles de Gaulle – Étoile,6,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87474865067991,2.2955602562131467
-METRO 1,George V,7,,george v,george v,48.872023810399725,2.3005604512367213
-METRO 1,Franklin D. Roosevelt,8,"METRO 9, METRO 1",franklin d. roosevelt,franklin d. roosevelt,48.86869984735294,2.309505157337887
-METRO 1,Franklin D. Roosevelt,8,"METRO 9, METRO 1",franklin d. roosevelt,franklin d. roosevelt,48.86943888165912,2.308607493526256
-METRO 1,Champs-Élysées – Clemenceau,9,,champs elysees clemenceau,champs elysees clemenceau,48.86760214522151,2.3138941304816147
-METRO 1,Champs-Élysées – Clemenceau,9,,champs elysees clemenceau,champs elysees clemenceau,48.8679053448971,2.313545549946741
-METRO 1,Concorde,10,"METRO 8, METRO 12, METRO 1",concorde,place de la concorde,48.86628580458389,2.322943412243541
-METRO 1,Concorde,10,"METRO 8, METRO 12, METRO 1",concorde,place de la concorde,48.86681836985009,2.3220828486761693
-METRO 1,Concorde,10,"METRO 8, METRO 12, METRO 1",concorde,place de la concorde,48.86616711494919,2.323175680856618
-METRO 1,Tuileries,11,,tuileries,tuileries,48.86434377873392,2.330129877112862
-METRO 1,Palais Royal – Musée du Louvre,12,"METRO 7, METRO 14, RER A",palais royal musee du louvre,palais royal,48.86234803084025,2.336496460942477
-METRO 1,Palais Royal – Musée du Louvre,12,"METRO 7, METRO 14, RER A",palais royal musee du louvre,palais royal,48.86282967190577,2.3368784003342
-METRO 1,Louvre – Rivoli,13,,louvre rivoli,louvre rivoli,48.8608062912721,2.3411085916340664
-METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.85763141070005,2.3480365654004016
-METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.86251523497548,2.345785860039181
-METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.856942736159496,2.348147481005499
-METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.86182227279812,2.3470126872387564
-METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.85928732517095,2.345803056189527
-METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.859589655582816,2.346478183587595
-METRO 1,Châtelet,14,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.8597186619952,2.346768285736699
-METRO 1,Hôtel de Ville,15,"METRO 1, METRO 11",hotel de ville,hotel de ville,48.85747798252935,2.3515775629949967
-METRO 1,Hôtel de Ville,15,"METRO 1, METRO 11",hotel de ville,hotel de ville,48.85745183174312,2.3510084614060265
-METRO 1,Saint-Paul,16,,saint paul,saint paul,48.85523625280238,2.360956490023829
-METRO 1,Bastille,17,"METRO 5, METRO 8, METRO 1",bastille,bastille,48.85343942756841,2.3695135681565254
-METRO 1,Bastille,17,"METRO 5, METRO 8, METRO 1",bastille,bastille,48.85343696230164,2.368736572626169
-METRO 1,Bastille,17,"METRO 5, METRO 8, METRO 1",bastille,bastille,48.85200903052056,2.36867458439179
-METRO 1,Reuilly – Diderot,18,"METRO 8, METRO 1",reuilly diderot,reuilly diderot,48.84712872224063,2.387025242098632
-METRO 1,Reuilly – Diderot,18,"METRO 8, METRO 1",reuilly diderot,reuilly diderot,48.84717991006959,2.385243715115072
-METRO 1,Nation,19,"RER A, METRO 2, METRO 6, METRO 9, METRO 1",nation,nation,48.84823711041019,2.395823588826126
-METRO 1,Nation,19,"RER A, METRO 2, METRO 6, METRO 9, METRO 1",nation,nation,48.847579367477074,2.395554512170688
-METRO 1,Nation,19,"RER A, METRO 2, METRO 6, METRO 9, METRO 1",nation,nation,48.848474285974376,2.395062305425881
-METRO 1,Nation,19,"RER A, METRO 2, METRO 6, METRO 9, METRO 1",nation,nation,48.84737487872935,2.39546199483274
-METRO 1,Nation,19,"RER A, METRO 2, METRO 6, METRO 9, METRO 1",nation,nation,48.84894464506383,2.3958794351856887
-METRO 1,Porte de Vincennes,20,,porte de vincennes,porte de vincennes,48.84694815185174,2.409551429787372
-METRO 1,Porte de Vincennes,20,,porte de vincennes,porte de vincennes,48.847335584614896,2.408089407236094
-METRO 1,Porte de Vincennes,20,,porte de vincennes,porte de vincennes,48.847393890496086,2.40965605640417
-METRO 1,Saint-Mandé,21,,saint mande,saint mande,48.84642307728704,2.418759786698672
-METRO 1,Bérault,22,,berault,berault,48.845470707583566,2.4292051663480003
-METRO 1,Château de Vincennes,23,,chateau de vincennes,bois de vincennes,48.84445639456913,2.440439978057246
-METRO 1,Château de Vincennes,23,,chateau de vincennes,bois de vincennes,48.84734036417028,2.432434660260661
+METRO 1,Porte Maillot,5,RER C,porte maillot,porte maillot,48.87793268655634,2.282976188020842
+METRO 1,Porte Maillot,5,RER C,porte maillot,porte maillot,48.87790843816008,2.284431219916768
+METRO 1,Porte Maillot,5,RER C,porte maillot,porte maillot,48.87755125180425,2.2831622422302296
+METRO 1,Porte Maillot,5,RER C,porte maillot,porte maillot,48.87793813782425,2.283913993903496
+METRO 1,Argentine,6,,argentine,argentine,48.87533684211653,2.290127508824701
+METRO 1,Charles de Gaulle – Etoile,7,"METRO 2, METRO 6, RER A",charles de gaulle etoile,arc de triomphe,48.87481054112289,2.2958012223518693
+METRO 1,Charles de Gaulle – Etoile,7,"METRO 2, METRO 6, RER A",charles de gaulle etoile,arc de triomphe,48.87514981972761,2.295904904713175
+METRO 1,Charles de Gaulle – Etoile,7,"METRO 2, METRO 6, RER A",charles de gaulle etoile,arc de triomphe,48.874204186324654,2.2947732143825275
+METRO 1,Charles de Gaulle – Etoile,7,"METRO 2, METRO 6, RER A",charles de gaulle etoile,arc de triomphe,48.87474865067991,2.2955602562131467
+METRO 1,George V,8,,george v,george v,48.872023810399725,2.3005604512367213
+METRO 1,Franklin D. Roosevelt,9,METRO 9,franklin d. roosevelt,franklin d. roosevelt,48.86869984735294,2.309505157337887
+METRO 1,Franklin D. Roosevelt,9,METRO 9,franklin d. roosevelt,franklin d. roosevelt,48.86943888165912,2.308607493526256
+METRO 1,Champs-Élysées – Clemenceau,10,METRO 13,champs elysees clemenceau,champs elysees clemenceau,48.86760214522151,2.3138941304816147
+METRO 1,Champs-Élysées – Clemenceau,10,METRO 13,champs elysees clemenceau,champs elysees clemenceau,48.8679053448971,2.313545549946741
+METRO 1,Concorde,11,"METRO 8, METRO 12",concorde,place de la concorde,48.86628580458389,2.322943412243541
+METRO 1,Concorde,11,"METRO 8, METRO 12",concorde,place de la concorde,48.86681836985009,2.3220828486761693
+METRO 1,Concorde,11,"METRO 8, METRO 12",concorde,place de la concorde,48.86616711494919,2.323175680856618
+METRO 1,Tuileries,12,,tuileries,tuileries,48.86434377873392,2.330129877112862
+METRO 1,Palais Royal – Musée du Louvre,13,METRO 7,palais royal musee du louvre,palais royal,48.86234803084025,2.336496460942477
+METRO 1,Palais Royal – Musée du Louvre,13,METRO 7,palais royal musee du louvre,palais royal,48.86282967190577,2.3368784003342
+METRO 1,Louvre – Rivoli,14,,louvre rivoli,louvre rivoli,48.8608062912721,2.3411085916340664
+METRO 1,Châtelet,15,"METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85763141070005,2.3480365654004016
+METRO 1,Châtelet,15,"METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86251523497548,2.345785860039181
+METRO 1,Châtelet,15,"METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.856942736159496,2.348147481005499
+METRO 1,Châtelet,15,"METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86182227279812,2.3470126872387564
+METRO 1,Châtelet,15,"METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85928732517095,2.345803056189527
+METRO 1,Châtelet,15,"METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.859589655582816,2.346478183587595
+METRO 1,Châtelet,15,"METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.8597186619952,2.346768285736699
+METRO 1,Hôtel de Ville,16,METRO 11,hotel de ville,hotel de ville,48.85747798252935,2.3515775629949967
+METRO 1,Hôtel de Ville,16,METRO 11,hotel de ville,hotel de ville,48.85745183174312,2.3510084614060265
+METRO 1,Saint-Paul,17,,saint paul,saint paul,48.85523625280238,2.360956490023829
+METRO 1,Bastille,18,"METRO 5, METRO 8",bastille,bastille,48.85343942756841,2.3695135681565254
+METRO 1,Bastille,18,"METRO 5, METRO 8",bastille,bastille,48.85343696230164,2.368736572626169
+METRO 1,Bastille,18,"METRO 5, METRO 8",bastille,bastille,48.85200903052056,2.36867458439179
+METRO 1,Gare de Lyon,19,"METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84476017126674,2.373593653262281
+METRO 1,Gare de Lyon,19,"METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84413934985302,2.373259976710645
+METRO 1,Gare de Lyon,19,"METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84586897868619,2.373774422563834
+METRO 1,Gare de Lyon,19,"METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84377257685146,2.3739164698064985
+METRO 1,Gare de Lyon,19,"METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.843486761806766,2.3739225903167545
+METRO 1,Reuilly – Diderot,20,METRO 8,reuilly diderot,reuilly diderot,48.84712872224063,2.387025242098632
+METRO 1,Reuilly – Diderot,20,METRO 8,reuilly diderot,reuilly diderot,48.84717991006959,2.385243715115072
+METRO 1,Nation,21,"METRO 2, METRO 6, METRO 9, RER A",nation,nation,48.84823711041019,2.395823588826126
+METRO 1,Nation,21,"METRO 2, METRO 6, METRO 9, RER A",nation,nation,48.847579367477074,2.395554512170688
+METRO 1,Nation,21,"METRO 2, METRO 6, METRO 9, RER A",nation,nation,48.848474285974376,2.395062305425881
+METRO 1,Nation,21,"METRO 2, METRO 6, METRO 9, RER A",nation,nation,48.84737487872935,2.39546199483274
+METRO 1,Nation,21,"METRO 2, METRO 6, METRO 9, RER A",nation,nation,48.84894464506383,2.3958794351856887
+METRO 1,Porte de Vincennes,22,,porte de vincennes,porte de vincennes,48.84694815185174,2.409551429787372
+METRO 1,Porte de Vincennes,22,,porte de vincennes,porte de vincennes,48.847335584614896,2.408089407236094
+METRO 1,Porte de Vincennes,22,,porte de vincennes,porte de vincennes,48.847393890496086,2.40965605640417
+METRO 1,Saint-Mandé,23,,saint mande,saint mande,48.84642307728704,2.418759786698672
+METRO 1,Bérault,24,,berault,berault,48.845470707583566,2.4292051663480003
+METRO 1,Château de Vincennes,25,,chateau de vincennes,bois de vincennes,48.84445639456913,2.440439978057246
+METRO 1,Château de Vincennes,25,,chateau de vincennes,bois de vincennes,48.84734036417028,2.432434660260661
 METRO 2,Porte Dauphine,1,,porte dauphine,porte dauphine,48.87146657813589,2.2770830184157247
 METRO 2,Porte Dauphine,1,,porte dauphine,porte dauphine,48.87018041814154,2.274627543314604
 METRO 2,Victor Hugo,2,,victor hugo,victor hugo,48.86979855646069,2.285335094686169
-METRO 2,Charles de Gaulle – Étoile,3,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87481054112289,2.2958012223518693
-METRO 2,Charles de Gaulle – Étoile,3,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87514981972761,2.295904904713175
-METRO 2,Charles de Gaulle – Étoile,3,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.874204186324654,2.2947732143825275
-METRO 2,Charles de Gaulle – Étoile,3,"RER A, METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87474865067991,2.2955602562131467
+METRO 2,Charles de Gaulle – Etoile,3,"METRO 1, METRO 6, RER A",charles de gaulle etoile,arc de triomphe,48.87481054112289,2.2958012223518693
+METRO 2,Charles de Gaulle – Etoile,3,"METRO 1, METRO 6, RER A",charles de gaulle etoile,arc de triomphe,48.87514981972761,2.295904904713175
+METRO 2,Charles de Gaulle – Etoile,3,"METRO 1, METRO 6, RER A",charles de gaulle etoile,arc de triomphe,48.874204186324654,2.2947732143825275
+METRO 2,Charles de Gaulle – Etoile,3,"METRO 1, METRO 6, RER A",charles de gaulle etoile,arc de triomphe,48.87474865067991,2.2955602562131467
 METRO 2,Ternes,4,,ternes,ternes,48.87797270141956,2.2983103737615287
 METRO 2,Courcelles,5,,courcelles,courcelles,48.87932978868225,2.3040703912187603
 METRO 2,Monceau,6,,monceau,monceau,48.88032518647405,2.308773835955807
-METRO 2,Villiers,7,,villiers,villiers,48.88109442716628,2.3147210047461946
+METRO 2,Villiers,7,METRO 3,villiers,villiers,48.88109442716628,2.3147210047461946
 METRO 2,Rome,8,,rome,rome,48.88233342370702,2.3218017310631685
-METRO 2,Place de Clichy,9,"METRO 13, METRO 2",place de clichy,place de clichy,48.88399982489613,2.32853013989038
-METRO 2,Place de Clichy,9,"METRO 13, METRO 2",place de clichy,place de clichy,48.8838045280338,2.3272434105874065
+METRO 2,Place de Clichy,9,METRO 13,place de clichy,place de clichy,48.88399982489613,2.32853013989038
+METRO 2,Place de Clichy,9,METRO 13,place de clichy,place de clichy,48.8838045280338,2.3272434105874065
 METRO 2,Blanche,10,,blanche,blanche,48.88355629016869,2.3333796724221587
-METRO 2,Pigalle,11,"METRO 12, METRO 2",pigalle,pigalle,48.88224953318808,2.3371645394451463
-METRO 2,Pigalle,11,"METRO 12, METRO 2",pigalle,pigalle,48.88222543392857,2.3382334685046176
+METRO 2,Pigalle,11,METRO 12,pigalle,pigalle,48.88224953318808,2.3371645394451463
+METRO 2,Pigalle,11,METRO 12,pigalle,pigalle,48.88222543392857,2.3382334685046176
 METRO 2,Anvers,12,,anvers,anvers,48.88297276782728,2.3446670737483
-METRO 2,Barbès – Rochechouart,13,"METRO 4, METRO 2",barbes rochechouart,barbes rochechouart,48.88380394240113,2.3506129993253224
-METRO 2,Barbès – Rochechouart,13,"METRO 4, METRO 2",barbes rochechouart,barbes rochechouart,48.8834180885266,2.349674832582202
-METRO 2,La Chapelle,14,,la chapelle,la chapelle,48.8843996770653,2.360399500808732
-METRO 2,Stalingrad,15,"METRO 7, METRO 2, METRO 5",stalingrad,stalingrad,48.88432566304799,2.3673720385654686
-METRO 2,Stalingrad,15,"METRO 7, METRO 2, METRO 5",stalingrad,stalingrad,48.88428415025653,2.365821546282089
-METRO 2,Stalingrad,15,"METRO 7, METRO 2, METRO 5",stalingrad,stalingrad,48.88479825198408,2.36958085557783
-METRO 2,Jaurès,16,"METRO 5, METRO 7BIS, METRO 2",jaures,jaures,48.883193321300105,2.371933128614294
-METRO 2,Jaurès,16,"METRO 5, METRO 7BIS, METRO 2",jaures,jaures,48.88162402899078,2.3702590567553905
-METRO 2,Jaurès,16,"METRO 5, METRO 7BIS, METRO 2",jaures,jaures,48.88246524557207,2.370157961739611
+METRO 2,Barbès – Rochechouart,13,METRO 4,barbes rochechouart,barbes rochechouart,48.88380394240113,2.3506129993253224
+METRO 2,Barbès – Rochechouart,13,METRO 4,barbes rochechouart,barbes rochechouart,48.8834180885266,2.349674832582202
+METRO 2,La Chapelle,14,RER B,la chapelle,la chapelle,48.8843996770653,2.360399500808732
+METRO 2,Stalingrad,15,"METRO 5, METRO 7",stalingrad,stalingrad,48.88432566304799,2.3673720385654686
+METRO 2,Stalingrad,15,"METRO 5, METRO 7",stalingrad,stalingrad,48.88428415025653,2.365821546282089
+METRO 2,Stalingrad,15,"METRO 5, METRO 7",stalingrad,stalingrad,48.88479825198408,2.36958085557783
+METRO 2,Jaurès,16,"METRO 5, METRO 7bis",jaures,jaures,48.883193321300105,2.371933128614294
+METRO 2,Jaurès,16,"METRO 5, METRO 7bis",jaures,jaures,48.88162402899078,2.3702590567553905
+METRO 2,Jaurès,16,"METRO 5, METRO 7bis",jaures,jaures,48.88246524557207,2.370157961739611
 METRO 2,Colonel Fabien,17,,colonel fabien,colonel fabien,48.87761018741785,2.370811395312745
-METRO 2,Belleville,18,"METRO 11, METRO 2",belleville,belleville,48.87184879466127,2.3765936840968225
-METRO 2,Belleville,18,"METRO 11, METRO 2",belleville,belleville,48.87228310892801,2.37673072170184
+METRO 2,Belleville,18,METRO 11,belleville,belleville,48.87184879466127,2.3765936840968225
+METRO 2,Belleville,18,METRO 11,belleville,belleville,48.87228310892801,2.37673072170184
 METRO 2,Couronnes,19,,couronnes,couronnes,48.8690911620257,2.380542586000037
 METRO 2,Ménilmontant,20,,menilmontant,menilmontant,48.866446806067,2.383599109573657
-METRO 2,Père Lachaise,21,"METRO 3BIS, METRO 2",pere lachaise,pere lachaise,48.86312321464208,2.3858824493261475
-METRO 2,Père Lachaise,21,"METRO 3BIS, METRO 2",pere lachaise,pere lachaise,48.86218374787729,2.387835956453657
-METRO 2,Avron,22,,avron,avron,48.85190531895693,2.3979973148307456
-METRO 2,Nation,23,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84823711041019,2.395823588826126
-METRO 2,Nation,23,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.847579367477074,2.395554512170688
-METRO 2,Nation,23,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.848474285974376,2.395062305425881
-METRO 2,Nation,23,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84737487872935,2.39546199483274
-METRO 2,Nation,23,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84894464506383,2.3958794351856887
+METRO 2,Père Lachaise,21,METRO 3,pere lachaise,pere lachaise,48.86312321464208,2.3858824493261475
+METRO 2,Père Lachaise,21,METRO 3,pere lachaise,pere lachaise,48.86218374787729,2.387835956453657
+METRO 2,Philippe Auguste,22,,philippe auguste,philippe auguste,48.85806226176241,2.3908609523236084
+METRO 2,Alexandre Dumas,23,,alexandre dumas,alexandre dumas,48.85622809125615,2.3946756547920462
+METRO 2,Avron,24,,avron,avron,48.85190531895693,2.3979973148307456
+METRO 2,Nation,25,"METRO 1, METRO 6, METRO 9, RER A",nation,nation,48.84823711041019,2.395823588826126
+METRO 2,Nation,25,"METRO 1, METRO 6, METRO 9, RER A",nation,nation,48.847579367477074,2.395554512170688
+METRO 2,Nation,25,"METRO 1, METRO 6, METRO 9, RER A",nation,nation,48.848474285974376,2.395062305425881
+METRO 2,Nation,25,"METRO 1, METRO 6, METRO 9, RER A",nation,nation,48.84737487872935,2.39546199483274
+METRO 2,Nation,25,"METRO 1, METRO 6, METRO 9, RER A",nation,nation,48.84894464506383,2.3958794351856887
 METRO 3,Pont de Levallois – Bécon,1,,pont de levallois becon,pont de levallois becon,,
 METRO 3,Anatole France,2,,anatole france,anatole france,48.89208278596666,2.2850095013824143
 METRO 3,Louise Michel,3,,louise michel,louise michel,48.88870601977514,2.288083633048504
 METRO 3,Porte de Champerret,4,,porte de champerret,porte de champerret,48.886006151507,2.293529966337255
 METRO 3,Porte de Champerret,4,,porte de champerret,porte de champerret,48.88597054515737,2.29213548034954
-METRO 3,Villiers,5,,villiers,villiers,48.88109442716628,2.3147210047461946
-METRO 3,Europe,6,,europe,europe,48.87877036758759,2.3222652131305974
-METRO 3,Saint-Lazare,7,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87515128791023,2.324380555428912
-METRO 3,Saint-Lazare,7,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87567210708072,2.327842235259621
-METRO 3,Saint-Lazare,7,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87542071665263,2.32547637444705
-METRO 3,Saint-Lazare,7,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
-METRO 3,Saint-Lazare,7,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87571908982334,2.324224580938853
-METRO 3,Havre – Caumartin,8,"METRO 3, METRO 9",havre caumartin,havre caumartin,48.873513389595466,2.327543081726972
-METRO 3,Havre – Caumartin,8,"METRO 3, METRO 9",havre caumartin,havre caumartin,48.87371340670775,2.3276954096301736
-METRO 3,Opéra,9,"METRO 3, METRO 7, METRO 8",opera,opera,48.86993903518653,2.332592489355912
-METRO 3,Opéra,9,"METRO 3, METRO 7, METRO 8",opera,opera,48.87130850300574,2.331493987087091
-METRO 3,Opéra,9,"METRO 3, METRO 7, METRO 8",opera,opera,48.87048333292661,2.3311863468516525
-METRO 3,Quatre-Septembre,10,,quatre septembre,quatre septembre,48.86963799688717,2.3362327568689163
-METRO 3,Bourse,11,,bourse,bourse,48.86865415183625,2.3413760511435733
-METRO 3,Sentier,12,,sentier,sentier,48.86751302499845,2.346552336353212
-METRO 3,Réaumur – Sébastopol,13,"METRO 4, METRO 3",reaumur sebastopol,reaumur sebastopol,48.86673355595668,2.352829461254394
-METRO 3,Réaumur – Sébastopol,13,"METRO 4, METRO 3",reaumur sebastopol,reaumur sebastopol,48.8664963437902,2.3513589155329915
-METRO 3,Arts et Métiers,14,"METRO 3, METRO 11",arts et metiers,arts et metiers,48.86558647849898,2.356736756794993
-METRO 3,Arts et Métiers,14,"METRO 3, METRO 11",arts et metiers,arts et metiers,48.86532271167806,2.356729869173701
-METRO 3,Temple,15,,temple,temple,48.866514461743,2.3608035032752688
-METRO 3,Filles du Calvaire,16,,filles du calvaire,filles du calvaire,48.8632579449589,2.366661093353452
-METRO 3,Saint-Sébastien – Froissart,17,,saint sebastien froissart,saint sebastien froissart,48.861168864595705,2.3672108677856154
-METRO 3,Chemin Vert,18,,chemin vert,chemin vert,48.85710325815475,2.368184114950699
-METRO 3,Saint-Ambroise,19,,saint ambroise,saint ambroise,48.86147646373029,2.373943508245182
-METRO 3,Père Lachaise,20,"METRO 2, METRO 3BIS",pere lachaise,pere lachaise,48.86312321464208,2.3858824493261475
-METRO 3,Père Lachaise,20,"METRO 2, METRO 3BIS",pere lachaise,pere lachaise,48.86218374787729,2.387835956453657
-METRO 3,Gambetta,21,,gambetta,gambetta,48.86516343488149,2.398746593442592
-METRO 3,Gambetta,21,,gambetta,gambetta,48.86497810787772,2.396912847086626
-METRO 3,Porte de Bagnolet,22,,porte de bagnolet,porte de bagnolet,48.86343374196473,2.4088324651439725
-METRO 3,Porte de Bagnolet,22,,porte de bagnolet,porte de bagnolet,48.86460037337562,2.408031037075815
-METRO 3,Gallieni,23,,gallieni,gallieni,48.8653353181603,2.416697272847641
-METRO 3BIS,Gambetta,1,,gambetta,gambetta,48.86516343488149,2.398746593442592
-METRO 3BIS,Gambetta,1,,gambetta,gambetta,48.86497810787772,2.396912847086626
+METRO 3,Pereire,5,RER C,pereire,pereire,,
+METRO 3,Wagram,6,,wagram,wagram,48.88380920123339,2.304674440528396
+METRO 3,Malesherbes,7,,malesherbes,malesherbes,48.882612630584646,2.310036147219974
+METRO 3,Villiers,8,METRO 2,villiers,villiers,48.88109442716628,2.3147210047461946
+METRO 3,Europe,9,,europe,europe,48.87877036758759,2.3222652131305974
+METRO 3,Saint-Lazare,10,"METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87515128791023,2.324380555428912
+METRO 3,Saint-Lazare,10,"METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87567210708072,2.327842235259621
+METRO 3,Saint-Lazare,10,"METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87542071665263,2.32547637444705
+METRO 3,Saint-Lazare,10,"METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
+METRO 3,Saint-Lazare,10,"METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87571908982334,2.324224580938853
+METRO 3,Havre – Caumartin,11,"METRO 9, RER A",havre caumartin,havre caumartin,48.873513389595466,2.327543081726972
+METRO 3,Havre – Caumartin,11,"METRO 9, RER A",havre caumartin,havre caumartin,48.87371340670775,2.3276954096301736
+METRO 3,Opéra,12,"METRO 7, METRO 8, RER A",opera,opera,48.86993903518653,2.332592489355912
+METRO 3,Opéra,12,"METRO 7, METRO 8, RER A",opera,opera,48.87130850300574,2.331493987087091
+METRO 3,Opéra,12,"METRO 7, METRO 8, RER A",opera,opera,48.87048333292661,2.3311863468516525
+METRO 3,Quatre-Septembre,13,,quatre septembre,quatre septembre,48.86963799688717,2.3362327568689163
+METRO 3,Bourse,14,,bourse,bourse,48.86865415183625,2.3413760511435733
+METRO 3,Sentier,15,,sentier,sentier,48.86751302499845,2.346552336353212
+METRO 3,Réaumur–Sébastopol,16,METRO 4,reaumur sebastopol,reaumur sebastopol,48.86673355595668,2.352829461254394
+METRO 3,Réaumur–Sébastopol,16,METRO 4,reaumur sebastopol,reaumur sebastopol,48.8664963437902,2.3513589155329915
+METRO 3,Arts et Métiers,17,METRO 11,arts et metiers,arts et metiers,48.86558647849898,2.356736756794993
+METRO 3,Arts et Métiers,17,METRO 11,arts et metiers,arts et metiers,48.86532271167806,2.356729869173701
+METRO 3,Temple,18,,temple,temple,48.866514461743,2.3608035032752688
+METRO 3,République,19,"METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86702678847436,2.364247995104706
+METRO 3,République,19,"METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86782709972698,2.3637404371950392
+METRO 3,République,19,"METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86799910892294,2.3650748610827645
+METRO 3,République,19,"METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86760088010245,2.362757380002764
+METRO 3,République,19,"METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86778030055016,2.3629287001561123
+METRO 3,Parmentier,20,,parmentier,parmentier,48.86525378605433,2.3745819699964126
+METRO 3,Rue Saint-Maur,21,,rue saint maur,rue saint maur,48.864285758645295,2.379741893177554
+METRO 3,Père Lachaise,22,METRO 2,pere lachaise,pere lachaise,48.86312321464208,2.3858824493261475
+METRO 3,Père Lachaise,22,METRO 2,pere lachaise,pere lachaise,48.86218374787729,2.387835956453657
+METRO 3,Gambetta,23,METRO 3bis,gambetta,gambetta,48.86516343488149,2.398746593442592
+METRO 3,Gambetta,23,METRO 3bis,gambetta,gambetta,48.86497810787772,2.396912847086626
+METRO 3,Porte de Bagnolet,24,,porte de bagnolet,porte de bagnolet,48.86343374196473,2.4088324651439725
+METRO 3,Porte de Bagnolet,24,,porte de bagnolet,porte de bagnolet,48.86460037337562,2.408031037075815
+METRO 3,Gallieni,25,,gallieni,gallieni,48.8653353181603,2.416697272847641
+METRO 3BIS,Gambetta,1,METRO 3,gambetta,gambetta,48.86516343488149,2.398746593442592
+METRO 3BIS,Gambetta,1,METRO 3,gambetta,gambetta,48.86497810787772,2.396912847086626
 METRO 3BIS,Pelleport,2,,pelleport,pelleport,48.86844016327547,2.401561712742542
-METRO 3BIS,Saint-Fargeau,3,,saint fargeau,saint fargeau,48.56507294103619,2.542609449806005
+METRO 3BIS,Saint-Fargeau,3,,saint fargeau,saint fargeau,48.87176277220521,2.404361961225318
 METRO 3BIS,Saint-Fargeau,3,,saint fargeau,saint fargeau,48.87210144213156,2.4045149423791043
-METRO 3BIS,Porte des Lilas,4,"METRO 3, METRO 11",porte des lilas,porte des lilas,48.87663081498978,2.406999582693831
-METRO 3BIS,Porte des Lilas,4,"METRO 3, METRO 11",porte des lilas,porte des lilas,48.87717481930548,2.406480156998486
-METRO 3BIS,Porte des Lilas,4,"METRO 3, METRO 11",porte des lilas,porte des lilas,48.87711051176337,2.40672924554309
-METRO 4,Porte de Clignancourt,1,,porte de clignancourt,porte de clignancourt,48.89804145033781,2.3450784496454857
-METRO 4,Porte de Clignancourt,1,,porte de clignancourt,porte de clignancourt,48.897402222898094,2.344847748752399
-METRO 4,Marcadet – Poissonniers,2,,marcadet poissonniers,marcadet poissonniers,48.89143955488239,2.349627158227453
-METRO 4,Marcadet – Poissonniers,2,,marcadet poissonniers,marcadet poissonniers,48.89146500033268,2.349815453218361
-METRO 4,Simplon,3,,simplon,simplon,48.894343848842425,2.347430779960205
-METRO 4,Château Rouge,4,,chateau rouge,chateau rouge,48.88671096804134,2.349559430194618
-METRO 4,Barbès – Rochechouart,5,"METRO 2, METRO 4",barbes rochechouart,barbes rochechouart,48.88380394240113,2.3506129993253224
-METRO 4,Barbès – Rochechouart,5,"METRO 2, METRO 4",barbes rochechouart,barbes rochechouart,48.8834180885266,2.349674832582202
-METRO 4,Gare du Nord,6,"RER B, RER D, METRO 4, METRO 5",gare du nord,gare du nord,48.87979369411629,2.355791907531139
-METRO 4,Gare du Nord,6,"RER B, RER D, METRO 4, METRO 5",gare du nord,gare du nord,48.88092200667149,2.356328543670162
-METRO 4,Gare du Nord,6,"RER B, RER D, METRO 4, METRO 5",gare du nord,gare du nord,48.88077520479297,2.35873295908786
-METRO 4,Gare du Nord,6,"RER B, RER D, METRO 4, METRO 5",gare du nord,gare du nord,48.88175948915267,2.357570193470877
-METRO 4,Gare du Nord,6,"RER B, RER D, METRO 4, METRO 5",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
-METRO 4,Château d’Eau,7,,chateau d'eau,chateau d'eau,48.87262083992817,2.356153947450339
-METRO 4,Strasbourg – Saint-Denis,8,"METRO 8, METRO 9, METRO 4, METRO 11",strasbourg saint denis,strasbourg saint denis,48.86962886377852,2.354468813108209
-METRO 4,Strasbourg – Saint-Denis,8,"METRO 8, METRO 9, METRO 4, METRO 11",strasbourg saint denis,strasbourg saint denis,48.86940219665552,2.35381879359288
-METRO 4,Réaumur – Sébastopol,9,"METRO 3, METRO 4",reaumur sebastopol,reaumur sebastopol,48.86673355595668,2.352829461254394
-METRO 4,Réaumur – Sébastopol,9,"METRO 3, METRO 4",reaumur sebastopol,reaumur sebastopol,48.8664963437902,2.3513589155329915
-METRO 4,Étienne Marcel,10,,etienne marcel,etienne marcel,48.863972478817246,2.3496175641598405
-METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles,chatelet,48.85763141070005,2.3480365654004016
-METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles,chatelet,48.86251523497548,2.345785860039181
-METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles,chatelet,48.856942736159496,2.348147481005499
-METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles,chatelet,48.86182227279812,2.3470126872387564
-METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles,chatelet,48.85928732517095,2.345803056189527
-METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles,chatelet,48.859589655582816,2.346478183587595
-METRO 4,Les Halles,11,"RER A, RER B, METRO 1, METRO 4",les halles,chatelet,48.8597186619952,2.346768285736699
-METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.85763141070005,2.3480365654004016
-METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.86251523497548,2.345785860039181
-METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.856942736159496,2.348147481005499
-METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.86182227279812,2.3470126872387564
-METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.85928732517095,2.345803056189527
-METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.859589655582816,2.346478183587595
-METRO 4,Châtelet,12,"RER A, RER B, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet,chatelet,48.8597186619952,2.346768285736699
-METRO 4,Cité,13,,cite,cite,48.85493637835866,2.3473213170674265
-METRO 4,Saint-Michel,14,"RER B, METRO 10, METRO 4",saint michel,saint michel,48.85353290071982,2.3452883321974305
-METRO 4,Saint-Michel,14,"RER B, METRO 10, METRO 4",saint michel,saint michel,48.85211888263096,2.34402115205528
-METRO 4,Saint-Michel,14,"RER B, METRO 10, METRO 4",saint michel,saint michel,48.85316798489062,2.343285978923924
-METRO 4,Odéon,15,"METRO 10, METRO 4",odeon,odeon,48.85230076309424,2.3397277815930964
-METRO 4,Odéon,15,"METRO 10, METRO 4",odeon,odeon,48.85193594203498,2.340613006406504
-METRO 4,Saint-Germain-des-Prés,16,,saint germain des pres,saint germain des pres,48.853718934000206,2.333776138218468
-METRO 4,Mabillon,17,,mabillon,mabillon,48.8530167679172,2.335502051727558
-METRO 4,Saint-Sulpice,18,,saint sulpice,saint sulpice,48.851071370372,2.3307007099542143
-METRO 4,Montparnasse – Bienvenüe,19,"METRO 6, METRO 12, METRO 13, METRO 4",montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
-METRO 4,Montparnasse – Bienvenüe,19,"METRO 6, METRO 12, METRO 13, METRO 4",montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
-METRO 4,Montparnasse – Bienvenüe,19,"METRO 6, METRO 12, METRO 13, METRO 4",montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
-METRO 4,Montparnasse – Bienvenüe,19,"METRO 6, METRO 12, METRO 13, METRO 4",montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
-METRO 4,Raspail,20,"METRO 6, METRO 12, METRO 4",raspail,raspail,48.83896428071056,2.330754192086216
-METRO 4,Denfert-Rochereau,21,"METRO 6, METRO 4, RER B",denfert rochereau,denfert rochereau,48.8342929804732,2.33285230996089
-METRO 4,Denfert-Rochereau,21,"METRO 6, METRO 4, RER B",denfert rochereau,denfert rochereau,48.83307317062929,2.333203670349575
-METRO 4,Denfert-Rochereau,21,"METRO 6, METRO 4, RER B",denfert rochereau,denfert rochereau,48.83345085821352,2.331740130985349
-METRO 4,Mouton-Duvernet,22,,mouton duvernet,mouton duvernet,48.83111266037533,2.3297050126201846
-METRO 4,Alésia,23,,alesia,alesia,48.82818847631351,2.3271646496078247
-METRO 4,Porte d’Orléans,24,,porte d'orleans,porte d'orleans,48.82341162898739,2.3255756362122453
-METRO 4,Porte d’Orléans,24,,porte d'orleans,porte d'orleans,48.82315163312808,2.325509577822384
-METRO 4,Mairie de Montrouge,25,,mairie de montrouge,mairie de montrouge,48.818676409912605,2.3197403132985555
-METRO 4,Bagneux – Lucie Aubrac,26,,bagneux lucie aubrac,bagneux lucie aubrac,48.80363023251622,2.3180536133374328
-METRO 5,Bobigny – Pablo Picasso,1,,bobigny pablo picasso,bobigny pablo picasso,48.90653600856719,2.4500061663133703
-METRO 5,Bobigny – Pablo Picasso,1,,bobigny pablo picasso,bobigny pablo picasso,48.9063747711693,2.4491899044793364
-METRO 5,Bobigny – Pantin – Raymond Queneau,2,,bobigny pantin raymond queneau,bobigny pantin raymond queneau,48.89545467305272,2.4253268901662555
+METRO 3BIS,Porte des Lilas,4,METRO 11,porte des lilas,porte des lilas,48.87663081498978,2.406999582693831
+METRO 3BIS,Porte des Lilas,4,METRO 11,porte des lilas,porte des lilas,48.87717481930548,2.406480156998486
+METRO 3BIS,Porte des Lilas,4,METRO 11,porte des lilas,porte des lilas,48.87711051176337,2.40672924554309
+METRO 4,Bagneux – Lucie Aubrac,1,,bagneux lucie aubrac,bagneux lucie aubrac,48.80363023251622,2.3180536133374328
+METRO 4,Barbara,2,,barbara,barbara,48.80970399753329,2.3174491879233723
+METRO 4,Mairie de Montrouge,3,,mairie de montrouge,mairie de montrouge,48.818676409912605,2.3197403132985555
+METRO 4,Porte d'Orléans,4,,porte d'orleans,porte d'orleans,48.82341162898739,2.3255756362122453
+METRO 4,Porte d'Orléans,4,,porte d'orleans,porte d'orleans,48.82315163312808,2.325509577822384
+METRO 4,Alésia,5,,alesia,alesia,48.82818847631351,2.3271646496078247
+METRO 4,Mouton-Duvernet,6,,mouton duvernet,mouton duvernet,48.83111266037533,2.3297050126201846
+METRO 4,Denfert-Rochereau,7,"RER B, METRO 6",denfert rochereau,denfert rochereau,48.8342929804732,2.33285230996089
+METRO 4,Denfert-Rochereau,7,"RER B, METRO 6",denfert rochereau,denfert rochereau,48.83307317062929,2.333203670349575
+METRO 4,Denfert-Rochereau,7,"RER B, METRO 6",denfert rochereau,denfert rochereau,48.83345085821352,2.331740130985349
+METRO 4,Raspail,8,METRO 6,raspail,raspail,48.83896428071056,2.330754192086216
+METRO 4,Vavin,9,,vavin,vavin,48.84221841361353,2.329008926235403
+METRO 4,Montparnasse – Bienvenüe,10,"METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
+METRO 4,Montparnasse – Bienvenüe,10,"METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
+METRO 4,Montparnasse – Bienvenüe,10,"METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
+METRO 4,Montparnasse – Bienvenüe,10,"METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
+METRO 4,Saint-Placide,11,,saint placide,saint placide,48.84687823885142,2.3267927850276813
+METRO 4,Saint-Sulpice,12,,saint sulpice,saint sulpice,48.851071370372,2.3307007099542143
+METRO 4,Saint-Germain-des-Prés,13,,saint germain des pres,saint germain des pres,48.853718934000206,2.333776138218468
+METRO 4,Odéon,14,METRO 10,odeon,odeon,48.85230076309424,2.3397277815930964
+METRO 4,Odéon,14,METRO 10,odeon,odeon,48.85193594203498,2.340613006406504
+METRO 4,Saint-Michel,15,"RER B, RER C",saint michel,saint michel,48.85353290071982,2.3452883321974305
+METRO 4,Saint-Michel,15,"RER B, RER C",saint michel,saint michel,48.85211888263096,2.34402115205528
+METRO 4,Saint-Michel,15,"RER B, RER C",saint michel,saint michel,48.85316798489062,2.343285978923924
+METRO 4,Cité,16,,cite,cite,48.85493637835866,2.3473213170674265
+METRO 4,Châtelet,17,"METRO 1, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85763141070005,2.3480365654004016
+METRO 4,Châtelet,17,"METRO 1, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86251523497548,2.345785860039181
+METRO 4,Châtelet,17,"METRO 1, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.856942736159496,2.348147481005499
+METRO 4,Châtelet,17,"METRO 1, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86182227279812,2.3470126872387564
+METRO 4,Châtelet,17,"METRO 1, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85928732517095,2.345803056189527
+METRO 4,Châtelet,17,"METRO 1, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.859589655582816,2.346478183587595
+METRO 4,Châtelet,17,"METRO 1, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.8597186619952,2.346768285736699
+METRO 4,Les Halles,18,"RER A, RER B, RER D",les halles,chatelet,48.85763141070005,2.3480365654004016
+METRO 4,Les Halles,18,"RER A, RER B, RER D",les halles,chatelet,48.86251523497548,2.345785860039181
+METRO 4,Les Halles,18,"RER A, RER B, RER D",les halles,chatelet,48.856942736159496,2.348147481005499
+METRO 4,Les Halles,18,"RER A, RER B, RER D",les halles,chatelet,48.86182227279812,2.3470126872387564
+METRO 4,Les Halles,18,"RER A, RER B, RER D",les halles,chatelet,48.85928732517095,2.345803056189527
+METRO 4,Les Halles,18,"RER A, RER B, RER D",les halles,chatelet,48.859589655582816,2.346478183587595
+METRO 4,Les Halles,18,"RER A, RER B, RER D",les halles,chatelet,48.8597186619952,2.346768285736699
+METRO 4,Étienne Marcel,19,,etienne marcel,etienne marcel,48.863972478817246,2.3496175641598405
+METRO 4,Réaumur – Sébastopol,20,METRO 3,reaumur sebastopol,reaumur sebastopol,48.86673355595668,2.352829461254394
+METRO 4,Réaumur – Sébastopol,20,METRO 3,reaumur sebastopol,reaumur sebastopol,48.8664963437902,2.3513589155329915
+METRO 4,Strasbourg – Saint-Denis,21,"METRO 8, METRO 9",strasbourg saint denis,strasbourg saint denis,48.86962886377852,2.354468813108209
+METRO 4,Strasbourg – Saint-Denis,21,"METRO 8, METRO 9",strasbourg saint denis,strasbourg saint denis,48.86940219665552,2.35381879359288
+METRO 4,Château d'Eau,22,,chateau d'eau,chateau d'eau,48.87262083992817,2.356153947450339
+METRO 4,Gare de l'Est,23,"METRO 5, METRO 7",gare de l'est,gare de l'est,48.8759910648072,2.357880771925327
+METRO 4,Gare de l'Est,23,"METRO 5, METRO 7",gare de l'est,gare de l'est,48.87737561987964,2.3594566169442075
+METRO 4,Gare de l'Est,23,"METRO 5, METRO 7",gare de l'est,gare de l'est,48.8762727026041,2.3580579070747385
+METRO 4,Gare de l'Est,23,"METRO 5, METRO 7",gare de l'est,gare de l'est,48.87612635294891,2.358047505360746
+METRO 4,Gare du Nord,24,"METRO 5, RER B, RER D, RER E",gare du nord,gare du nord,48.87979369411629,2.355791907531139
+METRO 4,Gare du Nord,24,"METRO 5, RER B, RER D, RER E",gare du nord,gare du nord,48.88092200667149,2.356328543670162
+METRO 4,Gare du Nord,24,"METRO 5, RER B, RER D, RER E",gare du nord,gare du nord,48.88077520479297,2.35873295908786
+METRO 4,Gare du Nord,24,"METRO 5, RER B, RER D, RER E",gare du nord,gare du nord,48.88175948915267,2.357570193470877
+METRO 4,Gare du Nord,24,"METRO 5, RER B, RER D, RER E",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+METRO 4,Barbès – Rochechouart,25,METRO 2,barbes rochechouart,barbes rochechouart,48.88380394240113,2.3506129993253224
+METRO 4,Barbès – Rochechouart,25,METRO 2,barbes rochechouart,barbes rochechouart,48.8834180885266,2.349674832582202
+METRO 4,Château Rouge,26,,chateau rouge,chateau rouge,48.88671096804134,2.349559430194618
+METRO 4,Marcadet – Poissonniers,27,METRO 12,marcadet poissonniers,marcadet poissonniers,48.89143955488239,2.349627158227453
+METRO 4,Marcadet – Poissonniers,27,METRO 12,marcadet poissonniers,marcadet poissonniers,48.89146500033268,2.349815453218361
+METRO 4,Simplon,28,,simplon,simplon,48.894343848842425,2.347430779960205
+METRO 4,Porte de Clignancourt,29,,porte de clignancourt,porte de clignancourt,48.89804145033781,2.3450784496454857
+METRO 4,Porte de Clignancourt,29,,porte de clignancourt,porte de clignancourt,48.897402222898094,2.344847748752399
+METRO 5,Bobigny–Pablo Picasso,1,,bobigny pablo picasso,bobigny pablo picasso,48.90653600856719,2.4500061663133703
+METRO 5,Bobigny–Pablo Picasso,1,,bobigny pablo picasso,bobigny pablo picasso,48.9063747711693,2.4491899044793364
+METRO 5,Bobigny–Pantin–Raymond Queneau,2,,bobigny pantin raymond queneau,bobigny pantin raymond queneau,48.89545467305272,2.4253268901662555
 METRO 5,Église de Pantin,3,,eglise de pantin,eglise de pantin,48.89314998575984,2.412763044547627
 METRO 5,Hoche,4,,hoche,hoche,48.891228593203465,2.4023521439004725
-METRO 5,Porte de Pantin,5,,porte de pantin,porte de pantin,48.889007649506944,2.3956810747116024
-METRO 5,Porte de Pantin,5,,porte de pantin,porte de pantin,48.88841747876783,2.3917844509634323
+METRO 5,Porte de Pantin,5,METRO 3BIS,porte de pantin,porte de pantin,48.889007649506944,2.3956810747116024
+METRO 5,Porte de Pantin,5,METRO 3BIS,porte de pantin,porte de pantin,48.88841747876783,2.3917844509634323
 METRO 5,Ourcq,6,,ourcq,ourcq,48.88685693150188,2.385913174273276
 METRO 5,Laumière,7,,laumiere,laumiere,48.884970562766206,2.378716923224645
-METRO 5,Jaurès,8,"METRO 2, METRO 7, METRO 7BIS, METRO 5",jaures,jaures,48.883193321300105,2.371933128614294
-METRO 5,Jaurès,8,"METRO 2, METRO 7, METRO 7BIS, METRO 5",jaures,jaures,48.88162402899078,2.3702590567553905
-METRO 5,Jaurès,8,"METRO 2, METRO 7, METRO 7BIS, METRO 5",jaures,jaures,48.88246524557207,2.370157961739611
-METRO 5,Stalingrad,9,"METRO 2, METRO 5, METRO 7",stalingrad,stalingrad,48.88432566304799,2.3673720385654686
-METRO 5,Stalingrad,9,"METRO 2, METRO 5, METRO 7",stalingrad,stalingrad,48.88428415025653,2.365821546282089
-METRO 5,Stalingrad,9,"METRO 2, METRO 5, METRO 7",stalingrad,stalingrad,48.88479825198408,2.36958085557783
-METRO 5,Bassin de la Villette,10,,bassin de la villette,bassin de la villette,,
-METRO 5,Jacques Bonsergent,11,,jacques bonsergent,jacques bonsergent,48.87039638922484,2.3614002104327776
-METRO 5,République,12,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86702678847436,2.364247995104706
-METRO 5,République,12,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86782709972698,2.3637404371950392
-METRO 5,République,12,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86799910892294,2.3650748610827645
-METRO 5,République,12,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86760088010245,2.362757380002764
-METRO 5,République,12,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86778030055016,2.3629287001561123
-METRO 5,Oberkampf,13,,oberkampf,oberkampf,48.86496414577929,2.3679014148417363
-METRO 5,Oberkampf,13,,oberkampf,oberkampf,48.8650190090373,2.368011378256503
-METRO 5,Richard-Lenoir,14,,richard lenoir,richard lenoir,48.85987362347133,2.371913980100837
-METRO 5,Saint-Ambroise,15,,saint ambroise,saint ambroise,48.86147646373029,2.373943508245182
-METRO 5,Bastille,16,"METRO 1, METRO 5, METRO 8",bastille,bastille,48.85343942756841,2.3695135681565254
-METRO 5,Bastille,16,"METRO 1, METRO 5, METRO 8",bastille,bastille,48.85343696230164,2.368736572626169
-METRO 5,Bastille,16,"METRO 1, METRO 5, METRO 8",bastille,bastille,48.85200903052056,2.36867458439179
-METRO 5,Quai de la Rapée,17,,quai de la rapee,quai de la rapee,48.8464846505702,2.36591010685298
-METRO 5,Gare d'Austerlitz,18,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-METRO 5,Gare d'Austerlitz,18,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-METRO 5,Gare d'Austerlitz,18,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
-METRO 5,Saint-Marcel,19,,saint marcel,saint marcel,48.83842729696758,2.360967167698855
-METRO 5,Campo-Formio,20,,campo formio,campo formio,48.8351525357408,2.3585662563494667
-METRO 5,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie,place d'italie,48.8309272410005,2.356121938797104
-METRO 5,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie,place d'italie,48.83143363013256,2.355643643033711
-METRO 5,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
-METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87481054112289,2.2958012223518693
-METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87514981972761,2.295904904713175
-METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.874204186324654,2.2947732143825275
-METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, METRO 6",charles de gaulle etoile,arc de triomphe,48.87474865067991,2.2955602562131467
+METRO 5,Jaurès,8,"METRO 2, METRO 7BIS",jaures,jaures,48.883193321300105,2.371933128614294
+METRO 5,Jaurès,8,"METRO 2, METRO 7BIS",jaures,jaures,48.88162402899078,2.3702590567553905
+METRO 5,Jaurès,8,"METRO 2, METRO 7BIS",jaures,jaures,48.88246524557207,2.370157961739611
+METRO 5,Stalingrad,9,"METRO 2, METRO 7",stalingrad,stalingrad,48.88432566304799,2.3673720385654686
+METRO 5,Stalingrad,9,"METRO 2, METRO 7",stalingrad,stalingrad,48.88428415025653,2.365821546282089
+METRO 5,Stalingrad,9,"METRO 2, METRO 7",stalingrad,stalingrad,48.88479825198408,2.36958085557783
+METRO 5,Gare du Nord,10,"METRO 4, RER B, RER D, RER E",gare du nord,gare du nord,48.87979369411629,2.355791907531139
+METRO 5,Gare du Nord,10,"METRO 4, RER B, RER D, RER E",gare du nord,gare du nord,48.88092200667149,2.356328543670162
+METRO 5,Gare du Nord,10,"METRO 4, RER B, RER D, RER E",gare du nord,gare du nord,48.88077520479297,2.35873295908786
+METRO 5,Gare du Nord,10,"METRO 4, RER B, RER D, RER E",gare du nord,gare du nord,48.88175948915267,2.357570193470877
+METRO 5,Gare du Nord,10,"METRO 4, RER B, RER D, RER E",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+METRO 5,Gare de l'Est,11,"METRO 4, METRO 7",gare de l'est,gare de l'est,48.8759910648072,2.357880771925327
+METRO 5,Gare de l'Est,11,"METRO 4, METRO 7",gare de l'est,gare de l'est,48.87737561987964,2.3594566169442075
+METRO 5,Gare de l'Est,11,"METRO 4, METRO 7",gare de l'est,gare de l'est,48.8762727026041,2.3580579070747385
+METRO 5,Gare de l'Est,11,"METRO 4, METRO 7",gare de l'est,gare de l'est,48.87612635294891,2.358047505360746
+METRO 5,Jacques Bonsergent,12,,jacques bonsergent,jacques bonsergent,48.87039638922484,2.3614002104327776
+METRO 5,République,13,"METRO 3, METRO 8, METRO 9, METRO 11",republique,republique,48.86702678847436,2.364247995104706
+METRO 5,République,13,"METRO 3, METRO 8, METRO 9, METRO 11",republique,republique,48.86782709972698,2.3637404371950392
+METRO 5,République,13,"METRO 3, METRO 8, METRO 9, METRO 11",republique,republique,48.86799910892294,2.3650748610827645
+METRO 5,République,13,"METRO 3, METRO 8, METRO 9, METRO 11",republique,republique,48.86760088010245,2.362757380002764
+METRO 5,République,13,"METRO 3, METRO 8, METRO 9, METRO 11",republique,republique,48.86778030055016,2.3629287001561123
+METRO 5,Oberkampf,14,METRO 9,oberkampf,oberkampf,48.86496414577929,2.3679014148417363
+METRO 5,Oberkampf,14,METRO 9,oberkampf,oberkampf,48.8650190090373,2.368011378256503
+METRO 5,Richard-Lenoir,15,,richard lenoir,richard lenoir,48.85987362347133,2.371913980100837
+METRO 5,Bréguet–Sabin,16,,breguet sabin,breguet sabin,48.856140711155,2.370209339755372
+METRO 5,Bastille,17,"METRO 1, METRO 8",bastille,bastille,48.85343942756841,2.3695135681565254
+METRO 5,Bastille,17,"METRO 1, METRO 8",bastille,bastille,48.85343696230164,2.368736572626169
+METRO 5,Bastille,17,"METRO 1, METRO 8",bastille,bastille,48.85200903052056,2.36867458439179
+METRO 5,Quai de la Rapée,18,,quai de la rapee,quai de la rapee,48.8464846505702,2.36591010685298
+METRO 5,Gare d'Austerlitz,19,"METRO 10, RER C",gare d'austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+METRO 5,Gare d'Austerlitz,19,"METRO 10, RER C",gare d'austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+METRO 5,Gare d'Austerlitz,19,"METRO 10, RER C",gare d'austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+METRO 5,Saint-Marcel,20,,saint marcel,saint marcel,48.83842729696758,2.360967167698855
+METRO 5,Campo-Formio,21,,campo formio,campo formio,48.8351525357408,2.3585662563494667
+METRO 5,Place d'Italie,22,"METRO 6, METRO 7",place d'italie,place d'italie,48.8309272410005,2.356121938797104
+METRO 5,Place d'Italie,22,"METRO 6, METRO 7",place d'italie,place d'italie,48.83143363013256,2.355643643033711
+METRO 5,Place d'Italie,22,"METRO 6, METRO 7",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
+METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, RER A",charles de gaulle etoile,arc de triomphe,48.87481054112289,2.2958012223518693
+METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, RER A",charles de gaulle etoile,arc de triomphe,48.87514981972761,2.295904904713175
+METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, RER A",charles de gaulle etoile,arc de triomphe,48.874204186324654,2.2947732143825275
+METRO 6,Charles de Gaulle – Étoile,1,"METRO 1, METRO 2, RER A",charles de gaulle etoile,arc de triomphe,48.87474865067991,2.2955602562131467
 METRO 6,Kléber,2,,kleber,kleber,48.87126214446096,2.2932406499473137
-METRO 6,Trocadéro,3,"METRO 9, METRO 6",trocadero,trocadero,48.863065020217945,2.286243169328236
-METRO 6,Trocadéro,3,"METRO 9, METRO 6",trocadero,trocadero,48.86361093764568,2.287580162529652
-METRO 6,Passy,4,,passy,passy,48.85744869007581,2.285812444146408
-METRO 6,Bir-Hakeim,5,METRO 6,bir hakeim,bir hakeim,48.85394260621378,2.2893345327788075
-METRO 6,Dupleix,6,,dupleix,dupleix,48.85043454901342,2.293612437187804
-METRO 6,La Motte-Picquet – Grenelle,7,"METRO 8, METRO 10, METRO 6",la motte picquet grenelle,la motte picquet grenelle,48.848741665717824,2.2989309117480614
-METRO 6,La Motte-Picquet – Grenelle,7,"METRO 8, METRO 10, METRO 6",la motte picquet grenelle,la motte picquet grenelle,48.84957521390955,2.298625127144874
-METRO 6,École Militaire,8,,ecole militaire,ecole militaire,48.85489056687858,2.3064034857365168
+METRO 6,Boissière,3,,boissiere,boissiere,48.86698310944948,2.290058833580487
+METRO 6,Trocadéro,4,METRO 9,trocadero,trocadero,48.863065020217945,2.286243169328236
+METRO 6,Trocadéro,4,METRO 9,trocadero,trocadero,48.86361093764568,2.287580162529652
+METRO 6,Passy,5,,passy,passy,48.85744869007581,2.285812444146408
+METRO 6,Bir-Hakeim,6,RER C,bir hakeim,bir hakeim,48.85394260621378,2.2893345327788075
+METRO 6,Dupleix,7,,dupleix,dupleix,48.85043454901342,2.293612437187804
+METRO 6,La Motte-Picquet – Grenelle,8,"METRO 8, METRO 10",la motte picquet grenelle,la motte picquet grenelle,48.848741665717824,2.2989309117480614
+METRO 6,La Motte-Picquet – Grenelle,8,"METRO 8, METRO 10",la motte picquet grenelle,la motte picquet grenelle,48.84957521390955,2.298625127144874
 METRO 6,Cambronne,9,,cambronne,cambronne,48.84750708199681,2.302968297817314
 METRO 6,Sèvres – Lecourbe,10,,sevres lecourbe,sevres lecourbe,48.84562696674718,2.3095314914609446
-METRO 6,Montparnasse – Bienvenüe,11,"METRO 4, METRO 12, METRO 13, METRO 6",montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
-METRO 6,Montparnasse – Bienvenüe,11,"METRO 4, METRO 12, METRO 13, METRO 6",montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
-METRO 6,Montparnasse – Bienvenüe,11,"METRO 4, METRO 12, METRO 13, METRO 6",montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
-METRO 6,Montparnasse – Bienvenüe,11,"METRO 4, METRO 12, METRO 13, METRO 6",montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
-METRO 6,Edgar Quinet,12,,edgar quinet,edgar quinet,48.84066322929957,2.3263846107928465
-METRO 6,Raspail,13,"METRO 4, METRO 12, METRO 6",raspail,raspail,48.83896428071056,2.330754192086216
-METRO 6,Denfert-Rochereau,14,"METRO 4, RER B, METRO 6",denfert rochereau,denfert rochereau,48.8342929804732,2.33285230996089
-METRO 6,Denfert-Rochereau,14,"METRO 4, RER B, METRO 6",denfert rochereau,denfert rochereau,48.83307317062929,2.333203670349575
-METRO 6,Denfert-Rochereau,14,"METRO 4, RER B, METRO 6",denfert rochereau,denfert rochereau,48.83345085821352,2.331740130985349
-METRO 6,Saint-Jacques,15,,saint jacques,saint jacques,48.83290081566025,2.3371351933439004
-METRO 6,Glacière,16,,glaciere,glaciere,48.831129548026645,2.3435116577497763
-METRO 6,Corvisart,17,,corvisart,corvisart,48.82979051369297,2.350414872010464
-METRO 6,Place d'Italie,18,"METRO 5, METRO 7",place d'italie,place d'italie,48.8309272410005,2.356121938797104
-METRO 6,Place d'Italie,18,"METRO 5, METRO 7",place d'italie,place d'italie,48.83143363013256,2.355643643033711
-METRO 6,Place d'Italie,18,"METRO 5, METRO 7",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
-METRO 6,Nationale,19,,nationale,nationale,48.83321671970985,2.362856399519012
-METRO 6,Chevaleret,20,,chevaleret,chevaleret,48.83494772325454,2.3681263304132094
-METRO 6,Quai de la Gare,21,,quai de la gare,quai de la gare,48.83704512015793,2.3728257245425723
-METRO 6,Bercy,22,,bercy,bercy,48.83908128024196,2.383028081146452
-METRO 6,Bercy,22,,bercy,bercy,48.84038874809587,2.3799112714543984
-METRO 6,Bercy,22,,bercy,bercy,48.8400013886488,2.3795540112141405
-METRO 6,Dugommier,23,,dugommier,dugommier,48.83904114371398,2.389620014061439
-METRO 6,Daumesnil,24,"METRO 8, METRO 6",daumesnil,daumesnil,48.83944542837951,2.3961828864526327
-METRO 6,Daumesnil,24,"METRO 8, METRO 6",daumesnil,daumesnil,48.83954964556868,2.3957032894363937
-METRO 6,Bel-Air,25,,bel air,bel air,48.84133824913213,2.4009185367798027
-METRO 6,Picpus,26,,picpus,picpus,48.84506157994489,2.4012890198273484
-METRO 6,Nation,27,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84823711041019,2.395823588826126
-METRO 6,Nation,27,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.847579367477074,2.395554512170688
-METRO 6,Nation,27,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.848474285974376,2.395062305425881
-METRO 6,Nation,27,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84737487872935,2.39546199483274
-METRO 6,Nation,27,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84894464506383,2.3958794351856887
-METRO 7 1,La Courneuve – 8 Mai 1945,1,,la courneuve 8 mai 1945,la courneuve 8 mai 1945,48.92078596906289,2.410598616469426
-METRO 7 1,Fort d’Aubervilliers,2,,fort d'aubervilliers,fort d'aubervilliers,48.91494975727623,2.4044090887818643
-METRO 7 1,Aubervilliers – Pantin – Quatre Chemins,3,,aubervilliers pantin quatre chemins,aubervilliers pantin quatre chemins,48.90378388105197,2.392221222535117
+METRO 6,Pasteur,11,METRO 12,pasteur,pasteur,48.842871275006345,2.3124475130659863
+METRO 6,Pasteur,11,METRO 12,pasteur,pasteur,48.84267681998372,2.3128127748369023
+METRO 6,Montparnasse – Bienvenüe,12,"METRO 4, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
+METRO 6,Montparnasse – Bienvenüe,12,"METRO 4, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
+METRO 6,Montparnasse – Bienvenüe,12,"METRO 4, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
+METRO 6,Montparnasse – Bienvenüe,12,"METRO 4, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
+METRO 6,Edgar Quinet,13,,edgar quinet,edgar quinet,48.84066322929957,2.3263846107928465
+METRO 6,Raspail,14,METRO 4,raspail,raspail,48.83896428071056,2.330754192086216
+METRO 6,Denfert-Rochereau,15,"METRO 4, RER B",denfert rochereau,denfert rochereau,48.8342929804732,2.33285230996089
+METRO 6,Denfert-Rochereau,15,"METRO 4, RER B",denfert rochereau,denfert rochereau,48.83307317062929,2.333203670349575
+METRO 6,Denfert-Rochereau,15,"METRO 4, RER B",denfert rochereau,denfert rochereau,48.83345085821352,2.331740130985349
+METRO 6,Saint-Jacques,16,,saint jacques,saint jacques,48.83290081566025,2.3371351933439004
+METRO 6,Glacière,17,,glaciere,glaciere,48.831129548026645,2.3435116577497763
+METRO 6,Corvisart,18,,corvisart,corvisart,48.82979051369297,2.350414872010464
+METRO 6,Place d'Italie,19,"METRO 5, METRO 7",place d'italie,place d'italie,48.8309272410005,2.356121938797104
+METRO 6,Place d'Italie,19,"METRO 5, METRO 7",place d'italie,place d'italie,48.83143363013256,2.355643643033711
+METRO 6,Place d'Italie,19,"METRO 5, METRO 7",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
+METRO 6,Nationale,20,,nationale,nationale,48.83321671970985,2.362856399519012
+METRO 6,Chevaleret,21,,chevaleret,chevaleret,48.83494772325454,2.3681263304132094
+METRO 6,Quai de la Gare,22,,quai de la gare,quai de la gare,48.83704512015793,2.3728257245425723
+METRO 6,Bercy,23,METRO 14,bercy,bercy,48.83908128024196,2.383028081146452
+METRO 6,Bercy,23,METRO 14,bercy,bercy,48.84038874809587,2.3799112714543984
+METRO 6,Bercy,23,METRO 14,bercy,bercy,48.8400013886488,2.3795540112141405
+METRO 6,Dugommier,24,,dugommier,dugommier,48.83904114371398,2.389620014061439
+METRO 6,Daumesnil,25,METRO 8,daumesnil,daumesnil,48.83944542837951,2.3961828864526327
+METRO 6,Daumesnil,25,METRO 8,daumesnil,daumesnil,48.83954964556868,2.3957032894363937
+METRO 6,Bel-Air,26,,bel air,bel air,48.84133824913213,2.4009185367798027
+METRO 6,Picpus,27,,picpus,picpus,48.84506157994489,2.4012890198273484
+METRO 6,Nation,28,"METRO 1, METRO 2, METRO 9, RER A",nation,nation,48.84823711041019,2.395823588826126
+METRO 6,Nation,28,"METRO 1, METRO 2, METRO 9, RER A",nation,nation,48.847579367477074,2.395554512170688
+METRO 6,Nation,28,"METRO 1, METRO 2, METRO 9, RER A",nation,nation,48.848474285974376,2.395062305425881
+METRO 6,Nation,28,"METRO 1, METRO 2, METRO 9, RER A",nation,nation,48.84737487872935,2.39546199483274
+METRO 6,Nation,28,"METRO 1, METRO 2, METRO 9, RER A",nation,nation,48.84894464506383,2.3958794351856887
+METRO 7 1,La Courneuve - 8 Mai 1945,1,,la courneuve 8 mai 1945,la courneuve 8 mai 1945,48.92078596906289,2.410598616469426
+METRO 7 1,Fort d'Aubervilliers,2,,fort d'aubervilliers,fort d'aubervilliers,48.91494975727623,2.4044090887818643
+METRO 7 1,Aubervilliers - Pantin - Quatre Chemins,3,,aubervilliers pantin quatre chemins,aubervilliers pantin quatre chemins,48.90378388105197,2.392221222535117
 METRO 7 1,Porte de la Villette,4,,porte de la villette,porte de la villette,48.89738989158187,2.385508387668673
 METRO 7 1,Porte de la Villette,4,,porte de la villette,porte de la villette,48.8974287355787,2.38658143311372
 METRO 7 1,Corentin Cariou,5,,corentin cariou,corentin cariou,48.89465585833331,2.382160158371538
@@ -1495,22 +1516,22 @@ METRO 7 1,Stalingrad,8,"METRO 2, METRO 5",stalingrad,stalingrad,48.8847982519840
 METRO 7 1,Louis Blanc,9,METRO 7BIS,louis blanc,louis blanc,48.88094656356074,2.3649934724001813
 METRO 7 1,Louis Blanc,9,METRO 7BIS,louis blanc,louis blanc,48.881192119071,2.364378741179748
 METRO 7 1,Château-Landon,10,,chateau landon,chateau landon,48.87844430039445,2.3619653022299603
-METRO 7 1,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est,gare de l'est,48.8759910648072,2.357880771925327
-METRO 7 1,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est,gare de l'est,48.87737561987964,2.3594566169442075
-METRO 7 1,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est,gare de l'est,48.8762727026041,2.3580579070747385
-METRO 7 1,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est,gare de l'est,48.87612635294891,2.358047505360746
+METRO 7 1,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est,gare de l'est,48.8759910648072,2.357880771925327
+METRO 7 1,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est,gare de l'est,48.87737561987964,2.3594566169442075
+METRO 7 1,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est,gare de l'est,48.8762727026041,2.3580579070747385
+METRO 7 1,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est,gare de l'est,48.87612635294891,2.358047505360746
 METRO 7 1,Poissonnière,12,,poissonniere,poissonniere,48.877100185798646,2.3487755574768467
 METRO 7 1,Cadet,13,,cadet,cadet,48.87600859381197,2.3445724820893283
 METRO 7 1,Le Peletier,14,,le peletier,le peletier,48.87497174554318,2.34057598204372
-METRO 7 1,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,48.873252746484354,2.3339466825286297
-METRO 7 1,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,48.87280447590615,2.3344562913768514
+METRO 7 1,Chaussée d'Antin - La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,48.873252746484354,2.3339466825286297
+METRO 7 1,Chaussée d'Antin - La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,48.87280447590615,2.3344562913768514
 METRO 7 1,Opéra,16,"METRO 3, METRO 8, RER A",opera,opera,48.86993903518653,2.332592489355912
 METRO 7 1,Opéra,16,"METRO 3, METRO 8, RER A",opera,opera,48.87130850300574,2.331493987087091
 METRO 7 1,Opéra,16,"METRO 3, METRO 8, RER A",opera,opera,48.87048333292661,2.3311863468516525
 METRO 7 1,Pyramides,17,METRO 14,pyramides,pyramides,48.86590673959417,2.3341895419682497
 METRO 7 1,Pyramides,17,METRO 14,pyramides,pyramides,48.86573786666654,2.33443771486555
-METRO 7 1,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,48.86234803084025,2.336496460942477
-METRO 7 1,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,48.86282967190577,2.3368784003342
+METRO 7 1,Palais Royal - Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,48.86234803084025,2.336496460942477
+METRO 7 1,Palais Royal - Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,48.86282967190577,2.3368784003342
 METRO 7 1,Pont Neuf,19,,pont neuf,pont neuf,48.85855382636669,2.342232759368107
 METRO 7 1,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85763141070005,2.3480365654004016
 METRO 7 1,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86251523497548,2.345785860039181
@@ -1520,30 +1541,30 @@ METRO 7 1,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER 
 METRO 7 1,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.859589655582816,2.346478183587595
 METRO 7 1,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.8597186619952,2.346768285736699
 METRO 7 1,Pont Marie,21,,pont marie,pont marie,48.85357547250359,2.357162571618337
-METRO 7 1,Sully – Morland,22,,sully morland,sully morland,48.85162059096899,2.3615249655078383
+METRO 7 1,Sully - Morland,22,,sully morland,sully morland,48.85162059096899,2.3615249655078383
 METRO 7 1,Jussieu,23,METRO 10,jussieu,jussieu,48.84595066575015,2.355050264434754
 METRO 7 1,Jussieu,23,METRO 10,jussieu,jussieu,48.846151122181325,2.354917983707404
 METRO 7 1,Place Monge,24,,place monge,place monge,48.84286683068267,2.352224728183084
-METRO 7 1,Censier – Daubenton,25,,censier daubenton,censier daubenton,48.84023383632875,2.3516064753021904
+METRO 7 1,Censier - Daubenton,25,,censier daubenton,censier daubenton,48.84023383632875,2.3516064753021904
 METRO 7 1,Les Gobelins,26,,les gobelins,les gobelins,48.83593030287887,2.3525422662627022
-METRO 7 1,Place d’Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.8309272410005,2.356121938797104
-METRO 7 1,Place d’Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.83143363013256,2.355643643033711
-METRO 7 1,Place d’Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
+METRO 7 1,Place d'Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.8309272410005,2.356121938797104
+METRO 7 1,Place d'Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.83143363013256,2.355643643033711
+METRO 7 1,Place d'Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
 METRO 7 1,Tolbiac,28,,tolbiac,tolbiac,48.82642601087568,2.357245650758686
-METRO 7 1,Maison Blanche,29,,maison blanche,maison blanche,48.82218265855656,2.358551348202204
-METRO 7 1,Maison Blanche,29,,maison blanche,maison blanche,48.82142042957708,2.3590551543843183
-METRO 7 1,Porte d’Italie,30,,porte d'italie,porte d'italie,48.81922334960906,2.35970521674602
-METRO 7 1,Porte d’Italie,30,,porte d'italie,porte d'italie,48.81905151465142,2.3601297420152623
+METRO 7 1,Maison Blanche,29,METRO 14,maison blanche,maison blanche,48.82218265855656,2.358551348202204
+METRO 7 1,Maison Blanche,29,METRO 14,maison blanche,maison blanche,48.82142042957708,2.3590551543843183
+METRO 7 1,Porte d'Italie,30,,porte d'italie,porte d'italie,48.81922334960906,2.35970521674602
+METRO 7 1,Porte d'Italie,30,,porte d'italie,porte d'italie,48.81905151465142,2.3601297420152623
 METRO 7 1,Porte de Choisy,31,,porte de choisy,porte de choisy,48.81976126757109,2.3640154621825227
 METRO 7 1,Porte de Choisy,31,,porte de choisy,porte de choisy,48.81987622105712,2.364531953109201
 METRO 7 1,Porte de Choisy,31,,porte de choisy,porte de choisy,48.81945368699376,2.3651909325792806
-METRO 7 1,Porte d’Ivry,32,,porte d'ivry,porte d'ivry,48.82182955806905,2.370053603529677
-METRO 7 1,Porte d’Ivry,32,,porte d'ivry,porte d'ivry,48.82135578381409,2.369290587346029
+METRO 7 1,Porte d'Ivry,32,,porte d'ivry,porte d'ivry,48.82182955806905,2.370053603529677
+METRO 7 1,Porte d'Ivry,32,,porte d'ivry,porte d'ivry,48.82135578381409,2.369290587346029
 METRO 7 1,Pierre et Marie Curie,33,,pierre et marie curie,pierre et marie curie,48.81593076305632,2.37726720151374
-METRO 7 1,Mairie d’Ivry,34,,mairie d'ivry,mairie d'ivry,48.81052080428471,2.384289600960821
-METRO 7 2,La Courneuve – 8 Mai 1945,1,,la courneuve 8 mai 1945,la courneuve 8 mai 1945,48.92078596906289,2.410598616469426
-METRO 7 2,Fort d’Aubervilliers,2,,fort d'aubervilliers,fort d'aubervilliers,48.91494975727623,2.4044090887818643
-METRO 7 2,Aubervilliers – Pantin – Quatre Chemins,3,,aubervilliers pantin quatre chemins,aubervilliers pantin quatre chemins,48.90378388105197,2.392221222535117
+METRO 7 1,Mairie d'Ivry,34,,mairie d'ivry,mairie d'ivry,48.81052080428471,2.384289600960821
+METRO 7 2,La Courneuve - 8 Mai 1945,1,,la courneuve 8 mai 1945,la courneuve 8 mai 1945,48.92078596906289,2.410598616469426
+METRO 7 2,Fort d'Aubervilliers,2,,fort d'aubervilliers,fort d'aubervilliers,48.91494975727623,2.4044090887818643
+METRO 7 2,Aubervilliers - Pantin - Quatre Chemins,3,,aubervilliers pantin quatre chemins,aubervilliers pantin quatre chemins,48.90378388105197,2.392221222535117
 METRO 7 2,Porte de la Villette,4,,porte de la villette,porte de la villette,48.89738989158187,2.385508387668673
 METRO 7 2,Porte de la Villette,4,,porte de la villette,porte de la villette,48.8974287355787,2.38658143311372
 METRO 7 2,Corentin Cariou,5,,corentin cariou,corentin cariou,48.89465585833331,2.382160158371538
@@ -1555,22 +1576,22 @@ METRO 7 2,Stalingrad,8,"METRO 2, METRO 5",stalingrad,stalingrad,48.8847982519840
 METRO 7 2,Louis Blanc,9,METRO 7BIS,louis blanc,louis blanc,48.88094656356074,2.3649934724001813
 METRO 7 2,Louis Blanc,9,METRO 7BIS,louis blanc,louis blanc,48.881192119071,2.364378741179748
 METRO 7 2,Château-Landon,10,,chateau landon,chateau landon,48.87844430039445,2.3619653022299603
-METRO 7 2,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est,gare de l'est,48.8759910648072,2.357880771925327
-METRO 7 2,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est,gare de l'est,48.87737561987964,2.3594566169442075
-METRO 7 2,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est,gare de l'est,48.8762727026041,2.3580579070747385
-METRO 7 2,Gare de l’Est,11,"METRO 4, METRO 5, RER E",gare de l'est,gare de l'est,48.87612635294891,2.358047505360746
+METRO 7 2,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est,gare de l'est,48.8759910648072,2.357880771925327
+METRO 7 2,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est,gare de l'est,48.87737561987964,2.3594566169442075
+METRO 7 2,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est,gare de l'est,48.8762727026041,2.3580579070747385
+METRO 7 2,Gare de l'Est,11,"METRO 4, METRO 5",gare de l'est,gare de l'est,48.87612635294891,2.358047505360746
 METRO 7 2,Poissonnière,12,,poissonniere,poissonniere,48.877100185798646,2.3487755574768467
 METRO 7 2,Cadet,13,,cadet,cadet,48.87600859381197,2.3445724820893283
 METRO 7 2,Le Peletier,14,,le peletier,le peletier,48.87497174554318,2.34057598204372
-METRO 7 2,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,48.873252746484354,2.3339466825286297
-METRO 7 2,Chaussée d’Antin – La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,48.87280447590615,2.3344562913768514
+METRO 7 2,Chaussée d'Antin - La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,48.873252746484354,2.3339466825286297
+METRO 7 2,Chaussée d'Antin - La Fayette,15,METRO 9,chaussee d'antin la fayette,chaussee d'antin la fayette,48.87280447590615,2.3344562913768514
 METRO 7 2,Opéra,16,"METRO 3, METRO 8, RER A",opera,opera,48.86993903518653,2.332592489355912
 METRO 7 2,Opéra,16,"METRO 3, METRO 8, RER A",opera,opera,48.87130850300574,2.331493987087091
 METRO 7 2,Opéra,16,"METRO 3, METRO 8, RER A",opera,opera,48.87048333292661,2.3311863468516525
 METRO 7 2,Pyramides,17,METRO 14,pyramides,pyramides,48.86590673959417,2.3341895419682497
 METRO 7 2,Pyramides,17,METRO 14,pyramides,pyramides,48.86573786666654,2.33443771486555
-METRO 7 2,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,48.86234803084025,2.336496460942477
-METRO 7 2,Palais Royal – Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,48.86282967190577,2.3368784003342
+METRO 7 2,Palais Royal - Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,48.86234803084025,2.336496460942477
+METRO 7 2,Palais Royal - Musée du Louvre,18,METRO 1,palais royal musee du louvre,palais royal,48.86282967190577,2.3368784003342
 METRO 7 2,Pont Neuf,19,,pont neuf,pont neuf,48.85855382636669,2.342232759368107
 METRO 7 2,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85763141070005,2.3480365654004016
 METRO 7 2,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86251523497548,2.345785860039181
@@ -1580,186 +1601,220 @@ METRO 7 2,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER 
 METRO 7 2,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.859589655582816,2.346478183587595
 METRO 7 2,Châtelet,20,"METRO 1, METRO 4, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.8597186619952,2.346768285736699
 METRO 7 2,Pont Marie,21,,pont marie,pont marie,48.85357547250359,2.357162571618337
-METRO 7 2,Sully – Morland,22,,sully morland,sully morland,48.85162059096899,2.3615249655078383
+METRO 7 2,Sully - Morland,22,,sully morland,sully morland,48.85162059096899,2.3615249655078383
 METRO 7 2,Jussieu,23,METRO 10,jussieu,jussieu,48.84595066575015,2.355050264434754
 METRO 7 2,Jussieu,23,METRO 10,jussieu,jussieu,48.846151122181325,2.354917983707404
 METRO 7 2,Place Monge,24,,place monge,place monge,48.84286683068267,2.352224728183084
-METRO 7 2,Censier – Daubenton,25,,censier daubenton,censier daubenton,48.84023383632875,2.3516064753021904
+METRO 7 2,Censier - Daubenton,25,,censier daubenton,censier daubenton,48.84023383632875,2.3516064753021904
 METRO 7 2,Les Gobelins,26,,les gobelins,les gobelins,48.83593030287887,2.3525422662627022
-METRO 7 2,Place d’Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.8309272410005,2.356121938797104
-METRO 7 2,Place d’Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.83143363013256,2.355643643033711
-METRO 7 2,Place d’Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
+METRO 7 2,Place d'Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.8309272410005,2.356121938797104
+METRO 7 2,Place d'Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.83143363013256,2.355643643033711
+METRO 7 2,Place d'Italie,27,"METRO 5, METRO 6",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
 METRO 7 2,Tolbiac,28,,tolbiac,tolbiac,48.82642601087568,2.357245650758686
-METRO 7 2,Maison Blanche,29,,maison blanche,maison blanche,48.82218265855656,2.358551348202204
-METRO 7 2,Maison Blanche,29,,maison blanche,maison blanche,48.82142042957708,2.3590551543843183
-METRO 7 2,Porte d’Italie,30,,porte d'italie,porte d'italie,48.81922334960906,2.35970521674602
-METRO 7 2,Porte d’Italie,30,,porte d'italie,porte d'italie,48.81905151465142,2.3601297420152623
-METRO 7 2,Porte de Choisy,31,,porte de choisy,porte de choisy,48.81976126757109,2.3640154621825227
-METRO 7 2,Porte de Choisy,31,,porte de choisy,porte de choisy,48.81987622105712,2.364531953109201
-METRO 7 2,Porte de Choisy,31,,porte de choisy,porte de choisy,48.81945368699376,2.3651909325792806
-METRO 7 2,Porte d’Ivry,32,,porte d'ivry,porte d'ivry,48.82182955806905,2.370053603529677
-METRO 7 2,Porte d’Ivry,32,,porte d'ivry,porte d'ivry,48.82135578381409,2.369290587346029
-METRO 7 2,Pierre et Marie Curie,33,,pierre et marie curie,pierre et marie curie,48.81593076305632,2.37726720151374
-METRO 7 2,Mairie d’Ivry,34,,mairie d'ivry,mairie d'ivry,48.81052080428471,2.384289600960821
-METRO 7 2,Le Kremlin – Bicêtre,35,,le kremlin bicetre,le kremlin bicetre,48.81012995727394,2.362263387127349
-METRO 7 2,Villejuif – Léo Lagrange,36,,villejuif leo lagrange,villejuif leo lagrange,48.80468812091137,2.3639531966021656
-METRO 7 2,Villejuif – Paul Vaillant – Couturier,37,,villejuif paul vaillant couturier,villejuif paul vaillant couturier,48.79648308455054,2.3682695400496945
-METRO 7 2,Villejuif – Louis Aragon,38,,villejuif louis aragon,villejuif louis aragon,48.78728035004914,2.366988444947912
-METRO 7 2,Villejuif – Louis Aragon,38,,villejuif louis aragon,villejuif louis aragon,48.78756279294567,2.367804105603498
-METRO 8,Balard,1,,balard,balard,48.83629530154249,2.278330259866024
-METRO 8,Balard,1,,balard,balard,48.83612298019267,2.2781191783109924
-METRO 8,Lourmel,2,,lourmel,lourmel,48.83873485883676,2.2821433781708915
-METRO 8,Boulogne – Jean Jaurès,3,,boulogne jean jaures,boulogne jean jaures,48.842005347289565,2.238887327153073
-METRO 8,Porte d’Auteuil,4,,porte d'auteuil,porte d'auteuil,48.847971541497,2.257744680363203
-METRO 8,Michel-Ange – Molitor,5,METRO 9,michel ange molitor,michel ange molitor,48.84524756545478,2.261623492404886
-METRO 8,Michel-Ange – Molitor,5,METRO 9,michel ange molitor,michel ange molitor,48.84505817231375,2.261745124963672
-METRO 8,Michel-Ange – Auteuil,6,METRO 10,michel ange auteuil,michel ange auteuil,48.84789565020843,2.2640820307462217
-METRO 8,Michel-Ange – Auteuil,6,METRO 10,michel ange auteuil,michel ange auteuil,48.84793480789207,2.264218775687729
-METRO 8,Javel,7,METRO 10,javel,javel,48.84715690155799,2.278036281995908
-METRO 8,Église d’Auteuil,8,,eglise d'auteuil,eglise d'auteuil,48.84715005481051,2.26913587274288
-METRO 8,Charles Michels,9,,charles michels,charles michels,48.8465346367312,2.2859992220590075
-METRO 8,La Motte-Picquet – Grenelle,10,"METRO 6, METRO 10, METRO 8",la motte picquet grenelle,la motte picquet grenelle,48.848741665717824,2.2989309117480614
-METRO 8,La Motte-Picquet – Grenelle,10,"METRO 6, METRO 10, METRO 8",la motte picquet grenelle,la motte picquet grenelle,48.84957521390955,2.298625127144874
-METRO 8,École Militaire,11,,ecole militaire,ecole militaire,48.85489056687858,2.3064034857365168
-METRO 8,La Tour-Maubourg,12,,la tour maubourg,la tour maubourg,48.85772541289347,2.310565960946845
-METRO 8,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-METRO 8,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-METRO 8,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
-METRO 8,Saint-François-Xavier,14,,saint francois xavier,saint francois xavier,48.85144170744032,2.314408121472487
-METRO 8,Ségur,15,,segur,segur,48.84706613315245,2.3074022406196404
-METRO 8,Duroc,16,"METRO 10, METRO 13",duroc,duroc,48.84698910613954,2.3170052357372453
-METRO 8,Duroc,16,"METRO 10, METRO 13",duroc,duroc,48.84705255542817,2.3164243520508925
-METRO 8,Vaneau,17,,vaneau,vaneau,48.8488163733696,2.3212578628937472
-METRO 8,Saint-Placide,18,,saint placide,saint placide,48.84687823885142,2.3267927850276813
-METRO 8,Sèvres – Babylone,19,"METRO 10, METRO 12",sevres babylone,sevres babylone,48.8510317512393,2.3261023128241907
-METRO 8,Sèvres – Babylone,19,"METRO 10, METRO 12",sevres babylone,sevres babylone,48.85176205249548,2.326822568897497
-METRO 8,Rennes,20,,rennes,rennes,48.84845784944872,2.3277821284985807
-METRO 8,Saint-Germain-des-Prés,21,,saint germain des pres,saint germain des pres,48.853718934000206,2.333776138218468
-METRO 8,Odéon,22,"METRO 4, METRO 10",odeon,odeon,48.85230076309424,2.3397277815930964
-METRO 8,Odéon,22,"METRO 4, METRO 10",odeon,odeon,48.85193594203498,2.340613006406504
-METRO 8,Cluny – La Sorbonne,23,,cluny la sorbonne,cluny la sorbonne,48.851050282314304,2.344273345421352
-METRO 8,Maubert – Mutualité,24,,maubert mutualite,maubert mutualite,48.85008987805251,2.3482087741854687
-METRO 8,Jussieu,25,"METRO 7, METRO 10",jussieu,jussieu,48.84595066575015,2.355050264434754
-METRO 8,Jussieu,25,"METRO 7, METRO 10",jussieu,jussieu,48.846151122181325,2.354917983707404
-METRO 8,Sulpher – Morland,26,,sulpher morland,sulpher morland,,
-METRO 8,Place Monge,27,,place monge,place monge,48.84286683068267,2.352224728183084
-METRO 8,Censier – Daubenton,28,,censier daubenton,censier daubenton,48.84023383632875,2.3516064753021904
-METRO 8,Les Gobelins,29,,les gobelins,les gobelins,48.83593030287887,2.3525422662627022
-METRO 8,Place d’Italie,30,"METRO 5, METRO 6",place d'italie,place d'italie,48.8309272410005,2.356121938797104
-METRO 8,Place d’Italie,30,"METRO 5, METRO 6",place d'italie,place d'italie,48.83143363013256,2.355643643033711
-METRO 8,Place d’Italie,30,"METRO 5, METRO 6",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
-METRO 8,Tolbiac,31,,tolbiac,tolbiac,48.82642601087568,2.357245650758686
-METRO 8,Maison Blanche,32,,maison blanche,maison blanche,48.82218265855656,2.358551348202204
-METRO 8,Maison Blanche,32,,maison blanche,maison blanche,48.82142042957708,2.3590551543843183
-METRO 8,Porte d’Italie,33,,porte d'italie,porte d'italie,48.81922334960906,2.35970521674602
-METRO 8,Porte d’Italie,33,,porte d'italie,porte d'italie,48.81905151465142,2.3601297420152623
+METRO 7 2,Maison Blanche,29,METRO 14,maison blanche,maison blanche,48.82218265855656,2.358551348202204
+METRO 7 2,Maison Blanche,29,METRO 14,maison blanche,maison blanche,48.82142042957708,2.3590551543843183
+METRO 7 2,Le Kremlin-Bicêtre,30,,le kremlin bicetre,le kremlin bicetre,48.81012995727394,2.362263387127349
+METRO 7 2,Villejuif - Léo Lagrange,31,,villejuif leo lagrange,villejuif leo lagrange,48.80468812091137,2.3639531966021656
+METRO 7 2,Villejuif - Paul Vaillant-Couturier,32,,villejuif paul vaillant couturier,villejuif paul vaillant couturier,48.79648308455054,2.3682695400496945
+METRO 7 2,Villejuif - Louis Aragon,33,,villejuif louis aragon,villejuif louis aragon,48.78728035004914,2.366988444947912
+METRO 7 2,Villejuif - Louis Aragon,33,,villejuif louis aragon,villejuif louis aragon,48.78756279294567,2.367804105603498
+METRO 8,Balard,1,METRO 12,balard,balard,48.83629530154249,2.278330259866024
+METRO 8,Balard,1,METRO 12,balard,balard,48.83612298019267,2.2781191783109924
+METRO 8,Boucicaut,2,,boucicaut,boucicaut,48.84109405724891,2.287945766487378
+METRO 8,Félix Faure,3,,felix faure,felix faure,48.84274677979288,2.2919124133178745
+METRO 8,Commerce,4,,commerce,commerce,48.84479476371181,2.293951963648718
+METRO 8,La Motte-Picquet – Grenelle,5,"METRO 6, METRO 10",la motte picquet grenelle,la motte picquet grenelle,48.848741665717824,2.2989309117480614
+METRO 8,La Motte-Picquet – Grenelle,5,"METRO 6, METRO 10",la motte picquet grenelle,la motte picquet grenelle,48.84957521390955,2.298625127144874
+METRO 8,Ecole Militaire,6,,ecole militaire,ecole militaire,48.85489056687858,2.3064034857365168
+METRO 8,La Tour-Maubourg,7,,la tour maubourg,la tour maubourg,48.85772541289347,2.310565960946845
+METRO 8,Invalides,8,"METRO 13, METRO 12, RER C",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+METRO 8,Invalides,8,"METRO 13, METRO 12, RER C",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+METRO 8,Invalides,8,"METRO 13, METRO 12, RER C",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+METRO 8,Concorde,9,"METRO 1, METRO 12",concorde,place de la concorde,48.86628580458389,2.322943412243541
+METRO 8,Concorde,9,"METRO 1, METRO 12",concorde,place de la concorde,48.86681836985009,2.3220828486761693
+METRO 8,Concorde,9,"METRO 1, METRO 12",concorde,place de la concorde,48.86616711494919,2.323175680856618
+METRO 8,Madeleine,10,"METRO 12, METRO 14",madeleine,madeleine,48.87023324339993,2.325163546827897
+METRO 8,Madeleine,10,"METRO 12, METRO 14",madeleine,madeleine,48.86963317302492,2.326272274027749
+METRO 8,Madeleine,10,"METRO 12, METRO 14",madeleine,madeleine,48.87066702089795,2.325752635286725
+METRO 8,Opéra,11,"METRO 3, METRO 7",opera,opera,48.86993903518653,2.332592489355912
+METRO 8,Opéra,11,"METRO 3, METRO 7",opera,opera,48.87130850300574,2.331493987087091
+METRO 8,Opéra,11,"METRO 3, METRO 7",opera,opera,48.87048333292661,2.3311863468516525
+METRO 8,Richelieu – Drouot,12,METRO 9,richelieu drouot,richelieu drouot,48.87169298457071,2.338463081008744
+METRO 8,Richelieu – Drouot,12,METRO 9,richelieu drouot,richelieu drouot,48.87219090864884,2.338857159453805
+METRO 8,Grands Boulevards,13,METRO 9,grands boulevards,grands boulevards,48.87125654594185,2.34456106066273
+METRO 8,Bonne Nouvelle,14,METRO 9,bonne nouvelle,bonne nouvelle,48.87059047801112,2.348491131078989
+METRO 8,Strasbourg – Saint-Denis,15,METRO 4,strasbourg saint denis,strasbourg saint denis,48.86962886377852,2.354468813108209
+METRO 8,Strasbourg – Saint-Denis,15,METRO 4,strasbourg saint denis,strasbourg saint denis,48.86940219665552,2.35381879359288
+METRO 8,République,16,"METRO 3, METRO 5, METRO 9, METRO 11",republique,republique,48.86702678847436,2.364247995104706
+METRO 8,République,16,"METRO 3, METRO 5, METRO 9, METRO 11",republique,republique,48.86782709972698,2.3637404371950392
+METRO 8,République,16,"METRO 3, METRO 5, METRO 9, METRO 11",republique,republique,48.86799910892294,2.3650748610827645
+METRO 8,République,16,"METRO 3, METRO 5, METRO 9, METRO 11",republique,republique,48.86760088010245,2.362757380002764
+METRO 8,République,16,"METRO 3, METRO 5, METRO 9, METRO 11",republique,republique,48.86778030055016,2.3629287001561123
+METRO 8,Filles du Calvaire,17,,filles du calvaire,filles du calvaire,48.8632579449589,2.366661093353452
+METRO 8,Saint-Sébastien – Froissart,18,,saint sebastien froissart,saint sebastien froissart,48.861168864595705,2.3672108677856154
+METRO 8,Chemin Vert,19,,chemin vert,chemin vert,48.85710325815475,2.368184114950699
+METRO 8,Bastille,20,"METRO 1, METRO 5",bastille,bastille,48.85343942756841,2.3695135681565254
+METRO 8,Bastille,20,"METRO 1, METRO 5",bastille,bastille,48.85343696230164,2.368736572626169
+METRO 8,Bastille,20,"METRO 1, METRO 5",bastille,bastille,48.85200903052056,2.36867458439179
+METRO 8,Ledru-Rollin,21,,ledru rollin,ledru rollin,48.85152370843435,2.3751010337556164
+METRO 8,Faidherbe – Chaligny,22,,faidherbe chaligny,faidherbe chaligny,48.85017786279968,2.384092210055667
+METRO 8,Reuilly – Diderot,23,METRO 1,reuilly diderot,reuilly diderot,48.84712872224063,2.387025242098632
+METRO 8,Reuilly – Diderot,23,METRO 1,reuilly diderot,reuilly diderot,48.84717991006959,2.385243715115072
+METRO 8,Montgallet,24,,montgallet,montgallet,48.84406559730793,2.390482133980388
+METRO 8,Daumesnil,25,METRO 6,daumesnil,daumesnil,48.83944542837951,2.3961828864526327
+METRO 8,Daumesnil,25,METRO 6,daumesnil,daumesnil,48.83954964556868,2.3957032894363937
+METRO 8,Michel Bizot,26,,michel bizot,michel bizot,48.83711700698872,2.402333164555185
+METRO 8,Porte Dorée,27,,porte doree,porte doree,48.83552220834931,2.4066571471351024
+METRO 8,Porte Dorée,27,,porte doree,porte doree,48.83478515808142,2.405383210626772
+METRO 8,Porte de Charenton,28,,porte de charenton,porte de charenton,48.83273670175476,2.400310403025077
+METRO 8,Porte de Charenton,28,,porte de charenton,porte de charenton,48.83199308710852,2.398350103858007
+METRO 8,Liberté,29,,liberte,liberte,48.82662006546349,2.4058519439819017
+METRO 8,Charenton – Écoles,30,,charenton ecoles,charenton ecoles,48.821897939434606,2.413132938342708
+METRO 8,Ecole Vétérinaire de Maisons-Alfort,31,,ecole veterinaire de maisons alfort,ecole veterinaire de maisons alfort,48.81480300700047,2.422376142845623
+METRO 8,Maisons-Alfort – Stade,32,,maisons alfort stade,maisons alfort stade,48.809144361835415,2.4345098959239406
+METRO 8,Maisons-Alfort – Les Juilliottes,33,,maisons alfort les juilliottes,maisons alfort les juilliottes,48.80335523705089,2.4455741010301444
+METRO 8,Créteil – L’Echat,34,,creteil l'echat,creteil l'echat,48.79668213499687,2.4494128051458075
+METRO 8,Créteil – Université,35,,creteil universite,creteil universite,48.78992046688944,2.45051152829059
+METRO 8,Créteil – Préfecture,36,,creteil prefecture,creteil prefecture,48.78000282890859,2.4593631290764044
+METRO 8,Pointe du Lac,37,,pointe du lac,pointe du lac,,
 METRO 9,Pont de Sèvres,1,,pont de sevres,sevres,48.829746119994304,2.231028100202621
 METRO 9,Billancourt,2,,billancourt,billancourt,48.83173796437048,2.2374367869806067
 METRO 9,Marcel Sembat,3,,marcel sembat,marcel sembat,48.83362878105417,2.2435786287393302
 METRO 9,Porte de Saint-Cloud,4,,porte de saint cloud,porte de saint cloud,48.83796121443632,2.2571222298326203
 METRO 9,Exelmans,5,,exelmans,exelmans,48.84241277035873,2.259608472752572
-METRO 9,Michel-Ange – Molitor,6,METRO 6,michel ange molitor,michel ange molitor,48.84524756545478,2.261623492404886
-METRO 9,Michel-Ange – Molitor,6,METRO 6,michel ange molitor,michel ange molitor,48.84505817231375,2.261745124963672
+METRO 9,Michel-Ange – Molitor,6,METRO 10,michel ange molitor,michel ange molitor,48.84524756545478,2.261623492404886
+METRO 9,Michel-Ange – Molitor,6,METRO 10,michel ange molitor,michel ange molitor,48.84505817231375,2.261745124963672
 METRO 9,Michel-Ange – Auteuil,7,METRO 10,michel ange auteuil,michel ange auteuil,48.84789565020843,2.2640820307462217
 METRO 9,Michel-Ange – Auteuil,7,METRO 10,michel ange auteuil,michel ange auteuil,48.84793480789207,2.264218775687729
-METRO 9,Javel,8,METRO 10,javel,javel,48.84715690155799,2.278036281995908
-METRO 9,Église d’Auteuil,9,,eglise d'auteuil,eglise d'auteuil,48.84715005481051,2.26913587274288
-METRO 9,La Muette,10,,la muette,la muette,48.85804605538448,2.274154629736559
+METRO 9,Jasmin,8,,jasmin,jasmin,48.85250409151217,2.268176749423332
+METRO 9,Ranelagh,9,,ranelagh,ranelagh,48.855485050404425,2.2701091389418937
+METRO 9,La Muette,10,RER C,la muette,la muette,48.85804605538448,2.274154629736559
 METRO 9,Rue de la Pompe,11,,rue de la pompe,rue de la pompe,48.86394013069539,2.2784416488331494
 METRO 9,Trocadéro,12,METRO 6,trocadero,trocadero,48.863065020217945,2.286243169328236
 METRO 9,Trocadéro,12,METRO 6,trocadero,trocadero,48.86361093764568,2.287580162529652
 METRO 9,Iéna,13,,iena,iena,48.8647940649002,2.29416201539428
 METRO 9,Alma – Marceau,14,,alma marceau,alma marceau,48.86476684497177,2.3009910034955845
-METRO 9,Franklin D. Roosevelt,15,"METRO 1, METRO 9",franklin d. roosevelt,franklin d. roosevelt,48.86869984735294,2.309505157337887
-METRO 9,Franklin D. Roosevelt,15,"METRO 1, METRO 9",franklin d. roosevelt,franklin d. roosevelt,48.86943888165912,2.308607493526256
+METRO 9,Franklin D. Roosevelt,15,METRO 1,franklin d. roosevelt,franklin d. roosevelt,48.86869984735294,2.309505157337887
+METRO 9,Franklin D. Roosevelt,15,METRO 1,franklin d. roosevelt,franklin d. roosevelt,48.86943888165912,2.308607493526256
 METRO 9,Saint-Philippe du Roule,16,,saint philippe du roule,saint philippe du roule,48.87204586272729,2.3100189324082736
-METRO 9,Miromesnil,17,,miromesnil,miromesnil,48.87376998959543,2.31445603617697
-METRO 9,Miromesnil,17,,miromesnil,miromesnil,48.87373316560706,2.314743542030632
+METRO 9,Miromesnil,17,METRO 13,miromesnil,miromesnil,48.87376998959543,2.31445603617697
+METRO 9,Miromesnil,17,METRO 13,miromesnil,miromesnil,48.87373316560706,2.314743542030632
 METRO 9,Saint-Augustin,18,,saint augustin,saint augustin,48.87447567664767,2.322001788877926
-METRO 9,Havre – Caumartin,19,"METRO 3, METRO 9",havre caumartin,havre caumartin,48.873513389595466,2.327543081726972
-METRO 9,Havre – Caumartin,19,"METRO 3, METRO 9",havre caumartin,havre caumartin,48.87371340670775,2.3276954096301736
-METRO 9,Chaussée d’Antin – La Fayette,20,"METRO 3, METRO 9",chaussee d'antin la fayette,chaussee d'antin la fayette,48.873252746484354,2.3339466825286297
-METRO 9,Chaussée d’Antin – La Fayette,20,"METRO 3, METRO 9",chaussee d'antin la fayette,chaussee d'antin la fayette,48.87280447590615,2.3344562913768514
-METRO 9,Richelieu – Drouot,21,,richelieu drouot,richelieu drouot,48.87169298457071,2.338463081008744
-METRO 9,Richelieu – Drouot,21,,richelieu drouot,richelieu drouot,48.87219090864884,2.338857159453805
-METRO 9,Grands Boulevards,22,,grands boulevards,grands boulevards,48.87125654594185,2.34456106066273
-METRO 9,Bonne Nouvelle,23,,bonne nouvelle,bonne nouvelle,48.87059047801112,2.348491131078989
-METRO 9,Strasbourg – Saint-Denis,24,"METRO 4, METRO 8, METRO 9, METRO 11",strasbourg saint denis,strasbourg saint denis,48.86962886377852,2.354468813108209
-METRO 9,Strasbourg – Saint-Denis,24,"METRO 4, METRO 8, METRO 9, METRO 11",strasbourg saint denis,strasbourg saint denis,48.86940219665552,2.35381879359288
-METRO 9,République,25,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86702678847436,2.364247995104706
-METRO 9,République,25,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86782709972698,2.3637404371950392
-METRO 9,République,25,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86799910892294,2.3650748610827645
-METRO 9,République,25,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86760088010245,2.362757380002764
-METRO 9,République,25,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86778030055016,2.3629287001561123
-METRO 9,Oberkampf,26,,oberkampf,oberkampf,48.86496414577929,2.3679014148417363
-METRO 9,Oberkampf,26,,oberkampf,oberkampf,48.8650190090373,2.368011378256503
-METRO 9,Saint-Ambroise,27,,saint ambroise,saint ambroise,48.86147646373029,2.373943508245182
-METRO 9,Rue Saint-Maur,28,,rue saint maur,rue saint maur,48.864285758645295,2.379741893177554
-METRO 9,Saint-Maur,29,,saint maur,saint maur,,
-METRO 9,Père Lachaise,30,"METRO 2, METRO 3BIS",pere lachaise,pere lachaise,48.86312321464208,2.3858824493261475
-METRO 9,Père Lachaise,30,"METRO 2, METRO 3BIS",pere lachaise,pere lachaise,48.86218374787729,2.387835956453657
-METRO 9,Buzenval,31,,buzenval,buzenval,48.85197520932561,2.401927284511547
-METRO 9,Maraîchers,32,,maraichers,maraichers,48.85272512017012,2.406089161868773
-METRO 9,Charonne,33,,charonne,charonne,48.855094494476994,2.384699760132844
-METRO 9,Rue des Boulets,34,,rue des boulets,rue des boulets,48.85216836965024,2.3896255399759547
-METRO 9,Nation,35,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84823711041019,2.395823588826126
-METRO 9,Nation,35,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.847579367477074,2.395554512170688
-METRO 9,Nation,35,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.848474285974376,2.395062305425881
-METRO 9,Nation,35,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84737487872935,2.39546199483274
-METRO 9,Nation,35,"RER A, METRO 1, METRO 2, METRO 6, METRO 9",nation,nation,48.84894464506383,2.3958794351856887
-METRO 10,Boulogne – Pont de Saint-Cloud,1,,boulogne pont de saint cloud,boulogne pont de saint cloud,48.84074501612618,2.228536981491632
-METRO 10,Boulogne – Jean Jaurès,2,,boulogne jean jaures,boulogne jean jaures,48.842005347289565,2.238887327153073
-METRO 10,Michel-Ange – Molitor,3,"METRO 6, METRO 9",michel ange molitor,michel ange molitor,48.84524756545478,2.261623492404886
-METRO 10,Michel-Ange – Molitor,3,"METRO 6, METRO 9",michel ange molitor,michel ange molitor,48.84505817231375,2.261745124963672
-METRO 10,Chardon Lagache,4,,chardon lagache,chardon lagache,48.84520470358118,2.266441541719401
-METRO 10,Église d'Auteuil,5,,eglise d'auteuil,eglise d'auteuil,48.84715005481051,2.26913587274288
-METRO 10,Javel,6,METRO 8,javel,javel,48.84715690155799,2.278036281995908
-METRO 10,Avenue Émile Zola,7,,avenue emile zola,avenue emile zola,48.84699703133652,2.2950191304763616
-METRO 10,Charles Michels,8,,charles michels,charles michels,48.8465346367312,2.2859992220590075
-METRO 10,École Militaire,9,,ecole militaire,ecole militaire,48.85489056687858,2.3064034857365168
-METRO 10,La Tour-Maubourg,10,,la tour maubourg,la tour maubourg,48.85772541289347,2.310565960946845
-METRO 10,Invalides,11,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-METRO 10,Invalides,11,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-METRO 10,Invalides,11,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
-METRO 10,Solférino,12,,solferino,solferino,48.85849912371638,2.323167611246745
-METRO 10,Mabillon,13,,mabillon,mabillon,48.8530167679172,2.335502051727558
-METRO 10,Odéon,14,"METRO 4, METRO 10",odeon,odeon,48.85230076309424,2.3397277815930964
-METRO 10,Odéon,14,"METRO 4, METRO 10",odeon,odeon,48.85193594203498,2.340613006406504
-METRO 10,Cluny – La Sorbonne,15,,cluny la sorbonne,cluny la sorbonne,48.851050282314304,2.344273345421352
-METRO 10,Saint-Michel,16,"METRO 4, RER B, METRO 10",saint michel,saint michel,48.85353290071982,2.3452883321974305
-METRO 10,Saint-Michel,16,"METRO 4, RER B, METRO 10",saint michel,saint michel,48.85211888263096,2.34402115205528
-METRO 10,Saint-Michel,16,"METRO 4, RER B, METRO 10",saint michel,saint michel,48.85316798489062,2.343285978923924
-METRO 10,Jussieu,17,"METRO 7, METRO 10",jussieu,jussieu,48.84595066575015,2.355050264434754
-METRO 10,Jussieu,17,"METRO 7, METRO 10",jussieu,jussieu,48.846151122181325,2.354917983707404
-METRO 10,Gare d'Austerlitz,18,METRO 5,gare d'austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-METRO 10,Gare d'Austerlitz,18,METRO 5,gare d'austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-METRO 10,Gare d'Austerlitz,18,METRO 5,gare d'austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
-METRO 10,Saint-Marcel,19,,saint marcel,saint marcel,48.83842729696758,2.360967167698855
-METRO 10,Campo-Formio,20,,campo formio,campo formio,48.8351525357408,2.3585662563494667
-METRO 10,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie,place d'italie,48.8309272410005,2.356121938797104
-METRO 10,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie,place d'italie,48.83143363013256,2.355643643033711
-METRO 10,Place d'Italie,21,"METRO 5, METRO 6, METRO 7",place d'italie,place d'italie,48.830972672988366,2.3555802740779104
+METRO 9,Havre – Caumartin,19,METRO 3,havre caumartin,havre caumartin,48.873513389595466,2.327543081726972
+METRO 9,Havre – Caumartin,19,METRO 3,havre caumartin,havre caumartin,48.87371340670775,2.3276954096301736
+METRO 9,Saint-Lazare,20,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87515128791023,2.324380555428912
+METRO 9,Saint-Lazare,20,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87567210708072,2.327842235259621
+METRO 9,Saint-Lazare,20,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87542071665263,2.32547637444705
+METRO 9,Saint-Lazare,20,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
+METRO 9,Saint-Lazare,20,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87571908982334,2.324224580938853
+METRO 9,Chaussée d’Antin – La Fayette,21,METRO 7,chaussee d'antin la fayette,chaussee d'antin la fayette,48.873252746484354,2.3339466825286297
+METRO 9,Chaussée d’Antin – La Fayette,21,METRO 7,chaussee d'antin la fayette,chaussee d'antin la fayette,48.87280447590615,2.3344562913768514
+METRO 9,Richelieu – Drouot,22,METRO 8,richelieu drouot,richelieu drouot,48.87169298457071,2.338463081008744
+METRO 9,Richelieu – Drouot,22,METRO 8,richelieu drouot,richelieu drouot,48.87219090864884,2.338857159453805
+METRO 9,Grands Boulevards,23,METRO 8,grands boulevards,grands boulevards,48.87125654594185,2.34456106066273
+METRO 9,Bonne Nouvelle,24,METRO 8,bonne nouvelle,bonne nouvelle,48.87059047801112,2.348491131078989
+METRO 9,Strasbourg – Saint-Denis,25,"METRO 4, METRO 8",strasbourg saint denis,strasbourg saint denis,48.86962886377852,2.354468813108209
+METRO 9,Strasbourg – Saint-Denis,25,"METRO 4, METRO 8",strasbourg saint denis,strasbourg saint denis,48.86940219665552,2.35381879359288
+METRO 9,République,26,"METRO 3, METRO 5, METRO 8, METRO 11",republique,republique,48.86702678847436,2.364247995104706
+METRO 9,République,26,"METRO 3, METRO 5, METRO 8, METRO 11",republique,republique,48.86782709972698,2.3637404371950392
+METRO 9,République,26,"METRO 3, METRO 5, METRO 8, METRO 11",republique,republique,48.86799910892294,2.3650748610827645
+METRO 9,République,26,"METRO 3, METRO 5, METRO 8, METRO 11",republique,republique,48.86760088010245,2.362757380002764
+METRO 9,République,26,"METRO 3, METRO 5, METRO 8, METRO 11",republique,republique,48.86778030055016,2.3629287001561123
+METRO 9,Oberkampf,27,METRO 5,oberkampf,oberkampf,48.86496414577929,2.3679014148417363
+METRO 9,Oberkampf,27,METRO 5,oberkampf,oberkampf,48.8650190090373,2.368011378256503
+METRO 9,Saint-Ambroise,28,,saint ambroise,saint ambroise,48.86147646373029,2.373943508245182
+METRO 9,Voltaire,29,,voltaire,voltaire,48.85787849486676,2.3800206442479825
+METRO 9,Charonne,30,,charonne,charonne,48.855094494476994,2.384699760132844
+METRO 9,Rue des Boulets,31,,rue des boulets,rue des boulets,48.85216836965024,2.3896255399759547
+METRO 9,Nation,32,"METRO 1, METRO 2, METRO 6, RER A",nation,nation,48.84823711041019,2.395823588826126
+METRO 9,Nation,32,"METRO 1, METRO 2, METRO 6, RER A",nation,nation,48.847579367477074,2.395554512170688
+METRO 9,Nation,32,"METRO 1, METRO 2, METRO 6, RER A",nation,nation,48.848474285974376,2.395062305425881
+METRO 9,Nation,32,"METRO 1, METRO 2, METRO 6, RER A",nation,nation,48.84737487872935,2.39546199483274
+METRO 9,Nation,32,"METRO 1, METRO 2, METRO 6, RER A",nation,nation,48.84894464506383,2.3958794351856887
+METRO 9,Buzenval,33,,buzenval,buzenval,48.85197520932561,2.401927284511547
+METRO 9,Maraîchers,34,,maraichers,maraichers,48.85272512017012,2.406089161868773
+METRO 9,Porte de Montreuil,35,,porte de montreuil,porte de montreuil,48.85298727790375,2.410741136126437
+METRO 9,Porte de Montreuil,35,,porte de montreuil,porte de montreuil,48.853772788014886,2.4118948370564355
+METRO 9,Robespierre,36,,robespierre,robespierre,48.85572642863316,2.422983216145876
+METRO 9,Croix de Chavaux,37,,croix de chavaux,croix de chavaux,48.85778351458649,2.434538451473474
+METRO 9,Mairie de Montreuil,38,,mairie de montreuil,mairie de montreuil,48.86229941281971,2.441521809411032
+METRO 10 1,Boulogne - Pont de Saint-Cloud,1,,boulogne pont de saint cloud,boulogne pont de saint cloud,48.84074501612618,2.228536981491632
+METRO 10 1,Boulogne - Jean Jaurès,2,,boulogne jean jaures,boulogne jean jaures,48.842005347289565,2.238887327153073
+METRO 10 1,Porte d’Auteuil,3,,porte d'auteuil,porte d'auteuil,48.847971541497,2.257744680363203
+METRO 10 1,Michel-Ange Auteuil,4,METRO 9,michel ange auteuil,michel ange auteuil,48.84789565020843,2.2640820307462217
+METRO 10 1,Michel-Ange Auteuil,4,METRO 9,michel ange auteuil,michel ange auteuil,48.84793480789207,2.264218775687729
+METRO 10 1,Eglise d’Auteuil,5,,eglise d'auteuil,eglise d'auteuil,48.84715005481051,2.26913587274288
+METRO 10 1,Javel - André Citroën,6,RER C,javel andre citroen,javel andre citroen,48.84615720483247,2.278400386366102
+METRO 10 1,Charles Michels,7,,charles michels,charles michels,48.8465346367312,2.2859992220590075
+METRO 10 1,Avenue Émile Zola,8,,avenue emile zola,avenue emile zola,48.84699703133652,2.2950191304763616
+METRO 10 1,La Motte-Picquet - Grenelle,9,"METRO 6, METRO 8",la motte picquet grenelle,la motte picquet grenelle,48.848741665717824,2.2989309117480614
+METRO 10 1,La Motte-Picquet - Grenelle,9,"METRO 6, METRO 8",la motte picquet grenelle,la motte picquet grenelle,48.84957521390955,2.298625127144874
+METRO 10 1,Ségur,10,,segur,segur,48.84706613315245,2.3074022406196404
+METRO 10 1,Duroc,11,METRO 13,duroc,duroc,48.84698910613954,2.3170052357372453
+METRO 10 1,Duroc,11,METRO 13,duroc,duroc,48.84705255542817,2.3164243520508925
+METRO 10 1,Vaneau,12,,vaneau,vaneau,48.8488163733696,2.3212578628937472
+METRO 10 1,Sèvres - Babylone,13,METRO 12,sevres babylone,sevres babylone,48.8510317512393,2.3261023128241907
+METRO 10 1,Sèvres - Babylone,13,METRO 12,sevres babylone,sevres babylone,48.85176205249548,2.326822568897497
+METRO 10 1,Mabillon,14,,mabillon,mabillon,48.8530167679172,2.335502051727558
+METRO 10 1,Odéon,15,METRO 4,odeon,odeon,48.85230076309424,2.3397277815930964
+METRO 10 1,Odéon,15,METRO 4,odeon,odeon,48.85193594203498,2.340613006406504
+METRO 10 1,Cluny - La Sorbonne,16,"RER B, RER C",cluny la sorbonne,cluny la sorbonne,48.851050282314304,2.344273345421352
+METRO 10 1,Maubert - Mutualité,17,,maubert mutualite,maubert mutualite,48.85008987805251,2.3482087741854687
+METRO 10 1,Cardinal Lemoine,18,,cardinal lemoine,cardinal lemoine,48.84665685124266,2.3516232550160123
+METRO 10 1,Jussieu,19,METRO 7,jussieu,jussieu,48.84595066575015,2.355050264434754
+METRO 10 1,Jussieu,19,METRO 7,jussieu,jussieu,48.846151122181325,2.354917983707404
+METRO 10 1,Gare d'Austerlitz,20,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+METRO 10 1,Gare d'Austerlitz,20,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+METRO 10 1,Gare d'Austerlitz,20,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+METRO 10 2,Boulogne - Pont de Saint-Cloud,1,,boulogne pont de saint cloud,boulogne pont de saint cloud,48.84074501612618,2.228536981491632
+METRO 10 2,Boulogne - Jean Jaurès,2,,boulogne jean jaures,boulogne jean jaures,48.842005347289565,2.238887327153073
+METRO 10 2,Michel-Ange Molitor,3,METRO 9,michel ange molitor,michel ange molitor,48.84524756545478,2.261623492404886
+METRO 10 2,Michel-Ange Molitor,3,METRO 9,michel ange molitor,michel ange molitor,48.84505817231375,2.261745124963672
+METRO 10 2,Chardon Lagache,4,,chardon lagache,chardon lagache,48.84520470358118,2.266441541719401
+METRO 10 2,Mirabeau,5,,mirabeau,mirabeau,48.84713100819624,2.2727637533161595
+METRO 10 2,Javel - André Citroën,6,RER C,javel andre citroen,javel andre citroen,48.84615720483247,2.278400386366102
+METRO 10 2,Charles Michels,7,,charles michels,charles michels,48.8465346367312,2.2859992220590075
+METRO 10 2,Avenue Émile Zola,8,,avenue emile zola,avenue emile zola,48.84699703133652,2.2950191304763616
+METRO 10 2,La Motte-Picquet - Grenelle,9,"METRO 6, METRO 8",la motte picquet grenelle,la motte picquet grenelle,48.848741665717824,2.2989309117480614
+METRO 10 2,La Motte-Picquet - Grenelle,9,"METRO 6, METRO 8",la motte picquet grenelle,la motte picquet grenelle,48.84957521390955,2.298625127144874
+METRO 10 2,Ségur,10,,segur,segur,48.84706613315245,2.3074022406196404
+METRO 10 2,Duroc,11,METRO 13,duroc,duroc,48.84698910613954,2.3170052357372453
+METRO 10 2,Duroc,11,METRO 13,duroc,duroc,48.84705255542817,2.3164243520508925
+METRO 10 2,Vaneau,12,,vaneau,vaneau,48.8488163733696,2.3212578628937472
+METRO 10 2,Sèvres - Babylone,13,METRO 12,sevres babylone,sevres babylone,48.8510317512393,2.3261023128241907
+METRO 10 2,Sèvres - Babylone,13,METRO 12,sevres babylone,sevres babylone,48.85176205249548,2.326822568897497
+METRO 10 2,Mabillon,14,,mabillon,mabillon,48.8530167679172,2.335502051727558
+METRO 10 2,Odéon,15,METRO 4,odeon,odeon,48.85230076309424,2.3397277815930964
+METRO 10 2,Odéon,15,METRO 4,odeon,odeon,48.85193594203498,2.340613006406504
+METRO 10 2,Cluny - La Sorbonne,16,"RER B, RER C",cluny la sorbonne,cluny la sorbonne,48.851050282314304,2.344273345421352
+METRO 10 2,Maubert - Mutualité,17,,maubert mutualite,maubert mutualite,48.85008987805251,2.3482087741854687
+METRO 10 2,Cardinal Lemoine,18,,cardinal lemoine,cardinal lemoine,48.84665685124266,2.3516232550160123
+METRO 10 2,Jussieu,19,METRO 7,jussieu,jussieu,48.84595066575015,2.355050264434754
+METRO 10 2,Jussieu,19,METRO 7,jussieu,jussieu,48.846151122181325,2.354917983707404
+METRO 10 2,Gare d'Austerlitz,20,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+METRO 10 2,Gare d'Austerlitz,20,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+METRO 10 2,Gare d'Austerlitz,20,"METRO 5, RER C",gare d'austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 METRO 7BIS 1,Louis Blanc,1,METRO 7,louis blanc,louis blanc,48.88094656356074,2.3649934724001813
 METRO 7BIS 1,Louis Blanc,1,METRO 7,louis blanc,louis blanc,48.881192119071,2.364378741179748
-METRO 7BIS 1,Jaurès,2,,jaures,jaures,48.883193321300105,2.371933128614294
-METRO 7BIS 1,Jaurès,2,,jaures,jaures,48.88162402899078,2.3702590567553905
-METRO 7BIS 1,Jaurès,2,,jaures,jaures,48.88246524557207,2.370157961739611
+METRO 7BIS 1,Jaurès,2,"METRO 5, METRO 2",jaures,jaures,48.883193321300105,2.371933128614294
+METRO 7BIS 1,Jaurès,2,"METRO 5, METRO 2",jaures,jaures,48.88162402899078,2.3702590567553905
+METRO 7BIS 1,Jaurès,2,"METRO 5, METRO 2",jaures,jaures,48.88246524557207,2.370157961739611
 METRO 7BIS 1,Bolivar,3,,bolivar,bolivar,48.880667463456206,2.374495966260425
 METRO 7BIS 1,Buttes Chaumont,4,,buttes chaumont,buttes chaumont,48.87851411402383,2.3816145119289653
 METRO 7BIS 1,Botzaris,5,,botzaris,botzaris,48.87949310793359,2.3885668704791967
 METRO 7BIS 1,Danube,6,,danube,danube,48.88181610818685,2.394012398359364
-METRO 7BIS 1,Pré-Saint-Gervais,7,METRO 7,pre saint gervais,pre saint gervais,48.880271957029535,2.3984681722681724
-METRO 7BIS 1,Louis Blanc,7,METRO 7,louis blanc,louis blanc,48.88094656356074,2.3649934724001813
-METRO 7BIS 1,Louis Blanc,7,METRO 7,louis blanc,louis blanc,48.881192119071,2.364378741179748
-METRO 7BIS 1,Jaurès,6,,jaures,jaures,48.883193321300105,2.371933128614294
-METRO 7BIS 1,Jaurès,6,,jaures,jaures,48.88162402899078,2.3702590567553905
-METRO 7BIS 1,Jaurès,6,,jaures,jaures,48.88246524557207,2.370157961739611
-METRO 7BIS 1,Bolivar,5,,bolivar,bolivar,48.880667463456206,2.374495966260425
-METRO 7BIS 1,Buttes Chaumont,4,,buttes chaumont,buttes chaumont,48.87851411402383,2.3816145119289653
-METRO 7BIS 1,Botzaris,3,,botzaris,botzaris,48.87949310793359,2.3885668704791967
-METRO 7BIS 1,Place des Fêtes,2,METRO 11,place des fetes,place des fetes,48.87694984811022,2.3929839648173936
-METRO 7BIS 1,Place des Fêtes,2,METRO 11,place des fetes,place des fetes,48.8768063892129,2.3930560919606623
-METRO 7BIS 1,Pré-Saint-Gervais,1,METRO 7,pre saint gervais,pre saint gervais,48.880271957029535,2.3984681722681724
+METRO 7BIS 1,Pré-Saint-Gervais,7,,pre saint gervais,pre saint gervais,48.880271957029535,2.3984681722681724
+METRO 7BIS 2,Louis Blanc,7,METRO 7,louis blanc,louis blanc,48.88094656356074,2.3649934724001813
+METRO 7BIS 2,Louis Blanc,7,METRO 7,louis blanc,louis blanc,48.881192119071,2.364378741179748
+METRO 7BIS 2,Jaurès,6,"METRO 5, METRO 2",jaures,jaures,48.883193321300105,2.371933128614294
+METRO 7BIS 2,Jaurès,6,"METRO 5, METRO 2",jaures,jaures,48.88162402899078,2.3702590567553905
+METRO 7BIS 2,Jaurès,6,"METRO 5, METRO 2",jaures,jaures,48.88246524557207,2.370157961739611
+METRO 7BIS 2,Bolivar,5,,bolivar,bolivar,48.880667463456206,2.374495966260425
+METRO 7BIS 2,Buttes Chaumont,4,,buttes chaumont,buttes chaumont,48.87851411402383,2.3816145119289653
+METRO 7BIS 2,Botzaris,3,,botzaris,botzaris,48.87949310793359,2.3885668704791967
+METRO 7BIS 2,Place des Fêtes,2,METRO 11,place des fetes,place des fetes,48.87694984811022,2.3929839648173936
+METRO 7BIS 2,Place des Fêtes,2,METRO 11,place des fetes,place des fetes,48.8768063892129,2.3930560919606623
+METRO 7BIS 2,Pré-Saint-Gervais,1,,pre saint gervais,pre saint gervais,48.880271957029535,2.3984681722681724
 METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85763141070005,2.3480365654004016
 METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86251523497548,2.345785860039181
 METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.856942736159496,2.348147481005499
@@ -1767,206 +1822,218 @@ METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",
 METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85928732517095,2.345803056189527
 METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.859589655582816,2.346478183587595
 METRO 11,Châtelet,1,"METRO 1, METRO 4, METRO 7, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.8597186619952,2.346768285736699
-METRO 11,Hôtel de Ville,2,"METRO 1, METRO 11",hotel de ville,hotel de ville,48.85747798252935,2.3515775629949967
-METRO 11,Hôtel de Ville,2,"METRO 1, METRO 11",hotel de ville,hotel de ville,48.85745183174312,2.3510084614060265
+METRO 11,Hôtel de Ville,2,METRO 1,hotel de ville,hotel de ville,48.85747798252935,2.3515775629949967
+METRO 11,Hôtel de Ville,2,METRO 1,hotel de ville,hotel de ville,48.85745183174312,2.3510084614060265
 METRO 11,Rambuteau,3,,rambuteau,rambuteau,48.86120499033039,2.353495741491146
-METRO 11,Arts et Métiers,4,"METRO 3, METRO 11",arts et metiers,arts et metiers,48.86558647849898,2.356736756794993
-METRO 11,Arts et Métiers,4,"METRO 3, METRO 11",arts et metiers,arts et metiers,48.86532271167806,2.356729869173701
-METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86702678847436,2.364247995104706
-METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86782709972698,2.3637404371950392
-METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86799910892294,2.3650748610827645
-METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86760088010245,2.362757380002764
-METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9, METRO 11",republique,republique,48.86778030055016,2.3629287001561123
+METRO 11,Arts et Métiers,4,METRO 3,arts et metiers,arts et metiers,48.86558647849898,2.356736756794993
+METRO 11,Arts et Métiers,4,METRO 3,arts et metiers,arts et metiers,48.86532271167806,2.356729869173701
+METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9",republique,republique,48.86702678847436,2.364247995104706
+METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9",republique,republique,48.86782709972698,2.3637404371950392
+METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9",republique,republique,48.86799910892294,2.3650748610827645
+METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9",republique,republique,48.86760088010245,2.362757380002764
+METRO 11,République,5,"METRO 3, METRO 5, METRO 8, METRO 9",republique,republique,48.86778030055016,2.3629287001561123
 METRO 11,Goncourt,6,,goncourt,goncourt,48.86995751270301,2.3710948397312004
-METRO 11,Belleville,7,"METRO 2, METRO 11",belleville,belleville,48.87184879466127,2.3765936840968225
-METRO 11,Belleville,7,"METRO 2, METRO 11",belleville,belleville,48.87228310892801,2.37673072170184
-METRO 11,Pyrenees,8,,pyrenees,pyrenees,48.87388185415816,2.385316215101792
+METRO 11,Belleville,7,METRO 2,belleville,belleville,48.87184879466127,2.3765936840968225
+METRO 11,Belleville,7,METRO 2,belleville,belleville,48.87228310892801,2.37673072170184
+METRO 11,Pyrenées,8,,pyrenees,pyrenees,48.87388185415816,2.385316215101792
 METRO 11,Jourdain,9,,jourdain,jourdain,48.87511181695599,2.389415032035528
-METRO 11,Télégraphe,10,,telegraphe,telegraphe,48.87547445667917,2.398867596625601
-METRO 11,Porte des Lilas,11,,porte des lilas,porte des lilas,48.87663081498978,2.406999582693831
-METRO 11,Porte des Lilas,11,,porte des lilas,porte des lilas,48.87717481930548,2.406480156998486
-METRO 11,Porte des Lilas,11,,porte des lilas,porte des lilas,48.87711051176337,2.40672924554309
-METRO 11,Mairie des Lilas,12,,mairie des lilas,mairie des lilas,48.87976125309794,2.416479643681515
-METRO 11,Serge Gainsbourg,13,,serge gainsbourg,serge gainsbourg,48.88131606223431,2.4271855777339173
-METRO 11,Romainville – Carnot,14,,romainville carnot,romainville carnot,48.8831359021221,2.44082220524926
-METRO 11,Montreuil – Hôpital,15,,montreuil hopital,montreuil hopital,48.87833670193852,2.454714211064978
-METRO 11,Robespierre,16,,robespierre,robespierre,48.85572642863316,2.422983216145876
-METRO 11,Croix de Chavaux,17,,croix de chavaux,croix de chavaux,48.85778351458649,2.434538451473474
-METRO 11,Mairie de Montreuil,18,,mairie de montreuil,mairie de montreuil,48.86229941281971,2.441521809411032
-METRO 11,Rosny-Bois-Perrier,19,,rosny bois perrier,rosny bois perrier,48.88275159763064,2.4805111480606854
-METRO 11,Rosny-Bois-Perrier,19,,rosny bois perrier,rosny bois perrier,48.88252792453506,2.481213457683429
+METRO 11,Place des Fêtes,10,METRO 7BIS,place des fetes,place des fetes,48.87694984811022,2.3929839648173936
+METRO 11,Place des Fêtes,10,METRO 7BIS,place des fetes,place des fetes,48.8768063892129,2.3930560919606623
+METRO 11,Télégraphe,11,,telegraphe,telegraphe,48.87547445667917,2.398867596625601
+METRO 11,Porte des Lilas,12,METRO 3BIS,porte des lilas,porte des lilas,48.87663081498978,2.406999582693831
+METRO 11,Porte des Lilas,12,METRO 3BIS,porte des lilas,porte des lilas,48.87717481930548,2.406480156998486
+METRO 11,Porte des Lilas,12,METRO 3BIS,porte des lilas,porte des lilas,48.87711051176337,2.40672924554309
+METRO 11,Mairie des Lilas,13,,mairie des lilas,mairie des lilas,48.87976125309794,2.416479643681515
+METRO 11,Serge Gainsbourg,14,,serge gainsbourg,serge gainsbourg,48.88131606223431,2.4271855777339173
+METRO 11,Romainville–Carnot,15,,romainville carnot,romainville carnot,48.8831359021221,2.44082220524926
+METRO 11,Montreuil – Hôpital,16,,montreuil hopital,montreuil hopital,48.87833670193852,2.454714211064978
+METRO 11,La Dhuys,17,,la dhuys,la dhuys,48.87799338768989,2.4654717467571627
+METRO 11,Coteaux Beauclair,18,,coteaux beauclair,coteaux beauclair,48.88224373133741,2.4673561174182512
+METRO 11,Rosny–Bois-Perrier,19,RER E,rosny bois perrier,rosny bois perrier,48.88275159763064,2.4805111480606854
+METRO 11,Rosny–Bois-Perrier,19,RER E,rosny bois perrier,rosny bois perrier,48.88252792453506,2.481213457683429
 METRO 12,Mairie d'Aubervilliers,1,,mairie d'aubervilliers,mairie d'aubervilliers,48.913710545549606,2.380735606395094
 METRO 12,Aimé Césaire,2,,aime cesaire,aime cesaire,48.90808243782026,2.377741481106109
 METRO 12,Front Populaire,3,,front populaire,front populaire,48.90656714598029,2.3659203194009595
 METRO 12,Porte de la Chapelle,4,,porte de la chapelle,porte de la chapelle,48.89839212567743,2.358375469325785
 METRO 12,Porte de la Chapelle,4,,porte de la chapelle,porte de la chapelle,48.89724528809305,2.359507868815593
-METRO 12,Marcadet – Poissonniers,5,,marcadet poissonniers,marcadet poissonniers,48.89143955488239,2.349627158227453
-METRO 12,Marcadet – Poissonniers,5,,marcadet poissonniers,marcadet poissonniers,48.89146500033268,2.349815453218361
+METRO 12,Marcadet – Poissonniers,5,RER E,marcadet poissonniers,marcadet poissonniers,48.89143955488239,2.349627158227453
+METRO 12,Marcadet – Poissonniers,5,RER E,marcadet poissonniers,marcadet poissonniers,48.89146500033268,2.349815453218361
 METRO 12,Jules Joffrin,6,,jules joffrin,jules joffrin,48.89241892294572,2.3447646117383565
 METRO 12,Lamarck – Caulaincourt,7,,lamarck caulaincourt,lamarck caulaincourt,48.88967407389343,2.338760650528743
 METRO 12,Abbesses,8,,abbesses,abbesses,48.884594208027806,2.3379497756920697
-METRO 12,Pigalle,9,"METRO 2, METRO 12",pigalle,pigalle,48.88224953318808,2.3371645394451463
-METRO 12,Pigalle,9,"METRO 2, METRO 12",pigalle,pigalle,48.88222543392857,2.3382334685046176
+METRO 12,Pigalle,9,,pigalle,pigalle,48.88224953318808,2.3371645394451463
+METRO 12,Pigalle,9,,pigalle,pigalle,48.88222543392857,2.3382334685046176
 METRO 12,Saint-Georges,10,,saint georges,saint georges,48.87817339105656,2.337857510381017
 METRO 12,Notre-Dame-de-Lorette,11,,notre dame de lorette,notre dame de lorette,48.876047496005405,2.337495844533765
 METRO 12,Trinité – d'Estienne d'Orves,12,,trinite d'estienne d'orves,trinite d'estienne d'orves,48.87633026495961,2.333108893760544
-METRO 12,Saint-Lazare,13,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87515128791023,2.324380555428912
-METRO 12,Saint-Lazare,13,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87567210708072,2.327842235259621
-METRO 12,Saint-Lazare,13,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87542071665263,2.32547637444705
-METRO 12,Saint-Lazare,13,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
-METRO 12,Saint-Lazare,13,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87571908982334,2.324224580938853
-METRO 12,Madeleine,14,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.87023324339993,2.325163546827897
-METRO 12,Madeleine,14,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.86963317302492,2.326272274027749
-METRO 12,Madeleine,14,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.87066702089795,2.325752635286725
-METRO 12,Concorde,15,"METRO 1, METRO 8, METRO 12",concorde,place de la concorde,48.86628580458389,2.322943412243541
-METRO 12,Concorde,15,"METRO 1, METRO 8, METRO 12",concorde,place de la concorde,48.86681836985009,2.3220828486761693
-METRO 12,Concorde,15,"METRO 1, METRO 8, METRO 12",concorde,place de la concorde,48.86616711494919,2.323175680856618
+METRO 12,Saint-Lazare,13,,saint lazare,saint lazare,48.87515128791023,2.324380555428912
+METRO 12,Saint-Lazare,13,,saint lazare,saint lazare,48.87567210708072,2.327842235259621
+METRO 12,Saint-Lazare,13,,saint lazare,saint lazare,48.87542071665263,2.32547637444705
+METRO 12,Saint-Lazare,13,,saint lazare,saint lazare,48.87683695396951,2.3247380468366337
+METRO 12,Saint-Lazare,13,,saint lazare,saint lazare,48.87571908982334,2.324224580938853
+METRO 12,Madeleine,14,"METRO 2, METRO 12",madeleine,madeleine,48.87023324339993,2.325163546827897
+METRO 12,Madeleine,14,"METRO 2, METRO 12",madeleine,madeleine,48.86963317302492,2.326272274027749
+METRO 12,Madeleine,14,"METRO 2, METRO 12",madeleine,madeleine,48.87066702089795,2.325752635286725
+METRO 12,Concorde,15,,concorde,place de la concorde,48.86628580458389,2.322943412243541
+METRO 12,Concorde,15,,concorde,place de la concorde,48.86681836985009,2.3220828486761693
+METRO 12,Concorde,15,,concorde,place de la concorde,48.86616711494919,2.323175680856618
 METRO 12,Assemblée Nationale,16,,assemblee nationale,assemblee nationale,48.86078696352672,2.3209981919540845
 METRO 12,Solférino,17,,solferino,solferino,48.85849912371638,2.323167611246745
-METRO 12,Rue du Bac,18,,rue du bac,rue du bac,48.85519632481491,2.325815566511529
-METRO 12,Sèvres – Babylone,19,"METRO 10, METRO 12",sevres babylone,sevres babylone,48.8510317512393,2.3261023128241907
-METRO 12,Sèvres – Babylone,19,"METRO 10, METRO 12",sevres babylone,sevres babylone,48.85176205249548,2.326822568897497
-METRO 12,Rennes,20,,rennes,rennes,48.84845784944872,2.3277821284985807
+METRO 12,Rue du Bac,18,"METRO 3, METRO 12, METRO 13, RER E",rue du bac,rue du bac,48.85519632481491,2.325815566511529
+METRO 12,Sèvres – Babylone,19,"METRO 8, METRO 12, METRO 14",sevres babylone,sevres babylone,48.8510317512393,2.3261023128241907
+METRO 12,Sèvres – Babylone,19,"METRO 8, METRO 12, METRO 14",sevres babylone,sevres babylone,48.85176205249548,2.326822568897497
+METRO 12,Rennes,20,"METRO 1, METRO 8, METRO 12",rennes,rennes,48.84845784944872,2.3277821284985807
 METRO 12,Notre-Dame-des-Champs,21,,notre dame des champs,notre dame des champs,48.84494263342596,2.32877802689008
-METRO 12,Montparnasse – Bienvenüe,22,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
-METRO 12,Montparnasse – Bienvenüe,22,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
-METRO 12,Montparnasse – Bienvenüe,22,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
-METRO 12,Montparnasse – Bienvenüe,22,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
+METRO 12,Montparnasse – Bienvenüe,22,,montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
+METRO 12,Montparnasse – Bienvenüe,22,,montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
+METRO 12,Montparnasse – Bienvenüe,22,,montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
+METRO 12,Montparnasse – Bienvenüe,22,,montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
 METRO 12,Falguière,23,,falguiere,falguiere,48.84447014129587,2.317852783041332
-METRO 12,Pasteur,24,,pasteur,pasteur,48.842871275006345,2.3124475130659863
-METRO 12,Pasteur,24,,pasteur,pasteur,48.84267681998372,2.3128127748369023
+METRO 12,Pasteur,24,"METRO 10, METRO 12",pasteur,pasteur,48.842871275006345,2.3124475130659863
+METRO 12,Pasteur,24,"METRO 10, METRO 12",pasteur,pasteur,48.84267681998372,2.3128127748369023
 METRO 12,Volontaires,25,,volontaires,volontaires,48.84150552236008,2.3079486779742893
 METRO 12,Vaugirard,26,,vaugirard,vaugirard,48.839516585402485,2.3011075162423964
-METRO 12,Convention,27,,convention,convention,48.837099428223645,2.296231386803389
-METRO 12,Plaisance,28,,plaisance,plaisance,48.83182565048563,2.3141223234590225
+METRO 12,Convention,27,"METRO 4, METRO 6, METRO 12, METRO 13",convention,convention,48.837099428223645,2.296231386803389
+METRO 12,Porte de Versailles,28,,porte de versailles,porte de versailles,48.832676871877865,2.288069457597242
+METRO 12,Porte de Versailles,28,,porte de versailles,porte de versailles,48.83187246749725,2.287207137822909
+METRO 12,Porte de Versailles,28,,porte de versailles,porte de versailles,48.83244909914335,2.2880221411003245
 METRO 12,Porte de Vanves,29,,porte de vanves,porte de vanves,48.82779554349536,2.305534669653895
 METRO 12,Porte de Vanves,29,,porte de vanves,porte de vanves,48.82741485955381,2.306635926501743
-METRO 12,Malakoff – Plateau de Vanves,30,,malakoff plateau de vanves,malakoff plateau de vanves,48.822583707737074,2.298464191958535
-METRO 12,Malakoff – Rue Étienne Dolet,31,,malakoff rue etienne dolet,malakoff rue etienne dolet,48.81530753120022,2.2970777969729843
-METRO 12,Châtillon – Montrouge,32,,chatillon montrouge,chatillon montrouge,48.810746486780936,2.3016785554824284
-METRO 12,Châtillon – Montrouge,32,,chatillon montrouge,chatillon montrouge,48.810601094494544,2.3003574744281328
+METRO 12,Corentin Celton,30,,corentin celton,corentin celton,48.82708544889644,2.2794116820504207
+METRO 12,Mairie d’Issy,31,,mairie d'issy,mairie d'issy,48.82430937109403,2.273665557499754
 METRO 13 1,Saint-Denis Université,1,,saint denis universite,saint denis universite,48.94586727214251,2.3646364825042263
-METRO 13 1,Saint-Denis Porte de Paris,2,,saint denis porte de paris,saint denis porte de paris,48.92981642738063,2.3572920708824574
-METRO 13 1,Saint-Denis Porte de Paris,2,,saint denis porte de paris,saint denis porte de paris,48.929935889678696,2.3560357941727967
-METRO 13 1,Basilique de Saint-Denis,3,,basilique de saint denis,basilique de saint denis,48.93805733112318,2.360792492279713
-METRO 13 1,Basilique de Saint-Denis,3,,basilique de saint denis,basilique de saint denis,48.93677678991262,2.3593662963605984
-METRO 13 1,Saint-Ouen,4,METRO 14,saint ouen,saint ouen,48.9045663899011,2.3226263683342268
-METRO 13 1,Saint-Ouen,4,METRO 14,saint ouen,saint ouen,48.904496420574624,2.321743589558779
+METRO 13 1,Basilique de Saint-Denis,2,,basilique de saint denis,basilique de saint denis,48.93805733112318,2.360792492279713
+METRO 13 1,Basilique de Saint-Denis,2,,basilique de saint denis,basilique de saint denis,48.93677678991262,2.3593662963605984
+METRO 13 1,Saint-Denis Porte de Paris,3,,saint denis porte de paris,saint denis porte de paris,48.92981642738063,2.3572920708824574
+METRO 13 1,Saint-Denis Porte de Paris,3,,saint denis porte de paris,saint denis porte de paris,48.929935889678696,2.3560357941727967
+METRO 13 1,Carrefour Pleyel,4,,carrefour pleyel,carrefour pleyel,48.91900755521728,2.342608014423156
 METRO 13 1,Mairie de Saint-Ouen,5,,mairie de saint ouen,mairie de saint ouen,48.91196489788089,2.3339248904797145
 METRO 13 1,Mairie de Saint-Ouen,5,,mairie de saint ouen,mairie de saint ouen,48.91320209515785,2.334663150119759
 METRO 13 1,Garibaldi,6,,garibaldi,garibaldi,48.90609405024863,2.3318308379624098
-METRO 13 1,Porte de Clignancourt,7,,porte de clignancourt,porte de clignancourt,48.89804145033781,2.3450784496454857
-METRO 13 1,Porte de Clignancourt,7,,porte de clignancourt,porte de clignancourt,48.897402222898094,2.344847748752399
-METRO 13 1,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy,porte de clichy,48.8946243340091,2.3142338462894254
-METRO 13 1,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy,porte de clichy,48.89425226223873,2.313772157405782
-METRO 13 1,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy,porte de clichy,48.89498081072532,2.312791961501292
-METRO 13 1,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy,porte de clichy,48.89416838621195,2.315599220546768
+METRO 13 1,Porte de Saint-Ouen,7,,porte de saint ouen,porte de saint ouen,48.89767181948477,2.3298303344938858
+METRO 13 1,Porte de Saint-Ouen,7,,porte de saint ouen,porte de saint ouen,48.89737479642877,2.3289428127683025
+METRO 13 1,Guy Môquet,8,,guy moquet,guy moquet,48.892206827747096,2.3272198679191285
 METRO 13 1,La Fourche,9,,la fourche,la fourche,48.88718394686579,2.3257796748068915
-METRO 13 1,Place de Clichy,10,"METRO 2, METRO 13",place de clichy,place de clichy,48.88399982489613,2.32853013989038
-METRO 13 1,Place de Clichy,10,"METRO 2, METRO 13",place de clichy,place de clichy,48.8838045280338,2.3272434105874065
-METRO 13 1,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87515128791023,2.324380555428912
-METRO 13 1,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87567210708072,2.327842235259621
-METRO 13 1,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87542071665263,2.32547637444705
-METRO 13 1,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
-METRO 13 1,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87571908982334,2.324224580938853
-METRO 13 1,Miromesnil,12,"METRO 9, METRO 13",miromesnil,miromesnil,48.87376998959543,2.31445603617697
-METRO 13 1,Miromesnil,12,"METRO 9, METRO 13",miromesnil,miromesnil,48.87373316560706,2.314743542030632
-METRO 13 1,Saint-François-Xavier,13,,saint francois xavier,saint francois xavier,48.85144170744032,2.314408121472487
-METRO 13 1,Duroc,14,"METRO 10, METRO 13",duroc,duroc,48.84698910613954,2.3170052357372453
-METRO 13 1,Duroc,14,"METRO 10, METRO 13",duroc,duroc,48.84705255542817,2.3164243520508925
-METRO 13 1,Montparnasse – Bienvenüe,15,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
-METRO 13 1,Montparnasse – Bienvenüe,15,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
-METRO 13 1,Montparnasse – Bienvenüe,15,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
-METRO 13 1,Montparnasse – Bienvenüe,15,"METRO 4, METRO 6, METRO 12, METRO 13",montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
-METRO 13 1,Gaîté,16,,gaite,gaite,48.838631646237154,2.322491748462238
-METRO 13 1,Pernety,17,,pernety,pernety,48.83422588267789,2.318616414425384
-METRO 13 1,Plaisance,18,,plaisance,plaisance,48.83182565048563,2.3141223234590225
-METRO 13 1,Porte de Vanves,19,,porte de vanves,porte de vanves,48.82779554349536,2.305534669653895
-METRO 13 1,Porte de Vanves,19,,porte de vanves,porte de vanves,48.82741485955381,2.306635926501743
-METRO 13 1,Porte de Versailles,20,,porte de versailles,porte de versailles,48.832676871877865,2.288069457597242
-METRO 13 1,Porte de Versailles,20,,porte de versailles,porte de versailles,48.83187246749725,2.287207137822909
-METRO 13 1,Porte de Versailles,20,,porte de versailles,porte de versailles,48.83244909914335,2.2880221411003245
-METRO 13 1,Corentin Celton,21,,corentin celton,corentin celton,48.82708544889644,2.2794116820504207
-METRO 13 1,Mairie de Vanves,22,,mairie de vanves,mairie de vanves,,
-METRO 13 1,Malakoff – Rue Étienne Dolet,23,,malakoff rue etienne dolet,malakoff rue etienne dolet,48.81530753120022,2.2970777969729843
-METRO 13 1,Bagneux,24,,bagneux,bagneux,48.79333629623622,2.322201633670121
-METRO 13 1,Bagneux – Lucie Aubrac,25,,bagneux lucie aubrac,bagneux lucie aubrac,48.80363023251622,2.3180536133374328
-METRO 13 1,Fontenay-aux-Roses,26,,fontenay aux roses,fontenay aux roses,48.78756672836799,2.292988009258979
-METRO 13 1,Châtillon – Montrouge,27,,chatillon montrouge,chatillon montrouge,48.810746486780936,2.3016785554824284
-METRO 13 1,Châtillon – Montrouge,27,,chatillon montrouge,chatillon montrouge,48.810601094494544,2.3003574744281328
-METRO 13 2,Saint-Denis Université,1,,saint denis universite,saint denis universite,48.94586727214251,2.3646364825042263
-METRO 13 2,Saint-Denis Porte de Paris,2,,saint denis porte de paris,saint denis porte de paris,48.92981642738063,2.3572920708824574
-METRO 13 2,Saint-Denis Porte de Paris,2,,saint denis porte de paris,saint denis porte de paris,48.929935889678696,2.3560357941727967
-METRO 13 2,Basilique de Saint-Denis,3,,basilique de saint denis,basilique de saint denis,48.93805733112318,2.360792492279713
-METRO 13 2,Basilique de Saint-Denis,3,,basilique de saint denis,basilique de saint denis,48.93677678991262,2.3593662963605984
-METRO 13 2,Saint-Ouen,4,METRO 14,saint ouen,saint ouen,48.9045663899011,2.3226263683342268
-METRO 13 2,Saint-Ouen,4,METRO 14,saint ouen,saint ouen,48.904496420574624,2.321743589558779
-METRO 13 2,Mairie de Saint-Ouen,5,,mairie de saint ouen,mairie de saint ouen,48.91196489788089,2.3339248904797145
-METRO 13 2,Mairie de Saint-Ouen,5,,mairie de saint ouen,mairie de saint ouen,48.91320209515785,2.334663150119759
-METRO 13 2,Garibaldi,6,,garibaldi,garibaldi,48.90609405024863,2.3318308379624098
-METRO 13 2,Porte de Clignancourt,7,,porte de clignancourt,porte de clignancourt,48.89804145033781,2.3450784496454857
-METRO 13 2,Porte de Clignancourt,7,,porte de clignancourt,porte de clignancourt,48.897402222898094,2.344847748752399
-METRO 13 2,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy,porte de clichy,48.8946243340091,2.3142338462894254
-METRO 13 2,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy,porte de clichy,48.89425226223873,2.313772157405782
-METRO 13 2,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy,porte de clichy,48.89498081072532,2.312791961501292
-METRO 13 2,Porte de Clichy,8,"METRO 13, METRO 14",porte de clichy,porte de clichy,48.89416838621195,2.315599220546768
-METRO 13 2,La Fourche,9,,la fourche,la fourche,48.88718394686579,2.3257796748068915
-METRO 13 2,Place de Clichy,10,"METRO 2, METRO 13",place de clichy,place de clichy,48.88399982489613,2.32853013989038
-METRO 13 2,Place de Clichy,10,"METRO 2, METRO 13",place de clichy,place de clichy,48.8838045280338,2.3272434105874065
-METRO 13 2,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87515128791023,2.324380555428912
-METRO 13 2,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87567210708072,2.327842235259621
-METRO 13 2,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87542071665263,2.32547637444705
-METRO 13 2,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
-METRO 13 2,Saint-Lazare,11,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87571908982334,2.324224580938853
-METRO 13 2,Les Agnettes,12,,les agnettes,les agnettes,48.92310377966602,2.2862795775297826
-METRO 13 2,Gabriel Péri,13,,gabriel peri,gabriel peri,48.916382309922106,2.294685111702554
-METRO 13 2,Asnières – Gennevilliers,14,,asnieres gennevilliers,asnieres gennevilliers,,
-METRO 13 2,Les Courtilles,15,,les courtilles,les courtilles,48.93075700423553,2.284174448270923
-METRO 13 2,Les Courtilles,15,,les courtilles,les courtilles,48.93021421228678,2.283722557328397
-METRO 14,Saint-Denis – Pleyel,1,,saint denis pleyel,saint denis pleyel,48.91746894101899,2.3465446215359846
-METRO 14,Mairie de Saint-Ouen,2,,mairie de saint ouen,mairie de saint ouen,48.91196489788089,2.3339248904797145
-METRO 14,Mairie de Saint-Ouen,2,,mairie de saint ouen,mairie de saint ouen,48.91320209515785,2.334663150119759
-METRO 14,Saint-Ouen,3,,saint ouen,saint ouen,48.9045663899011,2.3226263683342268
-METRO 14,Saint-Ouen,3,,saint ouen,saint ouen,48.904496420574624,2.321743589558779
-METRO 14,Porte de Clichy,4,,porte de clichy,porte de clichy,48.8946243340091,2.3142338462894254
-METRO 14,Porte de Clichy,4,,porte de clichy,porte de clichy,48.89425226223873,2.313772157405782
-METRO 14,Porte de Clichy,4,,porte de clichy,porte de clichy,48.89498081072532,2.312791961501292
-METRO 14,Porte de Clichy,4,,porte de clichy,porte de clichy,48.89416838621195,2.315599220546768
-METRO 14,Saint-Lazare,5,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87515128791023,2.324380555428912
-METRO 14,Saint-Lazare,5,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87567210708072,2.327842235259621
-METRO 14,Saint-Lazare,5,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87542071665263,2.32547637444705
-METRO 14,Saint-Lazare,5,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
-METRO 14,Saint-Lazare,5,"METRO 3, METRO 12, METRO 13, RER E",saint lazare,saint lazare,48.87571908982334,2.324224580938853
-METRO 14,Madeleine,6,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.87023324339993,2.325163546827897
-METRO 14,Madeleine,6,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.86963317302492,2.326272274027749
-METRO 14,Madeleine,6,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.87066702089795,2.325752635286725
-METRO 14,Pyramides,7,"METRO 7, METRO 14",pyramides,pyramides,48.86590673959417,2.3341895419682497
-METRO 14,Pyramides,7,"METRO 7, METRO 14",pyramides,pyramides,48.86573786666654,2.33443771486555
-METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85763141070005,2.3480365654004016
-METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86251523497548,2.345785860039181
-METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.856942736159496,2.348147481005499
-METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86182227279812,2.3470126872387564
-METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85928732517095,2.345803056189527
-METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.859589655582816,2.346478183587595
-METRO 14,Châtelet,8,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.8597186619952,2.346768285736699
-METRO 14,Gare de Lyon,9,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84476017126674,2.373593653262281
-METRO 14,Gare de Lyon,9,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84413934985302,2.373259976710645
-METRO 14,Gare de Lyon,9,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84586897868619,2.373774422563834
-METRO 14,Gare de Lyon,9,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84377257685146,2.3739164698064985
-METRO 14,Gare de Lyon,9,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.843486761806766,2.3739225903167545
-METRO 14,Bercy,10,,bercy,bercy,48.83908128024196,2.383028081146452
-METRO 14,Bercy,10,,bercy,bercy,48.84038874809587,2.3799112714543984
-METRO 14,Bercy,10,,bercy,bercy,48.8400013886488,2.3795540112141405
-METRO 14,Cour Saint-Émilion,11,,cour saint emilion,cour saint emilion,48.83333855925167,2.386632402066985
-METRO 14,Bibliothèque François Mitterrand,12,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
-METRO 14,Bibliothèque François Mitterrand,12,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
-METRO 14,Olympiades,13,,olympiades,olympiades,48.82727083601133,2.3680326484142777
-METRO 14,Maison Blanche,14,,maison blanche,maison blanche,48.82218265855656,2.358551348202204
-METRO 14,Maison Blanche,14,,maison blanche,maison blanche,48.82142042957708,2.3590551543843183
-METRO 14,Hôpital Bicêtre,15,,hopital bicetre,hopital bicetre,48.80981003194872,2.349750100298353
-METRO 14,Villejuif – Gustave Roussy,16,,villejuif gustave roussy,villejuif gustave roussy,48.79305491267365,2.34936523945399
-METRO 14,L'Haÿ-les-Roses,17,,l'hay les roses,l'hay les roses,48.77531361288962,2.354364943199496
-METRO 14,Chevilly-Larue,18,,chevilly larue,chevilly larue,48.75955015404931,2.366485372253663
-METRO 14,Thiais – Orly,19,,thiais orly,thiais orly,48.746978700693774,2.372839696785623
-METRO 14,Aéroport d’Orly,20,RER C,aeroport d'orly,aeroport d'orly,48.72955072266279,2.3682641286195816
-METRO 14,Aéroport d’Orly,20,RER C,aeroport d'orly,aeroport d'orly,48.7280833904763,2.3625914696897388
+METRO 13 1,Place de Clichy,10,METRO 14,place de clichy,place de clichy,48.88399982489613,2.32853013989038
+METRO 13 1,Place de Clichy,10,METRO 14,place de clichy,place de clichy,48.8838045280338,2.3272434105874065
+METRO 13 1,Liège,11,,liege,liege,48.87963476065682,2.3270222008895027
+METRO 13 1,Saint-Lazare,12,,saint lazare,saint lazare,48.87515128791023,2.324380555428912
+METRO 13 1,Saint-Lazare,12,,saint lazare,saint lazare,48.87567210708072,2.327842235259621
+METRO 13 1,Saint-Lazare,12,,saint lazare,saint lazare,48.87542071665263,2.32547637444705
+METRO 13 1,Saint-Lazare,12,,saint lazare,saint lazare,48.87683695396951,2.3247380468366337
+METRO 13 1,Saint-Lazare,12,,saint lazare,saint lazare,48.87571908982334,2.324224580938853
+METRO 13 1,Miromesnil,13,,miromesnil,miromesnil,48.87376998959543,2.31445603617697
+METRO 13 1,Miromesnil,13,,miromesnil,miromesnil,48.87373316560706,2.314743542030632
+METRO 13 1,Champs-Elysées Clemenceau,14,,champs elysees clemenceau,champs elysees clemenceau,48.86760214522151,2.3138941304816147
+METRO 13 1,Champs-Elysées Clemenceau,14,,champs elysees clemenceau,champs elysees clemenceau,48.8679053448971,2.313545549946741
+METRO 13 1,Invalides,15,METRO 2,invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+METRO 13 1,Invalides,15,METRO 2,invalides,hotel des invalides,48.862884804554966,2.31251355492596
+METRO 13 1,Invalides,15,METRO 2,invalides,hotel des invalides,48.86038127919816,2.314890730058881
+METRO 13 1,Varenne,16,,varenne,varenne,48.85687137924919,2.315056637317088
+METRO 13 1,Saint-François-Xavier,17,"METRO 3, METRO 12, METRO 14, RER E",saint francois xavier,saint francois xavier,48.85144170744032,2.314408121472487
+METRO 13 1,Duroc,18,METRO 9,duroc,duroc,48.84698910613954,2.3170052357372453
+METRO 13 1,Duroc,18,METRO 9,duroc,duroc,48.84705255542817,2.3164243520508925
+METRO 13 1,Montparnasse – Bienvenüe,19,METRO 1,montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
+METRO 13 1,Montparnasse – Bienvenüe,19,METRO 1,montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
+METRO 13 1,Montparnasse – Bienvenüe,19,METRO 1,montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
+METRO 13 1,Montparnasse – Bienvenüe,19,METRO 1,montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
+METRO 13 1,Gaîté,20,"METRO 8, RER C",gaite,gaite,48.838631646237154,2.322491748462238
+METRO 13 1,Pernety,21,,pernety,pernety,48.83422588267789,2.318616414425384
+METRO 13 1,Plaisance,22,,plaisance,plaisance,48.83182565048563,2.3141223234590225
+METRO 13 1,Porte de Vanves,23,METRO 10,porte de vanves,porte de vanves,48.82779554349536,2.305534669653895
+METRO 13 1,Porte de Vanves,23,METRO 10,porte de vanves,porte de vanves,48.82741485955381,2.306635926501743
+METRO 13 1,Malakoff - Plateau de Vanves,24,"METRO 4, METRO 6, METRO 12",malakoff plateau de vanves,malakoff plateau de vanves,48.822583707737074,2.298464191958535
+METRO 13 1,Malakoff – Rue Étienne Dolet,25,,malakoff rue etienne dolet,malakoff rue etienne dolet,48.81530753120022,2.2970777969729843
+METRO 13 1,Châtillon – Montrouge,26,,chatillon montrouge,chatillon montrouge,48.810746486780936,2.3016785554824284
+METRO 13 1,Châtillon – Montrouge,26,,chatillon montrouge,chatillon montrouge,48.810601094494544,2.3003574744281328
+METRO 13 2,Les Courtilles,1,,les courtilles,les courtilles,48.93075700423553,2.284174448270923
+METRO 13 2,Les Courtilles,1,,les courtilles,les courtilles,48.93021421228678,2.283722557328397
+METRO 13 2,Les Agnettes,2,,les agnettes,les agnettes,48.92310377966602,2.2862795775297826
+METRO 13 2,Gabriel Péri,3,,gabriel peri,gabriel peri,48.916382309922106,2.294685111702554
+METRO 13 2,Mairie de Clichy,4,,mairie de clichy,mairie de clichy,48.90323367878661,2.306010915009083
+METRO 13 2,Porte de Clichy,5,,porte de clichy,porte de clichy,48.8946243340091,2.3142338462894254
+METRO 13 2,Porte de Clichy,5,,porte de clichy,porte de clichy,48.89425226223873,2.313772157405782
+METRO 13 2,Porte de Clichy,5,,porte de clichy,porte de clichy,48.89498081072532,2.312791961501292
+METRO 13 2,Porte de Clichy,5,,porte de clichy,porte de clichy,48.89416838621195,2.315599220546768
+METRO 13 2,Brochant,6,,brochant,brochant,48.89058718661181,2.320174757151551
+METRO 13 2,La Fourche,7,,la fourche,la fourche,48.88718394686579,2.3257796748068915
+METRO 13 2,Place de Clichy,8,,place de clichy,place de clichy,48.88399982489613,2.32853013989038
+METRO 13 2,Place de Clichy,8,,place de clichy,place de clichy,48.8838045280338,2.3272434105874065
+METRO 13 2,Liège,9,,liege,liege,48.87963476065682,2.3270222008895027
+METRO 13 2,Saint-Lazare,10,"METRO 14, RER C",saint lazare,saint lazare,48.87515128791023,2.324380555428912
+METRO 13 2,Saint-Lazare,10,"METRO 14, RER C",saint lazare,saint lazare,48.87567210708072,2.327842235259621
+METRO 13 2,Saint-Lazare,10,"METRO 14, RER C",saint lazare,saint lazare,48.87542071665263,2.32547637444705
+METRO 13 2,Saint-Lazare,10,"METRO 14, RER C",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
+METRO 13 2,Saint-Lazare,10,"METRO 14, RER C",saint lazare,saint lazare,48.87571908982334,2.324224580938853
+METRO 13 2,Miromesnil,11,,miromesnil,miromesnil,48.87376998959543,2.31445603617697
+METRO 13 2,Miromesnil,11,,miromesnil,miromesnil,48.87373316560706,2.314743542030632
+METRO 13 2,Champs-Elysées Clemenceau,12,,champs elysees clemenceau,champs elysees clemenceau,48.86760214522151,2.3138941304816147
+METRO 13 2,Champs-Elysées Clemenceau,12,,champs elysees clemenceau,champs elysees clemenceau,48.8679053448971,2.313545549946741
+METRO 13 2,Invalides,13,METRO 2,invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+METRO 13 2,Invalides,13,METRO 2,invalides,hotel des invalides,48.862884804554966,2.31251355492596
+METRO 13 2,Invalides,13,METRO 2,invalides,hotel des invalides,48.86038127919816,2.314890730058881
+METRO 13 2,Varenne,14,,varenne,varenne,48.85687137924919,2.315056637317088
+METRO 13 2,Saint-François-Xavier,15,"METRO 3, METRO 12, METRO 14, RER E",saint francois xavier,saint francois xavier,48.85144170744032,2.314408121472487
+METRO 13 2,Duroc,16,METRO 9,duroc,duroc,48.84698910613954,2.3170052357372453
+METRO 13 2,Duroc,16,METRO 9,duroc,duroc,48.84705255542817,2.3164243520508925
+METRO 13 2,Montparnasse – Bienvenüe,17,METRO 1,montparnasse bienvenue,montparnasse bienvenue,48.842102207208605,2.321278562744628
+METRO 13 2,Montparnasse – Bienvenüe,17,METRO 1,montparnasse bienvenue,montparnasse bienvenue,48.84378130573586,2.3243970123857944
+METRO 13 2,Montparnasse – Bienvenüe,17,METRO 1,montparnasse bienvenue,montparnasse bienvenue,48.84373548931853,2.3243530411579663
+METRO 13 2,Montparnasse – Bienvenüe,17,METRO 1,montparnasse bienvenue,montparnasse bienvenue,48.84232743772649,2.320984834266813
+METRO 13 2,Gaîté,18,"METRO 8, RER C",gaite,gaite,48.838631646237154,2.322491748462238
+METRO 13 2,Pernety,19,,pernety,pernety,48.83422588267789,2.318616414425384
+METRO 13 2,Plaisance,20,,plaisance,plaisance,48.83182565048563,2.3141223234590225
+METRO 13 2,Porte de Vanves,21,METRO 10,porte de vanves,porte de vanves,48.82779554349536,2.305534669653895
+METRO 13 2,Porte de Vanves,21,METRO 10,porte de vanves,porte de vanves,48.82741485955381,2.306635926501743
+METRO 13 2,Malakoff - Plateau de Vanves,22,"METRO 4, METRO 6, METRO 12",malakoff plateau de vanves,malakoff plateau de vanves,48.822583707737074,2.298464191958535
+METRO 13 2,Malakoff – Rue Étienne Dolet,23,,malakoff rue etienne dolet,malakoff rue etienne dolet,48.81530753120022,2.2970777969729843
+METRO 13 2,Châtillon – Montrouge,24,,chatillon montrouge,chatillon montrouge,48.810746486780936,2.3016785554824284
+METRO 13 2,Châtillon – Montrouge,24,,chatillon montrouge,chatillon montrouge,48.810601094494544,2.3003574744281328
+METRO 14,Saint-Denis–Pleyel,1,"METRO 13, RER D, RER E",saint denis pleyel,saint denis pleyel,48.91746894101899,2.3465446215359846
+METRO 14,Mairie de Saint-Ouen,2,METRO 13,mairie de saint ouen,mairie de saint ouen,48.91196489788089,2.3339248904797145
+METRO 14,Mairie de Saint-Ouen,2,METRO 13,mairie de saint ouen,mairie de saint ouen,48.91320209515785,2.334663150119759
+METRO 14,Saint-Ouen,3,RER C,saint ouen,saint ouen,48.9045663899011,2.3226263683342268
+METRO 14,Saint-Ouen,3,RER C,saint ouen,saint ouen,48.904496420574624,2.321743589558779
+METRO 14,Porte de Clichy,4,"METRO 13, RER C",porte de clichy,porte de clichy,48.8946243340091,2.3142338462894254
+METRO 14,Porte de Clichy,4,"METRO 13, RER C",porte de clichy,porte de clichy,48.89425226223873,2.313772157405782
+METRO 14,Porte de Clichy,4,"METRO 13, RER C",porte de clichy,porte de clichy,48.89498081072532,2.312791961501292
+METRO 14,Porte de Clichy,4,"METRO 13, RER C",porte de clichy,porte de clichy,48.89416838621195,2.315599220546768
+METRO 14,Pont Cardinet,5,,pont cardinet,pont cardinet,48.88956082831538,2.3151768973047844
+METRO 14,Pont Cardinet,5,,pont cardinet,pont cardinet,48.88822016276463,2.313732451520272
+METRO 14,Saint-Lazare,6,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87515128791023,2.324380555428912
+METRO 14,Saint-Lazare,6,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87567210708072,2.327842235259621
+METRO 14,Saint-Lazare,6,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87542071665263,2.32547637444705
+METRO 14,Saint-Lazare,6,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
+METRO 14,Saint-Lazare,6,"METRO 3, METRO 12, METRO 13, METRO 14, RER E",saint lazare,saint lazare,48.87571908982334,2.324224580938853
+METRO 14,Madeleine,7,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.87023324339993,2.325163546827897
+METRO 14,Madeleine,7,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.86963317302492,2.326272274027749
+METRO 14,Madeleine,7,"METRO 8, METRO 12, METRO 14",madeleine,madeleine,48.87066702089795,2.325752635286725
+METRO 14,Pyramides,8,"METRO 7, METRO 14",pyramides,pyramides,48.86590673959417,2.3341895419682497
+METRO 14,Pyramides,8,"METRO 7, METRO 14",pyramides,pyramides,48.86573786666654,2.33443771486555
+METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85763141070005,2.3480365654004016
+METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86251523497548,2.345785860039181
+METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.856942736159496,2.348147481005499
+METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.86182227279812,2.3470126872387564
+METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.85928732517095,2.345803056189527
+METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.859589655582816,2.346478183587595
+METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER B, RER D",chatelet,chatelet,48.8597186619952,2.346768285736699
+METRO 14,Gare de Lyon,10,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84476017126674,2.373593653262281
+METRO 14,Gare de Lyon,10,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84413934985302,2.373259976710645
+METRO 14,Gare de Lyon,10,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84586897868619,2.373774422563834
+METRO 14,Gare de Lyon,10,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.84377257685146,2.3739164698064985
+METRO 14,Gare de Lyon,10,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,48.843486761806766,2.3739225903167545
+METRO 14,Bercy,11,"METRO 6, METRO 14",bercy,bercy,48.83908128024196,2.383028081146452
+METRO 14,Bercy,11,"METRO 6, METRO 14",bercy,bercy,48.84038874809587,2.3799112714543984
+METRO 14,Bercy,11,"METRO 6, METRO 14",bercy,bercy,48.8400013886488,2.3795540112141405
+METRO 14,Cour Saint-Émilion,12,,cour saint emilion,cour saint emilion,48.83333855925167,2.386632402066985
+METRO 14,Bibliothèque F. Mitterrand,13,RER C,bibliotheque f. mitterrand,bibliotheque f. mitterrand,,
+METRO 14,Olympiades,14,METRO 14,olympiades,olympiades,48.82727083601133,2.3680326484142777
+METRO 14,Maison Blanche,15,METRO 7,maison blanche,maison blanche,48.82218265855656,2.358551348202204
+METRO 14,Maison Blanche,15,METRO 7,maison blanche,maison blanche,48.82142042957708,2.3590551543843183
+METRO 14,Hôpital Bicêtre,16,,hopital bicetre,hopital bicetre,48.80981003194872,2.349750100298353
+METRO 14,Villejuif–Gustave Roussy,17,,villejuif gustave roussy,villejuif gustave roussy,48.79305491267365,2.34936523945399
+METRO 14,L'Haÿ-les-Roses,18,,l'hay les roses,l'hay les roses,48.77531361288962,2.354364943199496
+METRO 14,Chevilly-Larue,19,,chevilly larue,chevilly larue,48.75955015404931,2.366485372253663
+METRO 14,Thiais–Orly,20,,thiais orly,thiais orly,48.746978700693774,2.372839696785623
+METRO 14,Aéroport d'Orly,21,,aeroport d'orly,aeroport d'orly,48.72955072266279,2.3682641286195816
+METRO 14,Aéroport d'Orly,21,,aeroport d'orly,aeroport d'orly,48.7280833904763,2.3625914696897388
