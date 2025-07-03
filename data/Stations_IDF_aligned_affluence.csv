@@ -293,14 +293,14 @@ RER C 1,Gennevilliers,11,,gennevilliers,gennevilliers,RER C,0.3402
 RER C 1,Les Grésillons,12,,les gresillons,les gresillons,RER C,0.30618
 RER C 1,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,RER C,0.42
 RER C 1,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris,porte de clichy tribunal de paris,RER C,0.378
-RER C 1,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,RER C,0.3402
-RER C 1,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,RER C,0.30618
-RER C 1,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.27556200000000003
-RER C 1,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.24800580000000003
-RER C 1,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.22320522000000004
-RER C 1,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.20088469800000003
-RER C 1,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.18079622820000002
-RER C 1,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.16271660538000002
+RER C 1,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,RER C,0.42
+RER C 1,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,RER C,0.378
+RER C 1,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.3402
+RER C 1,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.30618
+RER C 1,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.27556200000000003
+RER C 1,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.24800580000000003
+RER C 1,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.22320522000000004
+RER C 1,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.20088469800000003
 RER C 1,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
 RER C 1,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 1,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.45499999999999996
@@ -331,14 +331,14 @@ RER C 2,Gennevilliers,11,,gennevilliers,gennevilliers,RER C,0.3402
 RER C 2,Les Grésillons,12,,les gresillons,les gresillons,RER C,0.30618
 RER C 2,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,RER C,0.42
 RER C 2,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris,porte de clichy tribunal de paris,RER C,0.378
-RER C 2,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,RER C,0.3402
-RER C 2,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,RER C,0.30618
-RER C 2,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.27556200000000003
-RER C 2,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.24800580000000003
-RER C 2,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.22320522000000004
-RER C 2,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.20088469800000003
-RER C 2,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.18079622820000002
-RER C 2,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.16271660538000002
+RER C 2,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,RER C,0.42
+RER C 2,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,RER C,0.378
+RER C 2,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.3402
+RER C 2,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.30618
+RER C 2,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.27556200000000003
+RER C 2,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.24800580000000003
+RER C 2,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.22320522000000004
+RER C 2,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.20088469800000003
 RER C 2,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
 RER C 2,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 2,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.45499999999999996
@@ -381,14 +381,14 @@ RER C 3,Gennevilliers,11,,gennevilliers,gennevilliers,RER C,0.3402
 RER C 3,Les Grésillons,12,,les gresillons,les gresillons,RER C,0.30618
 RER C 3,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,RER C,0.42
 RER C 3,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris,porte de clichy tribunal de paris,RER C,0.378
-RER C 3,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,RER C,0.3402
-RER C 3,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,RER C,0.30618
-RER C 3,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.27556200000000003
-RER C 3,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.24800580000000003
-RER C 3,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.22320522000000004
-RER C 3,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.20088469800000003
-RER C 3,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.18079622820000002
-RER C 3,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.16271660538000002
+RER C 3,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,RER C,0.42
+RER C 3,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,RER C,0.378
+RER C 3,Avenue Foch,17,METRO 2,avenue foch,avenue foch,RER C,0.3402
+RER C 3,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,RER C,0.30618
+RER C 3,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,RER C,0.27556200000000003
+RER C 3,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,RER C,0.24800580000000003
+RER C 3,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,RER C,0.22320522000000004
+RER C 3,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,RER C,0.20088469800000003
 RER C 3,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,RER C,0.45499999999999996
 RER C 3,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,RER C,0.4095
 RER C 3,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,RER C,0.45499999999999996
@@ -852,11 +852,11 @@ METRO 2,Philippe Auguste,22,,philippe auguste,philippe auguste,METRO 2,0.378
 METRO 2,Alexandre Dumas,23,,alexandre dumas,alexandre dumas,METRO 2,0.3402
 METRO 2,Avron,24,,avron,avron,METRO 2,0.30618
 METRO 2,Nation,25,"METRO 1, METRO 6, METRO 9, RER A",nation,nation,METRO 2,0.82
-METRO 3,Pont de Levallois – Bécon,1,,pont de levallois becon,pont de levallois becon,METRO 3,0.20726199000000003
-METRO 3,Anatole France,2,,anatole france,anatole france,METRO 3,0.23029110000000003
-METRO 3,Louise Michel,3,,louise michel,louise michel,METRO 3,0.255879
-METRO 3,Porte de Champerret,4,,porte de champerret,porte de champerret,METRO 3,0.28431
-METRO 3,Pereire,5,RER C,pereire,pereire,METRO 3,0.3159
+METRO 3,Pont de Levallois – Bécon,1,,pont de levallois becon,pont de levallois becon,METRO 3,0.255879
+METRO 3,Anatole France,2,,anatole france,anatole france,METRO 3,0.28431
+METRO 3,Louise Michel,3,,louise michel,louise michel,METRO 3,0.3159
+METRO 3,Porte de Champerret,4,,porte de champerret,porte de champerret,METRO 3,0.35100000000000003
+METRO 3,Pereire-Levallois,5,RER C,pereire levallois,pereire levallois,METRO 3,0.39
 METRO 3,Wagram,6,,wagram,wagram,METRO 3,0.35100000000000003
 METRO 3,Malesherbes,7,,malesherbes,malesherbes,METRO 3,0.39
 METRO 3,Villiers,8,METRO 2,villiers,villiers,METRO 3,0.39
@@ -1268,8 +1268,8 @@ METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER 
 METRO 14,Gare de Lyon,10,"METRO 1, METRO 14, RER A, RER D",gare de lyon,gare de lyon,METRO 14,0.98
 METRO 14,Bercy,11,"METRO 6, METRO 14",bercy,bercy,METRO 14,0.48
 METRO 14,Cour Saint-Émilion,12,,cour saint emilion,cour saint emilion,METRO 14,0.432
-METRO 14,Bibliothèque F. Mitterrand,13,RER C,bibliotheque f. mitterrand,bibliotheque f. mitterrand,METRO 14,0.3888
-METRO 14,Olympiades,14,METRO 14,olympiades,olympiades,METRO 14,0.34992
+METRO 14,Bibliothèque François Mitterrand,13,RER C,bibliotheque francois mitterrand,bibliotheque francois mitterrand,METRO 14,0.7
+METRO 14,Olympiades,14,METRO 14,olympiades,olympiades,METRO 14,0.63
 METRO 14,Maison Blanche,15,METRO 7,maison blanche,maison blanche,METRO 14,0.48
 METRO 14,Hôpital Bicêtre,16,,hopital bicetre,hopital bicetre,METRO 14,0.432
 METRO 14,Villejuif–Gustave Roussy,17,,villejuif gustave roussy,villejuif gustave roussy,METRO 14,0.3888

@@ -276,7 +276,19 @@ if "selected_trajet_idx" not in st.session_state:
 if "result" not in st.session_state:
     st.session_state['result'] = None
 
-st.sidebar.title("🗺️ Sélectionne tes critères")
+with st.sidebar:
+    col_logo, col_title = st.columns([2,6])
+    with col_logo:
+        st.image("images-interface/logo.png", width=100)
+    with col_title:
+        st.markdown(
+            "<div style='display: flex; align-items: center; height: 100%;'>"
+            "<span style='font-size:1.3em; margin-top:25px;font-weight:700;'>Sélectionne tes critères</span>"
+            "</div>",
+            unsafe_allow_html=True
+        )
+
+
 page = st.sidebar.radio(
     "Aller vers…",
     ["Calcul d'itinéraire", "Carte graphe complet"],
@@ -285,7 +297,7 @@ page = st.sidebar.radio(
 )
 
 if page == "Calcul d'itinéraire":
-    st.title("🚇 Calcul d'itinéraire BLOB-IA")
+    st.image("images-interface/Titre.png", use_column_width=True)   
 
     stations_df = load_stations(STATIONS_PATH)
     monuments_df = load_monuments(MONUMENTS_PATH)
@@ -303,11 +315,32 @@ if page == "Calcul d'itinéraire":
             monuments_df["Monument"].tolist(),
             key="monument_arrivee"
         )
-        jours = ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi', 'dimanche']
+        acces_pmr = ['Oui', 'Non']
+        acces = st.selectbox("Accessible pour PMR", acces_pmr, index=0, key="acces")
+        jours = ['Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi', 'Dimanche']
         jour = st.selectbox("Jour du trajet", jours, index=0, key="jour")
         heure = st.slider("Heure du trajet", 0, 23, 8, key="heure")
-        curseur = st.slider("Curseur : 1 (Rapide) → 10 (Affluence minimale)", 1, 10, 5, key="curseur")
-        submit = st.form_submit_button("Calculer l’itinéraire")
+        
+        # Slider sans label
+        curseur = st.slider("Curseur de personnalisation (rapidité / affluence)", 1, 10, 5, key="curseur")
+
+        # Images + labels dessous
+        col_left, col_center, col_right = st.columns([1, 4, 1])
+        with col_left:
+            st.image("images-interface/blob_rapide.png", width=60)
+            st.markdown("<div style='text-align:center; font-size:0.85em'></div>", unsafe_allow_html=True)
+        with col_center:
+            st.markdown("")
+        with col_right:
+            st.image("images-interface/blob_zen.png", width=60)
+            st.markdown("<div style='text-align:center; font-size:0.85em'></div>", unsafe_allow_html=True)
+
+            
+        # Bouton avec blob happy à côté
+        col_btn, col_img = st.columns([2,1])
+        with col_btn:
+            submit = st.form_submit_button("Calculer l’itinéraire")
+
 
     if submit:
         st.session_state['selected_trajet_idx'] = -1
@@ -368,7 +401,6 @@ if page == "Calcul d'itinéraire":
     result = st.session_state.get('result', None)
     afflu_map = st.session_state.get('afflu_map', {})  # clé: station_key
     if result:
-        st.markdown('<span style="font-size:1.1em;color:#21ba45;font-weight:600;">✅ Résultats trouvés !</span>', unsafe_allow_html=True)
         for i, trajet in enumerate(result):
             if isinstance(trajet, dict):
                 itineraire_raw = trajet.get('itineraire', format_route(trajet))
@@ -384,11 +416,22 @@ if page == "Calcul d'itinéraire":
                 itineraire_html, nb_arrets, aff_moy, aff_max, st_aff_max, score = extract_trajet_info(format_route(trajet))
 
             with st.container():
+                # Ligne image + titre
+                col1, col2 = st.columns([1, 10])
+                with col1:
+                    st.image("images-interface/blob_check.png", width=65)
+                with col2:
+                    st.markdown(
+                        f"<h3 style='margin-top:0;margin-bottom:10px;display:inline-block;vertical-align:middle;'>"
+                        f"Trajet #{i+1}{' (sélectionné)' if st.session_state.get('selected_trajet_idx', -1) == i else ''}</h3>",
+                        unsafe_allow_html=True
+                    )
+
+                # Ensuite, ton markdown principal sans la ligne <h3> !
                 st.markdown(
                     f"""
                     <div style="background-color:#F0F6FF;padding:22px 28px 10px 28px;margin-bottom:20px;
                         border-radius:18px;box-shadow:0 2px 8px #0001">
-                        <h3 style="margin-top:0;margin-bottom:10px;">🚇 Trajet #{i+1}{' (sélectionné)' if st.session_state.get('selected_trajet_idx', -1) == i else ''}</h3>
                         <div style="font-size:1.13em;margin-bottom:14px;">
                             <b>{itineraire_html}</b>
                         </div>
@@ -404,6 +447,7 @@ if page == "Calcul d'itinéraire":
                     </div>
                     """, unsafe_allow_html=True
                 )
+
                 btn_key = f"select_trajet_{i}"
                 if st.button("Sélectionner ce trajet et afficher la carte", key=btn_key):
                     st.session_state['selected_trajet_idx'] = i

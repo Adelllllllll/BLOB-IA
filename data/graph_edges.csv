@@ -1105,6 +1105,7 @@ pereire levallois_RER C 1,pereire levallois_RER C 1,correspondance,,0.0
 pereire levallois_RER C 1,neuilly porte maillot palais des congres_RER C 1,adjacence,RER C 1,
 pereire levallois_RER C 1,pereire levallois_RER C 2,correspondance,,0.0
 pereire levallois_RER C 1,pereire levallois_RER C 3,correspondance,,0.0
+pereire levallois_RER C 1,pereire levallois_METRO 3,correspondance,,0.0
 neuilly porte maillot palais des congres_RER C 1,avenue foch_RER C 1,adjacence,RER C 1,
 neuilly porte maillot palais des congres_RER C 1,neuilly porte maillot palais des congres_RER C 2,correspondance,,0.0
 neuilly porte maillot palais des congres_RER C 1,neuilly porte maillot palais des congres_RER C 3,correspondance,,0.0
@@ -1194,6 +1195,7 @@ bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
+bibliotheque francois mitterrand_RER C 1,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 1,vitry sur seine_RER C 1,adjacence,RER C 1,1733.237954222894
 ivry sur seine_RER C 1,ivry sur seine_RER C 2,correspondance,,0.0
 ivry sur seine_RER C 1,ivry sur seine_RER C 3,correspondance,,0.0
@@ -1335,6 +1337,7 @@ porte de clichy tribunal de paris_RER C 2,porte de clichy tribunal de paris_RER 
 pereire levallois_RER C 2,pereire levallois_RER C 2,correspondance,,0.0
 pereire levallois_RER C 2,neuilly porte maillot palais des congres_RER C 2,adjacence,RER C 2,
 pereire levallois_RER C 2,pereire levallois_RER C 3,correspondance,,0.0
+pereire levallois_RER C 2,pereire levallois_METRO 3,correspondance,,0.0
 neuilly porte maillot palais des congres_RER C 2,avenue foch_RER C 2,adjacence,RER C 2,
 neuilly porte maillot palais des congres_RER C 2,neuilly porte maillot palais des congres_RER C 3,correspondance,,0.0
 avenue foch_RER C 2,avenue henri martin_RER C 2,adjacence,RER C 2,523.1956516749536
@@ -1412,6 +1415,7 @@ bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
+bibliotheque francois mitterrand_RER C 2,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 2,vitry sur seine_RER C 2,adjacence,RER C 2,1733.237954222894
 ivry sur seine_RER C 2,ivry sur seine_RER C 3,correspondance,,0.0
 ivry sur seine_RER C 2,ivry sur seine_RER C 4,correspondance,,0.0
@@ -1567,6 +1571,7 @@ saint ouen_RER C 3,saint ouen_METRO 14,correspondance,,0.0
 porte de clichy tribunal de paris_RER C 3,pereire levallois_RER C 3,adjacence,RER C 3,
 pereire levallois_RER C 3,pereire levallois_RER C 3,correspondance,,0.0
 pereire levallois_RER C 3,neuilly porte maillot palais des congres_RER C 3,adjacence,RER C 3,
+pereire levallois_RER C 3,pereire levallois_METRO 3,correspondance,,0.0
 neuilly porte maillot palais des congres_RER C 3,avenue foch_RER C 3,adjacence,RER C 3,
 avenue foch_RER C 3,avenue henri martin_RER C 3,adjacence,RER C 3,523.1956516749536
 avenue henri martin_RER C 3,boulainvilliers_RER C 3,adjacence,RER C 3,963.7647253542589
@@ -1632,6 +1637,7 @@ bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
+bibliotheque francois mitterrand_RER C 3,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 3,vitry sur seine_RER C 3,adjacence,RER C 3,1733.237954222894
 ivry sur seine_RER C 3,ivry sur seine_RER C 4,correspondance,,0.0
 ivry sur seine_RER C 3,ivry sur seine_RER C 5,correspondance,,0.0
@@ -1845,6 +1851,7 @@ bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
+bibliotheque francois mitterrand_RER C 4,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 4,vitry sur seine_RER C 4,adjacence,RER C 4,1733.237954222894
 ivry sur seine_RER C 4,ivry sur seine_RER C 5,correspondance,,0.0
 ivry sur seine_RER C 4,ivry sur seine_RER C 6,correspondance,,0.0
@@ -1999,6 +2006,7 @@ bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
+bibliotheque francois mitterrand_RER C 5,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 5,vitry sur seine_RER C 5,adjacence,RER C 5,1733.237954222894
 ivry sur seine_RER C 5,ivry sur seine_RER C 6,correspondance,,0.0
 ivry sur seine_RER C 5,ivry sur seine_RER C 7,correspondance,,0.0
@@ -2153,6 +2161,7 @@ bibliotheque francois mitterrand_RER C 6,ivry sur seine_RER C 6,adjacence,RER C 
 bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_RER C 7,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
+bibliotheque francois mitterrand_RER C 6,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 6,vitry sur seine_RER C 6,adjacence,RER C 6,1733.237954222894
 ivry sur seine_RER C 6,ivry sur seine_RER C 7,correspondance,,0.0
 ivry sur seine_RER C 6,ivry sur seine_RER C 8,correspondance,,0.0
@@ -2284,6 +2293,7 @@ bibliotheque francois mitterrand_RER C 7,bibliotheque francois mitterrand_RER C 
 bibliotheque francois mitterrand_RER C 7,ivry sur seine_RER C 7,adjacence,RER C 7,1948.815669081914
 bibliotheque francois mitterrand_RER C 7,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 7,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
+bibliotheque francois mitterrand_RER C 7,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 7,vitry sur seine_RER C 7,adjacence,RER C 7,1733.237954222894
 ivry sur seine_RER C 7,ivry sur seine_RER C 8,correspondance,,0.0
 ivry sur seine_RER C 7,ivry sur seine_RER C 9,correspondance,,0.0
@@ -2366,6 +2376,7 @@ gare d'austerlitz_RER C 8,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 8,bibliotheque francois mitterrand_RER C 8,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 8,ivry sur seine_RER C 8,adjacence,RER C 8,2129.8551375530233
 bibliotheque francois mitterrand_RER C 8,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
+bibliotheque francois mitterrand_RER C 8,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 8,vitry sur seine_RER C 8,adjacence,RER C 8,1733.237954222894
 ivry sur seine_RER C 8,ivry sur seine_RER C 9,correspondance,,0.0
 vitry sur seine_RER C 8,les ardoines_RER C 8,adjacence,RER C 8,2062.6935747094417
@@ -2434,6 +2445,7 @@ gare d'austerlitz_RER C 9,gare d'austerlitz_METRO 10 1,correspondance,,0.0
 gare d'austerlitz_RER C 9,gare d'austerlitz_METRO 10 2,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 9,bibliotheque francois mitterrand_RER C 9,correspondance,,0.0
 bibliotheque francois mitterrand_RER C 9,ivry sur seine_RER C 9,adjacence,RER C 9,2129.8551375530233
+bibliotheque francois mitterrand_RER C 9,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
 ivry sur seine_RER C 9,vitry sur seine_RER C 9,adjacence,RER C 9,1733.237954222894
 vitry sur seine_RER C 9,les ardoines_RER C 9,adjacence,RER C 9,2062.6935747094417
 les ardoines_RER C 9,choisy le roi_RER C 9,adjacence,RER C 9,2054.804151996997
@@ -3061,8 +3073,9 @@ pont de levallois becon_METRO 3,anatole france_METRO 3,adjacence,METRO 3,
 anatole france_METRO 3,louise michel_METRO 3,adjacence,METRO 3,437.99182994206916
 louise michel_METRO 3,porte de champerret_METRO 3,adjacence,METRO 3,499.68046134795543
 porte de champerret_METRO 3,porte de champerret_METRO 3,correspondance,,0.0
-porte de champerret_METRO 3,pereire_METRO 3,adjacence,METRO 3,
-pereire_METRO 3,wagram_METRO 3,adjacence,METRO 3,
+porte de champerret_METRO 3,pereire levallois_METRO 3,adjacence,METRO 3,426.94046934766783
+pereire levallois_METRO 3,pereire levallois_METRO 3,correspondance,,0.0
+pereire levallois_METRO 3,wagram_METRO 3,adjacence,METRO 3,467.115048790787
 wagram_METRO 3,malesherbes_METRO 3,adjacence,METRO 3,415.14621694816026
 malesherbes_METRO 3,villiers_METRO 3,adjacence,METRO 3,382.8484326469146
 villiers_METRO 3,europe_METRO 3,adjacence,METRO 3,610.7313796837303
@@ -3821,13 +3834,14 @@ madeleine_METRO 14,pyramides_METRO 14,adjacence,METRO 14,814.4716807634564
 pyramides_METRO 14,pyramides_METRO 14,correspondance,,0.0
 pyramides_METRO 14,chatelet_METRO 14,adjacence,METRO 14,1117.1167513798089
 chatelet_METRO 14,chatelet_METRO 14,correspondance,,0.0
-chatelet_METRO 14,gare de lyon_METRO 14,adjacence,METRO 14,2721.2826699246275
+chatelet_METRO 14,gare de lyon_METRO 14,adjacence,METRO 14,2359.4024379332136
 gare de lyon_METRO 14,gare de lyon_METRO 14,correspondance,,0.0
-gare de lyon_METRO 14,bercy_METRO 14,adjacence,METRO 14,566.6585639803336
+gare de lyon_METRO 14,bercy_METRO 14,adjacence,METRO 14,828.7048444143594
 bercy_METRO 14,bercy_METRO 14,correspondance,,0.0
-bercy_METRO 14,cour saint emilion_METRO 14,adjacence,METRO 14,926.3605070626567
-cour saint emilion_METRO 14,bibliotheque f. mitterrand_METRO 14,adjacence,METRO 14,
-bibliotheque f. mitterrand_METRO 14,olympiades_METRO 14,adjacence,METRO 14,
+bercy_METRO 14,cour saint emilion_METRO 14,adjacence,METRO 14,904.9988105334169
+cour saint emilion_METRO 14,bibliotheque francois mitterrand_METRO 14,adjacence,METRO 14,881.6081556291794
+bibliotheque francois mitterrand_METRO 14,bibliotheque francois mitterrand_METRO 14,correspondance,,0.0
+bibliotheque francois mitterrand_METRO 14,olympiades_METRO 14,adjacence,METRO 14,731.8243384584276
 olympiades_METRO 14,maison blanche_METRO 14,adjacence,METRO 14,897.1395676581249
 maison blanche_METRO 14,maison blanche_METRO 14,correspondance,,0.0
 maison blanche_METRO 14,hopital bicetre_METRO 14,adjacence,METRO 14,1460.8446303706664

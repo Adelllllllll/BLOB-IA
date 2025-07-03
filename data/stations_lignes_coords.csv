@@ -1301,7 +1301,8 @@ METRO 3,Anatole France,2,,anatole france,anatole france,48.89208278596666,2.2850
 METRO 3,Louise Michel,3,,louise michel,louise michel,48.88870601977514,2.288083633048504
 METRO 3,Porte de Champerret,4,,porte de champerret,porte de champerret,48.886006151507,2.293529966337255
 METRO 3,Porte de Champerret,4,,porte de champerret,porte de champerret,48.88597054515737,2.29213548034954
-METRO 3,Pereire,5,RER C,pereire,pereire,,
+METRO 3,Pereire-Levallois,5,RER C,pereire levallois,pereire levallois,48.88489625515052,2.297724346480177
+METRO 3,Pereire-Levallois,5,RER C,pereire levallois,pereire levallois,48.88604139991642,2.299279102380644
 METRO 3,Wagram,6,,wagram,wagram,48.88380920123339,2.304674440528396
 METRO 3,Malesherbes,7,,malesherbes,malesherbes,48.882612630584646,2.310036147219974
 METRO 3,Villiers,8,METRO 2,villiers,villiers,48.88109442716628,2.3147210047461946
@@ -2026,7 +2027,8 @@ METRO 14,Bercy,11,"METRO 6, METRO 14",bercy,bercy,48.83908128024196,2.3830280811
 METRO 14,Bercy,11,"METRO 6, METRO 14",bercy,bercy,48.84038874809587,2.3799112714543984
 METRO 14,Bercy,11,"METRO 6, METRO 14",bercy,bercy,48.8400013886488,2.3795540112141405
 METRO 14,Cour Saint-Émilion,12,,cour saint emilion,cour saint emilion,48.83333855925167,2.386632402066985
-METRO 14,Bibliothèque F. Mitterrand,13,RER C,bibliotheque f. mitterrand,bibliotheque f. mitterrand,,
+METRO 14,Bibliothèque François Mitterrand,13,RER C,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
+METRO 14,Bibliothèque François Mitterrand,13,RER C,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 METRO 14,Olympiades,14,METRO 14,olympiades,olympiades,48.82727083601133,2.3680326484142777
 METRO 14,Maison Blanche,15,METRO 7,maison blanche,maison blanche,48.82218265855656,2.358551348202204
 METRO 14,Maison Blanche,15,METRO 7,maison blanche,maison blanche,48.82142042957708,2.3590551543843183

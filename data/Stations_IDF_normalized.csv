@@ -856,7 +856,7 @@ METRO 3,Pont de Levallois – Bécon,1,,pont de levallois becon
 METRO 3,Anatole France,2,,anatole france
 METRO 3,Louise Michel,3,,louise michel
 METRO 3,Porte de Champerret,4,,porte de champerret
-METRO 3,Pereire,5,RER C,pereire
+METRO 3,Pereire-Levallois,5,RER C,pereire levallois
 METRO 3,Wagram,6,,wagram
 METRO 3,Malesherbes,7,,malesherbes
 METRO 3,Villiers,8,METRO 2,villiers
@@ -1268,7 +1268,7 @@ METRO 14,Châtelet,9,"METRO 1, METRO 4, METRO 7, METRO 11, METRO 14, RER A, RER 
 METRO 14,Gare de Lyon,10,"METRO 1, METRO 14, RER A, RER D",gare de lyon
 METRO 14,Bercy,11,"METRO 6, METRO 14",bercy
 METRO 14,Cour Saint-Émilion,12,,cour saint emilion
-METRO 14,Bibliothèque F. Mitterrand,13,RER C,bibliotheque f. mitterrand
+METRO 14,Bibliothèque François Mitterrand,13,RER C,bibliotheque francois mitterrand
 METRO 14,Olympiades,14,METRO 14,olympiades
 METRO 14,Maison Blanche,15,METRO 7,maison blanche
 METRO 14,Hôpital Bicêtre,16,,hopital bicetre
