@@ -297,7 +297,7 @@ page = st.sidebar.radio(
 )
 
 if page == "Calcul d'itinéraire":
-    st.image("images-interface/Titre.png", use_column_width=True)   
+    st.image("images-interface/Titre.png", use_container_width=True)
 
     stations_df = load_stations(STATIONS_PATH)
     monuments_df = load_monuments(MONUMENTS_PATH)
