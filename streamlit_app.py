@@ -453,7 +453,16 @@ if page == "Calcul d'itinéraire":
                     st.session_state['selected_trajet_idx'] = i
 
                 if st.session_state.get('selected_trajet_idx', -1) == i:
-                    st.markdown("### 🗺️ Carte de l’itinéraire sélectionné")
+                    with st.container():
+                        col1, col2 = st.columns([1, 10])
+                    with col1:
+                        st.image("images-interface/blob_nerd.png", width=90)
+                    with col2:
+                        st.markdown(
+                            f"<h3 style='margin-top:0;margin-bottom:10px;display:inline-block;vertical-align:middle;'>"
+                            f"Trajet #{i+1}{'' if st.session_state.get('selected_trajet_idx', -1) == i else ''}</h3>",
+                            unsafe_allow_html=True
+                    )
                     path = trajet.get("path", [])
                     coords = []
                     for stop in path:
