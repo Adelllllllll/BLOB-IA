@@ -297,204 +297,212 @@ RER A 6,Serris-Montévrain – Val d’Europe,25,,serris montevrain val d'europe
 RER A 6,Marne la Vallée Chessy – Parc Disneyland,26,,marne la vallee chessy parc disneyland,marne la vallee chessy parc disneyland,,
 RER B 1,Aéroport Charles de Gaulle 2 TGV,1,,aeroport charles de gaulle 2 tgv,aeroport charles de gaulle 2 tgv,49.00468746180567,2.57058948552452
 RER B 1,Aéroport Charles de Gaulle 1,2,,aeroport charles de gaulle 1,aeroport charles de gaulle 1,49.009756452138376,2.5612326952251063
-RER B 1,Parc des expositions,3,,parc des expositions,parc des expositions,48.97342490721537,2.514360285533493
+RER B 1,Parc des Expositions,3,,parc des expositions,parc des expositions,48.97342490721537,2.514360285533493
 RER B 1,Villepinte,4,,villepinte,villepinte,48.962709513300425,2.512644627819613
 RER B 1,Sevran Beaudottes,5,,sevran beaudottes,sevran beaudottes,48.9468939111449,2.524779047056861
-RER B 1,Aulnay sous Bois,6,,aulnay sous bois,aulnay sous bois,48.93219600596196,2.495513142584314
-RER B 1,Aulnay sous Bois,6,,aulnay sous bois,aulnay sous bois,48.93195908636717,2.4971165154707387
-RER B 1,Le Blanc Mesnil,7,,le blanc mesnil,le blanc mesnil,48.93230541606913,2.475674370833512
+RER B 1,Aulnay-sous-Bois,6,,aulnay sous bois,aulnay sous bois,48.93219600596196,2.495513142584314
+RER B 1,Aulnay-sous-Bois,6,,aulnay sous bois,aulnay sous bois,48.93195908636717,2.4971165154707387
+RER B 1,Le Blanc-Mesnil,7,,le blanc mesnil,le blanc mesnil,48.93230541606913,2.475674370833512
 RER B 1,Drancy,8,,drancy,drancy,48.93270621869947,2.4547663827657766
 RER B 1,Le Bourget,9,,le bourget,le bourget,48.93073957031752,2.4257914255599538
 RER B 1,Le Bourget,9,,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER B 1,La Courneuve Aubervilliers,10,,la courneuve aubervilliers,la courneuve aubervilliers,48.92435387966093,2.386388291064694
-RER B 1,La Plaine – Stade de France – Saint Denis – Aubervilliers,11,,la plaine stade de france saint denis aubervilliers,la plaine stade de france saint denis aubervilliers,,
-RER B 1,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.87979369411629,2.355791907531139
-RER B 1,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88092200667149,2.356328543670162
-RER B 1,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88077520479297,2.35873295908786
-RER B 1,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88175948915267,2.357570193470877
-RER B 1,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.880195487135886,2.3576332046800537
-RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
-RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
-RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
-RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
-RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
-RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
-RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
-RER B 1,Saint-Michel Notre Dame,14,"RER C, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER B 1,Saint-Michel Notre Dame,14,"RER C, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER B 1,Saint-Michel Notre Dame,14,"RER C, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER B 1,Luxembourg Sénat,15,,luxembourg senat,luxembourg senat,,
-RER B 1,Port Royal,16,,port royal,port royal,48.840033787418086,2.3370964308800906
-RER B 1,Denfert Rochereau – Colonel Rol-Tanguy,17,"METRO 4, METRO 6",denfert rochereau colonel rol tanguy,denfert rochereau colonel rol tanguy,,
+RER B 1,La Courneuve - Aubervilliers,10,,la courneuve aubervilliers,la courneuve aubervilliers,48.92435387966093,2.386388291064694
+RER B 1,La Plaine - Stade de France,11,,la plaine stade de france,la plaine stade de france,48.91800820579238,2.362470767055213
+RER B 1,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER B 1,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER B 1,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER B 1,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER B 1,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER B 1,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER B 1,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER B 1,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER B 1,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER B 1,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER B 1,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER B 1,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER B 1,Saint-Michel - Notre-Dame,14,"RER C, Métro 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER B 1,Saint-Michel - Notre-Dame,14,"RER C, Métro 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER B 1,Saint-Michel - Notre-Dame,14,"RER C, Métro 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER B 1,Luxembourg,15,,luxembourg,jardin du luxembourg,48.84543415048044,2.339762849560476
+RER B 1,Port-Royal,16,,port royal,port royal,48.840033787418086,2.3370964308800906
+RER B 1,Denfert-Rochereau,17,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.8342929804732,2.33285230996089
+RER B 1,Denfert-Rochereau,17,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.83307317062929,2.333203670349575
+RER B 1,Denfert-Rochereau,17,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.83345085821352,2.331740130985349
 RER B 1,Cité Universitaire,18,,cite universitaire,cite universitaire,48.82035003419018,2.3385807496409954
 RER B 1,Cité Universitaire,18,,cite universitaire,cite universitaire,48.8210896506153,2.338978472013181
 RER B 1,Gentilly,19,,gentilly,gentilly,48.81522993471633,2.340891132444595
-RER B 1,Laplace – Maison des Examens,20,,laplace maison des examens,laplace maison des examens,,
-RER B 1,Arcueil Cachan,21,,arcueil cachan,arcueil cachan,48.79889250008068,2.328136923064751
+RER B 1,Laplace,20,,laplace,laplace,48.80829658863144,2.334354309639648
+RER B 1,Arcueil - Cachan,21,,arcueil cachan,arcueil cachan,48.79889250008068,2.328136923064751
 RER B 1,Bagneux,22,,bagneux,bagneux,48.79333629623622,2.322201633670121
-RER B 1,Bourg la Reine,23,,bourg la reine,bourg la reine,48.78031379639699,2.312307716888594
+RER B 1,Bourg-la-Reine,23,,bourg la reine,bourg la reine,48.78031379639699,2.312307716888594
 RER B 1,Sceaux,24,,sceaux,sceaux,48.78135672132316,2.2976476777940333
 RER B 1,Sceaux,24,,sceaux,sceaux,48.76956333368779,2.309905064564246
-RER B 1,Fontenay aux Roses,25,,fontenay aux roses,fontenay aux roses,48.78756672836799,2.292988009258979
+RER B 1,Fontenay-aux-Roses,25,,fontenay aux roses,fontenay aux roses,48.78756672836799,2.292988009258979
 RER B 1,Robinson,26,,robinson,robinson,48.78023729710839,2.281430595437462
-RER B 2,Mitry Claye,1,,mitry claye,mitry claye,48.97585875402046,2.6424063023101896
-RER B 2,Villeparisis Mitry le Neuf,2,,villeparisis mitry le neuf,villeparisis mitry le neuf,48.95314838758261,2.6031353051184487
-RER B 2,Vert Galant,3,,vert galant,vert galant,48.944181065974725,2.5664480169630006
-RER B 2,Sevran Livry,4,,sevran livry,sevran livry,48.936280185651775,2.534714974742524
-RER B 2,Aulnay sous Bois,5,,aulnay sous bois,aulnay sous bois,48.93219600596196,2.495513142584314
-RER B 2,Aulnay sous Bois,5,,aulnay sous bois,aulnay sous bois,48.93195908636717,2.4971165154707387
-RER B 2,Le Blanc Mesnil,6,,le blanc mesnil,le blanc mesnil,48.93230541606913,2.475674370833512
+RER B 2,Mitry - Claye,1,,mitry claye,mitry claye,48.97585875402046,2.6424063023101896
+RER B 2,Villeparisis - Mitry-le-Neuf,2,,villeparisis mitry le neuf,villeparisis mitry le neuf,48.95314838758261,2.6031353051184487
+RER B 2,Vert-Galant,3,,vert galant,vert galant,48.944181065974725,2.5664480169630006
+RER B 2,Sevran - Livry,4,,sevran livry,sevran livry,48.936280185651775,2.534714974742524
+RER B 2,Aulnay-sous-Bois,5,,aulnay sous bois,aulnay sous bois,48.93219600596196,2.495513142584314
+RER B 2,Aulnay-sous-Bois,5,,aulnay sous bois,aulnay sous bois,48.93195908636717,2.4971165154707387
+RER B 2,Le Blanc-Mesnil,6,,le blanc mesnil,le blanc mesnil,48.93230541606913,2.475674370833512
 RER B 2,Drancy,7,,drancy,drancy,48.93270621869947,2.4547663827657766
 RER B 2,Le Bourget,8,,le bourget,le bourget,48.93073957031752,2.4257914255599538
 RER B 2,Le Bourget,8,,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER B 2,La Courneuve Aubervilliers,9,,la courneuve aubervilliers,la courneuve aubervilliers,48.92435387966093,2.386388291064694
-RER B 2,La Plaine – Stade de France – Saint Denis – Aubervilliers,10,,la plaine stade de france saint denis aubervilliers,la plaine stade de france saint denis aubervilliers,,
-RER B 2,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.87979369411629,2.355791907531139
-RER B 2,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88092200667149,2.356328543670162
-RER B 2,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88077520479297,2.35873295908786
-RER B 2,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88175948915267,2.357570193470877
-RER B 2,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.880195487135886,2.3576332046800537
-RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
-RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
-RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
-RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
-RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
-RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
-RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
-RER B 2,Saint-Michel Notre Dame,13,"RER C, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER B 2,Saint-Michel Notre Dame,13,"RER C, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER B 2,Saint-Michel Notre Dame,13,"RER C, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER B 2,Luxembourg Sénat,14,,luxembourg senat,luxembourg senat,,
-RER B 2,Port Royal,15,,port royal,port royal,48.840033787418086,2.3370964308800906
-RER B 2,Denfert Rochereau – Colonel Rol-Tanguy,16,"METRO 4, METRO 6",denfert rochereau colonel rol tanguy,denfert rochereau colonel rol tanguy,,
+RER B 2,La Courneuve - Aubervilliers,9,,la courneuve aubervilliers,la courneuve aubervilliers,48.92435387966093,2.386388291064694
+RER B 2,La Plaine - Stade de France,10,,la plaine stade de france,la plaine stade de france,48.91800820579238,2.362470767055213
+RER B 2,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER B 2,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER B 2,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER B 2,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER B 2,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER B 2,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER B 2,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER B 2,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER B 2,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER B 2,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER B 2,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER B 2,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER B 2,Saint-Michel - Notre-Dame,13,"RER C, Métro 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER B 2,Saint-Michel - Notre-Dame,13,"RER C, Métro 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER B 2,Saint-Michel - Notre-Dame,13,"RER C, Métro 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER B 2,Luxembourg,14,,luxembourg,jardin du luxembourg,48.84543415048044,2.339762849560476
+RER B 2,Port-Royal,15,,port royal,port royal,48.840033787418086,2.3370964308800906
+RER B 2,Denfert-Rochereau,16,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.8342929804732,2.33285230996089
+RER B 2,Denfert-Rochereau,16,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.83307317062929,2.333203670349575
+RER B 2,Denfert-Rochereau,16,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.83345085821352,2.331740130985349
 RER B 2,Cité Universitaire,17,,cite universitaire,cite universitaire,48.82035003419018,2.3385807496409954
 RER B 2,Cité Universitaire,17,,cite universitaire,cite universitaire,48.8210896506153,2.338978472013181
 RER B 2,Gentilly,18,,gentilly,gentilly,48.81522993471633,2.340891132444595
-RER B 2,Laplace – Maison des Examens,19,,laplace maison des examens,laplace maison des examens,,
-RER B 2,Arcueil Cachan,20,,arcueil cachan,arcueil cachan,48.79889250008068,2.328136923064751
+RER B 2,Laplace,19,,laplace,laplace,48.80829658863144,2.334354309639648
+RER B 2,Arcueil - Cachan,20,,arcueil cachan,arcueil cachan,48.79889250008068,2.328136923064751
 RER B 2,Bagneux,21,,bagneux,bagneux,48.79333629623622,2.322201633670121
-RER B 2,Bourg la Reine,22,,bourg la reine,bourg la reine,48.78031379639699,2.312307716888594
+RER B 2,Bourg-la-Reine,22,,bourg la reine,bourg la reine,48.78031379639699,2.312307716888594
 RER B 2,Sceaux,23,,sceaux,sceaux,48.78135672132316,2.2976476777940333
 RER B 2,Sceaux,23,,sceaux,sceaux,48.76956333368779,2.309905064564246
-RER B 2,Fontenay aux Roses,24,,fontenay aux roses,fontenay aux roses,48.78756672836799,2.292988009258979
+RER B 2,Fontenay-aux-Roses,24,,fontenay aux roses,fontenay aux roses,48.78756672836799,2.292988009258979
 RER B 2,Robinson,25,,robinson,robinson,48.78023729710839,2.281430595437462
 RER B 3,Aéroport Charles de Gaulle 2 TGV,1,,aeroport charles de gaulle 2 tgv,aeroport charles de gaulle 2 tgv,49.00468746180567,2.57058948552452
 RER B 3,Aéroport Charles de Gaulle 1,2,,aeroport charles de gaulle 1,aeroport charles de gaulle 1,49.009756452138376,2.5612326952251063
-RER B 3,Parc des expositions,3,,parc des expositions,parc des expositions,48.97342490721537,2.514360285533493
+RER B 3,Parc des Expositions,3,,parc des expositions,parc des expositions,48.97342490721537,2.514360285533493
 RER B 3,Villepinte,4,,villepinte,villepinte,48.962709513300425,2.512644627819613
 RER B 3,Sevran Beaudottes,5,,sevran beaudottes,sevran beaudottes,48.9468939111449,2.524779047056861
-RER B 3,Aulnay sous Bois,6,,aulnay sous bois,aulnay sous bois,48.93219600596196,2.495513142584314
-RER B 3,Aulnay sous Bois,6,,aulnay sous bois,aulnay sous bois,48.93195908636717,2.4971165154707387
-RER B 3,Le Blanc Mesnil,7,,le blanc mesnil,le blanc mesnil,48.93230541606913,2.475674370833512
+RER B 3,Aulnay-sous-Bois,6,,aulnay sous bois,aulnay sous bois,48.93219600596196,2.495513142584314
+RER B 3,Aulnay-sous-Bois,6,,aulnay sous bois,aulnay sous bois,48.93195908636717,2.4971165154707387
+RER B 3,Le Blanc-Mesnil,7,,le blanc mesnil,le blanc mesnil,48.93230541606913,2.475674370833512
 RER B 3,Drancy,8,,drancy,drancy,48.93270621869947,2.4547663827657766
 RER B 3,Le Bourget,9,,le bourget,le bourget,48.93073957031752,2.4257914255599538
 RER B 3,Le Bourget,9,,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER B 3,La Courneuve Aubervilliers,10,,la courneuve aubervilliers,la courneuve aubervilliers,48.92435387966093,2.386388291064694
-RER B 3,La Plaine – Stade de France – Saint Denis – Aubervilliers,11,,la plaine stade de france saint denis aubervilliers,la plaine stade de france saint denis aubervilliers,,
-RER B 3,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.87979369411629,2.355791907531139
-RER B 3,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88092200667149,2.356328543670162
-RER B 3,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88077520479297,2.35873295908786
-RER B 3,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88175948915267,2.357570193470877
-RER B 3,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.880195487135886,2.3576332046800537
-RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
-RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
-RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
-RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
-RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
-RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
-RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
-RER B 3,Saint-Michel Notre Dame,14,"RER C, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER B 3,Saint-Michel Notre Dame,14,"RER C, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER B 3,Saint-Michel Notre Dame,14,"RER C, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER B 3,Luxembourg Sénat,15,,luxembourg senat,luxembourg senat,,
-RER B 3,Port Royal,16,,port royal,port royal,48.840033787418086,2.3370964308800906
-RER B 3,Denfert Rochereau – Colonel Rol-Tanguy,17,"METRO 4, METRO 6",denfert rochereau colonel rol tanguy,denfert rochereau colonel rol tanguy,,
+RER B 3,La Courneuve - Aubervilliers,10,,la courneuve aubervilliers,la courneuve aubervilliers,48.92435387966093,2.386388291064694
+RER B 3,La Plaine - Stade de France,11,,la plaine stade de france,la plaine stade de france,48.91800820579238,2.362470767055213
+RER B 3,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER B 3,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER B 3,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER B 3,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER B 3,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER B 3,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER B 3,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER B 3,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER B 3,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER B 3,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER B 3,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER B 3,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER B 3,Saint-Michel - Notre-Dame,14,"RER C, Métro 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER B 3,Saint-Michel - Notre-Dame,14,"RER C, Métro 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER B 3,Saint-Michel - Notre-Dame,14,"RER C, Métro 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER B 3,Luxembourg,15,,luxembourg,jardin du luxembourg,48.84543415048044,2.339762849560476
+RER B 3,Port-Royal,16,,port royal,port royal,48.840033787418086,2.3370964308800906
+RER B 3,Denfert-Rochereau,17,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.8342929804732,2.33285230996089
+RER B 3,Denfert-Rochereau,17,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.83307317062929,2.333203670349575
+RER B 3,Denfert-Rochereau,17,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.83345085821352,2.331740130985349
 RER B 3,Cité Universitaire,18,,cite universitaire,cite universitaire,48.82035003419018,2.3385807496409954
 RER B 3,Cité Universitaire,18,,cite universitaire,cite universitaire,48.8210896506153,2.338978472013181
 RER B 3,Gentilly,19,,gentilly,gentilly,48.81522993471633,2.340891132444595
-RER B 3,Laplace – Maison des Examens,20,,laplace maison des examens,laplace maison des examens,,
-RER B 3,Arcueil Cachan,21,,arcueil cachan,arcueil cachan,48.79889250008068,2.328136923064751
+RER B 3,Laplace,20,,laplace,laplace,48.80829658863144,2.334354309639648
+RER B 3,Arcueil - Cachan,21,,arcueil cachan,arcueil cachan,48.79889250008068,2.328136923064751
 RER B 3,Bagneux,22,,bagneux,bagneux,48.79333629623622,2.322201633670121
-RER B 3,Bourg la Reine,23,,bourg la reine,bourg la reine,48.78031379639699,2.312307716888594
+RER B 3,Bourg-la-Reine,23,,bourg la reine,bourg la reine,48.78031379639699,2.312307716888594
 RER B 3,Parc de Sceaux,24,,parc de sceaux,sceaux,48.78135672132316,2.2976476777940333
 RER B 3,Parc de Sceaux,24,,parc de sceaux,sceaux,48.76956333368779,2.309905064564246
 RER B 3,La Croix de Berny,25,,la croix de berny,la croix de berny,48.76297047049109,2.3047519014655244
-RER B 3,Antony – Orly,26,,antony orly,antony orly,,
+RER B 3,Antony,26,,antony,antony,48.754946525531125,2.300986855734952
 RER B 3,Fontaine Michalon,27,,fontaine michalon,fontaine michalon,48.743016569903006,2.295921406897603
 RER B 3,Les Baconnets,28,,les baconnets,les baconnets,48.73968104253053,2.287667495463073
-RER B 3,Massy Verrières,29,RER C,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
-RER B 3,Massy Palaiseau,30,RER C,massy palaiseau,massy,48.724729144431606,2.257515004584038
-RER B 3,Massy Palaiseau,30,RER C,massy palaiseau,massy,48.72599709205871,2.2583229936114426
-RER B 3,Massy Palaiseau,30,RER C,massy palaiseau,massy,48.72509804119919,2.259946049525822
-RER B 3,Massy Palaiseau,30,RER C,massy palaiseau,massy,48.7259970920586,2.258322993611241
+RER B 3,Massy - Verrières,29,RER C,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
+RER B 3,Massy - Palaiseau,30,RER C,massy palaiseau,massy,48.724729144431606,2.257515004584038
+RER B 3,Massy - Palaiseau,30,RER C,massy palaiseau,massy,48.72599709205871,2.2583229936114426
+RER B 3,Massy - Palaiseau,30,RER C,massy palaiseau,massy,48.72509804119919,2.259946049525822
+RER B 3,Massy - Palaiseau,30,RER C,massy palaiseau,massy,48.7259970920586,2.258322993611241
 RER B 3,Palaiseau,31,,palaiseau,palaiseau,48.71694628758515,2.245672514581906
-RER B 3,Palaiseau Villebon,32,,palaiseau villebon,palaiseau villebon,48.70814058364534,2.237314364639455
-RER B 3,Lozère École Polytechnique,33,,lozere ecole polytechnique,lozere ecole polytechnique,,
+RER B 3,Palaiseau - Villebon,32,,palaiseau villebon,palaiseau villebon,48.70814058364534,2.237314364639455
+RER B 3,Lozère,33,,lozere,lozere,48.70596898482229,2.212262378017493
 RER B 3,Le Guichet,34,,le guichet,le guichet,48.70540392478546,2.1927348848067565
-RER B 3,Orsay Ville,35,,orsay ville,orsay ville,48.69750567080332,2.1810544390412185
-RER B 3,Bures sur Yvette,36,,bures sur yvette,bures sur yvette,48.696252747814434,2.1643782427741725
+RER B 3,Orsay-Ville,35,,orsay ville,orsay ville,48.69750567080332,2.1810544390412185
+RER B 3,Bures-sur-Yvette,36,,bures sur yvette,bures sur yvette,48.696252747814434,2.1643782427741725
 RER B 3,La Hacquinière,37,,la hacquiniere,la hacquiniere,48.695264122108014,2.151642038623571
-RER B 3,Gif sur Yvette,38,,gif sur yvette,gif sur yvette,48.698196976301936,2.136566717058361
-RER B 3,Courcelle sur Yvette,39,,courcelle sur yvette,courcelle sur yvette,48.70121772031537,2.097975858420524
-RER B 3,Saint-Rémy lès Chevreuse,40,,saint remy les chevreuse,saint remy les chevreuse,48.70275104207729,2.071242846320578
-RER B 4,Mitry Claye,1,,mitry claye,mitry claye,48.97585875402046,2.6424063023101896
-RER B 4,Villeparisis Mitry le Neuf,2,,villeparisis mitry le neuf,villeparisis mitry le neuf,48.95314838758261,2.6031353051184487
-RER B 4,Vert Galant,3,,vert galant,vert galant,48.944181065974725,2.5664480169630006
-RER B 4,Sevran Livry,4,,sevran livry,sevran livry,48.936280185651775,2.534714974742524
-RER B 4,Aulnay sous Bois,5,,aulnay sous bois,aulnay sous bois,48.93219600596196,2.495513142584314
-RER B 4,Aulnay sous Bois,5,,aulnay sous bois,aulnay sous bois,48.93195908636717,2.4971165154707387
-RER B 4,Le Blanc Mesnil,6,,le blanc mesnil,le blanc mesnil,48.93230541606913,2.475674370833512
+RER B 3,Gif-sur-Yvette,38,,gif sur yvette,gif sur yvette,48.698196976301936,2.136566717058361
+RER B 3,Courcelle-sur-Yvette,39,,courcelle sur yvette,courcelle sur yvette,48.70121772031537,2.097975858420524
+RER B 3,Saint-Rémy-lès-Chevreuse,40,,saint remy les chevreuse,saint remy les chevreuse,48.70275104207729,2.071242846320578
+RER B 4,Mitry - Claye,1,,mitry claye,mitry claye,48.97585875402046,2.6424063023101896
+RER B 4,Villeparisis - Mitry-le-Neuf,2,,villeparisis mitry le neuf,villeparisis mitry le neuf,48.95314838758261,2.6031353051184487
+RER B 4,Vert-Galant,3,,vert galant,vert galant,48.944181065974725,2.5664480169630006
+RER B 4,Sevran - Livry,4,,sevran livry,sevran livry,48.936280185651775,2.534714974742524
+RER B 4,Aulnay-sous-Bois,5,,aulnay sous bois,aulnay sous bois,48.93219600596196,2.495513142584314
+RER B 4,Aulnay-sous-Bois,5,,aulnay sous bois,aulnay sous bois,48.93195908636717,2.4971165154707387
+RER B 4,Le Blanc-Mesnil,6,,le blanc mesnil,le blanc mesnil,48.93230541606913,2.475674370833512
 RER B 4,Drancy,7,,drancy,drancy,48.93270621869947,2.4547663827657766
 RER B 4,Le Bourget,8,,le bourget,le bourget,48.93073957031752,2.4257914255599538
 RER B 4,Le Bourget,8,,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER B 4,La Courneuve Aubervilliers,9,,la courneuve aubervilliers,la courneuve aubervilliers,48.92435387966093,2.386388291064694
-RER B 4,La Plaine – Stade de France – Saint Denis – Aubervilliers,10,,la plaine stade de france saint denis aubervilliers,la plaine stade de france saint denis aubervilliers,,
-RER B 4,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.87979369411629,2.355791907531139
-RER B 4,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88092200667149,2.356328543670162
-RER B 4,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88077520479297,2.35873295908786
-RER B 4,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.88175948915267,2.357570193470877
-RER B 4,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5",paris nord,gare du nord,48.880195487135886,2.3576332046800537
-RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
-RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
-RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
-RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
-RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
-RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
-RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
-RER B 4,Saint-Michel Notre Dame,13,"RER C, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER B 4,Saint-Michel Notre Dame,13,"RER C, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER B 4,Saint-Michel Notre Dame,13,"RER C, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER B 4,Luxembourg Sénat,14,,luxembourg senat,luxembourg senat,,
-RER B 4,Port Royal,15,,port royal,port royal,48.840033787418086,2.3370964308800906
-RER B 4,Denfert Rochereau – Colonel Rol-Tanguy,16,"METRO 4, METRO 6",denfert rochereau colonel rol tanguy,denfert rochereau colonel rol tanguy,,
+RER B 4,La Courneuve - Aubervilliers,9,,la courneuve aubervilliers,la courneuve aubervilliers,48.92435387966093,2.386388291064694
+RER B 4,La Plaine - Stade de France,10,,la plaine stade de france,la plaine stade de france,48.91800820579238,2.362470767055213
+RER B 4,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER B 4,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER B 4,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER B 4,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER B 4,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER B 4,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER B 4,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER B 4,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER B 4,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER B 4,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER B 4,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER B 4,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER B 4,Saint-Michel - Notre-Dame,13,"RER C, Métro 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER B 4,Saint-Michel - Notre-Dame,13,"RER C, Métro 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER B 4,Saint-Michel - Notre-Dame,13,"RER C, Métro 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER B 4,Luxembourg,14,,luxembourg,jardin du luxembourg,48.84543415048044,2.339762849560476
+RER B 4,Port-Royal,15,,port royal,port royal,48.840033787418086,2.3370964308800906
+RER B 4,Denfert-Rochereau,16,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.8342929804732,2.33285230996089
+RER B 4,Denfert-Rochereau,16,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.83307317062929,2.333203670349575
+RER B 4,Denfert-Rochereau,16,"Métro 4, Métro 6",denfert rochereau,denfert rochereau,48.83345085821352,2.331740130985349
 RER B 4,Cité Universitaire,17,,cite universitaire,cite universitaire,48.82035003419018,2.3385807496409954
 RER B 4,Cité Universitaire,17,,cite universitaire,cite universitaire,48.8210896506153,2.338978472013181
 RER B 4,Gentilly,18,,gentilly,gentilly,48.81522993471633,2.340891132444595
-RER B 4,Laplace – Maison des Examens,19,,laplace maison des examens,laplace maison des examens,,
-RER B 4,Arcueil Cachan,20,,arcueil cachan,arcueil cachan,48.79889250008068,2.328136923064751
+RER B 4,Laplace,19,,laplace,laplace,48.80829658863144,2.334354309639648
+RER B 4,Arcueil - Cachan,20,,arcueil cachan,arcueil cachan,48.79889250008068,2.328136923064751
 RER B 4,Bagneux,21,,bagneux,bagneux,48.79333629623622,2.322201633670121
-RER B 4,Bourg la Reine,22,,bourg la reine,bourg la reine,48.78031379639699,2.312307716888594
+RER B 4,Bourg-la-Reine,22,,bourg la reine,bourg la reine,48.78031379639699,2.312307716888594
 RER B 4,Parc de Sceaux,23,,parc de sceaux,sceaux,48.78135672132316,2.2976476777940333
 RER B 4,Parc de Sceaux,23,,parc de sceaux,sceaux,48.76956333368779,2.309905064564246
 RER B 4,La Croix de Berny,24,,la croix de berny,la croix de berny,48.76297047049109,2.3047519014655244
-RER B 4,Antony – Orly,25,,antony orly,antony orly,,
+RER B 4,Antony,25,,antony,antony,48.754946525531125,2.300986855734952
 RER B 4,Fontaine Michalon,26,,fontaine michalon,fontaine michalon,48.743016569903006,2.295921406897603
 RER B 4,Les Baconnets,27,,les baconnets,les baconnets,48.73968104253053,2.287667495463073
-RER B 4,Massy Verrières,28,RER C,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
-RER B 4,Massy Palaiseau,29,RER C,massy palaiseau,massy,48.724729144431606,2.257515004584038
-RER B 4,Massy Palaiseau,29,RER C,massy palaiseau,massy,48.72599709205871,2.2583229936114426
-RER B 4,Massy Palaiseau,29,RER C,massy palaiseau,massy,48.72509804119919,2.259946049525822
-RER B 4,Massy Palaiseau,29,RER C,massy palaiseau,massy,48.7259970920586,2.258322993611241
+RER B 4,Massy - Verrières,28,RER C,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
+RER B 4,Massy - Palaiseau,29,RER C,massy palaiseau,massy,48.724729144431606,2.257515004584038
+RER B 4,Massy - Palaiseau,29,RER C,massy palaiseau,massy,48.72599709205871,2.2583229936114426
+RER B 4,Massy - Palaiseau,29,RER C,massy palaiseau,massy,48.72509804119919,2.259946049525822
+RER B 4,Massy - Palaiseau,29,RER C,massy palaiseau,massy,48.7259970920586,2.258322993611241
 RER B 4,Palaiseau,30,,palaiseau,palaiseau,48.71694628758515,2.245672514581906
-RER B 4,Palaiseau Villebon,31,,palaiseau villebon,palaiseau villebon,48.70814058364534,2.237314364639455
-RER B 4,Lozère École Polytechnique,32,,lozere ecole polytechnique,lozere ecole polytechnique,,
+RER B 4,Palaiseau - Villebon,31,,palaiseau villebon,palaiseau villebon,48.70814058364534,2.237314364639455
+RER B 4,Lozère,32,,lozere,lozere,48.70596898482229,2.212262378017493
 RER B 4,Le Guichet,33,,le guichet,le guichet,48.70540392478546,2.1927348848067565
-RER B 4,Orsay Ville,34,,orsay ville,orsay ville,48.69750567080332,2.1810544390412185
-RER B 4,Bures sur Yvette,35,,bures sur yvette,bures sur yvette,48.696252747814434,2.1643782427741725
+RER B 4,Orsay-Ville,34,,orsay ville,orsay ville,48.69750567080332,2.1810544390412185
+RER B 4,Bures-sur-Yvette,35,,bures sur yvette,bures sur yvette,48.696252747814434,2.1643782427741725
 RER B 4,La Hacquinière,36,,la hacquiniere,la hacquiniere,48.695264122108014,2.151642038623571
-RER B 4,Gif sur Yvette,37,,gif sur yvette,gif sur yvette,48.698196976301936,2.136566717058361
-RER B 4,Courcelle sur Yvette,38,,courcelle sur yvette,courcelle sur yvette,48.70121772031537,2.097975858420524
-RER B 4,Saint-Rémy lès Chevreuse,39,,saint remy les chevreuse,saint remy les chevreuse,48.70275104207729,2.071242846320578
+RER B 4,Gif-sur-Yvette,37,,gif sur yvette,gif sur yvette,48.698196976301936,2.136566717058361
+RER B 4,Courcelle-sur-Yvette,38,,courcelle sur yvette,courcelle sur yvette,48.70121772031537,2.097975858420524
+RER B 4,Saint-Rémy-lès-Chevreuse,39,,saint remy les chevreuse,saint remy les chevreuse,48.70275104207729,2.071242846320578
 RER C 1,Pontoise,1,,pontoise,pontoise,49.04664576264113,2.0951950672259687
 RER C 1,Saint-Ouen l’Aumône,2,,saint ouen l'aumone,saint ouen l'aumone,49.04531164835026,2.105110703444508
 RER C 1,Saint-Ouen l’Aumône Liesse,3,,saint ouen l'aumone liesse,saint ouen l'aumone liesse,49.033987636271455,2.128263873923673
@@ -513,26 +521,32 @@ RER C 1,Gennevilliers,11,,gennevilliers,gennevilliers,48.93289616644866,2.307943
 RER C 1,Les Grésillons,12,,les gresillons,les gresillons,48.92087280435658,2.313835382457718
 RER C 1,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,48.9045663899011,2.3226263683342268
 RER C 1,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,48.904496420574624,2.321743589558779
-RER C 1,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris,porte de clichy tribunal de paris,,
+RER C 1,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.8946243340091,2.3142338462894254
+RER C 1,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89425226223873,2.313772157405782
+RER C 1,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89498081072532,2.312791961501292
+RER C 1,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89416838621195,2.315599220546768
 RER C 1,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,48.88489625515052,2.297724346480177
 RER C 1,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,48.88604139991642,2.299279102380644
-RER C 1,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,,
+RER C 1,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87793268655634,2.282976188020842
+RER C 1,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87790843816008,2.284431219916768
+RER C 1,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87755125180425,2.2831622422302296
+RER C 1,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87793813782425,2.283913993903496
 RER C 1,Avenue Foch,17,METRO 2,avenue foch,avenue foch,48.86983048899632,2.274808153642234
 RER C 1,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,48.86546235708394,2.2721593819194146
 RER C 1,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,48.85697199584854,2.2747933246088805
 RER C 1,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,,
-RER C 1,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
+RER C 1,Champ de Mars,21,METRO 6,champ de mars,tour eiffel,48.85645721154175,2.2898035182585
 RER C 1,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 1,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 1,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 1,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 1,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 1,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 1,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 1,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 1,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 1,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 1,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 1,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 1,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 1,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 1,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 1,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 1,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 1,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 1,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 1,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 1,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 1,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 1,Ivry sur Seine,28,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
@@ -542,7 +556,9 @@ RER C 1,Choisy le Roi,31,,choisy le roi,choisy le roi,48.76378680955172,2.411386
 RER C 1,Les Saules,32,,les saules,les saules,48.74507216689389,2.4175209778964915
 RER C 1,Les Saules,32,,les saules,les saules,48.746942402605214,2.4163208947708155
 RER C 1,Orly Ville,33,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 1,Pont de Rungis – Aéroport d’Orly,34,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
+RER C 1,Pont de Rungis,34,METRO 14,pont de rungis,aeroport d'orly,48.72955072266279,2.3682641286195816
+RER C 1,Pont de Rungis,34,METRO 14,pont de rungis,aeroport d'orly,48.7280833904763,2.3625914696897388
+RER C 1,Pont de Rungis,34,METRO 14,pont de rungis,aeroport d'orly,48.74834968236465,2.3731119407049346
 RER C 1,Rungis La Fraternelle,35,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
 RER C 1,Chemin d’Antony,36,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
 RER C 1,Massy Verrières,37,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
@@ -568,56 +584,56 @@ RER C 2,Gennevilliers,11,,gennevilliers,gennevilliers,48.93289616644866,2.307943
 RER C 2,Les Grésillons,12,,les gresillons,les gresillons,48.92087280435658,2.313835382457718
 RER C 2,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,48.9045663899011,2.3226263683342268
 RER C 2,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,48.904496420574624,2.321743589558779
-RER C 2,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris,porte de clichy tribunal de paris,,
+RER C 2,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.8946243340091,2.3142338462894254
+RER C 2,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89425226223873,2.313772157405782
+RER C 2,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89498081072532,2.312791961501292
+RER C 2,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89416838621195,2.315599220546768
 RER C 2,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,48.88489625515052,2.297724346480177
 RER C 2,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,48.88604139991642,2.299279102380644
-RER C 2,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,,
+RER C 2,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87793268655634,2.282976188020842
+RER C 2,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87790843816008,2.284431219916768
+RER C 2,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87755125180425,2.2831622422302296
+RER C 2,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87793813782425,2.283913993903496
 RER C 2,Avenue Foch,17,METRO 2,avenue foch,avenue foch,48.86983048899632,2.274808153642234
 RER C 2,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,48.86546235708394,2.2721593819194146
 RER C 2,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,48.85697199584854,2.2747933246088805
 RER C 2,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,,
-RER C 2,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
+RER C 2,Champ de Mars,21,METRO 6,champ de mars,tour eiffel,48.85645721154175,2.2898035182585
 RER C 2,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 2,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 2,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 2,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 2,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 2,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 2,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 2,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 2,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 2,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 2,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 2,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 2,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 2,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 2,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 2,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 2,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 2,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 2,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 2,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 2,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 2,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 2,Ivry sur Seine,28,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
 RER C 2,Vitry sur Seine,29,,vitry sur seine,vitry sur seine,48.80020939834459,2.40271281718153
 RER C 2,Les Ardoines,30,,les ardoines,les ardoines,48.78222618353015,2.4095902349857026
 RER C 2,Choisy le Roi,31,,choisy le roi,choisy le roi,48.76378680955172,2.411386724936104
-RER C 2,Les Saules,32,,les saules,les saules,48.74507216689389,2.4175209778964915
-RER C 2,Les Saules,32,,les saules,les saules,48.746942402605214,2.4163208947708155
-RER C 2,Orly Ville,33,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 2,Pont de Rungis – Aéroport d’Orly,34,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
-RER C 2,Rungis La Fraternelle,35,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
-RER C 2,Chemin d’Antony,36,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
-RER C 2,Massy Verrières,37,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
-RER C 2,Massy Palaiseau,38,RER B,massy palaiseau,massy,48.724729144431606,2.257515004584038
-RER C 2,Massy Palaiseau,38,RER B,massy palaiseau,massy,48.72599709205871,2.2583229936114426
-RER C 2,Massy Palaiseau,38,RER B,massy palaiseau,massy,48.72509804119919,2.259946049525822
-RER C 2,Massy Palaiseau,38,RER B,massy palaiseau,massy,48.7259970920586,2.258322993611241
-RER C 2,Savigny sur Orge,39,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
-RER C 2,Épinay sur Orge,40,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
-RER C 2,Épinay sur Orge,40,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
-RER C 2,Sainte-Geneviève des Bois,41,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
-RER C 2,Saint-Michel sur Orge,42,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
-RER C 2,Brétigny,43,,bretigny,bretigny,48.606744948948126,2.302059691582639
-RER C 2,Marolles en Hurepoix,44,,marolles en hurepoix,marolles en hurepoix,48.56559386282182,2.2909244684897176
-RER C 2,Bouray,45,,bouray,bouray,48.53289010324473,2.2900825138403964
-RER C 2,Lardy,46,,lardy,lardy,48.52040359106998,2.254739702427517
-RER C 2,Chamarande,47,,chamarande,chamarande,48.514245875300325,2.21551781194949
-RER C 2,Étréchy,48,,etrechy,etrechy,48.49364457849669,2.1945817005254264
-RER C 2,Étampes,49,,etampes,etampes,48.4369239376403,2.1595305875651545
-RER C 2,Saint Martin d’Étampes,50,,saint martin d'etampes,saint martin d'etampes,48.42736258418355,2.145246592903116
+RER C 2,Villeneuve le Roi,32,,villeneuve le roi,villeneuve le roi,48.73983069943655,2.4263998204748227
+RER C 2,Ablon,33,,ablon,ablon,48.7255353048612,2.4195650243879334
+RER C 2,Athis Mons,34,,athis mons,athis mons,48.71262898747626,2.403633104908492
+RER C 2,Juvisy,35,RER D,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER C 2,Juvisy,35,RER D,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER C 2,Savigny sur Orge,36,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
+RER C 2,Épinay sur Orge,37,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
+RER C 2,Épinay sur Orge,37,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
+RER C 2,Sainte-Geneviève des Bois,38,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
+RER C 2,Saint-Michel sur Orge,39,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
+RER C 2,Brétigny,40,,bretigny,bretigny,48.606744948948126,2.302059691582639
+RER C 2,Marolles en Hurepoix,41,,marolles en hurepoix,marolles en hurepoix,48.56559386282182,2.2909244684897176
+RER C 2,Bouray,42,,bouray,bouray,48.53289010324473,2.2900825138403964
+RER C 2,Lardy,43,,lardy,lardy,48.52040359106998,2.254739702427517
+RER C 2,Chamarande,44,,chamarande,chamarande,48.514245875300325,2.21551781194949
+RER C 2,Étréchy,45,,etrechy,etrechy,48.49364457849669,2.1945817005254264
+RER C 2,Étampes,46,,etampes,etampes,48.4369239376403,2.1595305875651545
+RER C 2,Saint Martin d’Étampes,47,,saint martin d'etampes,saint martin d'etampes,48.42736258418355,2.145246592903116
 RER C 3,Pontoise,1,,pontoise,pontoise,49.04664576264113,2.0951950672259687
 RER C 3,Saint-Ouen l’Aumône,2,,saint ouen l'aumone,saint ouen l'aumone,49.04531164835026,2.105110703444508
 RER C 3,Saint-Ouen l’Aumône Liesse,3,,saint ouen l'aumone liesse,saint ouen l'aumone liesse,49.033987636271455,2.128263873923673
@@ -636,77 +652,83 @@ RER C 3,Gennevilliers,11,,gennevilliers,gennevilliers,48.93289616644866,2.307943
 RER C 3,Les Grésillons,12,,les gresillons,les gresillons,48.92087280435658,2.313835382457718
 RER C 3,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,48.9045663899011,2.3226263683342268
 RER C 3,Saint-Ouen,13,METRO 14,saint ouen,saint ouen,48.904496420574624,2.321743589558779
-RER C 3,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14",porte de clichy tribunal de paris,porte de clichy tribunal de paris,,
+RER C 3,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.8946243340091,2.3142338462894254
+RER C 3,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89425226223873,2.313772157405782
+RER C 3,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89498081072532,2.312791961501292
+RER C 3,Porte de Clichy,14,"14,METRO 13, METRO 14",porte de clichy,porte de clichy,48.89416838621195,2.315599220546768
 RER C 3,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,48.88489625515052,2.297724346480177
 RER C 3,Péreire Levallois,15,METRO 3,pereire levallois,pereire levallois,48.88604139991642,2.299279102380644
-RER C 3,Neuilly Porte Maillot – Palais des congrès,16,METRO 1,neuilly porte maillot palais des congres,neuilly porte maillot palais des congres,,
+RER C 3,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87793268655634,2.282976188020842
+RER C 3,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87790843816008,2.284431219916768
+RER C 3,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87755125180425,2.2831622422302296
+RER C 3,Neuilly Porte Maillot,16,"16,METRO 1, RER E",neuilly porte maillot,porte maillot,48.87793813782425,2.283913993903496
 RER C 3,Avenue Foch,17,METRO 2,avenue foch,avenue foch,48.86983048899632,2.274808153642234
 RER C 3,Avenue Henri Martin,18,METRO 9,avenue henri martin,avenue henri martin,48.86546235708394,2.2721593819194146
 RER C 3,Boulainvilliers,19,METRO 9,boulainvilliers,boulainvilliers,48.85697199584854,2.2747933246088805
 RER C 3,Avenue du Président Kennedy – Maison de Radio France,20,,avenue du president kennedy maison de radio france,avenue du president kennedy maison de radio france,,
-RER C 3,Champ de Mars – Tour Eiffel,21,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
+RER C 3,Champ de Mars,21,METRO 6,champ de mars,tour eiffel,48.85645721154175,2.2898035182585
 RER C 3,Pont de l’Alma,22,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 3,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 3,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 3,Invalides,23,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 3,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 3,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 3,Invalides,23,"23,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 3,Musée d’Orsay,24,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 3,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 3,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 3,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 3,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 3,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 3,Paris Austerlitz,26,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 3,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 3,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 3,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 3,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 3,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 3,Paris Austerlitz,26,"26,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 3,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 3,Bibliothèque François Mitterrand,27,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 3,Ivry sur Seine,28,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
 RER C 3,Vitry sur Seine,29,,vitry sur seine,vitry sur seine,48.80020939834459,2.40271281718153
 RER C 3,Les Ardoines,30,,les ardoines,les ardoines,48.78222618353015,2.4095902349857026
 RER C 3,Choisy le Roi,31,,choisy le roi,choisy le roi,48.76378680955172,2.411386724936104
-RER C 3,Les Saules,32,,les saules,les saules,48.74507216689389,2.4175209778964915
-RER C 3,Les Saules,32,,les saules,les saules,48.746942402605214,2.4163208947708155
-RER C 3,Orly Ville,33,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 3,Pont de Rungis – Aéroport d’Orly,34,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
-RER C 3,Rungis La Fraternelle,35,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
-RER C 3,Chemin d’Antony,36,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
-RER C 3,Massy Verrières,37,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
-RER C 3,Massy Palaiseau,38,RER B,massy palaiseau,massy,48.724729144431606,2.257515004584038
-RER C 3,Massy Palaiseau,38,RER B,massy palaiseau,massy,48.72599709205871,2.2583229936114426
-RER C 3,Massy Palaiseau,38,RER B,massy palaiseau,massy,48.72509804119919,2.259946049525822
-RER C 3,Massy Palaiseau,38,RER B,massy palaiseau,massy,48.7259970920586,2.258322993611241
-RER C 3,Brétigny,39,,bretigny,bretigny,48.606744948948126,2.302059691582639
-RER C 3,La Norville – Saint-Germain lès Arpajon,40,,la norville saint germain les arpajon,la norville saint germain les arpajon,,
-RER C 3,Arpajon,41,,arpajon,arpajon,48.58600789080001,2.241070080902974
-RER C 3,Égly,42,,egly,egly,48.58272468807368,2.223448833583109
-RER C 3,Breuillet – Bruyères le Châtel,43,,breuillet bruyeres le chatel,breuillet bruyeres le chatel,,
-RER C 3,Breuillet Village,44,,breuillet village,breuillet village,48.56432890676855,2.1703772591600425
-RER C 3,Saint-Chéron,45,,saint cheron,saint cheron,48.55092668030285,2.124937383537765
-RER C 3,Sermaise,46,,sermaise,sermaise,48.5358065092437,2.069381524887472
-RER C 3,Dourdan,47,,dourdan,dourdan,48.53373283397724,2.0087718138734374
-RER C 3,Dourdan la Forêt,48,,dourdan la foret,dourdan la foret,48.53562062258458,1.995901990362833
+RER C 3,Villeneuve le Roi,32,,villeneuve le roi,villeneuve le roi,48.73983069943655,2.4263998204748227
+RER C 3,Ablon,33,,ablon,ablon,48.7255353048612,2.4195650243879334
+RER C 3,Athis Mons,34,,athis mons,athis mons,48.71262898747626,2.403633104908492
+RER C 3,Juvisy,35,RER D,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER C 3,Juvisy,35,RER D,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER C 3,Savigny sur Orge,36,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
+RER C 3,Épinay sur Orge,37,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
+RER C 3,Épinay sur Orge,37,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
+RER C 3,Sainte-Geneviève des Bois,38,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
+RER C 3,Saint-Michel sur Orge,39,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
+RER C 3,Brétigny,40,,bretigny,bretigny,48.606744948948126,2.302059691582639
+RER C 3,La Norville,41,,la norville,la norville,48.59111919975116,2.266213853170556
+RER C 3,Arpajon,42,,arpajon,arpajon,48.58600789080001,2.241070080902974
+RER C 3,Égly,43,,egly,egly,48.58272468807368,2.223448833583109
+RER C 3,Breuillet,44,,breuillet,breuillet,48.57750848943184,2.192063068770897
+RER C 3,Breuillet Village,45,,breuillet village,breuillet village,48.56432890676855,2.1703772591600425
+RER C 3,Saint-Chéron,46,,saint cheron,saint cheron,48.55092668030285,2.124937383537765
+RER C 3,Sermaise,47,,sermaise,sermaise,48.5358065092437,2.069381524887472
+RER C 3,Dourdan,48,,dourdan,dourdan,48.53373283397724,2.0087718138734374
+RER C 3,Dourdan la Forêt,49,,dourdan la foret,dourdan la foret,48.53562062258458,1.995901990362833
 RER C 4,Versailles Château Rive Gauche,1,,versailles chateau rive gauche,versailles chateau rive gauche,48.80021557813598,2.1290438673702554
 RER C 4,Porchefontaine,2,,porchefontaine,porchefontaine,48.79652818117568,2.152378660253372
-RER C 4,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
-RER C 4,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
+RER C 4,Viroflay Rive Gauche,3,,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
+RER C 4,Viroflay Rive Gauche,3,,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
 RER C 4,Chaville Vélizy,4,,chaville velizy,chaville velizy,48.79972882534397,2.183684109854236
 RER C 4,Meudon Val Fleury,5,,meudon val fleury,meudon val fleury,48.80749262578013,2.240883069335648
 RER C 4,Issy,6,,issy,issy,48.8193439626066,2.257893897515079
 RER C 4,Issy Val de Seine,7,,issy val de seine,clamart,48.81423944550172,2.274489672177882
 RER C 4,Issy Val de Seine,7,,issy val de seine,clamart,48.83059547623919,2.264069650250568
 RER C 4,Issy Val de Seine,7,,issy val de seine,clamart,48.82989015779482,2.26317856570046
-RER C 4,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,,
+RER C 4,Pont du Garigliano,8,,pont du garigliano,pont du garigliano,48.83908975542996,2.2704582437872425
+RER C 4,Pont du Garigliano,8,,pont du garigliano,pont du garigliano,48.83807589055981,2.271174403433847
 RER C 4,Javel,9,METRO 10,javel,javel,48.84715690155799,2.278036281995908
-RER C 4,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
+RER C 4,Champ de Mars,10,METRO 6,champ de mars,tour eiffel,48.85645721154175,2.2898035182585
 RER C 4,Pont de l’Alma,11,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 4,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 4,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 4,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 4,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 4,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 4,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 4,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 4,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 4,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 4,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 4,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 4,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 4,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 4,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 4,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 4,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 4,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 4,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 4,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 4,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 4,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 4,Ivry sur Seine,17,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
@@ -716,7 +738,9 @@ RER C 4,Choisy le Roi,20,,choisy le roi,choisy le roi,48.76378680955172,2.411386
 RER C 4,Les Saules,21,,les saules,les saules,48.74507216689389,2.4175209778964915
 RER C 4,Les Saules,21,,les saules,les saules,48.746942402605214,2.4163208947708155
 RER C 4,Orly Ville,22,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 4,Pont de Rungis – Aéroport d’Orly,23,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
+RER C 4,Pont de Rungis,23,METRO 14,pont de rungis,aeroport d'orly,48.72955072266279,2.3682641286195816
+RER C 4,Pont de Rungis,23,METRO 14,pont de rungis,aeroport d'orly,48.7280833904763,2.3625914696897388
+RER C 4,Pont de Rungis,23,METRO 14,pont de rungis,aeroport d'orly,48.74834968236465,2.3731119407049346
 RER C 4,Rungis La Fraternelle,24,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
 RER C 4,Chemin d’Antony,25,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
 RER C 4,Massy Verrières,26,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
@@ -726,135 +750,131 @@ RER C 4,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.72509804119919,2.25994
 RER C 4,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.7259970920586,2.258322993611241
 RER C 5,Versailles Château Rive Gauche,1,,versailles chateau rive gauche,versailles chateau rive gauche,48.80021557813598,2.1290438673702554
 RER C 5,Porchefontaine,2,,porchefontaine,porchefontaine,48.79652818117568,2.152378660253372
-RER C 5,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
-RER C 5,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
+RER C 5,Viroflay Rive Gauche,3,,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
+RER C 5,Viroflay Rive Gauche,3,,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
 RER C 5,Chaville Vélizy,4,,chaville velizy,chaville velizy,48.79972882534397,2.183684109854236
 RER C 5,Meudon Val Fleury,5,,meudon val fleury,meudon val fleury,48.80749262578013,2.240883069335648
 RER C 5,Issy,6,,issy,issy,48.8193439626066,2.257893897515079
 RER C 5,Issy Val de Seine,7,,issy val de seine,clamart,48.81423944550172,2.274489672177882
 RER C 5,Issy Val de Seine,7,,issy val de seine,clamart,48.83059547623919,2.264069650250568
 RER C 5,Issy Val de Seine,7,,issy val de seine,clamart,48.82989015779482,2.26317856570046
-RER C 5,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,,
+RER C 5,Pont du Garigliano,8,,pont du garigliano,pont du garigliano,48.83908975542996,2.2704582437872425
+RER C 5,Pont du Garigliano,8,,pont du garigliano,pont du garigliano,48.83807589055981,2.271174403433847
 RER C 5,Javel,9,METRO 10,javel,javel,48.84715690155799,2.278036281995908
-RER C 5,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
+RER C 5,Champ de Mars,10,METRO 6,champ de mars,tour eiffel,48.85645721154175,2.2898035182585
 RER C 5,Pont de l’Alma,11,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 5,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 5,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 5,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 5,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 5,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 5,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 5,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 5,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 5,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 5,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 5,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 5,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 5,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 5,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 5,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 5,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 5,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 5,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 5,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 5,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 5,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 5,Ivry sur Seine,17,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
 RER C 5,Vitry sur Seine,18,,vitry sur seine,vitry sur seine,48.80020939834459,2.40271281718153
 RER C 5,Les Ardoines,19,,les ardoines,les ardoines,48.78222618353015,2.4095902349857026
 RER C 5,Choisy le Roi,20,,choisy le roi,choisy le roi,48.76378680955172,2.411386724936104
-RER C 5,Les Saules,21,,les saules,les saules,48.74507216689389,2.4175209778964915
-RER C 5,Les Saules,21,,les saules,les saules,48.746942402605214,2.4163208947708155
-RER C 5,Orly Ville,22,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 5,Pont de Rungis – Aéroport d’Orly,23,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
-RER C 5,Rungis La Fraternelle,24,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
-RER C 5,Chemin d’Antony,25,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
-RER C 5,Massy Verrières,26,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
-RER C 5,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.724729144431606,2.257515004584038
-RER C 5,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.72599709205871,2.2583229936114426
-RER C 5,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.72509804119919,2.259946049525822
-RER C 5,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.7259970920586,2.258322993611241
-RER C 5,Savigny sur Orge,28,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
-RER C 5,Épinay sur Orge,29,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
-RER C 5,Épinay sur Orge,29,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
-RER C 5,Sainte-Geneviève des Bois,30,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
-RER C 5,Saint-Michel sur Orge,31,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
-RER C 5,Brétigny,32,,bretigny,bretigny,48.606744948948126,2.302059691582639
-RER C 5,Marolles en Hurepoix,33,,marolles en hurepoix,marolles en hurepoix,48.56559386282182,2.2909244684897176
-RER C 5,Bouray,34,,bouray,bouray,48.53289010324473,2.2900825138403964
-RER C 5,Lardy,35,,lardy,lardy,48.52040359106998,2.254739702427517
-RER C 5,Chamarande,36,,chamarande,chamarande,48.514245875300325,2.21551781194949
-RER C 5,Étréchy,37,,etrechy,etrechy,48.49364457849669,2.1945817005254264
-RER C 5,Étampes,38,,etampes,etampes,48.4369239376403,2.1595305875651545
-RER C 5,Saint Martin d’Étampes,39,,saint martin d'etampes,saint martin d'etampes,48.42736258418355,2.145246592903116
+RER C 5,Villeneuve le Roi,21,,villeneuve le roi,villeneuve le roi,48.73983069943655,2.4263998204748227
+RER C 5,Albon,22,,albon,albon,,
+RER C 5,Athis Mons,23,,athis mons,athis mons,48.71262898747626,2.403633104908492
+RER C 5,Juvisy,24,RER D,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER C 5,Juvisy,24,RER D,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER C 5,Savigny sur Orge,25,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
+RER C 5,Épinay sur Orge,26,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
+RER C 5,Épinay sur Orge,26,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
+RER C 5,Sainte-Geneviève des Bois,27,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
+RER C 5,Saint-Michel sur Orge,28,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
+RER C 5,Brétigny,29,,bretigny,bretigny,48.606744948948126,2.302059691582639
+RER C 5,Marolles en Hurepoix,30,,marolles en hurepoix,marolles en hurepoix,48.56559386282182,2.2909244684897176
+RER C 5,Bouray,31,,bouray,bouray,48.53289010324473,2.2900825138403964
+RER C 5,Lardy,32,,lardy,lardy,48.52040359106998,2.254739702427517
+RER C 5,Chamarande,33,,chamarande,chamarande,48.514245875300325,2.21551781194949
+RER C 5,Étréchy,34,,etrechy,etrechy,48.49364457849669,2.1945817005254264
+RER C 5,Étampes,35,,etampes,etampes,48.4369239376403,2.1595305875651545
+RER C 5,Saint Martin d’Étampes,36,,saint martin d'etampes,saint martin d'etampes,48.42736258418355,2.145246592903116
 RER C 6,Versailles Château Rive Gauche,1,,versailles chateau rive gauche,versailles chateau rive gauche,48.80021557813598,2.1290438673702554
 RER C 6,Porchefontaine,2,,porchefontaine,porchefontaine,48.79652818117568,2.152378660253372
-RER C 6,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
-RER C 6,Viroflay Rive Gauche,3,METRO 6,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
+RER C 6,Viroflay Rive Gauche,3,,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
+RER C 6,Viroflay Rive Gauche,3,,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
 RER C 6,Chaville Vélizy,4,,chaville velizy,chaville velizy,48.79972882534397,2.183684109854236
 RER C 6,Meudon Val Fleury,5,,meudon val fleury,meudon val fleury,48.80749262578013,2.240883069335648
 RER C 6,Issy,6,,issy,issy,48.8193439626066,2.257893897515079
 RER C 6,Issy Val de Seine,7,,issy val de seine,clamart,48.81423944550172,2.274489672177882
 RER C 6,Issy Val de Seine,7,,issy val de seine,clamart,48.83059547623919,2.264069650250568
 RER C 6,Issy Val de Seine,7,,issy val de seine,clamart,48.82989015779482,2.26317856570046
-RER C 6,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,,
+RER C 6,Pont du Garigliano,8,,pont du garigliano,pont du garigliano,48.83908975542996,2.2704582437872425
+RER C 6,Pont du Garigliano,8,,pont du garigliano,pont du garigliano,48.83807589055981,2.271174403433847
 RER C 6,Javel,9,METRO 10,javel,javel,48.84715690155799,2.278036281995908
-RER C 6,Champ de Mars – Tour Eiffel,10,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
+RER C 6,Champ de Mars,10,METRO 6,champ de mars,tour eiffel,48.85645721154175,2.2898035182585
 RER C 6,Pont de l’Alma,11,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 6,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 6,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 6,Invalides,12,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 6,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 6,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 6,Invalides,12,"12,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 6,Musée d’Orsay,13,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 6,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 6,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 6,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 6,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 6,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 6,Paris Austerlitz,15,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 6,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 6,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 6,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 6,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 6,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 6,Paris Austerlitz,15,"15,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 6,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 6,Bibliothèque François Mitterrand,16,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 6,Ivry sur Seine,17,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
 RER C 6,Vitry sur Seine,18,,vitry sur seine,vitry sur seine,48.80020939834459,2.40271281718153
 RER C 6,Les Ardoines,19,,les ardoines,les ardoines,48.78222618353015,2.4095902349857026
 RER C 6,Choisy le Roi,20,,choisy le roi,choisy le roi,48.76378680955172,2.411386724936104
-RER C 6,Les Saules,21,,les saules,les saules,48.74507216689389,2.4175209778964915
-RER C 6,Les Saules,21,,les saules,les saules,48.746942402605214,2.4163208947708155
-RER C 6,Orly Ville,22,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 6,Pont de Rungis – Aéroport d’Orly,23,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
-RER C 6,Rungis La Fraternelle,24,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
-RER C 6,Chemin d’Antony,25,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
-RER C 6,Massy Verrières,26,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
-RER C 6,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.724729144431606,2.257515004584038
-RER C 6,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.72599709205871,2.2583229936114426
-RER C 6,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.72509804119919,2.259946049525822
-RER C 6,Massy Palaiseau,27,RER B,massy palaiseau,massy,48.7259970920586,2.258322993611241
-RER C 6,Brétigny,28,,bretigny,bretigny,48.606744948948126,2.302059691582639
-RER C 6,La Norville – Saint-Germain lès Arpajon,29,,la norville saint germain les arpajon,la norville saint germain les arpajon,,
-RER C 6,Arpajon,30,,arpajon,arpajon,48.58600789080001,2.241070080902974
-RER C 6,Égly,31,,egly,egly,48.58272468807368,2.223448833583109
-RER C 6,Breuillet – Bruyères le Châtel,32,,breuillet bruyeres le chatel,breuillet bruyeres le chatel,,
-RER C 6,Breuillet Village,33,,breuillet village,breuillet village,48.56432890676855,2.1703772591600425
-RER C 6,Saint-Chéron,34,,saint cheron,saint cheron,48.55092668030285,2.124937383537765
-RER C 6,Sermaise,35,,sermaise,sermaise,48.5358065092437,2.069381524887472
-RER C 6,Dourdan,36,,dourdan,dourdan,48.53373283397724,2.0087718138734374
-RER C 6,Dourdan la Forêt,37,,dourdan la foret,dourdan la foret,48.53562062258458,1.995901990362833
+RER C 6,Villeneuve le Roi,21,,villeneuve le roi,villeneuve le roi,48.73983069943655,2.4263998204748227
+RER C 6,Albon,22,,albon,albon,,
+RER C 6,Athis Mons,23,,athis mons,athis mons,48.71262898747626,2.403633104908492
+RER C 6,Juvisy,24,RER D,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER C 6,Juvisy,24,RER D,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER C 6,Savigny sur Orge,25,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
+RER C 6,Épinay sur Orge,26,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
+RER C 6,Épinay sur Orge,26,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
+RER C 6,Sainte-Geneviève des Bois,27,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
+RER C 6,Saint-Michel sur Orge,28,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
+RER C 6,Brétigny,29,,bretigny,bretigny,48.606744948948126,2.302059691582639
+RER C 6,La Norville,30,,la norville,la norville,48.59111919975116,2.266213853170556
+RER C 6,Arpajon,31,,arpajon,arpajon,48.58600789080001,2.241070080902974
+RER C 6,Égly,32,,egly,egly,48.58272468807368,2.223448833583109
+RER C 6,Breuillet,33,,breuillet,breuillet,48.57750848943184,2.192063068770897
+RER C 6,Breuillet Village,34,,breuillet village,breuillet village,48.56432890676855,2.1703772591600425
+RER C 6,Saint-Chéron,35,,saint cheron,saint cheron,48.55092668030285,2.124937383537765
+RER C 6,Sermaise,36,,sermaise,sermaise,48.5358065092437,2.069381524887472
+RER C 6,Dourdan,37,,dourdan,dourdan,48.53373283397724,2.0087718138734374
+RER C 6,Dourdan la Forêt,38,,dourdan la foret,dourdan la foret,48.53562062258458,1.995901990362833
 RER C 7,Saint Quentin en Yvelines,1,,saint quentin en yvelines,saint quentin en yvelines,48.787390238291614,2.044621988534177
 RER C 7,Saint-Cyr,2,,saint cyr,saint cyr,48.79870763528835,2.0718470059294014
 RER C 7,Saint-Cyr,2,,saint cyr,saint cyr,48.79900981083569,2.0747465772642184
 RER C 7,Versailles Chantiers,3,,versailles chantiers,versailles chantiers,48.79513817936349,2.135156224100022
-RER C 7,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
-RER C 7,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
+RER C 7,Viroflay Rive Gauche,4,,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
+RER C 7,Viroflay Rive Gauche,4,,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
 RER C 7,Chaville Vélizy,5,,chaville velizy,chaville velizy,48.79972882534397,2.183684109854236
 RER C 7,Meudon Val Fleury,6,,meudon val fleury,meudon val fleury,48.80749262578013,2.240883069335648
 RER C 7,Issy,7,,issy,issy,48.8193439626066,2.257893897515079
 RER C 7,Issy Val de Seine,8,,issy val de seine,clamart,48.81423944550172,2.274489672177882
 RER C 7,Issy Val de Seine,8,,issy val de seine,clamart,48.83059547623919,2.264069650250568
 RER C 7,Issy Val de Seine,8,,issy val de seine,clamart,48.82989015779482,2.26317856570046
-RER C 7,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,,
+RER C 7,Pont du Garigliano,9,,pont du garigliano,pont du garigliano,48.83908975542996,2.2704582437872425
+RER C 7,Pont du Garigliano,9,,pont du garigliano,pont du garigliano,48.83807589055981,2.271174403433847
 RER C 7,Javel,10,METRO 10,javel,javel,48.84715690155799,2.278036281995908
-RER C 7,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
+RER C 7,Champ de Mars,11,METRO 6,champ de mars,tour eiffel,48.85645721154175,2.2898035182585
 RER C 7,Pont de l’Alma,12,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 7,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 7,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 7,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 7,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 7,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 7,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 7,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 7,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 7,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 7,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 7,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 7,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 7,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 7,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 7,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 7,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 7,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 7,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 7,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 7,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 7,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 7,Ivry sur Seine,18,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
@@ -864,7 +884,9 @@ RER C 7,Choisy le Roi,21,,choisy le roi,choisy le roi,48.76378680955172,2.411386
 RER C 7,Les Saules,22,,les saules,les saules,48.74507216689389,2.4175209778964915
 RER C 7,Les Saules,22,,les saules,les saules,48.746942402605214,2.4163208947708155
 RER C 7,Orly Ville,23,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 7,Pont de Rungis – Aéroport d’Orly,24,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
+RER C 7,Pont de Rungis,24,METRO 14,pont de rungis,aeroport d'orly,48.72955072266279,2.3682641286195816
+RER C 7,Pont de Rungis,24,METRO 14,pont de rungis,aeroport d'orly,48.7280833904763,2.3625914696897388
+RER C 7,Pont de Rungis,24,METRO 14,pont de rungis,aeroport d'orly,48.74834968236465,2.3731119407049346
 RER C 7,Rungis La Fraternelle,25,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
 RER C 7,Chemin d’Antony,26,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
 RER C 7,Massy Verrières,27,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
@@ -876,327 +898,472 @@ RER C 8,Saint Quentin en Yvelines,1,,saint quentin en yvelines,saint quentin en 
 RER C 8,Saint-Cyr,2,,saint cyr,saint cyr,48.79870763528835,2.0718470059294014
 RER C 8,Saint-Cyr,2,,saint cyr,saint cyr,48.79900981083569,2.0747465772642184
 RER C 8,Versailles Chantiers,3,,versailles chantiers,versailles chantiers,48.79513817936349,2.135156224100022
-RER C 8,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
-RER C 8,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
+RER C 8,Viroflay Rive Gauche,4,,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
+RER C 8,Viroflay Rive Gauche,4,,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
 RER C 8,Chaville Vélizy,5,,chaville velizy,chaville velizy,48.79972882534397,2.183684109854236
 RER C 8,Meudon Val Fleury,6,,meudon val fleury,meudon val fleury,48.80749262578013,2.240883069335648
 RER C 8,Issy,7,,issy,issy,48.8193439626066,2.257893897515079
 RER C 8,Issy Val de Seine,8,,issy val de seine,clamart,48.81423944550172,2.274489672177882
 RER C 8,Issy Val de Seine,8,,issy val de seine,clamart,48.83059547623919,2.264069650250568
 RER C 8,Issy Val de Seine,8,,issy val de seine,clamart,48.82989015779482,2.26317856570046
-RER C 8,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,,
+RER C 8,Pont du Garigliano,9,,pont du garigliano,pont du garigliano,48.83908975542996,2.2704582437872425
+RER C 8,Pont du Garigliano,9,,pont du garigliano,pont du garigliano,48.83807589055981,2.271174403433847
 RER C 8,Javel,10,METRO 10,javel,javel,48.84715690155799,2.278036281995908
 RER C 8,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
 RER C 8,Pont de l’Alma,12,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 8,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 8,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 8,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 8,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 8,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 8,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 8,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 8,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 8,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 8,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 8,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 8,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 8,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 8,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 8,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 8,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 8,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 8,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 8,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 8,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 8,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 8,Ivry sur Seine,18,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
 RER C 8,Vitry sur Seine,19,,vitry sur seine,vitry sur seine,48.80020939834459,2.40271281718153
 RER C 8,Les Ardoines,20,,les ardoines,les ardoines,48.78222618353015,2.4095902349857026
 RER C 8,Choisy le Roi,21,,choisy le roi,choisy le roi,48.76378680955172,2.411386724936104
-RER C 8,Les Saules,22,,les saules,les saules,48.74507216689389,2.4175209778964915
-RER C 8,Les Saules,22,,les saules,les saules,48.746942402605214,2.4163208947708155
-RER C 8,Orly Ville,23,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 8,Pont de Rungis – Aéroport d’Orly,24,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
-RER C 8,Rungis La Fraternelle,25,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
-RER C 8,Chemin d’Antony,26,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
-RER C 8,Massy Verrières,27,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
-RER C 8,Massy Palaiseau,28,RER B,massy palaiseau,massy,48.724729144431606,2.257515004584038
-RER C 8,Massy Palaiseau,28,RER B,massy palaiseau,massy,48.72599709205871,2.2583229936114426
-RER C 8,Massy Palaiseau,28,RER B,massy palaiseau,massy,48.72509804119919,2.259946049525822
-RER C 8,Massy Palaiseau,28,RER B,massy palaiseau,massy,48.7259970920586,2.258322993611241
-RER C 8,Savigny sur Orge,29,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
-RER C 8,Épinay sur Orge,30,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
-RER C 8,Épinay sur Orge,30,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
-RER C 8,Sainte-Geneviève des Bois,31,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
-RER C 8,Saint-Michel sur Orge,32,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
-RER C 8,Brétigny,33,,bretigny,bretigny,48.606744948948126,2.302059691582639
-RER C 8,Marolles en Hurepoix,34,,marolles en hurepoix,marolles en hurepoix,48.56559386282182,2.2909244684897176
-RER C 8,Bouray,35,,bouray,bouray,48.53289010324473,2.2900825138403964
-RER C 8,Lardy,36,,lardy,lardy,48.52040359106998,2.254739702427517
-RER C 8,Chamarande,37,,chamarande,chamarande,48.514245875300325,2.21551781194949
-RER C 8,Étréchy,38,,etrechy,etrechy,48.49364457849669,2.1945817005254264
-RER C 8,Étampes,39,,etampes,etampes,48.4369239376403,2.1595305875651545
-RER C 8,Saint Martin d’Étampes,40,,saint martin d'etampes,saint martin d'etampes,48.42736258418355,2.145246592903116
+RER C 8,Villeneuve le Roi,22,,villeneuve le roi,villeneuve le roi,48.73983069943655,2.4263998204748227
+RER C 8,Albon,23,,albon,albon,,
+RER C 8,Athis Mons,24,,athis mons,athis mons,48.71262898747626,2.403633104908492
+RER C 8,Juvisy,25,RER D,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER C 8,Juvisy,25,RER D,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER C 8,Savigny sur Orge,26,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
+RER C 8,Épinay sur Orge,27,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
+RER C 8,Épinay sur Orge,27,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
+RER C 8,Sainte-Geneviève des Bois,28,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
+RER C 8,Saint-Michel sur Orge,29,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
+RER C 8,Brétigny,30,,bretigny,bretigny,48.606744948948126,2.302059691582639
+RER C 8,Marolles en Hurepoix,31,,marolles en hurepoix,marolles en hurepoix,48.56559386282182,2.2909244684897176
+RER C 8,Bouray,32,,bouray,bouray,48.53289010324473,2.2900825138403964
+RER C 8,Lardy,33,,lardy,lardy,48.52040359106998,2.254739702427517
+RER C 8,Chamarande,34,,chamarande,chamarande,48.514245875300325,2.21551781194949
+RER C 8,Étréchy,35,,etrechy,etrechy,48.49364457849669,2.1945817005254264
+RER C 8,Étampes,36,,etampes,etampes,48.4369239376403,2.1595305875651545
+RER C 8,Saint Martin d’Étampes,37,,saint martin d'etampes,saint martin d'etampes,48.42736258418355,2.145246592903116
 RER C 9,Saint Quentin en Yvelines,1,,saint quentin en yvelines,saint quentin en yvelines,48.787390238291614,2.044621988534177
 RER C 9,Saint-Cyr,2,,saint cyr,saint cyr,48.79870763528835,2.0718470059294014
 RER C 9,Saint-Cyr,2,,saint cyr,saint cyr,48.79900981083569,2.0747465772642184
 RER C 9,Versailles Chantiers,3,,versailles chantiers,versailles chantiers,48.79513817936349,2.135156224100022
-RER C 9,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
-RER C 9,Viroflay Rive Gauche,4,METRO 6,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
+RER C 9,Viroflay Rive Gauche,4,,viroflay rive gauche,viroflay rive gauche,48.800718463863554,2.1713898127563787
+RER C 9,Viroflay Rive Gauche,4,,viroflay rive gauche,viroflay rive gauche,48.80107761141683,2.1709674010790323
 RER C 9,Chaville Vélizy,5,,chaville velizy,chaville velizy,48.79972882534397,2.183684109854236
 RER C 9,Meudon Val Fleury,6,,meudon val fleury,meudon val fleury,48.80749262578013,2.240883069335648
 RER C 9,Issy,7,,issy,issy,48.8193439626066,2.257893897515079
 RER C 9,Issy Val de Seine,8,,issy val de seine,clamart,48.81423944550172,2.274489672177882
 RER C 9,Issy Val de Seine,8,,issy val de seine,clamart,48.83059547623919,2.264069650250568
 RER C 9,Issy Val de Seine,8,,issy val de seine,clamart,48.82989015779482,2.26317856570046
-RER C 9,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,,pont du garigliano hopital europeen georges pompidou,pont du garigliano hopital europeen georges pompidou,,
+RER C 9,Pont du Garigliano,9,,pont du garigliano,pont du garigliano,48.83908975542996,2.2704582437872425
+RER C 9,Pont du Garigliano,9,,pont du garigliano,pont du garigliano,48.83807589055981,2.271174403433847
 RER C 9,Javel,10,METRO 10,javel,javel,48.84715690155799,2.278036281995908
-RER C 9,Champ de Mars – Tour Eiffel,11,METRO 6,champ de mars tour eiffel,tour eiffel,48.85645721154175,2.2898035182585
+RER C 9,Champ de Mars,11,METRO 6,champ de mars,tour eiffel,48.85645721154175,2.2898035182585
 RER C 9,Pont de l’Alma,12,METRO 9,pont de l'alma,pont de l'alma,48.86266245169435,2.300989969386769
-RER C 9,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
-RER C 9,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
-RER C 9,Invalides,13,"METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
+RER C 9,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.86002845820203,2.3139151192031537
+RER C 9,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.862884804554966,2.31251355492596
+RER C 9,Invalides,13,"13,METRO 8, METRO 13",invalides,hotel des invalides,48.86038127919816,2.314890730058881
 RER C 9,Musée d’Orsay,14,METRO 12,musee d'orsay,musee d'orsay,48.86035143402621,2.3267597744418103
-RER C 9,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
-RER C 9,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
-RER C 9,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
-RER C 9,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
-RER C 9,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
-RER C 9,Paris Austerlitz,16,"METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
+RER C 9,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85353290071982,2.3452883321974305
+RER C 9,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85211888263096,2.34402115205528
+RER C 9,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10",saint michel notre dame,saint michel,48.85316798489062,2.343285978923924
+RER C 9,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.842436797924776,2.365184811993381
+RER C 9,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84252802768359,2.36543338335276
+RER C 9,Paris Austerlitz,16,"16,METRO 5, METRO 10",paris austerlitz,gare d'austerlitz,48.84236008246694,2.365581702747744
 RER C 9,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82999019989919,2.375747983215603
 RER C 9,Bibliothèque François Mitterrand,17,METRO 14,bibliotheque francois mitterrand,bibliotheque francois mitterrand,48.82888070077747,2.37769700026936
 RER C 9,Ivry sur Seine,18,METRO 7,ivry sur seine,ivry sur seine,48.81398905200947,2.3916869716625384
 RER C 9,Vitry sur Seine,19,,vitry sur seine,vitry sur seine,48.80020939834459,2.40271281718153
 RER C 9,Les Ardoines,20,,les ardoines,les ardoines,48.78222618353015,2.4095902349857026
 RER C 9,Choisy le Roi,21,,choisy le roi,choisy le roi,48.76378680955172,2.411386724936104
-RER C 9,Les Saules,22,,les saules,les saules,48.74507216689389,2.4175209778964915
-RER C 9,Les Saules,22,,les saules,les saules,48.746942402605214,2.4163208947708155
-RER C 9,Orly Ville,23,,orly ville,orly ville,48.741878705678886,2.40290860736794
-RER C 9,Pont de Rungis – Aéroport d’Orly,24,METRO 14,pont de rungis aeroport d'orly,pont de rungis aeroport d'orly,,
-RER C 9,Rungis La Fraternelle,25,,rungis la fraternelle,rungis la fraternelle,48.74019544820277,2.351633198171911
-RER C 9,Chemin d’Antony,26,,chemin d'antony,chemin d'antony,48.74794190188695,2.3127110135157984
-RER C 9,Massy Verrières,27,RER B,massy verrieres,massy verrieres,48.73488814734515,2.274002404484248
-RER C 9,Massy Palaiseau,28,RER B,massy palaiseau,massy,48.724729144431606,2.257515004584038
-RER C 9,Massy Palaiseau,28,RER B,massy palaiseau,massy,48.72599709205871,2.2583229936114426
-RER C 9,Massy Palaiseau,28,RER B,massy palaiseau,massy,48.72509804119919,2.259946049525822
-RER C 9,Massy Palaiseau,28,RER B,massy palaiseau,massy,48.7259970920586,2.258322993611241
-RER C 9,Brétigny,29,,bretigny,bretigny,48.606744948948126,2.302059691582639
-RER C 9,La Norville – Saint-Germain lès Arpajon,30,,la norville saint germain les arpajon,la norville saint germain les arpajon,,
-RER C 9,Arpajon,31,,arpajon,arpajon,48.58600789080001,2.241070080902974
-RER C 9,Égly,32,,egly,egly,48.58272468807368,2.223448833583109
-RER C 9,Breuillet – Bruyères le Châtel,33,,breuillet bruyeres le chatel,breuillet bruyeres le chatel,,
-RER C 9,Breuillet Village,34,,breuillet village,breuillet village,48.56432890676855,2.1703772591600425
-RER C 9,Saint-Chéron,35,,saint cheron,saint cheron,48.55092668030285,2.124937383537765
-RER C 9,Sermaise,36,,sermaise,sermaise,48.5358065092437,2.069381524887472
-RER C 9,Dourdan,37,,dourdan,dourdan,48.53373283397724,2.0087718138734374
-RER C 9,Dourdan la Forêt,38,,dourdan la foret,dourdan la foret,48.53562062258458,1.995901990362833
+RER C 9,Villeneuve le Roi,22,,villeneuve le roi,villeneuve le roi,48.73983069943655,2.4263998204748227
+RER C 9,Albon,23,,albon,albon,,
+RER C 9,Athis Mons,24,,athis mons,athis mons,48.71262898747626,2.403633104908492
+RER C 9,Juvisy,25,RER D,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER C 9,Juvisy,25,RER D,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER C 9,Savigny sur Orge,26,,savigny sur orge,savigny sur orge,48.676446656997726,2.3524814010489976
+RER C 9,Épinay sur Orge,27,,epinay sur orge,epinay sur orge,48.67063926645666,2.335359426259652
+RER C 9,Épinay sur Orge,27,,epinay sur orge,epinay sur orge,48.66948372520816,2.3326229292104723
+RER C 9,Sainte-Geneviève des Bois,28,,sainte genevieve des bois,sainte genevieve des bois,48.65281140144265,2.312736251060263
+RER C 9,Saint-Michel sur Orge,29,,saint michel sur orge,saint michel sur orge,48.63587586133944,2.3068331640148254
+RER C 9,Brétigny,30,,bretigny,bretigny,48.606744948948126,2.302059691582639
+RER C 9,La Norville,31,,la norville,la norville,48.59111919975116,2.266213853170556
+RER C 9,Arpajon,32,,arpajon,arpajon,48.58600789080001,2.241070080902974
+RER C 9,Égly,33,,egly,egly,48.58272468807368,2.223448833583109
+RER C 9,Breuillet,34,,breuillet,breuillet,48.57750848943184,2.192063068770897
+RER C 9,Breuillet Village,35,,breuillet village,breuillet village,48.56432890676855,2.1703772591600425
+RER C 9,Saint-Chéron,36,,saint cheron,saint cheron,48.55092668030285,2.124937383537765
+RER C 9,Sermaise,37,,sermaise,sermaise,48.5358065092437,2.069381524887472
+RER C 9,Dourdan,38,,dourdan,dourdan,48.53373283397724,2.0087718138734374
+RER C 9,Dourdan la Forêt,39,,dourdan la foret,dourdan la foret,48.53562062258458,1.995901990362833
 RER D 1,Creil,1,,creil,creil,49.26394414450534,2.4689141153510383
-RER D 1,Ormoy-Villers,2,,ormoy villers,ormoy villers,49.200877079101126,2.838108478036552
-RER D 1,Montataire,3,,montataire,montataire,,
-RER D 1,Cramoisy,4,,cramoisy,cramoisy,,
-RER D 1,Pont-Sainte-Maxence,5,,pont sainte maxence,pont sainte maxence,,
-RER D 1,Rieux,6,,rieux,rieux,,
-RER D 1,Villiers-le-Sec,7,,villiers le sec,villiers le sec,,
-RER D 1,Verneuil-en-Halatte,8,,verneuil en halatte,verneuil en halatte,,
-RER D 1,Clermont,9,,clermont,clermont,,
-RER D 1,Saint-Leu-d'Esserent,10,,saint leu d'esserent,saint leu d'esserent,49.21379080353853,2.417033174921132
-RER D 1,Boran-sur-Oise,11,,boran sur oise,boran sur oise,49.1667750398079,2.3623035285653566
-RER D 1,Pontpoint,12,,pontpoint,pontpoint,,
-RER D 1,Montsoult-Maffliers,13,,montsoult maffliers,montsoult maffliers,49.06628869769714,2.3229204571938253
-RER D 1,Enghien-les-Bains,14,,enghien les bains,enghien les bains,48.972749119759264,2.307137032071533
-RER D 1,Montmorency,15,,montmorency,montmorency,,
-RER D 1,Eaubonne,16,,eaubonne,eaubonne,,
-RER D 1,Saint-Gratien,17,,saint gratien,saint gratien,48.96358968487316,2.285930718208942
-RER D 1,Le Bourget,18,RER B,le bourget,le bourget,48.93073957031752,2.4257914255599538
-RER D 1,Le Bourget,18,RER B,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER D 1,Drancy,19,RER B,drancy,drancy,48.93270621869947,2.4547663827657766
-RER D 1,Gagny,20,,gagny,gagny,48.88373428097724,2.5254342507658434
-RER D 1,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
-RER D 1,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
-RER D 1,Rosny-sous-Bois,22,,rosny sous bois,rosny sous bois,48.869912419186086,2.485761140611789
-RER D 1,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.84379435193279,2.463501419487552
-RER D 1,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85409607826304,2.4886964657999355
-RER D 1,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85426899363538,2.489167460948015
-RER D 1,Nogent-sur-Marne,24,METRO 1,nogent sur marne,nogent sur marne,48.83428889889616,2.471681242571033
-RER D 1,Joinville-le-Pont,25,,joinville le pont,joinville le pont,48.82103881506317,2.4638567953623163
-RER D 1,Créteil-Pompadour,26,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 1,Créteil-Pompadour,27,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 1,Maisons-Alfort - Alfortville,28,,maisons alfort alfortville,maisons alfort alfortville,48.80204938032392,2.426482408484048
-RER D 1,Maisons-Alfort,29,RER A,maisons alfort,maisons alfort,,
-RER D 1,Villeneuve-Saint-Georges,30,RER A,villeneuve saint georges,villeneuve saint georges,48.73063829288859,2.446226445438707
-RER D 1,Vigneux-sur-Seine,31,,vigneux sur seine,vigneux sur seine,48.70812051426092,2.4138711503513184
-RER D 1,Montgeron,32,,montgeron,montgeron,,
-RER D 1,Yerres,33,,yerres,yerres,48.7066109356985,2.4842425564350705
-RER D 1,Combs-la-Ville,34,,combs la ville,combs la ville,,
-RER D 1,Lieusaint,35,,lieusaint,lieusaint,,
-RER D 1,Melun,36,,melun,melun,48.52724332146016,2.654990282141888
+RER D 1,Chantilly Gouvieux,2,,chantilly gouvieux,chantilly gouvieux,49.187087205195866,2.459549118844453
+RER D 1,Orry la Ville Coye la Forêt,3,,orry la ville coye la foret,orry la ville coye la foret,49.13828637527201,2.4901789854211955
+RER D 1,La Borne Blanche,4,,la borne blanche,la borne blanche,49.12620996065864,2.507013841603866
+RER D 1,Survilliers Fosses,5,,survilliers fosses,survilliers fosses,49.099586939193706,2.525531713992054
+RER D 1,Louvres,6,,louvres,louvres,49.04932560088567,2.5017580658464627
+RER D 1,Les Noues,7,,les noues,les noues,49.03318276903128,2.478033365115082
+RER D 1,Goussainville,8,,goussainville,goussainville,49.02316199903104,2.4621689661352346
+RER D 1,Villiers le Bel Gonesse Arnouville,9,,villiers le bel gonesse arnouville,villiers le bel gonesse arnouville,48.99377714689272,2.416187488926984
+RER D 1,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.9771607154856,2.39067488093308
+RER D 1,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.976747848293925,2.3905936526418383
+RER D 1,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96013454228842,2.3672565834726305
+RER D 1,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96375542962029,2.3721031384025686
+RER D 1,Saint-Denis,12,,saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 1,Saint-Denis,12,,saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 1,Saint-Denis,12,,saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 1,Saint-Denis,12,,saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 1,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 1,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 1,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 1,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 1,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER D 1,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER D 1,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER D 1,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER D 1,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER D 1,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER D 1,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER D 1,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER D 1,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER D 1,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER D 1,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER D 1,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER D 1,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84476017126674,2.373593653262281
+RER D 1,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84413934985302,2.373259976710645
+RER D 1,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84586897868619,2.373774422563834
+RER D 1,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84377257685146,2.3739164698064985
+RER D 1,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.843486761806766,2.3739225903167545
+RER D 1,Maisons Alfort Alfortville,17,,maisons alfort alfortville,maisons alfort alfortville,48.80204938032392,2.426482408484048
+RER D 1,Le Vert de Maisons,18,,le vert de maisons,le vert de maisons,48.78846667355173,2.432243533360699
+RER D 1,Créteil Pompadour,19,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
+RER D 1,Villeneuve Triage,20,,villeneuve triage,villeneuve triage,48.74450070215072,2.438668340778227
+RER D 1,Villeneuve Saint-Georges,21,,villeneuve saint georges,villeneuve saint georges,48.73063829288859,2.446226445438707
+RER D 1,Montgeron Crosne,22,,montgeron crosne,montgeron crosne,48.70823782858165,2.462282244689792
+RER D 1,Yerres,23,,yerres,yerres,48.7066109356985,2.4842425564350705
+RER D 1,Brunoy,24,,brunoy,brunoy,48.69910694695422,2.506676982547088
+RER D 1,Boussy Saint-Antoine,25,,boussy saint antoine,boussy saint antoine,48.68101661634273,2.5331306565710374
+RER D 1,Combs la Ville Quincy,26,,combs la ville quincy,combs la ville quincy,48.667901961049886,2.5475480458143664
+RER D 1,Lieusaint Moissy,27,,lieusaint moissy,lieusaint moissy,48.62837555172384,2.569583548236461
+RER D 1,Savigny le Temple Nandy,28,,savigny le temple nandy,savigny le temple nandy,48.59556383799178,2.5839477110612505
+RER D 1,Cesson,29,,cesson,cesson,48.56494949567092,2.594551816007613
+RER D 1,Le Mée sur Seine,30,,le mee sur seine,le mee sur seine,,
+RER D 1,Melun,31,,melun,melun,48.52724332146016,2.654990282141888
 RER D 2,Creil,1,,creil,creil,49.26394414450534,2.4689141153510383
-RER D 2,Ormoy-Villers,2,,ormoy villers,ormoy villers,49.200877079101126,2.838108478036552
-RER D 2,Montataire,3,,montataire,montataire,,
-RER D 2,Cramoisy,4,,cramoisy,cramoisy,,
-RER D 2,Pont-Sainte-Maxence,5,,pont sainte maxence,pont sainte maxence,,
-RER D 2,Rieux,6,,rieux,rieux,,
-RER D 2,Villiers-le-Sec,7,,villiers le sec,villiers le sec,,
-RER D 2,Verneuil-en-Halatte,8,,verneuil en halatte,verneuil en halatte,,
-RER D 2,Clermont,9,,clermont,clermont,,
-RER D 2,Saint-Leu-d'Esserent,10,,saint leu d'esserent,saint leu d'esserent,49.21379080353853,2.417033174921132
-RER D 2,Boran-sur-Oise,11,,boran sur oise,boran sur oise,49.1667750398079,2.3623035285653566
-RER D 2,Pontpoint,12,,pontpoint,pontpoint,,
-RER D 2,Montsoult-Maffliers,13,,montsoult maffliers,montsoult maffliers,49.06628869769714,2.3229204571938253
-RER D 2,Enghien-les-Bains,14,,enghien les bains,enghien les bains,48.972749119759264,2.307137032071533
-RER D 2,Montmorency,15,,montmorency,montmorency,,
-RER D 2,Eaubonne,16,,eaubonne,eaubonne,,
-RER D 2,Saint-Gratien,17,,saint gratien,saint gratien,48.96358968487316,2.285930718208942
-RER D 2,Le Bourget,18,RER B,le bourget,le bourget,48.93073957031752,2.4257914255599538
-RER D 2,Le Bourget,18,RER B,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER D 2,Drancy,19,RER B,drancy,drancy,48.93270621869947,2.4547663827657766
-RER D 2,Gagny,20,,gagny,gagny,48.88373428097724,2.5254342507658434
-RER D 2,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
-RER D 2,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
-RER D 2,Rosny-sous-Bois,22,,rosny sous bois,rosny sous bois,48.869912419186086,2.485761140611789
-RER D 2,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.84379435193279,2.463501419487552
-RER D 2,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85409607826304,2.4886964657999355
-RER D 2,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85426899363538,2.489167460948015
-RER D 2,Nogent-sur-Marne,24,METRO 1,nogent sur marne,nogent sur marne,48.83428889889616,2.471681242571033
-RER D 2,Joinville-le-Pont,25,,joinville le pont,joinville le pont,48.82103881506317,2.4638567953623163
-RER D 2,Créteil-Pompadour,26,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 2,Créteil-Pompadour,27,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 2,Corbeil-Essonnes,28,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
-RER D 2,Ris-Orangis,29,,ris orangis,ris orangis,48.658975423830064,2.415206841330065
-RER D 2,Melun,30,,melun,melun,48.52724332146016,2.654990282141888
+RER D 2,Chantilly Gouvieux,2,,chantilly gouvieux,chantilly gouvieux,49.187087205195866,2.459549118844453
+RER D 2,Orry la Ville Coye la Forêt,3,,orry la ville coye la foret,orry la ville coye la foret,49.13828637527201,2.4901789854211955
+RER D 2,La Borne Blanche,4,,la borne blanche,la borne blanche,49.12620996065864,2.507013841603866
+RER D 2,Survilliers Fosses,5,,survilliers fosses,survilliers fosses,49.099586939193706,2.525531713992054
+RER D 2,Louvres,6,,louvres,louvres,49.04932560088567,2.5017580658464627
+RER D 2,Les Noues,7,,les noues,les noues,49.03318276903128,2.478033365115082
+RER D 2,Goussainville,8,,goussainville,goussainville,49.02316199903104,2.4621689661352346
+RER D 2,Villiers le Bel Gonesse Arnouville,9,,villiers le bel gonesse arnouville,villiers le bel gonesse arnouville,48.99377714689272,2.416187488926984
+RER D 2,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.9771607154856,2.39067488093308
+RER D 2,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.976747848293925,2.3905936526418383
+RER D 2,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96013454228842,2.3672565834726305
+RER D 2,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96375542962029,2.3721031384025686
+RER D 2,Saint-Denis,12,,saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 2,Saint-Denis,12,,saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 2,Saint-Denis,12,,saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 2,Saint-Denis,12,,saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 2,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 2,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 2,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 2,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 2,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER D 2,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER D 2,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER D 2,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER D 2,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER D 2,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER D 2,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER D 2,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER D 2,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER D 2,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER D 2,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER D 2,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER D 2,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84476017126674,2.373593653262281
+RER D 2,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84413934985302,2.373259976710645
+RER D 2,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84586897868619,2.373774422563834
+RER D 2,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84377257685146,2.3739164698064985
+RER D 2,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.843486761806766,2.3739225903167545
+RER D 2,Maisons Alfort Alfortville,17,,maisons alfort alfortville,maisons alfort alfortville,48.80204938032392,2.426482408484048
+RER D 2,Le Vert de Maisons,18,,le vert de maisons,le vert de maisons,48.78846667355173,2.432243533360699
+RER D 2,Créteil Pompadour,19,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
+RER D 2,Villeneuve Triage,20,,villeneuve triage,villeneuve triage,48.74450070215072,2.438668340778227
+RER D 2,Villeneuve Saint-Georges,21,,villeneuve saint georges,villeneuve saint georges,48.73063829288859,2.446226445438707
+RER D 2,Vigneux sur Seine,22,,vigneux sur seine,vigneux sur seine,48.70812051426092,2.4138711503513184
+RER D 2,Juvisy,23,RER C,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER D 2,Juvisy,23,RER C,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER D 2,Viry Châtillon ,24,,viry chatillon,viry chatillon,48.6760924339657,2.386783798391593
+RER D 2,Grigny Centre,25,,grigny centre,grigny centre,48.65484933543004,2.396783503415441
+RER D 2,Orangis Bois de l'Épine,26,,orangis bois de l'epine,orangis bois de l'epine,48.63635136710196,2.4077962861739057
+RER D 2,Évry Courcouronnes,27,,evry courcouronnes,evry courcouronnes,48.62468182599698,2.4275947804437275
+RER D 2,Évry Courcouronnes,27,,evry courcouronnes,evry courcouronnes,48.62590139491631,2.4301553860113567
+RER D 2,Le Bras de Fer,28,,le bras de fer,le bras de fer,48.62333224107224,2.4514090955932755
+RER D 2,Corbeil Essonnes,29,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
+RER D 2,Essonnes Robinson,30,,essonnes robinson,essonnes robinson,48.605555826378406,2.4624564927796966
+RER D 2,Villabé,31,,villabe,villabe,48.59281219034078,2.461550180897489
+RER D 2,Le Plessis Chenet,32,,le plessis chenet,le plessis chenet,48.573807793559,2.479469169601778
+RER D 2,Le Coudray Montceaux,33,,le coudray montceaux,le coudray montceaux,48.56611782073621,2.492713002881577
+RER D 2,Saint-Fargeau RER D,34,,saint fargeau rer d,saint fargeau rer d,48.564924678471606,2.542939642021835
+RER D 2,Ponthierry Pringy,35,,ponthierry pringy,ponthierry pringy,48.53513976698965,2.544348950368586
+RER D 2,Boissise le Roi,36,,boissise le roi,boissise le roi,48.52974691857647,2.572073662735743
+RER D 2,Vosves,37,,vosves,vosves,48.515151454141154,2.5993042659192627
+RER D 2,Melun,38,,melun,melun,48.52724332146016,2.654990282141888
 RER D 3,Creil,1,,creil,creil,49.26394414450534,2.4689141153510383
-RER D 3,Ormoy-Villers,2,,ormoy villers,ormoy villers,49.200877079101126,2.838108478036552
-RER D 3,Montataire,3,,montataire,montataire,,
-RER D 3,Cramoisy,4,,cramoisy,cramoisy,,
-RER D 3,Pont-Sainte-Maxence,5,,pont sainte maxence,pont sainte maxence,,
-RER D 3,Rieux,6,,rieux,rieux,,
-RER D 3,Villiers-le-Sec,7,,villiers le sec,villiers le sec,,
-RER D 3,Verneuil-en-Halatte,8,,verneuil en halatte,verneuil en halatte,,
-RER D 3,Clermont,9,,clermont,clermont,,
-RER D 3,Saint-Leu-d'Esserent,10,,saint leu d'esserent,saint leu d'esserent,49.21379080353853,2.417033174921132
-RER D 3,Boran-sur-Oise,11,,boran sur oise,boran sur oise,49.1667750398079,2.3623035285653566
-RER D 3,Pontpoint,12,,pontpoint,pontpoint,,
-RER D 3,Montsoult-Maffliers,13,,montsoult maffliers,montsoult maffliers,49.06628869769714,2.3229204571938253
-RER D 3,Enghien-les-Bains,14,,enghien les bains,enghien les bains,48.972749119759264,2.307137032071533
-RER D 3,Montmorency,15,,montmorency,montmorency,,
-RER D 3,Eaubonne,16,,eaubonne,eaubonne,,
-RER D 3,Saint-Gratien,17,,saint gratien,saint gratien,48.96358968487316,2.285930718208942
-RER D 3,Le Bourget,18,RER B,le bourget,le bourget,48.93073957031752,2.4257914255599538
-RER D 3,Le Bourget,18,RER B,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER D 3,Drancy,19,RER B,drancy,drancy,48.93270621869947,2.4547663827657766
-RER D 3,Gagny,20,,gagny,gagny,48.88373428097724,2.5254342507658434
-RER D 3,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
-RER D 3,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
-RER D 3,Rosny-sous-Bois,22,,rosny sous bois,rosny sous bois,48.869912419186086,2.485761140611789
-RER D 3,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.84379435193279,2.463501419487552
-RER D 3,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85409607826304,2.4886964657999355
-RER D 3,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85426899363538,2.489167460948015
-RER D 3,Nogent-sur-Marne,24,METRO 1,nogent sur marne,nogent sur marne,48.83428889889616,2.471681242571033
-RER D 3,Joinville-le-Pont,25,,joinville le pont,joinville le pont,48.82103881506317,2.4638567953623163
-RER D 3,Créteil-Pompadour,26,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 3,Créteil-Pompadour,27,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 3,Corbeil-Essonnes,28,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
-RER D 3,Évry-Courcouronnes,29,,evry courcouronnes,evry courcouronnes,48.62468182599698,2.4275947804437275
-RER D 3,Évry-Courcouronnes,29,,evry courcouronnes,evry courcouronnes,48.62590139491631,2.4301553860113567
-RER D 3,Melun,30,,melun,melun,48.52724332146016,2.654990282141888
+RER D 3,Chantilly Gouvieux,2,,chantilly gouvieux,chantilly gouvieux,49.187087205195866,2.459549118844453
+RER D 3,Orry la Ville Coye la Forêt,3,,orry la ville coye la foret,orry la ville coye la foret,49.13828637527201,2.4901789854211955
+RER D 3,La Borne Blanche,4,,la borne blanche,la borne blanche,49.12620996065864,2.507013841603866
+RER D 3,Survilliers Fosses,5,,survilliers fosses,survilliers fosses,49.099586939193706,2.525531713992054
+RER D 3,Louvres,6,,louvres,louvres,49.04932560088567,2.5017580658464627
+RER D 3,Les Noues,7,,les noues,les noues,49.03318276903128,2.478033365115082
+RER D 3,Goussainville,8,,goussainville,goussainville,49.02316199903104,2.4621689661352346
+RER D 3,Villiers le Bel Gonesse Arnouville,9,,villiers le bel gonesse arnouville,villiers le bel gonesse arnouville,48.99377714689272,2.416187488926984
+RER D 3,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.9771607154856,2.39067488093308
+RER D 3,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.976747848293925,2.3905936526418383
+RER D 3,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96013454228842,2.3672565834726305
+RER D 3,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96375542962029,2.3721031384025686
+RER D 3,Saint-Denis,12,,saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 3,Saint-Denis,12,,saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 3,Saint-Denis,12,,saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 3,Saint-Denis,12,,saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 3,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 3,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 3,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 3,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 3,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER D 3,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER D 3,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER D 3,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER D 3,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER D 3,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER D 3,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER D 3,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER D 3,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER D 3,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER D 3,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER D 3,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER D 3,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84476017126674,2.373593653262281
+RER D 3,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84413934985302,2.373259976710645
+RER D 3,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84586897868619,2.373774422563834
+RER D 3,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84377257685146,2.3739164698064985
+RER D 3,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.843486761806766,2.3739225903167545
+RER D 3,Maisons Alfort Alfortville,17,,maisons alfort alfortville,maisons alfort alfortville,48.80204938032392,2.426482408484048
+RER D 3,Le Vert de Maisons,18,,le vert de maisons,le vert de maisons,48.78846667355173,2.432243533360699
+RER D 3,Créteil Pompadour,19,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
+RER D 3,Villeneuve Triage,20,,villeneuve triage,villeneuve triage,48.74450070215072,2.438668340778227
+RER D 3,Villeneuve Saint-Georges,21,,villeneuve saint georges,villeneuve saint georges,48.73063829288859,2.446226445438707
+RER D 3,Vigneux sur Seine,22,,vigneux sur seine,vigneux sur seine,48.70812051426092,2.4138711503513184
+RER D 3,Juvisy,23,RER C,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER D 3,Juvisy,23,RER C,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER D 3,Viry Châtillon ,24,,viry chatillon,viry chatillon,48.6760924339657,2.386783798391593
+RER D 3,Ris Orangis,25,,ris orangis,ris orangis,48.658975423830064,2.415206841330065
+RER D 3,Grand Bourg,26,,grand bourg,grand bourg,48.64848911258699,2.435330530181304
+RER D 3,Évry,27,,evry,evry,48.63426831236897,2.4525733922724497
+RER D 3,Corbeil Essonnes,28,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
+RER D 3,Essonnes Robinson,29,,essonnes robinson,essonnes robinson,48.605555826378406,2.4624564927796966
+RER D 3,Villabé,30,,villabe,villabe,48.59281219034078,2.461550180897489
+RER D 3,Le Plessis Chenet,31,,le plessis chenet,le plessis chenet,48.573807793559,2.479469169601778
+RER D 3,Le Coudray Montceaux,32,,le coudray montceaux,le coudray montceaux,48.56611782073621,2.492713002881577
+RER D 3,Saint-Fargeau RER D,33,,saint fargeau rer d,saint fargeau rer d,48.564924678471606,2.542939642021835
+RER D 3,Ponthierry Pringy,34,,ponthierry pringy,ponthierry pringy,48.53513976698965,2.544348950368586
+RER D 3,Boissise le Roi,35,,boissise le roi,boissise le roi,48.52974691857647,2.572073662735743
+RER D 3,Vosves,36,,vosves,vosves,48.515151454141154,2.5993042659192627
+RER D 3,Melun,37,,melun,melun,48.52724332146016,2.654990282141888
 RER D 4,Creil,1,,creil,creil,49.26394414450534,2.4689141153510383
-RER D 4,Ormoy-Villers,2,,ormoy villers,ormoy villers,49.200877079101126,2.838108478036552
-RER D 4,Montataire,3,,montataire,montataire,,
-RER D 4,Cramoisy,4,,cramoisy,cramoisy,,
-RER D 4,Pont-Sainte-Maxence,5,,pont sainte maxence,pont sainte maxence,,
-RER D 4,Rieux,6,,rieux,rieux,,
-RER D 4,Villiers-le-Sec,7,,villiers le sec,villiers le sec,,
-RER D 4,Verneuil-en-Halatte,8,,verneuil en halatte,verneuil en halatte,,
-RER D 4,Clermont,9,,clermont,clermont,,
-RER D 4,Saint-Leu-d'Esserent,10,,saint leu d'esserent,saint leu d'esserent,49.21379080353853,2.417033174921132
-RER D 4,Boran-sur-Oise,11,,boran sur oise,boran sur oise,49.1667750398079,2.3623035285653566
-RER D 4,Pontpoint,12,,pontpoint,pontpoint,,
-RER D 4,Montsoult-Maffliers,13,,montsoult maffliers,montsoult maffliers,49.06628869769714,2.3229204571938253
-RER D 4,Enghien-les-Bains,14,,enghien les bains,enghien les bains,48.972749119759264,2.307137032071533
-RER D 4,Montmorency,15,,montmorency,montmorency,,
-RER D 4,Eaubonne,16,,eaubonne,eaubonne,,
-RER D 4,Saint-Gratien,17,,saint gratien,saint gratien,48.96358968487316,2.285930718208942
-RER D 4,Le Bourget,18,RER B,le bourget,le bourget,48.93073957031752,2.4257914255599538
-RER D 4,Le Bourget,18,RER B,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER D 4,Drancy,19,RER B,drancy,drancy,48.93270621869947,2.4547663827657766
-RER D 4,Gagny,20,,gagny,gagny,48.88373428097724,2.5254342507658434
-RER D 4,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
-RER D 4,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
-RER D 4,Rosny-sous-Bois,22,,rosny sous bois,rosny sous bois,48.869912419186086,2.485761140611789
-RER D 4,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.84379435193279,2.463501419487552
-RER D 4,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85409607826304,2.4886964657999355
-RER D 4,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85426899363538,2.489167460948015
-RER D 4,Nogent-sur-Marne,24,METRO 1,nogent sur marne,nogent sur marne,48.83428889889616,2.471681242571033
-RER D 4,Joinville-le-Pont,25,,joinville le pont,joinville le pont,48.82103881506317,2.4638567953623163
-RER D 4,Créteil-Pompadour,26,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 4,Créteil-Pompadour,27,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 4,Corbeil-Essonnes,28,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
-RER D 4,Ris-Orangis,29,,ris orangis,ris orangis,48.658975423830064,2.415206841330065
-RER D 4,Malesherbes,30,,malesherbes,malesherbes,48.882612630584646,2.310036147219974
+RER D 4,Chantilly Gouvieux,2,,chantilly gouvieux,chantilly gouvieux,49.187087205195866,2.459549118844453
+RER D 4,Orry la Ville Coye la Forêt,3,,orry la ville coye la foret,orry la ville coye la foret,49.13828637527201,2.4901789854211955
+RER D 4,La Borne Blanche,4,,la borne blanche,la borne blanche,49.12620996065864,2.507013841603866
+RER D 4,Survilliers Fosses,5,,survilliers fosses,survilliers fosses,49.099586939193706,2.525531713992054
+RER D 4,Louvres,6,,louvres,louvres,49.04932560088567,2.5017580658464627
+RER D 4,Les Noues,7,,les noues,les noues,49.03318276903128,2.478033365115082
+RER D 4,Goussainville,8,,goussainville,goussainville,49.02316199903104,2.4621689661352346
+RER D 4,Villiers le Bel Gonesse Arnouville,9,,villiers le bel gonesse arnouville,villiers le bel gonesse arnouville,48.99377714689272,2.416187488926984
+RER D 4,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.9771607154856,2.39067488093308
+RER D 4,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.976747848293925,2.3905936526418383
+RER D 4,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96013454228842,2.3672565834726305
+RER D 4,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96375542962029,2.3721031384025686
+RER D 4,Saint-Denis,12,,saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 4,Saint-Denis,12,,saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 4,Saint-Denis,12,,saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 4,Saint-Denis,12,,saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 4,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 4,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 4,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 4,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 4,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER D 4,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER D 4,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER D 4,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER D 4,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER D 4,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER D 4,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER D 4,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER D 4,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER D 4,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER D 4,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER D 4,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER D 4,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84476017126674,2.373593653262281
+RER D 4,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84413934985302,2.373259976710645
+RER D 4,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84586897868619,2.373774422563834
+RER D 4,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84377257685146,2.3739164698064985
+RER D 4,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.843486761806766,2.3739225903167545
+RER D 4,Maisons Alfort Alfortville,17,,maisons alfort alfortville,maisons alfort alfortville,48.80204938032392,2.426482408484048
+RER D 4,Le Vert de Maisons,18,,le vert de maisons,le vert de maisons,48.78846667355173,2.432243533360699
+RER D 4,Créteil Pompadour,19,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
+RER D 4,Villeneuve Triage,20,,villeneuve triage,villeneuve triage,48.74450070215072,2.438668340778227
+RER D 4,Villeneuve Saint-Georges,21,,villeneuve saint georges,villeneuve saint georges,48.73063829288859,2.446226445438707
+RER D 4,Vigneux sur Seine,22,,vigneux sur seine,vigneux sur seine,48.70812051426092,2.4138711503513184
+RER D 4,Juvisy,23,RER C,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER D 4,Juvisy,23,RER C,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER D 4,Viry Châtillon,24,,viry chatillon,viry chatillon,48.6760924339657,2.386783798391593
+RER D 4,Ris Orangis,25,,ris orangis,ris orangis,48.658975423830064,2.415206841330065
+RER D 4,Grand Bourg,26,,grand bourg,grand bourg,48.64848911258699,2.435330530181304
+RER D 4,Évry,27,,evry,evry,48.63426831236897,2.4525733922724497
+RER D 4,Corbeil Essonnes,28,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
+RER D 4,Moulin Galant,29,,moulin galant,moulin galant,48.58715390715937,2.4734903663442247
+RER D 4,Mennecy,30,,mennecy,mennecy,48.5705968587192,2.432098533660357
+RER D 4,Ballancourt,31,,ballancourt,ballancourt,48.531501986486845,2.3705184977367075
+RER D 4,La Ferté Alais,32,,la ferte alais,la ferte alais,48.485514299822704,2.352193814586844
+RER D 4,Boutigny,33,,boutigny,boutigny,48.43449061286291,2.376672818506992
+RER D 4,Maisse,34,,maisse,maisse,48.39364154774085,2.393410724066637
+RER D 4,Buno Gironville,35,,buno gironville,buno gironville,48.37138329230292,2.387209797198101
+RER D 4,Boigneville,36,,boigneville,boigneville,48.34166354461878,2.3788154433118907
+RER D 4,Malesherbes RER D,37,,malesherbes rer d,malesherbes rer d,48.29382444015278,2.4014425483544763
 RER D 5,Creil,1,,creil,creil,49.26394414450534,2.4689141153510383
-RER D 5,Ormoy-Villers,2,,ormoy villers,ormoy villers,49.200877079101126,2.838108478036552
-RER D 5,Montataire,3,,montataire,montataire,,
-RER D 5,Cramoisy,4,,cramoisy,cramoisy,,
-RER D 5,Pont-Sainte-Maxence,5,,pont sainte maxence,pont sainte maxence,,
-RER D 5,Rieux,6,,rieux,rieux,,
-RER D 5,Villiers-le-Sec,7,,villiers le sec,villiers le sec,,
-RER D 5,Verneuil-en-Halatte,8,,verneuil en halatte,verneuil en halatte,,
-RER D 5,Clermont,9,,clermont,clermont,,
-RER D 5,Saint-Leu-d'Esserent,10,,saint leu d'esserent,saint leu d'esserent,49.21379080353853,2.417033174921132
-RER D 5,Boran-sur-Oise,11,,boran sur oise,boran sur oise,49.1667750398079,2.3623035285653566
-RER D 5,Pontpoint,12,,pontpoint,pontpoint,,
-RER D 5,Montsoult-Maffliers,13,,montsoult maffliers,montsoult maffliers,49.06628869769714,2.3229204571938253
-RER D 5,Enghien-les-Bains,14,,enghien les bains,enghien les bains,48.972749119759264,2.307137032071533
-RER D 5,Montmorency,15,,montmorency,montmorency,,
-RER D 5,Eaubonne,16,,eaubonne,eaubonne,,
-RER D 5,Saint-Gratien,17,,saint gratien,saint gratien,48.96358968487316,2.285930718208942
-RER D 5,Le Bourget,18,RER B,le bourget,le bourget,48.93073957031752,2.4257914255599538
-RER D 5,Le Bourget,18,RER B,le bourget,le bourget,48.930287861801865,2.42338510679798
-RER D 5,Drancy,19,RER B,drancy,drancy,48.93270621869947,2.4547663827657766
-RER D 5,Gagny,20,,gagny,gagny,48.88373428097724,2.5254342507658434
-RER D 5,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
-RER D 5,Noisy-le-Sec,21,,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
-RER D 5,Rosny-sous-Bois,22,,rosny sous bois,rosny sous bois,48.869912419186086,2.485761140611789
-RER D 5,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.84379435193279,2.463501419487552
-RER D 5,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85409607826304,2.4886964657999355
-RER D 5,Val-de-Fontenay,23,RER A,val de fontenay,val de fontenay,48.85426899363538,2.489167460948015
-RER D 5,Nogent-sur-Marne,24,METRO 1,nogent sur marne,nogent sur marne,48.83428889889616,2.471681242571033
-RER D 5,Joinville-le-Pont,25,,joinville le pont,joinville le pont,48.82103881506317,2.4638567953623163
-RER D 5,Créteil-Pompadour,26,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 5,Créteil-Pompadour,27,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
-RER D 5,Corbeil-Essonnes,28,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
-RER D 5,Évry-Courcouronnes,29,,evry courcouronnes,evry courcouronnes,48.62468182599698,2.4275947804437275
-RER D 5,Évry-Courcouronnes,29,,evry courcouronnes,evry courcouronnes,48.62590139491631,2.4301553860113567
-RER D 5,Malesherbes,30,,malesherbes,malesherbes,48.882612630584646,2.310036147219974
-RER E 1,Haussmann Saint-Lazare,1,,haussmann saint lazare,haussmann saint lazare,48.8750292564036,2.3267224755800515
-RER E 1,Gare du Nord Magenta,2,,gare du nord magenta,gare du nord magenta,,
-RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.87979369411629,2.355791907531139
-RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.88092200667149,2.356328543670162
-RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.88077520479297,2.35873295908786
-RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.88175948915267,2.357570193470877
-RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
-RER E 1,Pantin,4,,pantin,pantin,48.8981123062804,2.400361703159176
-RER E 1,Noisy-le-Sec,5,RER B,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
-RER E 1,Noisy-le-Sec,5,RER B,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
-RER E 1,Rosny-Bois-Perrier,6,,rosny bois perrier,rosny bois perrier,48.88275159763064,2.4805111480606854
-RER E 1,Rosny-Bois-Perrier,6,,rosny bois perrier,rosny bois perrier,48.88252792453506,2.481213457683429
-RER E 1,Neuilly-Plaisance,7,,neuilly plaisance,neuilly plaisance,48.85290746280475,2.5143124384334405
-RER E 1,Villiers-sur-Marne,8,,villiers sur marne,villiers sur marne,,
-RER E 1,Tremblay-en-France,9,,tremblay en france,tremblay en france,,
-RER E 1,Lagny – Thorigny,10,,lagny thorigny,lagny thorigny,48.88218913670531,2.7060141797599284
-RER E 1,Esbly,11,,esbly,esbly,48.90307291510794,2.810248220730061
-RER E 1,Meaux,12,,meaux,meaux,48.956931426575984,2.8733647999355174
-RER E 1,Tournan,13,,tournan,tournan,48.7394872073018,2.758824548674894
-RER E 2,Haussmann – Saint-Lazare,1,,haussmann saint lazare,haussmann saint lazare,48.8750292564036,2.3267224755800515
-RER E 2,Magenta,2,,magenta,gare du nord,48.87979369411629,2.355791907531139
-RER E 2,Magenta,2,,magenta,gare du nord,48.88092200667149,2.356328543670162
-RER E 2,Magenta,2,,magenta,gare du nord,48.88077520479297,2.35873295908786
-RER E 2,Magenta,2,,magenta,gare du nord,48.88175948915267,2.357570193470877
-RER E 2,Magenta,2,,magenta,gare du nord,48.880195487135886,2.3576332046800537
-RER E 2,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.87979369411629,2.355791907531139
-RER E 2,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.88092200667149,2.356328543670162
-RER E 2,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.88077520479297,2.35873295908786
-RER E 2,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.88175948915267,2.357570193470877
-RER E 2,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5",gare du nord,gare du nord,48.880195487135886,2.3576332046800537
-RER E 2,Pantin,4,,pantin,pantin,48.8981123062804,2.400361703159176
-RER E 2,Noisy-le-Sec,5,RER B,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
-RER E 2,Noisy-le-Sec,5,RER B,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
-RER E 2,Bondy,6,,bondy,bondy,48.89395181173609,2.480205915260598
-RER E 2,Bondy,6,,bondy,bondy,48.8938058606185,2.4820329224074715
-RER E 2,Gagny,7,,gagny,gagny,48.88373428097724,2.5254342507658434
-RER E 2,Le Raincy – Villemomble – Montfermeil,8,,le raincy villemomble montfermeil,le raincy villemomble montfermeil,48.88886574230645,2.513157532747812
-RER E 2,Chelles – Gournay,9,,chelles gournay,chelles gournay,48.87414408301458,2.583331158055108
+RER D 5,Chantilly Gouvieux,2,,chantilly gouvieux,chantilly gouvieux,49.187087205195866,2.459549118844453
+RER D 5,Orry la Ville Coye la Forêt,3,,orry la ville coye la foret,orry la ville coye la foret,49.13828637527201,2.4901789854211955
+RER D 5,La Borne Blanche,4,,la borne blanche,la borne blanche,49.12620996065864,2.507013841603866
+RER D 5,Survilliers Fosses,5,,survilliers fosses,survilliers fosses,49.099586939193706,2.525531713992054
+RER D 5,Louvres,6,,louvres,louvres,49.04932560088567,2.5017580658464627
+RER D 5,Les Noues,7,,les noues,les noues,49.03318276903128,2.478033365115082
+RER D 5,Goussainville,8,,goussainville,goussainville,49.02316199903104,2.4621689661352346
+RER D 5,Villiers le Bel Gonesse Arnouville,9,,villiers le bel gonesse arnouville,villiers le bel gonesse arnouville,48.99377714689272,2.416187488926984
+RER D 5,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.9771607154856,2.39067488093308
+RER D 5,Garges Sarcelles,10,,garges sarcelles,garges sarcelles,48.976747848293925,2.3905936526418383
+RER D 5,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96013454228842,2.3672565834726305
+RER D 5,Pierrefitte Stains,11,,pierrefitte stains,pierrefitte stains,48.96375542962029,2.3721031384025686
+RER D 5,Saint-Denis,12,,saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 5,Saint-Denis,12,,saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 5,Saint-Denis,12,,saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 5,Saint-Denis,12,,saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 5,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.91756717658464,2.350389537889768
+RER D 5,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93526614581904,2.347862407755533
+RER D 5,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93615562725767,2.346470902107097
+RER D 5,Stade de France Saint-Denis,13,METRO 14,stade de france saint denis,stade de france,48.93445554506132,2.3456043781962905
+RER D 5,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.87979369411629,2.355791907531139
+RER D 5,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88092200667149,2.356328543670162
+RER D 5,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88077520479297,2.35873295908786
+RER D 5,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.88175948915267,2.357570193470877
+RER D 5,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7",paris gare du nord,gare du nord,48.880195487135886,2.3576332046800537
+RER D 5,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85763141070005,2.3480365654004016
+RER D 5,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86251523497548,2.345785860039181
+RER D 5,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.856942736159496,2.348147481005499
+RER D 5,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.86182227279812,2.3470126872387564
+RER D 5,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.85928732517095,2.345803056189527
+RER D 5,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.859589655582816,2.346478183587595
+RER D 5,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14",chatelet les halles,chatelet,48.8597186619952,2.346768285736699
+RER D 5,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84476017126674,2.373593653262281
+RER D 5,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84413934985302,2.373259976710645
+RER D 5,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84586897868619,2.373774422563834
+RER D 5,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.84377257685146,2.3739164698064985
+RER D 5,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14",paris gare de lyon,gare de lyon,48.843486761806766,2.3739225903167545
+RER D 5,Maisons Alfort Alfortville,17,,maisons alfort alfortville,maisons alfort alfortville,48.80204938032392,2.426482408484048
+RER D 5,Le Vert de Maisons,18,,le vert de maisons,le vert de maisons,48.78846667355173,2.432243533360699
+RER D 5,Créteil Pompadour,19,,creteil pompadour,creteil pompadour,48.77126603812107,2.4353063397063224
+RER D 5,Villeneuve Triage,20,,villeneuve triage,villeneuve triage,48.74450070215072,2.438668340778227
+RER D 5,Villeneuve Saint-Georges,21,,villeneuve saint georges,villeneuve saint georges,48.73063829288859,2.446226445438707
+RER D 5,Vigneux sur Seine,22,,vigneux sur seine,vigneux sur seine,48.70812051426092,2.4138711503513184
+RER D 5,Juvisy,23,RER C,juvisy,juvisy,48.689764622382576,2.382846099452605
+RER D 5,Juvisy,23,RER C,juvisy,juvisy,48.6895672569645,2.383833358799739
+RER D 5,Viry Châtillon,24,,viry chatillon,viry chatillon,48.6760924339657,2.386783798391593
+RER D 5,Grigny Centre,25,,grigny centre,grigny centre,48.65484933543004,2.396783503415441
+RER D 5,Orangis Bois de l'Épine,26,,orangis bois de l'epine,orangis bois de l'epine,48.63635136710196,2.4077962861739057
+RER D 5,Évry Courcouronnes,27,,evry courcouronnes,evry courcouronnes,48.62468182599698,2.4275947804437275
+RER D 5,Évry Courcouronnes,27,,evry courcouronnes,evry courcouronnes,48.62590139491631,2.4301553860113567
+RER D 5,Le Bras de Fer,28,,le bras de fer,le bras de fer,48.62333224107224,2.4514090955932755
+RER D 5,Corbeil Essonnes,29,,corbeil essonnes,corbeil essonnes,48.613427913594734,2.472933650458744
+RER D 5,Moulin Galant,30,,moulin galant,moulin galant,48.58715390715937,2.4734903663442247
+RER D 5,Mennecy,31,,mennecy,mennecy,48.5705968587192,2.432098533660357
+RER D 5,Ballancourt,32,,ballancourt,ballancourt,48.531501986486845,2.3705184977367075
+RER D 5,La Ferté Alais,33,,la ferte alais,la ferte alais,48.485514299822704,2.352193814586844
+RER D 5,Boutigny,34,,boutigny,boutigny,48.43449061286291,2.376672818506992
+RER D 5,Maisse,35,,maisse,maisse,48.39364154774085,2.393410724066637
+RER D 5,Buno Gironville,36,,buno gironville,buno gironville,48.37138329230292,2.387209797198101
+RER D 5,Boigneville,37,,boigneville,boigneville,48.34166354461878,2.3788154433118907
+RER D 5,Malesherbes RER D,38,,malesherbes rer d,malesherbes rer d,48.29382444015278,2.4014425483544763
+RER E 1,Nanterre-la-Folie,1,RER A,nanterre la folie,nanterre la folie,48.89758664840728,2.223738843023636
+RER E 1,La Défense Grande Arche,2,"RER A, METRO 1",la defense grande arche,grande arche de la defense,48.89218707644951,2.237018056395014
+RER E 1,La Défense Grande Arche,2,"RER A, METRO 1",la defense grande arche,grande arche de la defense,48.8921233638325,2.237213536457713
+RER E 1,La Défense Grande Arche,2,"RER A, METRO 1",la defense grande arche,grande arche de la defense,48.89286497052017,2.2395681712170497
+RER E 1,La Défense Grande Arche,2,"RER A, METRO 1",la defense grande arche,grande arche de la defense,48.89168813894621,2.238595217338472
+RER E 1,Neuilly - Porte Maillot,3,"RER C, METRO 1",neuilly porte maillot,porte maillot,48.87793268655634,2.282976188020842
+RER E 1,Neuilly - Porte Maillot,3,"RER C, METRO 1",neuilly porte maillot,porte maillot,48.87790843816008,2.284431219916768
+RER E 1,Neuilly - Porte Maillot,3,"RER C, METRO 1",neuilly porte maillot,porte maillot,48.87755125180425,2.2831622422302296
+RER E 1,Neuilly - Porte Maillot,3,"RER C, METRO 1",neuilly porte maillot,porte maillot,48.87793813782425,2.283913993903496
+RER E 1,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87515128791023,2.324380555428912
+RER E 1,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87567210708072,2.327842235259621
+RER E 1,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87542071665263,2.32547637444705
+RER E 1,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
+RER E 1,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87571908982334,2.324224580938853
+RER E 1,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.87979369411629,2.355791907531139
+RER E 1,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.88092200667149,2.356328543670162
+RER E 1,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.88077520479297,2.35873295908786
+RER E 1,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.88175948915267,2.357570193470877
+RER E 1,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.880195487135886,2.3576332046800537
+RER E 1,Rosa Parks,6,,rosa parks,rosa parks,48.897552809900425,2.3733837959986004
+RER E 1,Rosa Parks,6,,rosa parks,rosa parks,48.89658112861537,2.373819005403212
+RER E 1,Pantin,7,,pantin,pantin,48.8981123062804,2.400361703159176
+RER E 1,Noisy le Sec,8,,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
+RER E 1,Noisy le Sec,8,,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
+RER E 1,Bondy,9,,bondy,bondy,48.89395181173609,2.480205915260598
+RER E 1,Bondy,9,,bondy,bondy,48.8938058606185,2.4820329224074715
+RER E 1,Le Raincy Villemomble Montfermeil,10,,le raincy villemomble montfermeil,le raincy villemomble montfermeil,48.88886574230645,2.513157532747812
+RER E 1,Gagny,11,,gagny,gagny,48.88373428097724,2.5254342507658434
+RER E 1,Le Chénay Gagny,12,,le chenay gagny,le chenay gagny,48.87715783970278,2.5528816497808324
+RER E 1,Chelles Gournay,13,,chelles gournay,chelles gournay,48.87414408301458,2.583331158055108
+RER E 2,Nanterre-la-Folie,1,RER A,nanterre la folie,nanterre la folie,48.89758664840728,2.223738843023636
+RER E 2,La Défense Grande Arche,2,"RER A, METRO 1",la defense grande arche,grande arche de la defense,48.89218707644951,2.237018056395014
+RER E 2,La Défense Grande Arche,2,"RER A, METRO 1",la defense grande arche,grande arche de la defense,48.8921233638325,2.237213536457713
+RER E 2,La Défense Grande Arche,2,"RER A, METRO 1",la defense grande arche,grande arche de la defense,48.89286497052017,2.2395681712170497
+RER E 2,La Défense Grande Arche,2,"RER A, METRO 1",la defense grande arche,grande arche de la defense,48.89168813894621,2.238595217338472
+RER E 2,Neuilly - Porte Maillot,3,"RER C, METRO 1",neuilly porte maillot,porte maillot,48.87793268655634,2.282976188020842
+RER E 2,Neuilly - Porte Maillot,3,"RER C, METRO 1",neuilly porte maillot,porte maillot,48.87790843816008,2.284431219916768
+RER E 2,Neuilly - Porte Maillot,3,"RER C, METRO 1",neuilly porte maillot,porte maillot,48.87755125180425,2.2831622422302296
+RER E 2,Neuilly - Porte Maillot,3,"RER C, METRO 1",neuilly porte maillot,porte maillot,48.87793813782425,2.283913993903496
+RER E 2,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87515128791023,2.324380555428912
+RER E 2,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87567210708072,2.327842235259621
+RER E 2,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87542071665263,2.32547637444705
+RER E 2,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87683695396951,2.3247380468366337
+RER E 2,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14",saint lazare,saint lazare,48.87571908982334,2.324224580938853
+RER E 2,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.87979369411629,2.355791907531139
+RER E 2,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.88092200667149,2.356328543670162
+RER E 2,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.88077520479297,2.35873295908786
+RER E 2,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.88175948915267,2.357570193470877
+RER E 2,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5",magenta,gare du nord,48.880195487135886,2.3576332046800537
+RER E 2,Rosa Parks,6,,rosa parks,rosa parks,48.897552809900425,2.3733837959986004
+RER E 2,Rosa Parks,6,,rosa parks,rosa parks,48.89658112861537,2.373819005403212
+RER E 2,Pantin,7,,pantin,pantin,48.8981123062804,2.400361703159176
+RER E 2,Noisy le Sec,8,,noisy le sec,noisy le sec,48.89665245114409,2.458363412015992
+RER E 2,Noisy le Sec,8,,noisy le sec,noisy le sec,48.895915836203024,2.460330069519439
+RER E 2,Rosny Bois Perrier,9,METRO 11,rosny bois perrier,rosny bois perrier,48.88275159763064,2.4805111480606854
+RER E 2,Rosny Bois Perrier,9,METRO 11,rosny bois perrier,rosny bois perrier,48.88252792453506,2.481213457683429
+RER E 2,Rosny sous Bois,10,,rosny sous bois,rosny sous bois,48.869912419186086,2.485761140611789
+RER E 2,Val de Fontenay,11,RER A,val de fontenay,val de fontenay,48.84379435193279,2.463501419487552
+RER E 2,Val de Fontenay,11,RER A,val de fontenay,val de fontenay,48.85409607826304,2.4886964657999355
+RER E 2,Val de Fontenay,11,RER A,val de fontenay,val de fontenay,48.85426899363538,2.489167460948015
+RER E 2,Nogent Le Perreux,12,,nogent le perreux,nogent le perreux,48.83934193918028,2.4941880553461155
+RER E 2,Les Boullereaux Champigny,13,,les boullereaux champigny,les boullereaux champigny,48.82484856949889,2.5118555534510074
+RER E 2,Villiers sur Marne Le Plessis Trévise,14,,villiers sur marne le plessis trevise,villiers sur marne le plessis trevise,48.82326663412408,2.5426797940158528
+RER E 2,Les Yvris Noisy le Grand,15,,les yvris noisy le grand,les yvris noisy le grand,48.82315185583432,2.579837253911679
+RER E 2,Emerainville Pontault Combault,16,,emerainville pontault combault,emerainville pontault combault,48.80584078961123,2.619194412455653
+RER E 2,Roissy en Brie,17,,roissy en brie,roissy en brie,48.79565482141207,2.6503876684411503
+RER E 2,Ozoir la Ferrière,18,,ozoir la ferriere,ozoir la ferriere,48.7707789170597,2.6902527821957585
+RER E 2,Gretz Armainvilliers,19,,gretz armainvilliers,gretz armainvilliers,48.74645232070457,2.7272293714297664
+RER E 2,Tournan-en-Brie,20,,tournan en brie,tournan en brie,,
 METRO 1,La Défense (Grande Arche),1,RER A,la defense (grande arche),la defense,,
 METRO 1,Esplanade de la Défense,2,,esplanade de la defense,esplanade de la defense,48.88813847761218,2.249792769009765
 METRO 1,Pont de Neuilly,3,,pont de neuilly,pont de neuilly,48.88470820133096,2.260515079251701
@@ -1342,8 +1509,7 @@ METRO 3,Gallieni,25,,gallieni,gallieni,48.8653353181603,2.416697272847641
 METRO 3BIS,Gambetta,1,METRO 3,gambetta,gambetta,48.86516343488149,2.398746593442592
 METRO 3BIS,Gambetta,1,METRO 3,gambetta,gambetta,48.86497810787772,2.396912847086626
 METRO 3BIS,Pelleport,2,,pelleport,pelleport,48.86844016327547,2.401561712742542
-METRO 3BIS,Saint-Fargeau,3,,saint fargeau,saint fargeau,48.87176277220521,2.404361961225318
-METRO 3BIS,Saint-Fargeau,3,,saint fargeau,saint fargeau,48.87210144213156,2.4045149423791043
+METRO 3BIS,Saint-Fargeau RER D,3,,saint fargeau rer d,saint fargeau rer d,48.564924678471606,2.542939642021835
 METRO 3BIS,Porte des Lilas,4,METRO 11,porte des lilas,porte des lilas,48.87663081498978,2.406999582693831
 METRO 3BIS,Porte des Lilas,4,METRO 11,porte des lilas,porte des lilas,48.87717481930548,2.406480156998486
 METRO 3BIS,Porte des Lilas,4,METRO 11,porte des lilas,porte des lilas,48.87711051176337,2.40672924554309
@@ -2039,3 +2205,4 @@ METRO 14,Chevilly-Larue,19,,chevilly larue,chevilly larue,48.75955015404931,2.36
 METRO 14,Thiais–Orly,20,,thiais orly,thiais orly,48.746978700693774,2.372839696785623
 METRO 14,Aéroport d'Orly,21,,aeroport d'orly,aeroport d'orly,48.72955072266279,2.3682641286195816
 METRO 14,Aéroport d'Orly,21,,aeroport d'orly,aeroport d'orly,48.7280833904763,2.3625914696897388
+METRO 14,Aéroport d'Orly,21,,aeroport d'orly,aeroport d'orly,48.74834968236465,2.3731119407049346

@@ -7,7 +7,7 @@ correspondances_physiques_groupes = correspondances_physiques_groupes = [
     ["Montparnasse Bienvenüe", "Paris Montparnasse"],
     ["Saint-Lazare", "Paris Saint-Lazare"],
     ["Gare de l'Est", "Paris Est"],
-    ["Gare du Nord", "Paris Nord", "Magenta"],
+    ["Gare du Nord", "Paris Gare du Nord", "Paris Nord", "Magenta"],
     ["Nation", "Paris Nation"],
     ["Invalides", "Esplanade des Invalides", "Pont Alexandre III Invalides"],
     ["Charles de Gaulle – Étoile", "Charles de Gaulle Etoile", "Etoile"],
@@ -34,7 +34,7 @@ correspondances_physiques_groupes = correspondances_physiques_groupes = [
     ["Vincennes", "Château de Vincennes", "Chateau de Vincennes"],
     ["Notre-Dame-des-Champs", "Notre Dame des Champs"],
     ["Pont de Sèvres", "Pont de Sevres"],
-    ["Aéroport d'Orly", "Aéroport Orly"],
+    ["Aéroport d'Orly", "Aéroport Orly", "Pont de Rungis"],
     ["Massy", "Massy Palaiseau", "Massy-Palaiseau"],
     ["Bibliothèque François Mitterrand", "Bibl. François Mitterrand"],
 

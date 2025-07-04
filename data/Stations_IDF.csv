@@ -151,134 +151,134 @@ RER A 6,Serris-Montévrain – Val d’Europe,25,
 RER A 6,Marne la Vallée Chessy – Parc Disneyland,26,
 RER B 1,Aéroport Charles de Gaulle 2 TGV,1,
 RER B 1,Aéroport Charles de Gaulle 1,2,
-RER B 1,Parc des expositions,3,
+RER B 1,Parc des Expositions,3,
 RER B 1,Villepinte,4,
 RER B 1,Sevran Beaudottes,5,
-RER B 1,Aulnay sous Bois,6,
-RER B 1,Le Blanc Mesnil,7,
+RER B 1,Aulnay-sous-Bois,6,
+RER B 1,Le Blanc-Mesnil,7,
 RER B 1,Drancy,8,
 RER B 1,Le Bourget,9,
-RER B 1,La Courneuve Aubervilliers,10,
-RER B 1,La Plaine – Stade de France – Saint Denis – Aubervilliers,11,
-RER B 1,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5"
-RER B 1,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
-RER B 1,Saint-Michel Notre Dame,14,"RER C, METRO 10"
-RER B 1,Luxembourg Sénat,15,
-RER B 1,Port Royal,16,
-RER B 1,Denfert Rochereau – Colonel Rol-Tanguy,17,"METRO 4, METRO 6"
+RER B 1,La Courneuve - Aubervilliers,10,
+RER B 1,La Plaine - Stade de France,11,
+RER B 1,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5"
+RER B 1,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14"
+RER B 1,Saint-Michel - Notre-Dame,14,"RER C, Métro 10"
+RER B 1,Luxembourg,15,
+RER B 1,Port-Royal,16,
+RER B 1,Denfert-Rochereau,17,"Métro 4, Métro 6"
 RER B 1,Cité Universitaire,18,
 RER B 1,Gentilly,19,
-RER B 1,Laplace – Maison des Examens,20,
-RER B 1,Arcueil Cachan,21,
+RER B 1,Laplace,20,
+RER B 1,Arcueil - Cachan,21,
 RER B 1,Bagneux,22,
-RER B 1,Bourg la Reine,23,
+RER B 1,Bourg-la-Reine,23,
 RER B 1,Sceaux,24,
-RER B 1,Fontenay aux Roses,25,
+RER B 1,Fontenay-aux-Roses,25,
 RER B 1,Robinson,26,
-RER B 2,Mitry Claye,1,
-RER B 2,Villeparisis Mitry le Neuf,2,
-RER B 2,Vert Galant,3,
-RER B 2,Sevran Livry,4,
-RER B 2,Aulnay sous Bois,5,
-RER B 2,Le Blanc Mesnil,6,
+RER B 2,Mitry - Claye,1,
+RER B 2,Villeparisis - Mitry-le-Neuf,2,
+RER B 2,Vert-Galant,3,
+RER B 2,Sevran - Livry,4,
+RER B 2,Aulnay-sous-Bois,5,
+RER B 2,Le Blanc-Mesnil,6,
 RER B 2,Drancy,7,
 RER B 2,Le Bourget,8,
-RER B 2,La Courneuve Aubervilliers,9,
-RER B 2,La Plaine – Stade de France – Saint Denis – Aubervilliers,10,
-RER B 2,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5"
-RER B 2,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
-RER B 2,Saint-Michel Notre Dame,13,"RER C, METRO 10"
-RER B 2,Luxembourg Sénat,14,
-RER B 2,Port Royal,15,
-RER B 2,Denfert Rochereau – Colonel Rol-Tanguy,16,"METRO 4, METRO 6"
+RER B 2,La Courneuve - Aubervilliers,9,
+RER B 2,La Plaine - Stade de France,10,
+RER B 2,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5"
+RER B 2,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14"
+RER B 2,Saint-Michel - Notre-Dame,13,"RER C, Métro 10"
+RER B 2,Luxembourg,14,
+RER B 2,Port-Royal,15,
+RER B 2,Denfert-Rochereau,16,"Métro 4, Métro 6"
 RER B 2,Cité Universitaire,17,
 RER B 2,Gentilly,18,
-RER B 2,Laplace – Maison des Examens,19,
-RER B 2,Arcueil Cachan,20,
+RER B 2,Laplace,19,
+RER B 2,Arcueil - Cachan,20,
 RER B 2,Bagneux,21,
-RER B 2,Bourg la Reine,22,
+RER B 2,Bourg-la-Reine,22,
 RER B 2,Sceaux,23,
-RER B 2,Fontenay aux Roses,24,
+RER B 2,Fontenay-aux-Roses,24,
 RER B 2,Robinson,25,
 RER B 3,Aéroport Charles de Gaulle 2 TGV,1,
 RER B 3,Aéroport Charles de Gaulle 1,2,
-RER B 3,Parc des expositions,3,
+RER B 3,Parc des Expositions,3,
 RER B 3,Villepinte,4,
 RER B 3,Sevran Beaudottes,5,
-RER B 3,Aulnay sous Bois,6,
-RER B 3,Le Blanc Mesnil,7,
+RER B 3,Aulnay-sous-Bois,6,
+RER B 3,Le Blanc-Mesnil,7,
 RER B 3,Drancy,8,
 RER B 3,Le Bourget,9,
-RER B 3,La Courneuve Aubervilliers,10,
-RER B 3,La Plaine – Stade de France – Saint Denis – Aubervilliers,11,
-RER B 3,Paris Nord,12,"RER D, RER E, METRO 2, METRO 4, METRO 5"
-RER B 3,Châtelet – Les Halles,13,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
-RER B 3,Saint-Michel Notre Dame,14,"RER C, METRO 10"
-RER B 3,Luxembourg Sénat,15,
-RER B 3,Port Royal,16,
-RER B 3,Denfert Rochereau – Colonel Rol-Tanguy,17,"METRO 4, METRO 6"
+RER B 3,La Courneuve - Aubervilliers,10,
+RER B 3,La Plaine - Stade de France,11,
+RER B 3,Gare du Nord,12,"RER D, RER E, Métro 2, Métro 4, Métro 5"
+RER B 3,Châtelet - Les Halles,13,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14"
+RER B 3,Saint-Michel - Notre-Dame,14,"RER C, Métro 10"
+RER B 3,Luxembourg,15,
+RER B 3,Port-Royal,16,
+RER B 3,Denfert-Rochereau,17,"Métro 4, Métro 6"
 RER B 3,Cité Universitaire,18,
 RER B 3,Gentilly,19,
-RER B 3,Laplace – Maison des Examens,20,
-RER B 3,Arcueil Cachan,21,
+RER B 3,Laplace,20,
+RER B 3,Arcueil - Cachan,21,
 RER B 3,Bagneux,22,
-RER B 3,Bourg la Reine,23,
+RER B 3,Bourg-la-Reine,23,
 RER B 3,Parc de Sceaux,24,
 RER B 3,La Croix de Berny,25,
-RER B 3,Antony – Orly,26,
+RER B 3,Antony,26,
 RER B 3,Fontaine Michalon,27,
 RER B 3,Les Baconnets,28,
-RER B 3,Massy Verrières,29,RER C
-RER B 3,Massy Palaiseau,30,RER C
+RER B 3,Massy - Verrières,29,RER C
+RER B 3,Massy - Palaiseau,30,RER C
 RER B 3,Palaiseau,31,
-RER B 3,Palaiseau Villebon,32,
-RER B 3,Lozère École Polytechnique,33,
+RER B 3,Palaiseau - Villebon,32,
+RER B 3,Lozère,33,
 RER B 3,Le Guichet,34,
-RER B 3,Orsay Ville,35,
-RER B 3,Bures sur Yvette,36,
+RER B 3,Orsay-Ville,35,
+RER B 3,Bures-sur-Yvette,36,
 RER B 3,La Hacquinière,37,
-RER B 3,Gif sur Yvette,38,
-RER B 3,Courcelle sur Yvette,39,
-RER B 3,Saint-Rémy lès Chevreuse,40,
-RER B 4,Mitry Claye,1,
-RER B 4,Villeparisis Mitry le Neuf,2,
-RER B 4,Vert Galant,3,
-RER B 4,Sevran Livry,4,
-RER B 4,Aulnay sous Bois,5,
-RER B 4,Le Blanc Mesnil,6,
+RER B 3,Gif-sur-Yvette,38,
+RER B 3,Courcelle-sur-Yvette,39,
+RER B 3,Saint-Rémy-lès-Chevreuse,40,
+RER B 4,Mitry - Claye,1,
+RER B 4,Villeparisis - Mitry-le-Neuf,2,
+RER B 4,Vert-Galant,3,
+RER B 4,Sevran - Livry,4,
+RER B 4,Aulnay-sous-Bois,5,
+RER B 4,Le Blanc-Mesnil,6,
 RER B 4,Drancy,7,
 RER B 4,Le Bourget,8,
-RER B 4,La Courneuve Aubervilliers,9,
-RER B 4,La Plaine – Stade de France – Saint Denis – Aubervilliers,10,
-RER B 4,Paris Nord,11,"RER D, RER E, METRO 2, METRO 4, METRO 5"
-RER B 4,Châtelet – Les Halles,12,"RER A, RER D, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
-RER B 4,Saint-Michel Notre Dame,13,"RER C, METRO 10"
-RER B 4,Luxembourg Sénat,14,
-RER B 4,Port Royal,15,
-RER B 4,Denfert Rochereau – Colonel Rol-Tanguy,16,"METRO 4, METRO 6"
+RER B 4,La Courneuve - Aubervilliers,9,
+RER B 4,La Plaine - Stade de France,10,
+RER B 4,Gare du Nord,11,"RER D, RER E, Métro 2, Métro 4, Métro 5"
+RER B 4,Châtelet - Les Halles,12,"RER A, RER D, Métro 1, Métro 4, Métro 7, Métro 11, Métro 14"
+RER B 4,Saint-Michel - Notre-Dame,13,"RER C, Métro 10"
+RER B 4,Luxembourg,14,
+RER B 4,Port-Royal,15,
+RER B 4,Denfert-Rochereau,16,"Métro 4, Métro 6"
 RER B 4,Cité Universitaire,17,
 RER B 4,Gentilly,18,
-RER B 4,Laplace – Maison des Examens,19,
-RER B 4,Arcueil Cachan,20,
+RER B 4,Laplace,19,
+RER B 4,Arcueil - Cachan,20,
 RER B 4,Bagneux,21,
-RER B 4,Bourg la Reine,22,
+RER B 4,Bourg-la-Reine,22,
 RER B 4,Parc de Sceaux,23,
 RER B 4,La Croix de Berny,24,
-RER B 4,Antony – Orly,25,
+RER B 4,Antony,25,
 RER B 4,Fontaine Michalon,26,
 RER B 4,Les Baconnets,27,
-RER B 4,Massy Verrières,28,RER C
-RER B 4,Massy Palaiseau,29,RER C
+RER B 4,Massy - Verrières,28,RER C
+RER B 4,Massy - Palaiseau,29,RER C
 RER B 4,Palaiseau,30,
-RER B 4,Palaiseau Villebon,31,
-RER B 4,Lozère École Polytechnique,32,
+RER B 4,Palaiseau - Villebon,31,
+RER B 4,Lozère,32,
 RER B 4,Le Guichet,33,
-RER B 4,Orsay Ville,34,
-RER B 4,Bures sur Yvette,35,
+RER B 4,Orsay-Ville,34,
+RER B 4,Bures-sur-Yvette,35,
 RER B 4,La Hacquinière,36,
-RER B 4,Gif sur Yvette,37,
-RER B 4,Courcelle sur Yvette,38,
-RER B 4,Saint-Rémy lès Chevreuse,39,
+RER B 4,Gif-sur-Yvette,37,
+RER B 4,Courcelle-sur-Yvette,38,
+RER B 4,Saint-Rémy-lès-Chevreuse,39,
 RER C 1,Pontoise,1,
 RER C 1,Saint-Ouen l’Aumône,2,
 RER C 1,Saint-Ouen l’Aumône Liesse,3,
@@ -292,19 +292,19 @@ RER C 1,Épinay-sur-Seine,10,
 RER C 1,Gennevilliers,11,
 RER C 1,Les Grésillons,12,
 RER C 1,Saint-Ouen,13,METRO 14
-RER C 1,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14"
+RER C 1,Porte de Clichy,14,"14,METRO 13, METRO 14"
 RER C 1,Péreire Levallois,15,METRO 3
-RER C 1,Neuilly Porte Maillot – Palais des congrès,16,METRO 1
+RER C 1,Neuilly Porte Maillot,16,"16,METRO 1, RER E"
 RER C 1,Avenue Foch,17,METRO 2
 RER C 1,Avenue Henri Martin,18,METRO 9
 RER C 1,Boulainvilliers,19,METRO 9
 RER C 1,Avenue du Président Kennedy – Maison de Radio France,20,
-RER C 1,Champ de Mars – Tour Eiffel,21,METRO 6
+RER C 1,Champ de Mars,21,METRO 6
 RER C 1,Pont de l’Alma,22,METRO 9
-RER C 1,Invalides,23,"METRO 8, METRO 13"
+RER C 1,Invalides,23,"23,METRO 8, METRO 13"
 RER C 1,Musée d’Orsay,24,METRO 12
-RER C 1,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10"
-RER C 1,Paris Austerlitz,26,"METRO 5, METRO 10"
+RER C 1,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10"
+RER C 1,Paris Austerlitz,26,"26,METRO 5, METRO 10"
 RER C 1,Bibliothèque François Mitterrand,27,METRO 14
 RER C 1,Ivry sur Seine,28,METRO 7
 RER C 1,Vitry sur Seine,29,
@@ -312,7 +312,7 @@ RER C 1,Les Ardoines,30,
 RER C 1,Choisy le Roi,31,
 RER C 1,Les Saules,32,
 RER C 1,Orly Ville,33,
-RER C 1,Pont de Rungis – Aéroport d’Orly,34,METRO 14
+RER C 1,Pont de Rungis,34,METRO 14
 RER C 1,Rungis La Fraternelle,35,
 RER C 1,Chemin d’Antony,36,
 RER C 1,Massy Verrières,37,RER B
@@ -330,43 +330,40 @@ RER C 2,Épinay-sur-Seine,10,
 RER C 2,Gennevilliers,11,
 RER C 2,Les Grésillons,12,
 RER C 2,Saint-Ouen,13,METRO 14
-RER C 2,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14"
+RER C 2,Porte de Clichy,14,"14,METRO 13, METRO 14"
 RER C 2,Péreire Levallois,15,METRO 3
-RER C 2,Neuilly Porte Maillot – Palais des congrès,16,METRO 1
+RER C 2,Neuilly Porte Maillot,16,"16,METRO 1, RER E"
 RER C 2,Avenue Foch,17,METRO 2
 RER C 2,Avenue Henri Martin,18,METRO 9
 RER C 2,Boulainvilliers,19,METRO 9
 RER C 2,Avenue du Président Kennedy – Maison de Radio France,20,
-RER C 2,Champ de Mars – Tour Eiffel,21,METRO 6
+RER C 2,Champ de Mars,21,METRO 6
 RER C 2,Pont de l’Alma,22,METRO 9
-RER C 2,Invalides,23,"METRO 8, METRO 13"
+RER C 2,Invalides,23,"23,METRO 8, METRO 13"
 RER C 2,Musée d’Orsay,24,METRO 12
-RER C 2,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10"
-RER C 2,Paris Austerlitz,26,"METRO 5, METRO 10"
+RER C 2,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10"
+RER C 2,Paris Austerlitz,26,"26,METRO 5, METRO 10"
 RER C 2,Bibliothèque François Mitterrand,27,METRO 14
 RER C 2,Ivry sur Seine,28,METRO 7
 RER C 2,Vitry sur Seine,29,
 RER C 2,Les Ardoines,30,
 RER C 2,Choisy le Roi,31,
-RER C 2,Les Saules,32,
-RER C 2,Orly Ville,33,
-RER C 2,Pont de Rungis – Aéroport d’Orly,34,METRO 14
-RER C 2,Rungis La Fraternelle,35,
-RER C 2,Chemin d’Antony,36,
-RER C 2,Massy Verrières,37,RER B
-RER C 2,Massy Palaiseau,38,RER B
-RER C 2,Savigny sur Orge,39,
-RER C 2,Épinay sur Orge,40,
-RER C 2,Sainte-Geneviève des Bois,41,
-RER C 2,Saint-Michel sur Orge,42,
-RER C 2,Brétigny,43,
-RER C 2,Marolles en Hurepoix,44,
-RER C 2,Bouray,45,
-RER C 2,Lardy,46,
-RER C 2,Chamarande,47,
-RER C 2,Étréchy,48,
-RER C 2,Étampes,49,
-RER C 2,Saint Martin d’Étampes,50,
+RER C 2,Villeneuve le Roi,32,
+RER C 2,Ablon,33,
+RER C 2,Athis Mons,34,
+RER C 2,Juvisy,35,RER D
+RER C 2,Savigny sur Orge,36,
+RER C 2,Épinay sur Orge,37,
+RER C 2,Sainte-Geneviève des Bois,38,
+RER C 2,Saint-Michel sur Orge,39,
+RER C 2,Brétigny,40,
+RER C 2,Marolles en Hurepoix,41,
+RER C 2,Bouray,42,
+RER C 2,Lardy,43,
+RER C 2,Chamarande,44,
+RER C 2,Étréchy,45,
+RER C 2,Étampes,46,
+RER C 2,Saint Martin d’Étampes,47,
 RER C 3,Pontoise,1,
 RER C 3,Saint-Ouen l’Aumône,2,
 RER C 3,Saint-Ouen l’Aumône Liesse,3,
@@ -380,56 +377,57 @@ RER C 3,Épinay-sur-Seine,10,
 RER C 3,Gennevilliers,11,
 RER C 3,Les Grésillons,12,
 RER C 3,Saint-Ouen,13,METRO 14
-RER C 3,Porte de Clichy – Tribunal de Paris,14,"METRO 13, METRO 14"
+RER C 3,Porte de Clichy,14,"14,METRO 13, METRO 14"
 RER C 3,Péreire Levallois,15,METRO 3
-RER C 3,Neuilly Porte Maillot – Palais des congrès,16,METRO 1
+RER C 3,Neuilly Porte Maillot,16,"16,METRO 1, RER E"
 RER C 3,Avenue Foch,17,METRO 2
 RER C 3,Avenue Henri Martin,18,METRO 9
 RER C 3,Boulainvilliers,19,METRO 9
 RER C 3,Avenue du Président Kennedy – Maison de Radio France,20,
-RER C 3,Champ de Mars – Tour Eiffel,21,METRO 6
+RER C 3,Champ de Mars,21,METRO 6
 RER C 3,Pont de l’Alma,22,METRO 9
-RER C 3,Invalides,23,"METRO 8, METRO 13"
+RER C 3,Invalides,23,"23,METRO 8, METRO 13"
 RER C 3,Musée d’Orsay,24,METRO 12
-RER C 3,Saint-Michel Notre Dame,25,"RER B, METRO 4, METRO 10"
-RER C 3,Paris Austerlitz,26,"METRO 5, METRO 10"
+RER C 3,Saint-Michel Notre Dame,25,"25,RER B, METRO 4, METRO 10"
+RER C 3,Paris Austerlitz,26,"26,METRO 5, METRO 10"
 RER C 3,Bibliothèque François Mitterrand,27,METRO 14
 RER C 3,Ivry sur Seine,28,METRO 7
 RER C 3,Vitry sur Seine,29,
 RER C 3,Les Ardoines,30,
 RER C 3,Choisy le Roi,31,
-RER C 3,Les Saules,32,
-RER C 3,Orly Ville,33,
-RER C 3,Pont de Rungis – Aéroport d’Orly,34,METRO 14
-RER C 3,Rungis La Fraternelle,35,
-RER C 3,Chemin d’Antony,36,
-RER C 3,Massy Verrières,37,RER B
-RER C 3,Massy Palaiseau,38,RER B
-RER C 3,Brétigny,39,
-RER C 3,La Norville – Saint-Germain lès Arpajon,40,
-RER C 3,Arpajon,41,
-RER C 3,Égly,42,
-RER C 3,Breuillet – Bruyères le Châtel,43,
-RER C 3,Breuillet Village,44,
-RER C 3,Saint-Chéron,45,
-RER C 3,Sermaise,46,
-RER C 3,Dourdan,47,
-RER C 3,Dourdan la Forêt,48,
+RER C 3,Villeneuve le Roi,32,
+RER C 3,Ablon,33,
+RER C 3,Athis Mons,34,
+RER C 3,Juvisy,35,RER D
+RER C 3,Savigny sur Orge,36,
+RER C 3,Épinay sur Orge,37,
+RER C 3,Sainte-Geneviève des Bois,38,
+RER C 3,Saint-Michel sur Orge,39,
+RER C 3,Brétigny,40,
+RER C 3,La Norville,41,
+RER C 3,Arpajon,42,
+RER C 3,Égly,43,
+RER C 3,Breuillet,44,
+RER C 3,Breuillet Village,45,
+RER C 3,Saint-Chéron,46,
+RER C 3,Sermaise,47,
+RER C 3,Dourdan,48,
+RER C 3,Dourdan la Forêt,49,
 RER C 4,Versailles Château Rive Gauche,1,
 RER C 4,Porchefontaine,2,
-RER C 4,Viroflay Rive Gauche,3,METRO 6
+RER C 4,Viroflay Rive Gauche,3,
 RER C 4,Chaville Vélizy,4,
 RER C 4,Meudon Val Fleury,5,
 RER C 4,Issy,6,
 RER C 4,Issy Val de Seine,7,
-RER C 4,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,
+RER C 4,Pont du Garigliano,8,
 RER C 4,Javel,9,METRO 10
-RER C 4,Champ de Mars – Tour Eiffel,10,METRO 6
+RER C 4,Champ de Mars,10,METRO 6
 RER C 4,Pont de l’Alma,11,METRO 9
-RER C 4,Invalides,12,"METRO 8, METRO 13"
+RER C 4,Invalides,12,"12,METRO 8, METRO 13"
 RER C 4,Musée d’Orsay,13,METRO 12
-RER C 4,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10"
-RER C 4,Paris Austerlitz,15,"METRO 5, METRO 10"
+RER C 4,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10"
+RER C 4,Paris Austerlitz,15,"15,METRO 5, METRO 10"
 RER C 4,Bibliothèque François Mitterrand,16,METRO 14
 RER C 4,Ivry sur Seine,17,METRO 7
 RER C 4,Vitry sur Seine,18,
@@ -437,103 +435,101 @@ RER C 4,Les Ardoines,19,
 RER C 4,Choisy le Roi,20,
 RER C 4,Les Saules,21,
 RER C 4,Orly Ville,22,
-RER C 4,Pont de Rungis – Aéroport d’Orly,23,METRO 14
+RER C 4,Pont de Rungis,23,METRO 14
 RER C 4,Rungis La Fraternelle,24,
 RER C 4,Chemin d’Antony,25,
 RER C 4,Massy Verrières,26,RER B
 RER C 4,Massy Palaiseau,27,RER B
 RER C 5,Versailles Château Rive Gauche,1,
 RER C 5,Porchefontaine,2,
-RER C 5,Viroflay Rive Gauche,3,METRO 6
+RER C 5,Viroflay Rive Gauche,3,
 RER C 5,Chaville Vélizy,4,
 RER C 5,Meudon Val Fleury,5,
 RER C 5,Issy,6,
 RER C 5,Issy Val de Seine,7,
-RER C 5,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,
+RER C 5,Pont du Garigliano,8,
 RER C 5,Javel,9,METRO 10
-RER C 5,Champ de Mars – Tour Eiffel,10,METRO 6
+RER C 5,Champ de Mars,10,METRO 6
 RER C 5,Pont de l’Alma,11,METRO 9
-RER C 5,Invalides,12,"METRO 8, METRO 13"
+RER C 5,Invalides,12,"12,METRO 8, METRO 13"
 RER C 5,Musée d’Orsay,13,METRO 12
-RER C 5,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10"
-RER C 5,Paris Austerlitz,15,"METRO 5, METRO 10"
+RER C 5,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10"
+RER C 5,Paris Austerlitz,15,"15,METRO 5, METRO 10"
 RER C 5,Bibliothèque François Mitterrand,16,METRO 14
 RER C 5,Ivry sur Seine,17,METRO 7
 RER C 5,Vitry sur Seine,18,
 RER C 5,Les Ardoines,19,
 RER C 5,Choisy le Roi,20,
-RER C 5,Les Saules,21,
-RER C 5,Orly Ville,22,
-RER C 5,Pont de Rungis – Aéroport d’Orly,23,METRO 14
-RER C 5,Rungis La Fraternelle,24,
-RER C 5,Chemin d’Antony,25,
-RER C 5,Massy Verrières,26,RER B
-RER C 5,Massy Palaiseau,27,RER B
-RER C 5,Savigny sur Orge,28,
-RER C 5,Épinay sur Orge,29,
-RER C 5,Sainte-Geneviève des Bois,30,
-RER C 5,Saint-Michel sur Orge,31,
-RER C 5,Brétigny,32,
-RER C 5,Marolles en Hurepoix,33,
-RER C 5,Bouray,34,
-RER C 5,Lardy,35,
-RER C 5,Chamarande,36,
-RER C 5,Étréchy,37,
-RER C 5,Étampes,38,
-RER C 5,Saint Martin d’Étampes,39,
+RER C 5,Villeneuve le Roi,21,
+RER C 5,Albon,22,
+RER C 5,Athis Mons,23,
+RER C 5,Juvisy,24,RER D
+RER C 5,Savigny sur Orge,25,
+RER C 5,Épinay sur Orge,26,
+RER C 5,Sainte-Geneviève des Bois,27,
+RER C 5,Saint-Michel sur Orge,28,
+RER C 5,Brétigny,29,
+RER C 5,Marolles en Hurepoix,30,
+RER C 5,Bouray,31,
+RER C 5,Lardy,32,
+RER C 5,Chamarande,33,
+RER C 5,Étréchy,34,
+RER C 5,Étampes,35,
+RER C 5,Saint Martin d’Étampes,36,
 RER C 6,Versailles Château Rive Gauche,1,
 RER C 6,Porchefontaine,2,
-RER C 6,Viroflay Rive Gauche,3,METRO 6
+RER C 6,Viroflay Rive Gauche,3,
 RER C 6,Chaville Vélizy,4,
 RER C 6,Meudon Val Fleury,5,
 RER C 6,Issy,6,
 RER C 6,Issy Val de Seine,7,
-RER C 6,Pont du Garigliano – Hôpital Européen Georges Pompidou,8,
+RER C 6,Pont du Garigliano,8,
 RER C 6,Javel,9,METRO 10
-RER C 6,Champ de Mars – Tour Eiffel,10,METRO 6
+RER C 6,Champ de Mars,10,METRO 6
 RER C 6,Pont de l’Alma,11,METRO 9
-RER C 6,Invalides,12,"METRO 8, METRO 13"
+RER C 6,Invalides,12,"12,METRO 8, METRO 13"
 RER C 6,Musée d’Orsay,13,METRO 12
-RER C 6,Saint-Michel Notre Dame,14,"RER B, METRO 4, METRO 10"
-RER C 6,Paris Austerlitz,15,"METRO 5, METRO 10"
+RER C 6,Saint-Michel Notre Dame,14,"14,RER B, METRO 4, METRO 10"
+RER C 6,Paris Austerlitz,15,"15,METRO 5, METRO 10"
 RER C 6,Bibliothèque François Mitterrand,16,METRO 14
 RER C 6,Ivry sur Seine,17,METRO 7
 RER C 6,Vitry sur Seine,18,
 RER C 6,Les Ardoines,19,
 RER C 6,Choisy le Roi,20,
-RER C 6,Les Saules,21,
-RER C 6,Orly Ville,22,
-RER C 6,Pont de Rungis – Aéroport d’Orly,23,METRO 14
-RER C 6,Rungis La Fraternelle,24,
-RER C 6,Chemin d’Antony,25,
-RER C 6,Massy Verrières,26,RER B
-RER C 6,Massy Palaiseau,27,RER B
-RER C 6,Brétigny,28,
-RER C 6,La Norville – Saint-Germain lès Arpajon,29,
-RER C 6,Arpajon,30,
-RER C 6,Égly,31,
-RER C 6,Breuillet – Bruyères le Châtel,32,
-RER C 6,Breuillet Village,33,
-RER C 6,Saint-Chéron,34,
-RER C 6,Sermaise,35,
-RER C 6,Dourdan,36,
-RER C 6,Dourdan la Forêt,37,
+RER C 6,Villeneuve le Roi,21,
+RER C 6,Albon,22,
+RER C 6,Athis Mons,23,
+RER C 6,Juvisy,24,RER D
+RER C 6,Savigny sur Orge,25,
+RER C 6,Épinay sur Orge,26,
+RER C 6,Sainte-Geneviève des Bois,27,
+RER C 6,Saint-Michel sur Orge,28,
+RER C 6,Brétigny,29,
+RER C 6,La Norville,30,
+RER C 6,Arpajon,31,
+RER C 6,Égly,32,
+RER C 6,Breuillet,33,
+RER C 6,Breuillet Village,34,
+RER C 6,Saint-Chéron,35,
+RER C 6,Sermaise,36,
+RER C 6,Dourdan,37,
+RER C 6,Dourdan la Forêt,38,
 RER C 7,Saint Quentin en Yvelines,1,
 RER C 7,Saint-Cyr,2,
 RER C 7,Versailles Chantiers,3,
-RER C 7,Viroflay Rive Gauche,4,METRO 6
+RER C 7,Viroflay Rive Gauche,4,
 RER C 7,Chaville Vélizy,5,
 RER C 7,Meudon Val Fleury,6,
 RER C 7,Issy,7,
 RER C 7,Issy Val de Seine,8,
-RER C 7,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,
+RER C 7,Pont du Garigliano,9,
 RER C 7,Javel,10,METRO 10
-RER C 7,Champ de Mars – Tour Eiffel,11,METRO 6
+RER C 7,Champ de Mars,11,METRO 6
 RER C 7,Pont de l’Alma,12,METRO 9
-RER C 7,Invalides,13,"METRO 8, METRO 13"
+RER C 7,Invalides,13,"13,METRO 8, METRO 13"
 RER C 7,Musée d’Orsay,14,METRO 12
-RER C 7,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10"
-RER C 7,Paris Austerlitz,16,"METRO 5, METRO 10"
+RER C 7,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10"
+RER C 7,Paris Austerlitz,16,"16,METRO 5, METRO 10"
 RER C 7,Bibliothèque François Mitterrand,17,METRO 14
 RER C 7,Ivry sur Seine,18,METRO 7
 RER C 7,Vitry sur Seine,19,
@@ -541,7 +537,7 @@ RER C 7,Les Ardoines,20,
 RER C 7,Choisy le Roi,21,
 RER C 7,Les Saules,22,
 RER C 7,Orly Ville,23,
-RER C 7,Pont de Rungis – Aéroport d’Orly,24,METRO 14
+RER C 7,Pont de Rungis,24,METRO 14
 RER C 7,Rungis La Fraternelle,25,
 RER C 7,Chemin d’Antony,26,
 RER C 7,Massy Verrières,27,RER B
@@ -549,259 +545,293 @@ RER C 7,Massy Palaiseau,28,RER B
 RER C 8,Saint Quentin en Yvelines,1,
 RER C 8,Saint-Cyr,2,
 RER C 8,Versailles Chantiers,3,
-RER C 8,Viroflay Rive Gauche,4,METRO 6
+RER C 8,Viroflay Rive Gauche,4,
 RER C 8,Chaville Vélizy,5,
 RER C 8,Meudon Val Fleury,6,
 RER C 8,Issy,7,
 RER C 8,Issy Val de Seine,8,
-RER C 8,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,
+RER C 8,Pont du Garigliano,9,
 RER C 8,Javel,10,METRO 10
 RER C 8,Champ de Mars – Tour Eiffel,11,METRO 6
 RER C 8,Pont de l’Alma,12,METRO 9
-RER C 8,Invalides,13,"METRO 8, METRO 13"
+RER C 8,Invalides,13,"13,METRO 8, METRO 13"
 RER C 8,Musée d’Orsay,14,METRO 12
-RER C 8,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10"
-RER C 8,Paris Austerlitz,16,"METRO 5, METRO 10"
+RER C 8,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10"
+RER C 8,Paris Austerlitz,16,"16,METRO 5, METRO 10"
 RER C 8,Bibliothèque François Mitterrand,17,METRO 14
 RER C 8,Ivry sur Seine,18,METRO 7
 RER C 8,Vitry sur Seine,19,
 RER C 8,Les Ardoines,20,
 RER C 8,Choisy le Roi,21,
-RER C 8,Les Saules,22,
-RER C 8,Orly Ville,23,
-RER C 8,Pont de Rungis – Aéroport d’Orly,24,METRO 14
-RER C 8,Rungis La Fraternelle,25,
-RER C 8,Chemin d’Antony,26,
-RER C 8,Massy Verrières,27,RER B
-RER C 8,Massy Palaiseau,28,RER B
-RER C 8,Savigny sur Orge,29,
-RER C 8,Épinay sur Orge,30,
-RER C 8,Sainte-Geneviève des Bois,31,
-RER C 8,Saint-Michel sur Orge,32,
-RER C 8,Brétigny,33,
-RER C 8,Marolles en Hurepoix,34,
-RER C 8,Bouray,35,
-RER C 8,Lardy,36,
-RER C 8,Chamarande,37,
-RER C 8,Étréchy,38,
-RER C 8,Étampes,39,
-RER C 8,Saint Martin d’Étampes,40,
+RER C 8,Villeneuve le Roi,22,
+RER C 8,Albon,23,
+RER C 8,Athis Mons,24,
+RER C 8,Juvisy,25,RER D
+RER C 8,Savigny sur Orge,26,
+RER C 8,Épinay sur Orge,27,
+RER C 8,Sainte-Geneviève des Bois,28,
+RER C 8,Saint-Michel sur Orge,29,
+RER C 8,Brétigny,30,
+RER C 8,Marolles en Hurepoix,31,
+RER C 8,Bouray,32,
+RER C 8,Lardy,33,
+RER C 8,Chamarande,34,
+RER C 8,Étréchy,35,
+RER C 8,Étampes,36,
+RER C 8,Saint Martin d’Étampes,37,
 RER C 9,Saint Quentin en Yvelines,1,
 RER C 9,Saint-Cyr,2,
 RER C 9,Versailles Chantiers,3,
-RER C 9,Viroflay Rive Gauche,4,METRO 6
+RER C 9,Viroflay Rive Gauche,4,
 RER C 9,Chaville Vélizy,5,
 RER C 9,Meudon Val Fleury,6,
 RER C 9,Issy,7,
 RER C 9,Issy Val de Seine,8,
-RER C 9,Pont du Garigliano – Hôpital Européen Georges Pompidou,9,
+RER C 9,Pont du Garigliano,9,
 RER C 9,Javel,10,METRO 10
-RER C 9,Champ de Mars – Tour Eiffel,11,METRO 6
+RER C 9,Champ de Mars,11,METRO 6
 RER C 9,Pont de l’Alma,12,METRO 9
-RER C 9,Invalides,13,"METRO 8, METRO 13"
+RER C 9,Invalides,13,"13,METRO 8, METRO 13"
 RER C 9,Musée d’Orsay,14,METRO 12
-RER C 9,Saint-Michel Notre Dame,15,"RER B, METRO 4, METRO 10"
-RER C 9,Paris Austerlitz,16,"METRO 5, METRO 10"
+RER C 9,Saint-Michel Notre Dame,15,"15,RER B, METRO 4, METRO 10"
+RER C 9,Paris Austerlitz,16,"16,METRO 5, METRO 10"
 RER C 9,Bibliothèque François Mitterrand,17,METRO 14
 RER C 9,Ivry sur Seine,18,METRO 7
 RER C 9,Vitry sur Seine,19,
 RER C 9,Les Ardoines,20,
 RER C 9,Choisy le Roi,21,
-RER C 9,Les Saules,22,
-RER C 9,Orly Ville,23,
-RER C 9,Pont de Rungis – Aéroport d’Orly,24,METRO 14
-RER C 9,Rungis La Fraternelle,25,
-RER C 9,Chemin d’Antony,26,
-RER C 9,Massy Verrières,27,RER B
-RER C 9,Massy Palaiseau,28,RER B
-RER C 9,Brétigny,29,
-RER C 9,La Norville – Saint-Germain lès Arpajon,30,
-RER C 9,Arpajon,31,
-RER C 9,Égly,32,
-RER C 9,Breuillet – Bruyères le Châtel,33,
-RER C 9,Breuillet Village,34,
-RER C 9,Saint-Chéron,35,
-RER C 9,Sermaise,36,
-RER C 9,Dourdan,37,
-RER C 9,Dourdan la Forêt,38,
+RER C 9,Villeneuve le Roi,22,
+RER C 9,Albon,23,
+RER C 9,Athis Mons,24,
+RER C 9,Juvisy,25,RER D
+RER C 9,Savigny sur Orge,26,
+RER C 9,Épinay sur Orge,27,
+RER C 9,Sainte-Geneviève des Bois,28,
+RER C 9,Saint-Michel sur Orge,29,
+RER C 9,Brétigny,30,
+RER C 9,La Norville,31,
+RER C 9,Arpajon,32,
+RER C 9,Égly,33,
+RER C 9,Breuillet,34,
+RER C 9,Breuillet Village,35,
+RER C 9,Saint-Chéron,36,
+RER C 9,Sermaise,37,
+RER C 9,Dourdan,38,
+RER C 9,Dourdan la Forêt,39,
 RER D 1,Creil,1,
-RER D 1,Ormoy-Villers,2,
-RER D 1,Montataire,3,
-RER D 1,Cramoisy,4,
-RER D 1,Pont-Sainte-Maxence,5,
-RER D 1,Rieux,6,
-RER D 1,Villiers-le-Sec,7,
-RER D 1,Verneuil-en-Halatte,8,
-RER D 1,Clermont,9,
-RER D 1,Saint-Leu-d'Esserent,10,
-RER D 1,Boran-sur-Oise,11,
-RER D 1,Pontpoint,12,
-RER D 1,Montsoult-Maffliers,13,
-RER D 1,Enghien-les-Bains,14,
-RER D 1,Montmorency,15,
-RER D 1,Eaubonne,16,
-RER D 1,Saint-Gratien,17,
-RER D 1,Le Bourget,18,RER B
-RER D 1,Drancy,19,RER B
-RER D 1,Gagny,20,
-RER D 1,Noisy-le-Sec,21,
-RER D 1,Rosny-sous-Bois,22,
-RER D 1,Val-de-Fontenay,23,RER A
-RER D 1,Nogent-sur-Marne,24,METRO 1
-RER D 1,Joinville-le-Pont,25,
-RER D 1,Créteil-Pompadour,26,
-RER D 1,Créteil-Pompadour,27,
-RER D 1,Maisons-Alfort - Alfortville,28,
-RER D 1,Maisons-Alfort,29,RER A
-RER D 1,Villeneuve-Saint-Georges,30,RER A
-RER D 1,Vigneux-sur-Seine,31,
-RER D 1,Montgeron,32,
-RER D 1,Yerres,33,
-RER D 1,Combs-la-Ville,34,
-RER D 1,Lieusaint,35,
-RER D 1,Melun,36,
+RER D 1,Chantilly Gouvieux,2,
+RER D 1,Orry la Ville Coye la Forêt,3,
+RER D 1,La Borne Blanche,4,
+RER D 1,Survilliers Fosses,5,
+RER D 1,Louvres,6,
+RER D 1,Les Noues,7,
+RER D 1,Goussainville,8,
+RER D 1,Villiers le Bel Gonesse Arnouville,9,
+RER D 1,Garges Sarcelles,10,
+RER D 1,Pierrefitte Stains,11,
+RER D 1,Saint-Denis,12,
+RER D 1,Stade de France Saint-Denis,13,METRO 14
+RER D 1,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7"
+RER D 1,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
+RER D 1,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14"
+RER D 1,Maisons Alfort Alfortville,17,
+RER D 1,Le Vert de Maisons,18,
+RER D 1,Créteil Pompadour,19,
+RER D 1,Villeneuve Triage,20,
+RER D 1,Villeneuve Saint-Georges,21,
+RER D 1,Montgeron Crosne,22,
+RER D 1,Yerres,23,
+RER D 1,Brunoy,24,
+RER D 1,Boussy Saint-Antoine,25,
+RER D 1,Combs la Ville Quincy,26,
+RER D 1,Lieusaint Moissy,27,
+RER D 1,Savigny le Temple Nandy,28,
+RER D 1,Cesson,29,
+RER D 1,Le Mée sur Seine,30,
+RER D 1,Melun,31,
 RER D 2,Creil,1,
-RER D 2,Ormoy-Villers,2,
-RER D 2,Montataire,3,
-RER D 2,Cramoisy,4,
-RER D 2,Pont-Sainte-Maxence,5,
-RER D 2,Rieux,6,
-RER D 2,Villiers-le-Sec,7,
-RER D 2,Verneuil-en-Halatte,8,
-RER D 2,Clermont,9,
-RER D 2,Saint-Leu-d'Esserent,10,
-RER D 2,Boran-sur-Oise,11,
-RER D 2,Pontpoint,12,
-RER D 2,Montsoult-Maffliers,13,
-RER D 2,Enghien-les-Bains,14,
-RER D 2,Montmorency,15,
-RER D 2,Eaubonne,16,
-RER D 2,Saint-Gratien,17,
-RER D 2,Le Bourget,18,RER B
-RER D 2,Drancy,19,RER B
-RER D 2,Gagny,20,
-RER D 2,Noisy-le-Sec,21,
-RER D 2,Rosny-sous-Bois,22,
-RER D 2,Val-de-Fontenay,23,RER A
-RER D 2,Nogent-sur-Marne,24,METRO 1
-RER D 2,Joinville-le-Pont,25,
-RER D 2,Créteil-Pompadour,26,
-RER D 2,Créteil-Pompadour,27,
-RER D 2,Corbeil-Essonnes,28,
-RER D 2,Ris-Orangis,29,
-RER D 2,Melun,30,
+RER D 2,Chantilly Gouvieux,2,
+RER D 2,Orry la Ville Coye la Forêt,3,
+RER D 2,La Borne Blanche,4,
+RER D 2,Survilliers Fosses,5,
+RER D 2,Louvres,6,
+RER D 2,Les Noues,7,
+RER D 2,Goussainville,8,
+RER D 2,Villiers le Bel Gonesse Arnouville,9,
+RER D 2,Garges Sarcelles,10,
+RER D 2,Pierrefitte Stains,11,
+RER D 2,Saint-Denis,12,
+RER D 2,Stade de France Saint-Denis,13,METRO 14
+RER D 2,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7"
+RER D 2,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
+RER D 2,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14"
+RER D 2,Maisons Alfort Alfortville,17,
+RER D 2,Le Vert de Maisons,18,
+RER D 2,Créteil Pompadour,19,
+RER D 2,Villeneuve Triage,20,
+RER D 2,Villeneuve Saint-Georges,21,
+RER D 2,Vigneux sur Seine,22,
+RER D 2,Juvisy,23,RER C
+RER D 2,Viry Châtillon ,24,
+RER D 2,Grigny Centre,25,
+RER D 2,Orangis Bois de l'Épine,26,
+RER D 2,Évry Courcouronnes,27,
+RER D 2,Le Bras de Fer,28,
+RER D 2,Corbeil Essonnes,29,
+RER D 2,Essonnes Robinson,30,
+RER D 2,Villabé,31,
+RER D 2,Le Plessis Chenet,32,
+RER D 2,Le Coudray Montceaux,33,
+RER D 2,Saint-Fargeau RER D,34,
+RER D 2,Ponthierry Pringy,35,
+RER D 2,Boissise le Roi,36,
+RER D 2,Vosves,37,
+RER D 2,Melun,38,
 RER D 3,Creil,1,
-RER D 3,Ormoy-Villers,2,
-RER D 3,Montataire,3,
-RER D 3,Cramoisy,4,
-RER D 3,Pont-Sainte-Maxence,5,
-RER D 3,Rieux,6,
-RER D 3,Villiers-le-Sec,7,
-RER D 3,Verneuil-en-Halatte,8,
-RER D 3,Clermont,9,
-RER D 3,Saint-Leu-d'Esserent,10,
-RER D 3,Boran-sur-Oise,11,
-RER D 3,Pontpoint,12,
-RER D 3,Montsoult-Maffliers,13,
-RER D 3,Enghien-les-Bains,14,
-RER D 3,Montmorency,15,
-RER D 3,Eaubonne,16,
-RER D 3,Saint-Gratien,17,
-RER D 3,Le Bourget,18,RER B
-RER D 3,Drancy,19,RER B
-RER D 3,Gagny,20,
-RER D 3,Noisy-le-Sec,21,
-RER D 3,Rosny-sous-Bois,22,
-RER D 3,Val-de-Fontenay,23,RER A
-RER D 3,Nogent-sur-Marne,24,METRO 1
-RER D 3,Joinville-le-Pont,25,
-RER D 3,Créteil-Pompadour,26,
-RER D 3,Créteil-Pompadour,27,
-RER D 3,Corbeil-Essonnes,28,
-RER D 3,Évry-Courcouronnes,29,
-RER D 3,Melun,30,
+RER D 3,Chantilly Gouvieux,2,
+RER D 3,Orry la Ville Coye la Forêt,3,
+RER D 3,La Borne Blanche,4,
+RER D 3,Survilliers Fosses,5,
+RER D 3,Louvres,6,
+RER D 3,Les Noues,7,
+RER D 3,Goussainville,8,
+RER D 3,Villiers le Bel Gonesse Arnouville,9,
+RER D 3,Garges Sarcelles,10,
+RER D 3,Pierrefitte Stains,11,
+RER D 3,Saint-Denis,12,
+RER D 3,Stade de France Saint-Denis,13,METRO 14
+RER D 3,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7"
+RER D 3,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
+RER D 3,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14"
+RER D 3,Maisons Alfort Alfortville,17,
+RER D 3,Le Vert de Maisons,18,
+RER D 3,Créteil Pompadour,19,
+RER D 3,Villeneuve Triage,20,
+RER D 3,Villeneuve Saint-Georges,21,
+RER D 3,Vigneux sur Seine,22,
+RER D 3,Juvisy,23,RER C
+RER D 3,Viry Châtillon ,24,
+RER D 3,Ris Orangis,25,
+RER D 3,Grand Bourg,26,
+RER D 3,Évry,27,
+RER D 3,Corbeil Essonnes,28,
+RER D 3,Essonnes Robinson,29,
+RER D 3,Villabé,30,
+RER D 3,Le Plessis Chenet,31,
+RER D 3,Le Coudray Montceaux,32,
+RER D 3,Saint-Fargeau RER D,33,
+RER D 3,Ponthierry Pringy,34,
+RER D 3,Boissise le Roi,35,
+RER D 3,Vosves,36,
+RER D 3,Melun,37,
 RER D 4,Creil,1,
-RER D 4,Ormoy-Villers,2,
-RER D 4,Montataire,3,
-RER D 4,Cramoisy,4,
-RER D 4,Pont-Sainte-Maxence,5,
-RER D 4,Rieux,6,
-RER D 4,Villiers-le-Sec,7,
-RER D 4,Verneuil-en-Halatte,8,
-RER D 4,Clermont,9,
-RER D 4,Saint-Leu-d'Esserent,10,
-RER D 4,Boran-sur-Oise,11,
-RER D 4,Pontpoint,12,
-RER D 4,Montsoult-Maffliers,13,
-RER D 4,Enghien-les-Bains,14,
-RER D 4,Montmorency,15,
-RER D 4,Eaubonne,16,
-RER D 4,Saint-Gratien,17,
-RER D 4,Le Bourget,18,RER B
-RER D 4,Drancy,19,RER B
-RER D 4,Gagny,20,
-RER D 4,Noisy-le-Sec,21,
-RER D 4,Rosny-sous-Bois,22,
-RER D 4,Val-de-Fontenay,23,RER A
-RER D 4,Nogent-sur-Marne,24,METRO 1
-RER D 4,Joinville-le-Pont,25,
-RER D 4,Créteil-Pompadour,26,
-RER D 4,Créteil-Pompadour,27,
-RER D 4,Corbeil-Essonnes,28,
-RER D 4,Ris-Orangis,29,
-RER D 4,Malesherbes,30,
+RER D 4,Chantilly Gouvieux,2,
+RER D 4,Orry la Ville Coye la Forêt,3,
+RER D 4,La Borne Blanche,4,
+RER D 4,Survilliers Fosses,5,
+RER D 4,Louvres,6,
+RER D 4,Les Noues,7,
+RER D 4,Goussainville,8,
+RER D 4,Villiers le Bel Gonesse Arnouville,9,
+RER D 4,Garges Sarcelles,10,
+RER D 4,Pierrefitte Stains,11,
+RER D 4,Saint-Denis,12,
+RER D 4,Stade de France Saint-Denis,13,METRO 14
+RER D 4,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7"
+RER D 4,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
+RER D 4,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14"
+RER D 4,Maisons Alfort Alfortville,17,
+RER D 4,Le Vert de Maisons,18,
+RER D 4,Créteil Pompadour,19,
+RER D 4,Villeneuve Triage,20,
+RER D 4,Villeneuve Saint-Georges,21,
+RER D 4,Vigneux sur Seine,22,
+RER D 4,Juvisy,23,RER C
+RER D 4,Viry Châtillon,24,
+RER D 4,Ris Orangis,25,
+RER D 4,Grand Bourg,26,
+RER D 4,Évry,27,
+RER D 4,Corbeil Essonnes,28,
+RER D 4,Moulin Galant,29,
+RER D 4,Mennecy,30,
+RER D 4,Ballancourt,31,
+RER D 4,La Ferté Alais,32,
+RER D 4,Boutigny,33,
+RER D 4,Maisse,34,
+RER D 4,Buno Gironville,35,
+RER D 4,Boigneville,36,
+RER D 4,Malesherbes RER D,37,
 RER D 5,Creil,1,
-RER D 5,Ormoy-Villers,2,
-RER D 5,Montataire,3,
-RER D 5,Cramoisy,4,
-RER D 5,Pont-Sainte-Maxence,5,
-RER D 5,Rieux,6,
-RER D 5,Villiers-le-Sec,7,
-RER D 5,Verneuil-en-Halatte,8,
-RER D 5,Clermont,9,
-RER D 5,Saint-Leu-d'Esserent,10,
-RER D 5,Boran-sur-Oise,11,
-RER D 5,Pontpoint,12,
-RER D 5,Montsoult-Maffliers,13,
-RER D 5,Enghien-les-Bains,14,
-RER D 5,Montmorency,15,
-RER D 5,Eaubonne,16,
-RER D 5,Saint-Gratien,17,
-RER D 5,Le Bourget,18,RER B
-RER D 5,Drancy,19,RER B
-RER D 5,Gagny,20,
-RER D 5,Noisy-le-Sec,21,
-RER D 5,Rosny-sous-Bois,22,
-RER D 5,Val-de-Fontenay,23,RER A
-RER D 5,Nogent-sur-Marne,24,METRO 1
-RER D 5,Joinville-le-Pont,25,
-RER D 5,Créteil-Pompadour,26,
-RER D 5,Créteil-Pompadour,27,
-RER D 5,Corbeil-Essonnes,28,
-RER D 5,Évry-Courcouronnes,29,
-RER D 5,Malesherbes,30,
-RER E 1,Haussmann Saint-Lazare,1,
-RER E 1,Gare du Nord Magenta,2,
-RER E 1,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5"
-RER E 1,Pantin,4,
-RER E 1,Noisy-le-Sec,5,RER B
-RER E 1,Rosny-Bois-Perrier,6,
-RER E 1,Neuilly-Plaisance,7,
-RER E 1,Villiers-sur-Marne,8,
-RER E 1,Tremblay-en-France,9,
-RER E 1,Lagny – Thorigny,10,
-RER E 1,Esbly,11,
-RER E 1,Meaux,12,
-RER E 1,Tournan,13,
-RER E 2,Haussmann – Saint-Lazare,1,
-RER E 2,Magenta,2,
-RER E 2,Gare du Nord,3,"RER B, RER D, METRO 4, METRO 5, METRO 2, METRO 4, METRO 5"
-RER E 2,Pantin,4,
-RER E 2,Noisy-le-Sec,5,RER B
-RER E 2,Bondy,6,
-RER E 2,Gagny,7,
-RER E 2,Le Raincy – Villemomble – Montfermeil,8,
-RER E 2,Chelles – Gournay,9,
+RER D 5,Chantilly Gouvieux,2,
+RER D 5,Orry la Ville Coye la Forêt,3,
+RER D 5,La Borne Blanche,4,
+RER D 5,Survilliers Fosses,5,
+RER D 5,Louvres,6,
+RER D 5,Les Noues,7,
+RER D 5,Goussainville,8,
+RER D 5,Villiers le Bel Gonesse Arnouville,9,
+RER D 5,Garges Sarcelles,10,
+RER D 5,Pierrefitte Stains,11,
+RER D 5,Saint-Denis,12,
+RER D 5,Stade de France Saint-Denis,13,METRO 14
+RER D 5,Paris Gare du Nord,14,"RER B, RER E, METRO 2, METRO 4, MTERO 5, METRO 7"
+RER D 5,Châtelet Les Halles,15,"RER A, RER B, METRO 1, METRO 4, METRO 7, METRO 11, METRO 14"
+RER D 5,Paris Gare de Lyon,16,"RER A, METRO 1, METRO 14"
+RER D 5,Maisons Alfort Alfortville,17,
+RER D 5,Le Vert de Maisons,18,
+RER D 5,Créteil Pompadour,19,
+RER D 5,Villeneuve Triage,20,
+RER D 5,Villeneuve Saint-Georges,21,
+RER D 5,Vigneux sur Seine,22,
+RER D 5,Juvisy,23,RER C
+RER D 5,Viry Châtillon,24,
+RER D 5,Grigny Centre,25,
+RER D 5,Orangis Bois de l'Épine,26,
+RER D 5,Évry Courcouronnes,27,
+RER D 5,Le Bras de Fer,28,
+RER D 5,Corbeil Essonnes,29,
+RER D 5,Moulin Galant,30,
+RER D 5,Mennecy,31,
+RER D 5,Ballancourt,32,
+RER D 5,La Ferté Alais,33,
+RER D 5,Boutigny,34,
+RER D 5,Maisse,35,
+RER D 5,Buno Gironville,36,
+RER D 5,Boigneville,37,
+RER D 5,Malesherbes RER D,38,
+RER E 1,Nanterre-la-Folie,1,RER A
+RER E 1,La Défense Grande Arche,2,"RER A, METRO 1"
+RER E 1,Neuilly - Porte Maillot,3,"RER C, METRO 1"
+RER E 1,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14"
+RER E 1,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5"
+RER E 1,Rosa Parks,6,
+RER E 1,Pantin,7,
+RER E 1,Noisy le Sec,8,
+RER E 1,Bondy,9,
+RER E 1,Le Raincy Villemomble Montfermeil,10,
+RER E 1,Gagny,11,
+RER E 1,Le Chénay Gagny,12,
+RER E 1,Chelles Gournay,13,
+RER E 2,Nanterre-la-Folie,1,RER A
+RER E 2,La Défense Grande Arche,2,"RER A, METRO 1"
+RER E 2,Neuilly - Porte Maillot,3,"RER C, METRO 1"
+RER E 2,Saint-Lazare,4,"RER A, METRO 3, METRO 9, METRO 12, METRO 13, METRO 14"
+RER E 2,Magenta,5,"RER B, RER D, METRO 2, METRO 4, METRO 5"
+RER E 2,Rosa Parks,6,
+RER E 2,Pantin,7,
+RER E 2,Noisy le Sec,8,
+RER E 2,Rosny Bois Perrier,9,METRO 11
+RER E 2,Rosny sous Bois,10,
+RER E 2,Val de Fontenay,11,RER A
+RER E 2,Nogent Le Perreux,12,
+RER E 2,Les Boullereaux Champigny,13,
+RER E 2,Villiers sur Marne Le Plessis Trévise,14,
+RER E 2,Les Yvris Noisy le Grand,15,
+RER E 2,Emerainville Pontault Combault,16,
+RER E 2,Roissy en Brie,17,
+RER E 2,Ozoir la Ferrière,18,
+RER E 2,Gretz Armainvilliers,19,
+RER E 2,Tournan-en-Brie,20,
 METRO 1,La Défense (Grande Arche),1,RER A
 METRO 1,Esplanade de la Défense,2,
 METRO 1,Pont de Neuilly,3,
@@ -879,7 +909,7 @@ METRO 3,Porte de Bagnolet,24,
 METRO 3,Gallieni,25,
 METRO 3BIS,Gambetta,1,METRO 3
 METRO 3BIS,Pelleport,2,
-METRO 3BIS,Saint-Fargeau,3,
+METRO 3BIS,Saint-Fargeau RER D,3,
 METRO 3BIS,Porte des Lilas,4,METRO 11
 METRO 4,Bagneux – Lucie Aubrac,1,
 METRO 4,Barbara,2,
