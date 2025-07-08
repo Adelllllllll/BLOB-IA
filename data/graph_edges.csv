@@ -2636,7 +2636,6 @@ le coudray montceaux_RER D 2,saint fargeau rer d_RER D 2,adjacence,RER D 2,3709.
 le coudray montceaux_RER D 2,le coudray montceaux_RER D 3,correspondance,,0.0
 saint fargeau rer d_RER D 2,ponthierry pringy_RER D 2,adjacence,RER D 2,3313.746158024052
 saint fargeau rer d_RER D 2,saint fargeau rer d_RER D 3,correspondance,,0.0
-saint fargeau rer d_RER D 2,saint fargeau rer d_METRO 3BIS,correspondance,,0.0
 ponthierry pringy_RER D 2,boissise le roi_RER D 2,adjacence,RER D 2,2133.598105625849
 ponthierry pringy_RER D 2,ponthierry pringy_RER D 3,correspondance,,0.0
 boissise le roi_RER D 2,vosves_RER D 2,adjacence,RER D 2,2584.6274894598423
@@ -2746,7 +2745,6 @@ villabe_RER D 3,le plessis chenet_RER D 3,adjacence,RER D 3,2492.786544071087
 le plessis chenet_RER D 3,le coudray montceaux_RER D 3,adjacence,RER D 3,1298.6720367443297
 le coudray montceaux_RER D 3,saint fargeau rer d_RER D 3,adjacence,RER D 3,3709.406987915242
 saint fargeau rer d_RER D 3,ponthierry pringy_RER D 3,adjacence,RER D 3,3313.746158024052
-saint fargeau rer d_RER D 3,saint fargeau rer d_METRO 3BIS,correspondance,,0.0
 ponthierry pringy_RER D 3,boissise le roi_RER D 3,adjacence,RER D 3,2133.598105625849
 boissise le roi_RER D 3,vosves_RER D 3,adjacence,RER D 3,2584.6274894598423
 vosves_RER D 3,melun_RER D 3,adjacence,RER D 3,4327.7445793085
@@ -3129,8 +3127,8 @@ porte de bagnolet_METRO 3,porte de bagnolet_METRO 3,correspondance,,0.0
 porte de bagnolet_METRO 3,gallieni_METRO 3,adjacence,METRO 3,614.5710127869967
 gambetta_METRO 3BIS,gambetta_METRO 3BIS,correspondance,,0.0
 gambetta_METRO 3BIS,pelleport_METRO 3BIS,adjacence,METRO 3BIS,514.3536092515192
-pelleport_METRO 3BIS,saint fargeau rer d_METRO 3BIS,adjacence,METRO 3BIS,35319.14020345134
-saint fargeau rer d_METRO 3BIS,porte des lilas_METRO 3BIS,adjacence,METRO 3BIS,36077.36748960174
+pelleport_METRO 3BIS,saint fargeau_METRO 3BIS,adjacence,METRO 3BIS,422.76584159322186
+saint fargeau_METRO 3BIS,porte des lilas_METRO 3BIS,adjacence,METRO 3BIS,574.899281429998
 porte des lilas_METRO 3BIS,porte des lilas_METRO 3BIS,correspondance,,0.0
 porte des lilas_METRO 3BIS,porte des lilas_METRO 11,correspondance,,0.0
 bagneux lucie aubrac_METRO 4,barbara_METRO 4,adjacence,METRO 4,676.8966564945297

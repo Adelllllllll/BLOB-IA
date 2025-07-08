@@ -682,11 +682,11 @@ RER D 2,Essonnes Robinson,30,,essonnes robinson,essonnes robinson,RER D,0.229582
 RER D 2,Villabé,31,,villabe,villabe,RER D,0.20662426080000004
 RER D 2,Le Plessis Chenet,32,,le plessis chenet,le plessis chenet,RER D,0.18596183472000005
 RER D 2,Le Coudray Montceaux,33,,le coudray montceaux,le coudray montceaux,RER D,0.16736565124800004
-RER D 2,Saint-Fargeau RER D,34,,saint fargeau rer d,saint fargeau rer d,RER D,0.48
-RER D 2,Ponthierry Pringy,35,,ponthierry pringy,ponthierry pringy,RER D,0.432
-RER D 2,Boissise le Roi,36,,boissise le roi,boissise le roi,RER D,0.3888
-RER D 2,Vosves,37,,vosves,vosves,RER D,0.34992
-RER D 2,Melun,38,,melun,melun,RER D,0.31492800000000004
+RER D 2,Saint-Fargeau RER D,34,,saint fargeau rer d,saint fargeau rer d,RER D,0.15062908612320003
+RER D 2,Ponthierry Pringy,35,,ponthierry pringy,ponthierry pringy,RER D,0.15
+RER D 2,Boissise le Roi,36,,boissise le roi,boissise le roi,RER D,0.15
+RER D 2,Vosves,37,,vosves,vosves,RER D,0.15
+RER D 2,Melun,38,,melun,melun,RER D,0.15
 RER D 3,Creil,1,,creil,creil,RER D,0.25418658283290013
 RER D 3,Chantilly Gouvieux,2,,chantilly gouvieux,chantilly gouvieux,RER D,0.28242953648100017
 RER D 3,Orry la Ville Coye la Forêt,3,,orry la ville coye la foret,orry la ville coye la foret,RER D,0.31381059609000017
@@ -719,11 +719,11 @@ RER D 3,Essonnes Robinson,29,,essonnes robinson,essonnes robinson,RER D,0.255091
 RER D 3,Villabé,30,,villabe,villabe,RER D,0.22958251200000004
 RER D 3,Le Plessis Chenet,31,,le plessis chenet,le plessis chenet,RER D,0.20662426080000004
 RER D 3,Le Coudray Montceaux,32,,le coudray montceaux,le coudray montceaux,RER D,0.18596183472000005
-RER D 3,Saint-Fargeau RER D,33,,saint fargeau rer d,saint fargeau rer d,RER D,0.48
-RER D 3,Ponthierry Pringy,34,,ponthierry pringy,ponthierry pringy,RER D,0.432
-RER D 3,Boissise le Roi,35,,boissise le roi,boissise le roi,RER D,0.3888
-RER D 3,Vosves,36,,vosves,vosves,RER D,0.34992
-RER D 3,Melun,37,,melun,melun,RER D,0.31492800000000004
+RER D 3,Saint-Fargeau RER D,33,,saint fargeau rer d,saint fargeau rer d,RER D,0.16736565124800004
+RER D 3,Ponthierry Pringy,34,,ponthierry pringy,ponthierry pringy,RER D,0.15062908612320003
+RER D 3,Boissise le Roi,35,,boissise le roi,boissise le roi,RER D,0.15
+RER D 3,Vosves,36,,vosves,vosves,RER D,0.15
+RER D 3,Melun,37,,melun,melun,RER D,0.15
 RER D 4,Creil,1,,creil,creil,RER D,0.25418658283290013
 RER D 4,Chantilly Gouvieux,2,,chantilly gouvieux,chantilly gouvieux,RER D,0.28242953648100017
 RER D 4,Orry la Ville Coye la Forêt,3,,orry la ville coye la foret,orry la ville coye la foret,RER D,0.31381059609000017
@@ -909,7 +909,7 @@ METRO 3,Porte de Bagnolet,24,,porte de bagnolet,porte de bagnolet,METRO 3,0.3510
 METRO 3,Gallieni,25,,gallieni,gallieni,METRO 3,0.3159
 METRO 3BIS,Gambetta,1,METRO 3,gambetta,gambetta,METRO 3BIS,0.36
 METRO 3BIS,Pelleport,2,,pelleport,pelleport,METRO 3BIS,0.324
-METRO 3BIS,Saint-Fargeau RER D,3,,saint fargeau rer d,saint fargeau rer d,METRO 3BIS,0.36
+METRO 3BIS,Saint-Fargeau,3,,saint fargeau,saint fargeau,METRO 3BIS,0.2916
 METRO 3BIS,Porte des Lilas,4,METRO 11,porte des lilas,porte des lilas,METRO 3BIS,0.36
 METRO 4,Bagneux – Lucie Aubrac,1,,bagneux lucie aubrac,bagneux lucie aubrac,METRO 4,0.3454366500000001
 METRO 4,Barbara,2,,barbara,barbara,METRO 4,0.3838185000000001
